@@ -1,0 +1,353 @@
+Multichar_Symbols
+
+%<n%>
+%<v%>
+%<np%>
+%<adv%>
+%<det%>
+%<prn%>
+%<num%>
+%<cnjcoo%>
+%<cnjsub%>
+%<x%>
+%<pr%>
+
+%<tv%>
+
+%<pot%>
+%<cont%>
+%<perf%>
+%<impf%>
+
+%<pers%>
+
+%<p1%>
+%<p2%>
+%<p3%>
+
+%<sg%>
+%<pl%>
+
+%<px1sg%>
+%<px2sg%>
+%<px3sg%>
+%<px1pl%>
+%<px2pl%>
+%<px3pl%>
+
+%<in%>
+%<ex%>
+
+%<s_sg1%>
+%<s_sg2%>
+%<s_sg3%>
+%<s_pl1%>
+%<s_pl2%>
+%<s_pl3%>
+
+%<ant%>
+
+%<m%>
+%<f%>
+
+%<frm%>
+
+%<hu%>
+%<aa%>
+%<nn%>
+
+%<sent%>
+
+%{a%}
+%{I%}
+%{u%}
+%{h%}
+%{e%}
+%{ː%}
+%{˨%}
+%{˦%}
+%{i%}
+
+
+LEXICON Root
+
+Sustantivos ;
+Propios ;
+Miscellanea ;
+Adverbios ;
+Determinantes ;
+Pronombres ;
+Numerales ;
+Prefijos ;
+Punctuación ;
+
+
+LEXICON Prefijos 
+
+TAM ; 
+
+LEXICON TAM 
+! V-: kw-, x-, k-, nt-
+! V-: kw-, x-, ch-, nt- 
+! C-: ku-, i-, ki-, ni-
+! C-: ku-, i-, chi-, ni-
+! C-: ku-, i-, ke-, ni-
+
+! Clase I:
+! k{U}
+! {x}
+! ch(i)
+! n{i}
+
+! Clase II:
+! 
+
+TAM-V ; 
+TAM-CV ; 
+TAM-VCV ; 
+TAM-CVCV ;
+
+LEXICON TAM-V
+
+%<pot%>:k%{u%}%> STEM-V ; 
+%<cont%>:j%{i%}%> STEM-V ; 
+%<perf%>:c%{h%}%> STEM-V ; 
+
+LEXICON TAM-CV
+
+%<pot%>:k%{u%}%> STEM-CV ; 
+%<cont%>:j%{i%}%> STEM-CV ; 
+%<perf%>:chi%> STEM-CV ; 
+
+LEXICON TAM-VCV
+
+%<pot%>:k%{u%}%{a%}%> STEM-VCV ; 
+%<cont%>:j%{i%}%> STEM-VCV ; 
+%<perf%>:ch%{i%}%> STEM-VCV ;
+
+LEXICON TAM-CVCV
+
+%<pot%>: STEM-CVCV ; 
+%<cont%>:j%{i%}%> STEM-CVCV ; 
+%<perf%>: STEM-CVCV ;
+
+
+!LEXICON TAM-II
+!
+!%<cont%>:h%> Verbos ; 
+!%<impf%>:j%> Verbos ;
+!%<perf%>:ch%> Verbos ;
+
+LEXICON V 
+
+%<v%>%<tv%>%<s_sg1%>:%>%{ː%}%{˦%}                # ;
+%<v%>%<tv%>%<s_sg1%>:                            # ;
+%<v%>%<tv%>%<s_sg2%>:%>d                         # ;
+%<v%>%<tv%>%<s_sg3%>%<m%>:%>s                    # ;
+%<v%>%<tv%>%<s_sg3%>%<f%>:%>ta                   # ;
+%<v%>%<tv%>%<s_sg3%>%<f%>:%>tʼa                  # ;
+%<v%>%<tv%>%<s_sg3%>%<aa%>:%>t                   # ;
+%<v%>%<tv%>%<s_pl1%>:%>%{u%}                     # ;
+%<v%>%<tv%>%<s_pl1%>%<in%>:%>n                   # ;
+%<v%>%<tv%>%<s_pl2%>:%>n                         # ;
+%<v%>%<tv%>%<s_pl3%>:%>y                         # ;
+
+
+LEXICON POSS
+
+%<px1sg%>:%{˦%} # ; ! tono alto
+%<px2sg%>:%>d # ;
+%<px2sg%>%<frm%>:%>n # ;
+%<px3sg%>%<aa%>:%>t # ;
+%<px3sg%>%<m%>:%>s # ;
+%<px3sg%>%<f%>:%>ta # ;
+%<px1pl%>%<ex%>:%>nhúu # ; 
+%<px1pl%>%<in%>:%>oh # ; 
+%<px2pl%>%<frm%>:%>n # ;
+
+LEXICON N1
+
+%<n%>: # ; 
+%<n%>: POSS ; 
+
+LEXICON N2
+
+%<n%>: # ;
+
+LEXICON N3
+
+%<n%>: # ;
+
+
+LEXICON ANT
+
+%<np%>%<ant%>: # ;
+
+LEXICON ADV 
+
+%<adv%>: # ;
+
+LEXICON DET
+
+%<det%>: # ;
+
+LEXICON PREP
+
+%<pr%>: # ;
+
+LEXICON CS
+
+%<cnjsub%>: # ;
+
+LEXICON CC 
+
+%<cnjcoo%>: # ;
+
+LEXICON Personales 
+
+ú%<prn%>%<pers%>%<p1%>%<sg%>:ú # ;
+di%<prn%>%<pers%>%<p2%>%<sg%>:di # ;
+sakoon%<prn%>%<pers%>%<p3%>%<m%>%<sp%>:sakoon # ;
+tʼakoon%<prn%>%<pers%>%<p3%>%<f%>%<sp%>:tʼakoon # ;
+ya%<prn%>%<pers%>%<p3%>%<hu%>%<frm%>%<sp%>:ya # ;
+!%<prn%>%<pers%>%<p3%>%<hu%>%<sp%>:%{˨%} # ; ! tono bajo
+itkon%<prn%>%<pers%>%<p3%>%<aa%>%<sp%>:itkon # ; ! animal
+!%<prn%>%<pers%>%<p3%>%<nn%>%<sp%>: # ; 
+uun%<prn%>%<pers%>%<p1%>%<in%>%<pl%>:uun # ;
+nsun%<prn%>%<pers%>%<p1%>%<ex%>%<pl%>:nsun # ;
+nsen%<prn%>%<pers%>%<p2%>%<frm%>%<pl%>:nsen # ;
+tasen%<prn%>%<pers%>%<p3%>%<f%>%<pl%>:tasen # ;
+
+LEXICON PRON-POSS 
+
+%<prn%>: # ;
+%<prn%>: POSS ;
+
+LEXICON NUM
+
+%<num%>: # ; 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON Miscellanea
+
+
+no:no PREP ; ! "en"
+ntuku:ntuku PREP ; ! "con"
+ntuku:ntu PREP ; ! "con"
+miku:miku  CC ; ! "y"
+miku:mi  CC ; ! "y"
+ne:ne CC ; ! "y"
+tin:tin CC ; ! "pero"
+chi:chi CS ; ! "que"
+jobche:jobche CS ; ! "cuando"
+
+LEXICON Determinantes
+
+nukue:nukue DET ; ! "todos"
+
+LEXICON Pronombres 
+
+Personales ;
+
+ñeʼe:ñeʼe PRON-POSS ;
+
+LEXICON Numerales 
+
+ama:ama NUM ; ! "uno"
+uvi:uvi NUM ; ! "dos"
+inu:inu NUM ; ! "tres"
+kun:kun NUM ; ! "cuatro"
+xuhun:xuhun NUM ; ! "cinco"
+
+LEXICON Sustantivos 
+
+koʼo:koʼo N1 ; ! "pie"
+! koʼólïd ! "piecito"
+ti:ti     N1 ; ! "cabeza"
+chaku:chaku     N1 ; ! "madre"
+yana:yana N2 ; ! "perro"
+si:si N2 ; ! "niño"
+silï:silï N2 ; ! "niñito"
+ñu:ñu N2 ; ! "maíz"
+ninu:ninu N2 ; ! "maíz"
+bʼiku:bʼiku N2 ; ! "fiesta"
+zangatan:zangatan N2 ; ! "coyote"
+deabea:deabea N2 ; ! "luz"
+maa:maa N2 ; ! "oscuridad"
+iyu:iyu N2 ; ! "mes"
+poon:poon N2 ; ! "pan"
+kubi:kubi N2 ; ! "lluvia"
+tuʼu:tuʼu N2 ; ! "pollo"
+tibin:tibin N2 ; ! "hermana"
+escuela:escuela N3 ; ! "escuela"
+dulce:dulce N3 ; ! "escuela"
+bachiyeraton:bachiyeraton N3 ; ! "bachillerato"
+
+LEXICON Propios
+
+Foon:Foon ANT ; ! "Juan"
+Juan:Juan ANT ; ! "Juan"
+
+LEXICON Adverbios
+
+ngua:ngua                ADV ; ! "no"
+jinknóʼö:jinknóʼö        ADV ; ! "a mediodía"
+yabi:yabi                ADV ; ! "anoche"
+iku:iku                  ADV ; ! "ayer"
+jobjòbè:jobjòbè          ADV ; ! "diario"
+después:después          ADV ; ! "después"
+kata:kata                ADV ; ! "todavía"
+ndoyndoyo:ndoyndoyo      ADV ; ! "cada año"
+
+LEXICON STEM-V 
+
+a:a V ; ! "comprar"
+oʼo:oʼo V ; ! "dar"
+eʼe:eʼe V ; ! "ir"
+ee:ee V ; ! "estudiar"
+
+LEXICON STEM-CV 
+
+di:di V ; ! "sobar"
+ndʼa:ndʼa V ; ! "perderse"
+ka:ka V ; ! "pedir"
+neʼe:neʼe V ; ! "querer"
+ngu:ngu V ; ! "moler"
+nu:nu V ; ! "matar"
+nú:nu V ; ! "ir"
+ta:ta V ; ! "cantar"
+nyuu:nyuu V ; ! "tejer"
+nde:nde V ; ! "bailar"
+
+LEXICON STEM-VCV
+
+ika:%{I%}ka V ; ! "caminar"
+inu:%{I%}nu V ; ! "ver"
+enu:%{e%}nu V ; ! "correr"
+di:di V ; ! "sacudir"
+
+LEXICON STEM-CVCV
+
+diñu:diñu V ; ! "meter"
+ndúchi:ndúchi V ; ! "jugar"
+ndúku:ndúku V ; ! "robar"
+tokʼa:tokʼa V ; ! "enfermar"
+
+!LEXICON Verbos
+
+!ai:ai V ; ! "comprar"
+!aku:aku V ; ! "cubrir"
+!yado:yado V ; ! "dormir"
+
+!cheʼe:cheʼe V ; ! "comer"          ! che³ʔe³,ge³ʔe³,che¹ʔe¹,nche³ʔe³,
+!ine:ine V ; ! "hablar"             ! ka¹nne¹,yi¹nne¹,chi¹nne¹,nne³¹
+!idijun:idijun V ; ! "escribir"       
+
+LEXICON Punctuación
+
+%.%<sent%>:%. # ;
+
+! ú jita - ún chita
+! dín jitod - dín chitad
+

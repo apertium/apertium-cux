@@ -1,0 +1,61 @@
+Alphabet
+
+a b c d e f g h i j k l m n o p q r s t u v w x y z ñ ' 
+
+%{i%}:i %{i%}:0
+%{I%}:i
+%{h%}:h %{h%}:k
+%{e%}:e %{e%}:0
+%{a%}:a %{a%}:0
+%{u%}:u 
+%{ː%}:a %{ː%}:u %{ː%}:i %{ː%}:o %{ː%}:e
+%{˦%}:́
+%{˨%}:0
+
+%>:%>
+
+;
+
+Sets
+
+Vow = a e i o u ;
+
+Back = a o ;
+
+Rules
+
+"Lengthening"
+%{ː%}:Vx <=> Vx %>: _ ; 
+       where Vx in ( a e i o u ) ;
+
+!@ j:j {i}:0 >:0 a:a {ː}:a {˦}:́
+
+"Morpheme boundary"
+%>:0 <=> _ ; 
+
+"Irrealis {a}-"
+%{a%}:0 <=> _ %>: %{I%}: ;
+
+"Irrealis -{e}"
+%{e%}:0 <=> %{a%}: %>: _ ; 
+
+"Continuo"
+%{i%}:0 <=> _ %>: %{I%}: ;
+            _ %>: %{e%}: ;
+            _ %>: Vow ; 
+
+"Irrealis {u}"
+%{u%}:0 <=> _ :a ; 
+            _ :e ; 
+            _ :o ; 
+
+"Continuo j{i}- + {I}-"
+j:0 <=> _ %{i%}:0 %>: %{I%}:i ;
+
+! j:0 {i}:0 >:0 {I}:i n u >:0 s
+
+"Completivo V (I)" 
+%{h%}:k <=> _ %>: :Back ; 
+
+"Completivo V (II)"
+c:0 <=> _ :k ; 

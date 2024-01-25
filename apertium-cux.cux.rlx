@@ -1,0 +1,7 @@
+DELIMITERS = "." ".." ;
+
+LIST X = x ; 
+
+SECTION 
+
+REMOVE X ; 

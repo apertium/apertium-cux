@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <mode name="cux-morph" install="yes">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="cux.automorf.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="cux-phone" install="yes">
+    <pipeline>
+      <program name="sed &quot;s/['’]/ʼ/g&quot;"/>
+      <program name="hfst-proc -w -N 1">
+        <file name="cux.autophon.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="cux-segmenter" install="yes">
+    <pipeline>
+      <program name="sed &quot;s/['’]/ʼ/g&quot;"/>
+      <program name="hfst-proc">
+        <file name="cux.autoseg.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="cux-disam" install="yes">
+    <pipeline>
+      <program name="sed &quot;s/['’]/ʼ/g&quot;"/>
+      <program name="hfst-proc -w">
+        <file name="cux.automorf.hfst"/>
+      </program>
+      <program name="cg-conv -a -l"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="cux.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="cux-tagger" install="yes">
+    <pipeline>
+      <program name="sed &quot;s/['’]/ʼ/g&quot;"/>
+      <program name="hfst-proc -w">
+        <file name="cux.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -1 -n">
+        <file name="cux.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+</modes>
