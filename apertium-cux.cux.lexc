@@ -206,6 +206,7 @@ LEXICON CC
 LEXICON Personales 
 
 ú%<prn%>%<pers%>%<p1%>%<sg%>:ú # ;
+ú%<prn%>%<pers%>%<p1%>%<sg%>:uu # ;
 di%<prn%>%<pers%>%<p2%>%<sg%>:di # ;
 sakoon%<prn%>%<pers%>%<p3%>%<m%>%<sp%>:sakoon # ;
 tʼakoon%<prn%>%<pers%>%<p3%>%<f%>%<sp%>:tʼakoon # ;
@@ -344,9 +345,16 @@ tokʼa:tokʼa V ; ! "enfermar"
 !ine:ine V ; ! "hablar"             ! ka¹nne¹,yi¹nne¹,chi¹nne¹,nne³¹
 !idijun:idijun V ; ! "escribir"       
 
+!LEXICON Irregulares
+
+
+
 LEXICON Punctuación
 
 %.%<sent%>:%. # ;
+%¿%<sent%>:%¿ # ;
+%?%<sent%>:%? # ;
+%,%<cm%>:%, # ;
 
 ! ú jita - ún chita
 ! dín jitod - dín chitad
