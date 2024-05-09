@@ -3,6 +3,8 @@ import sys, re
 def clean(s):
 	o = s
 	o = o.replace('´', 'ʼ')
+	o = o.replace('’', 'ʼ')
+	o = o.replace('`', 'ʼ')
 	o = o.replace("'", 'ʼ')
 	o = o.replace('?.','?')
 	o = o.replace('.?','?')
@@ -25,9 +27,15 @@ for i, line in enumerate(sys.stdin.readlines()):
 
 	p = row[0].strip()
 	cux = clean(row[1].strip())
+
+	if cux == '_':
+		continue
+
 	if cux[-1] not in '.:?!' and cux[0] not in '¿¡':
 		cux += '.'
 	spa = row[2].strip()
+	if spa[-1] not in '.:?!' and spa[0] not in '¿¡':
+		spa += '.'
 
 	if p not in sents:
 		sents[p] = 0

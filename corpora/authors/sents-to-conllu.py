@@ -37,10 +37,17 @@ def add_featval(exist, feat, val):
 
 	return exist + '|' + '%s=%s' % (feat, val)
 
+def clean_sent(s):
+	o = s
+	if o[0] == o[0].lower():
+		o = o[0].upper() + o[1:]
+	return o
+
 seen = set()
 
 n_toks = 0
 n_sents = 0
+tokens_lex = 0
 
 sent_id = 1
 for line in sys.stdin.readlines():
@@ -54,11 +61,13 @@ for line in sys.stdin.readlines():
 		continue
 	seen.add(cux)
 
+	orig_cux = cux
+	cux = clean_sent(cux)
 	tokens = re.sub('([,:?¿!¡;.])', ' \g<1> ', cux).strip().split(' ')
 
 	print('# sent_id = ejemplos:%s' % (str(sent_id).zfill(4)))
 	print('# text = %s' % (cux))
-	print('# text[orig] = %s' % (cux))
+	print('# text[orig] = %s' % (orig_cux))
 	print('# text[spa] = %s' % (spa))
 	print('# author = %s' % (author))
 	token_id = 1
@@ -73,13 +82,18 @@ for line in sys.stdin.readlines():
 			ulem = token
 			upos = 'PUNCT'
 		analyses = []
-		k = token.lower()
-		if k not in lexicon and k in corrections:
-			ufeat = add_featval(ufeat, 'Typo', 'Yes')
-			k = corrections[k]
+
+		# first look up the token, if not lower case, if not the correction 
+		k = token
 		if k in lexicon:
 			analyses = lexicon[k]	
-
+		elif k.lower() in lexicon:
+			analyses = lexicon[k.lower()]	
+			k = k.lower()
+		elif k in corrections:	
+			ufeat = add_featval(ufeat, 'Typo', 'Yes')
+			k = corrections[k]
+			analyses = lexicon[k]	
 
 		if len(analyses) == 1:
 			ulem = lexicon[k][0][0]
@@ -91,6 +105,10 @@ for line in sys.stdin.readlines():
 				ufeat = add_featval(ufeat, f, v)
 			misc = add_featval(misc, 'Trad', lexicon[k][0][3].replace(' ', '.'))
 			misc = add_featval(misc, 'Gloss',  lexicon[k][0][4])
+			tokens_lex += 1
+		elif len(analyses) > 0:
+			misc = add_featval(misc, 'Ambiguous', 'Yes')
+			tokens_lex += 1
 
 		print('%d\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s' % (token_id, token, ulem, upos, '_', ufeat, '_', '_', '_', misc))
 		token_id += 1
@@ -104,4 +122,4 @@ for line in sys.stdin.readlines():
 	sent_id += 1
 
 
-print('%d\t%d' % (n_sents, n_toks), file=sys.stderr)
+print('%d\t%d\t%d (%.2f)' % (n_sents, n_toks, tokens_lex, (tokens_lex/n_toks)*100), file=sys.stderr)
