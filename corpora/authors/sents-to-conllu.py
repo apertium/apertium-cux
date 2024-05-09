@@ -12,7 +12,7 @@ for line in open('lexicon.tsv').readlines():
 		continue
 	#['géche', '', '', 'ala', '', '\n']
 	row = line.strip('\n').split('\t')
-	token, lema, pos, feats, spa, glosa, _ = row
+	token, lema, pos, feats, spa, glosa, _, _, _ = row
 
 	if pos == '': pos = '_'
 	if lema == '': lema = '_'
@@ -27,7 +27,9 @@ for line in open('corrections.tsv').readlines():
 	if line.strip() == '':
 		continue
 	orig, repl = line.strip().split('\t')	
-	corrections[orig] = repl
+	if orig in lexicon:
+		print('WARNING:', orig,'→', lexicon[orig], file=sys.stderr)
+	corrections[orig.strip()] = repl.strip()
 
 def add_featval(exist, feat, val):
 	if val.strip() == '':
@@ -47,6 +49,7 @@ seen = set()
 
 n_toks = 0
 n_sents = 0
+n_tagged_sents = 0
 tokens_lex = 0
 
 sent_id = 1
@@ -71,6 +74,7 @@ for line in sys.stdin.readlines():
 	print('# text[spa] = %s' % (spa))
 	print('# author = %s' % (author))
 	token_id = 1
+	n_found_pos = 0
 	for token in tokens:
 		if token.strip() == '':
 			continue
@@ -94,6 +98,10 @@ for line in sys.stdin.readlines():
 			ufeat = add_featval(ufeat, 'Typo', 'Yes')
 			k = corrections[k]
 			analyses = lexicon[k]	
+		elif k.lower() in corrections:	
+			ufeat = add_featval(ufeat, 'Typo', 'Yes')
+			k = corrections[k.lower()]
+			analyses = lexicon[k.lower()]	
 
 		if len(analyses) == 1:
 			ulem = lexicon[k][0][0]
@@ -105,15 +113,27 @@ for line in sys.stdin.readlines():
 				ufeat = add_featval(ufeat, f, v)
 			misc = add_featval(misc, 'Trad', lexicon[k][0][3].replace(' ', '.'))
 			misc = add_featval(misc, 'Gloss',  lexicon[k][0][4])
-			tokens_lex += 1
 		elif len(analyses) > 0:
+			trads = ''
+			for a in analyses:
+				trads += a[3].replace(' ', '.') + ','
+			trads = trads.strip(',')
 			misc = add_featval(misc, 'Ambiguous', 'Yes')
+			misc = add_featval(misc, 'Trad', trads)
+
+		if len(analyses) > 0:
 			tokens_lex += 1
+
+		if upos != '_':
+			n_found_pos += 1
 
 		print('%d\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s' % (token_id, token, ulem, upos, '_', ufeat, '_', '_', '_', misc))
 		token_id += 1
 		n_toks += 1
 
+	#print('!!', token_id, n_found_pos)
+	if n_found_pos == (token_id - 1): 
+		n_tagged_sents += 1	
 
 	print()
 
@@ -122,4 +142,4 @@ for line in sys.stdin.readlines():
 	sent_id += 1
 
 
-print('%d\t%d\t%d (%.2f)' % (n_sents, n_toks, tokens_lex, (tokens_lex/n_toks)*100), file=sys.stderr)
+print('%d\t%d\t%d (%.2f%%)\t%d (%.2f%%)' % (n_sents, n_toks, tokens_lex, (tokens_lex/n_toks)*100, n_tagged_sents, (n_tagged_sents/n_sents)*100), file=sys.stderr)
