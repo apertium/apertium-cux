@@ -1,16 +1,16 @@
-Palabra	Lema	POS	Feats	Significado	Glosa	1301	822	999
+Palabra	Lema	POS	Feats	Significado	Glosa	1289	851	1014
 a		ADV		ya				
 a		PART			QST			
 áa				resuena				
 alberja		NOUN		chícharo				
 ama		NUM	NumType=Card	uno				
-ba'a		NOUN		casa				
+baʼa		NOUN		casa				
 baku		NOUN		casa				
 nbaku		NOUN		casa				
 bakuu		NOUN		cárcel				
 bakú		NOUN		cárcel				
 beâ		NOUN		naranja				
-bea				hay				
+bea		VERB		hay	?-existir-SG3			
 bea				sentado				
 beaku				elegante				
 beanete		NOUN		limón				
@@ -20,7 +20,7 @@ bede				español
 bedinuu		NOUN		milagro				
 bee				ciego				
 bëe		NOUN		orilla				
-bi'i				hermano(a)				
+biʼi				hermano(a)				
 bíchaa				gordo				
 bichñoʼö		NOUN		carpintero				
 biidi				pasle				
@@ -31,16 +31,16 @@ boʼo		NOUN		miedo
 chakun		NOUN		mi mamá				
 chakud		NOUN		tu mamá	mamá-POSS.2SG			
 chaku		NOUN		mi mamá				
-che'ë		VERB		fui				
-che'ed		VERB		come				
+cheʼë		VERB		fui				
+cheʼed		VERB		come				
 chea			PronType=Int	cuál				
 chéa		NOUN		comal				
 chéanu		VERB		gusté	?-gustar-SG1			
 cheanu		VERB		corrió				
 cheanu		NOUN		cuñada				
 cheanú				sufrir				
-cheanuu				largo				
-cheatea				grande				
+cheanuu		VERB	VerbForm=Stat	largo				
+cheatea		VERB	VerbForm=Stat	grande				
 chéatu				sordo				
 chebä				comer,comida				
 chebinu		VERB		cenar				
@@ -57,9 +57,9 @@ chídi		NOUN		garrapata
 chidúbi		NOUN		cucaracha				
 chiíta		VERB	VerbForm=Fin	creció	?-crecer-?			
 chíka		VERB	VerbForm=Fin	corté	?-cortar-?			
-chiku'u		NOUN		abuela				
+chikuʼu		NOUN		abuela				
 chikudaya		NOUN		comadre				
-chinba'a		NOUN		puerta				
+chinbaʼa		NOUN		puerta				
 chindiyaa				asustó				
 chini		VERB	VerbForm=Fin	tronar	?-tronar-?			
 chíní		NOUN		frijolar				
@@ -69,7 +69,7 @@ chinyadi				chismoso
 chita		NOUN		olla				
 chiya		NOUN		lengua				
 chó				aquello				
-chó'oo				pasó				
+chóʼoo				pasó				
 chunti								
 chúnti		NOUN		grillo				
 clinika	clínica	NOUN		clínica				
@@ -101,7 +101,7 @@ díi				tamo
 dijuku		NOUN		tecolote				
 tecolote		NOUN		tecolote				
 dikúnu		NOUN		nuera				
-dikuo'oo		NOUN		bebé				
+dikuoʼoo		NOUN		bebé				
 díkuy				pecho				
 díma		NOUN		cáscara				
 dininii		NOUN		cuerno				
@@ -111,15 +111,16 @@ dinuu		NOUN		talón
 diñu		NOUN		diente				
 dítdanti		NOUN		correcamino				
 dituu		VERB	VerbForm=Stat	fuerte				
+dunu		NOUN		mi tío				
 dunun		NOUN		mi tío				
 diyan		NOUN		tío				
 dìya		NOUN		tío				
 diya		NOUN		tío				
-diyda'a		NOUN		raíz				
+diydaʼa		NOUN		raíz				
 dóo				hiel				
 dü		NOUN		manteca				
 dü		NOUN		uña				
-du'u		PRON	PronType=Int	quien				
+duʼu		PRON	PronType=Int	quien				
 dúchi				codo				
 dúdi		NOUN		tía				
 dudi		NOUN		tía				
@@ -140,12 +141,12 @@ gideabe				está amaneciendo
 gikuu		NOUN		cuchillo				
 gimbeaku		NOUN		hierba santa				
 ginchéte		NOUN		lodo				
-ginoyaanti				bostezar				
+ginoyaanti		VERB		bostezar				
 gíta		NOUN		dolor				
 gíyeye		NOUN		ceniza				
 giyeyoo				bule (para agua)				
 giyuu		NOUN		carbón				
-giʼï				gotea				
+giʼï		VERB		gotea				
 gua		PART		no	NEG			
 iba		NOUN		hielo				
 íba		NOUN		hilo				
@@ -155,7 +156,7 @@ ii				pesa
 íku	íku	ADV		ayer				
 íkùù				hormiga				
 íma		NOUN		zorrillo				
-inbíku				semana santa				
+inbíku		NOUN		semana santa				
 santieʼe		NOUN		autoridades				
 intieʼë		NOUN		autoridad				
 intoʼö		NOUN		suegra				
@@ -176,7 +177,7 @@ itdaʼaa		NOUN		alacrán
 itduza		NOUN		puerco espín				
 iti		NOUN		animal				
 itintu		NOUN		toro				
-itjingatu				libélula				
+itjingatu		NOUN		libélula				
 itjoó		NOUN		cadera				
 itkudintaa		NOUN		tijerilla(insecto)				
 itñoʼo		NOUN		insecto palo				
@@ -188,7 +189,7 @@ iynutii		NOUN		chile piquín
 iyu		NOUN		mes, luna				
 iyu		NOUN		luna				
 íyu		NOUN		pulga				
-iʼbaa				guacamaya				
+iʼbaa		NOUN		guacamaya				
 íʼku		NOUN		piojo				
 iʼyaa		NOUN		águila				
 iʼyu		NOUN		mecate				
@@ -198,9 +199,8 @@ jadi		NOUN		tepache
 jaunutu				vuelta				
 jaʼa		NOUN		cáscara				
 jiba		NOUN		petate				
-jíba				arrollo o sanja				
+jíba		NOUN		sanja				
 jidéaku		NOUN		basura				
-								
 jijobaa				sombras de estaciones en la fiesta de semana santa				
 jika		NOUN		camina				
 jikioʼö		NOUN		bosque				
@@ -324,16 +324,16 @@ mï		NOUN		camote
 mnoo				arriba				
 mogechey				axila				
 moo				abajo				
-mu'u				aquí				
-na'ö								
+muʼu				aquí				
+naʼö								
 naama				jabón				
 nabeánu				aborto				
 nabeanud				recoje				
-nabo'oo				cereza/capulín				
+naboʼoo				cereza, capulín				
 naíba				mercado				
 naídii		NOUN		aguacate				
 naiyaa		NOUN		salsa				
-naja'a		NOUN		nuez				
+najaʼa		NOUN		nuez				
 naneachea				borrar				
 nanta		NOUN		flor				
 nantioö		NOUN		rosa				
@@ -363,10 +363,10 @@ nini		NUM	NumType=Card	nueve
 nínu	nínu	NOUN		maíz				
 nioʼoo		NOUN		suelo				
 nnintubii				descompuesto				
-nó'o		NOUN		maestro, adobe				
+nóʼo		NOUN		maestro, adobe				
 ntu		NOUN		atole				
-nukño'ö		NOUN		brasa				
-nukue'ë				todo				
+nukñoʼö		NOUN		brasa				
+nukueʼë				todo				
 nukyanti		NOUN		guanábana				
 nukyoo		NOUN		membrillo				
 nuna		NOUN		pitalla				
@@ -390,10 +390,10 @@ un	uu	PRON	PronType=Prs	yo	1SG
 ú	uu	PRON	PronType=Prs	yo	1SG			
 tuʼú		NOUN		pollo				
 tuʼu		NOUN		pollo				
-ya'a		VERB		duele				
-ya'a		NOUN		dolor				
-ya'a		VERB		amo	?-amar-?			
-ya'aa		NOUN		jícara				
+yaʼa		VERB		duele				
+yaʼa		NOUN		dolor				
+yaʼa		VERB		amo	?-amar-?			
+yaʼaa		NOUN		jícara				
 yáʼa				húmedo				
 yââ		NOUN		barranco				
 yàaku		NOUN		mosquito				
@@ -430,7 +430,7 @@ yáti				simple
 yatneachea		NOUN		escoba de vara				
 yeabea				bonito(a)				
 yéabea		NOUN		mariposa				
-yo'o				culluchi				
+yoʼo				culluchi				
 yojinu				contento(a)				
 ñojínu				contento(a)				
 yoko		NOUN		tenate para cargar				
@@ -498,13 +498,11 @@ betee		NOUN		tamal
 koon				ese				
 koon		NOUN		señora				
 skuela	skuela	NOUN		escuela				
-muʼu		ADV		aquí				
 tòò		ADV		ahí				
 no	no	ADP		en	LOC			
 nuku	nuku	ADP		con	con			
 chi	chi	SCONJ		que	COMPL			
 tochi	tochi	SCONJ		cuando	cuando			
-toch	tochi	SCONJ		cuando	cuando			
 ñeʼe	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG			
 ñeʼë	ñeʼe	NOUN	NounType=Relat	de mí	base-POSS.1SG			
 ñëʼed	ñeʼe	NOUN	NounType=Relat	de ti	base-POSS.2SG			
@@ -561,7 +559,7 @@ cheeta	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.FEM
 chuʼuu	cheʼe	VERB	VerbForm=Fin	comemos	?-comer-1PL			
 cheʼey	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.HUM			
 jeʼe	cheʼe	VERB	VerbForm=Fin	estoy.comiendo	?-comer-1SG			
-chú'üu	kaʼan	VERB	VerbForm=Fin	fuimos	?-ir-1PL			
+chúʼüu	kaʼan	VERB	VerbForm=Fin	fuimos	?-ir-1PL			
 chuʼuu	cheʼe	VERB	VerbForm=Fin	comemos	?-comer-1PL			
 neʼë		VERB	VerbForm=Fin	quiero	?-querer-1SG			
 nee		VERB	VerbForm=Fin	quería	?-querer-?			
@@ -670,18 +668,17 @@ jeakuta		VERB	VerbForm=Fin	está llorando	?-llorar-3SG.FEM
 jába		VERB	VerbForm=Fin	ladra	?-ladrar-?			
 								
 yeabean				mucho, muy				
-noo		ADP		en	LOC			
 baʼa		NOUN		casa				
-ñee								
 yaʼa								
 kó				ese				
 eanu		VERB		gusto	?-gustar-1SG			
 tï		NOUN		cabeza				
-nochi				donde				
-kat				porque				
+nochi		ADV	AdvType=Rel	donde				
+kat		SCONJ		porque				
 to				mucho				
 too				mucho				
-tii								
+tii		NOUN		cabeza				
+tii		ADV		dónde				
 ntiñu		NOUN		trabajo				
 yana		NOUN		perro				
 yaá				está				
@@ -692,11 +689,10 @@ tika		NOUN		ropa
 tiaka		NOUN		plátano				
 ñuu								
 ñoʼoo		NOUN		tierra, barro				
-ñëe								
-ñeé								
-noʼo								
-nata								
-it								
+ñeé		NOUN		de él	base-POSS.3SG			
+noʼo		NOUN		leña				
+nata		NOUN		maíz				
+it		NOUN		animal				
 dami								
 chinta		VERB	VerbForm=Fin	se mojó	?-mojarse-?			
 chiinta		VERB	VerbForm=Fin	se mojaron	?-mojarse-?			
@@ -706,25 +702,24 @@ toʼo		NOUN		mano
 nùni		NOUN		agua				
 nóʼo								
 noy								
-nëe								
 nakuu		NOUN		guarache				
 mojoben	mojobe	ADV		hoy				
 mojobe	mojobe	ADV		hoy				
 kuee								
 kú				este				
-kané								
+kané		VERB		está	?-estar-?			
 kaba				feo				
-ji								
+ji		VERB		hace	?-hacer-?			
 diibi		NOUN		estiércol				
 dinuu		NOUN		mi hermano				
 dinuun		NOUN		mi hermano				
 keaben		NOUN		mi hermano				
 chinuú		NOUN		mi hermano				
 chiblaʼa		NOUN		armadillo				
-cheate				grande				
-beat								
+cheate		VERB	VerbForm=Stat	grande				
+beat		VERB		hay	?-existir-SG3.AML			
 yúdii		NOUN		elote				
-yádi								
+yádi		NOUN		higo				
 toʼö								
 tö								
 tíkun		NOUN		chapulín				
@@ -733,20 +728,22 @@ tïi		NOUN		cabeza
 tiba		NOUN		empanada				
 takabea								
 soʼö		NOUN		hombre				
-snuu								
+snuu		VERB		tiene	?-tener-?			
 snúni		NOUN		padrino				
 snuni		NOUN		padrino				
-snu								
+snú		VERB		tengo	?-tener-SG1			
+snu		VERB		tiene				
 sakó								
+sadii		NOUN		mi hermano				
 pö		NOUN		pan				
 ñú								
 ñoʼó								
 ñoo								
-nutdúü								
+nutdúü		NOUN		grilla				
 nutdiku								
 num								
-nukud		NOUN	NounType=Relat	contigo	con-SG2			
-noos								
+nukud		NOUN	NounType=Relat	contigo	con-POSS.SG2			
+noos		NOUN		su cara	cara-POSS.SG3.MSC			
 nojobe								
 nó								
 nintubii								
@@ -765,7 +762,7 @@ kon
 kántu		NOUN		caldo				
 kanee		VERB	VerbForm=Fin	se quedó	?-quedarse-?			
 kaned								
-kanat		VERB	VerbForm=Fin	lleva	?-llevar-3SG			
+kanat		VERB	VerbForm=Fin	lleva	?-llevar-3SG.AML			
 jobey								
 jinguy		VERB	VerbForm=Fin	dejar	?-dejar-?			
 jiney		VERB	VerbForm=Fin		?-hablar-?			
@@ -795,7 +792,7 @@ cheé
 chedee		NOUN		carga				
 chéche								
 chebäa				comer				
-adeea								
+adeea		PRON	PronType=Int	qué				
 zangáta		NOUN		lobo				
 yúuni		NOUN		camino				
 yùni		NOUN		camino				
@@ -813,7 +810,6 @@ yanuʼu
 yakun		NOUN		iglesia				
 yadkuöo		NOUN		canario				
 yáda		NOUN		pájaro				
-yaca								
 yàbi		ADV		anoche				
 yaaʼa								
 yaás								
@@ -842,9 +838,9 @@ tibi		VERB	VerbForm=Fin	fumar	?-fumar-?
 tiäa		NOUN		chicozapote				
 tatioo								
 tamoʼo		VERB		abrazar	?-abrazar-?			
-tama								
+tama				otra				
 takoó								
-taka								
+taka	taka	ADV		cómo				
 tadin		NOUN		niña				
 tadii		NOUN		niña				
 tadï		NOUN		niña				
@@ -935,13 +931,10 @@ nguay		VERB	VerbForm=Fin	traer	?-traer-?
 neʼëñ								
 neʼéd								
 neʼed		VERB	VerbForm=Fin	quieres	?-querer-2SG			
-nete		NOUN		ejote				
 net								
 nenoo								
 neés		VERB	VerbForm=Fin	quiere	?-querer-3SG.MSC			
-neë								
 nede		NOUN		barranca				
-ned								
 neatu								
 néabea								
 ne								
@@ -1065,7 +1058,6 @@ jinanus		VERB	VerbForm=Fin	está lavando	?-lavar-3SG.MSC
 jinanuchi		VERB	VerbForm=Fin	me despierto	?-despertarse-?			
 jikuu								
 jikney		VERB	VerbForm=Fin	cargan	?-cargar-?			
-jikiöo								
 jikadi		VERB	VerbForm=Fin	puede	?-poder-?			
 jijéa		VERB	VerbForm=Fin	se tira	?-tirarse-?			
 jììya								
@@ -1130,7 +1122,6 @@ duuʼu		PRON	PronType=Int	quién
 duú		NOUN		uña				
 dut								
 dúnu								
-dunu								
 dúkuu		VERB	VerbForm=Fin	robé	?-robar-?			
 duku		NOUN		ladrón				
 dúdut		NOUN		sus plumas				
@@ -1139,7 +1130,7 @@ dáaya				tartamuda
 dnete		NOUN		ejote				
 dnee								
 díyu		NOUN		liana				
-dituuy				fuerte				
+dituuy		VERB	VerbForm=Stat	fuerte				
 dítuu		NOUN		orilla				
 dítu		NOUN		orilla				
 dinu		NOUN		mi hermano				
@@ -1177,8 +1168,8 @@ chuu		PRON		ésto
 chóʼoo								
 chóo								
 chiʼiy								
-chivatu								
-chivato								
+chivatu		NOUN		chivo				
+chivato		NOUN		chivo				
 chitöo								
 cheanun		NOUN		mi cuñada				
 chitod		VERB	VerbForm=Fin	agarraste	?-agarrar-2SG			
@@ -1203,14 +1194,13 @@ chiibat		NOUN		telaraña
 chiiba								
 chich								
 chiba								
-chenu								
 chenet		VERB	VerbForm=Fin	morder	?-morder-?			
 cheéd		VERB	VerbForm=Fin	comes	?-comer-2SG			
 cheebinuy		VERB	VerbForm=Fin	va a cenar	?-cenar-3SG.HUM			
 chebá				comida,comer				
 cheatu		VERB	VerbForm=Fin	quebré	?-quebrar-1SG			
 cheatuy				sordo				
-chéatea				grande				
+chéatea		VERB	VerbForm=Stat	grande				
 cháku		NOUN		mi mamá				
 cantu								
 boʼos				su miedo	miedo-POSS.3SG.MSC			
@@ -1253,14 +1243,11 @@ ay				llama
 áta								
 át								
 at								
-ikun		ADV		ayer				
-iku		ADV		ayer				
 dikayan		NOUN		niños				
 ñuu		NOUN		mazorca				
 tin				ese				
 ti				ese				
 kon				ese				
-koó				ese				
 ey		INTJ		sí				
 mun		ADV		aquí				
 kuninun				allá arriba				

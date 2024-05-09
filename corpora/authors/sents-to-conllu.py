@@ -26,6 +26,8 @@ for line in open('lexicon.tsv').readlines():
 for line in open('corrections.tsv').readlines():
 	if line.strip() == '':
 		continue
+	if line[0] == '#':
+		continue
 	orig, repl = line.strip().split('\t')	
 	if orig in lexicon:
 		print('WARNING:', orig,'→', lexicon[orig], file=sys.stderr)
