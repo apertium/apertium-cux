@@ -80,9 +80,34 @@ def disambiguate(form, analyses, cux, spa):
 		for token in spa:
 			if re.findall(wordre, token.lower()):
 				found = True
+		if found:
+			new_analyses = [i for i in analyses if i[1] == pos1]	
+		#print('\t!!!:', wordre, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
+
+		return new_analyses
+
+	def choose_if_not(analyses, wordre, pos1):
+		new_analyses = analyses
+		found = False
+		for token in spa:
+			if re.findall(wordre, token.lower()):
+				found = True
 		if not found:
 			new_analyses = [i for i in analyses if i[1] == pos1]	
 		#print('\t!!!:', wordre, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
+
+		return new_analyses
+
+	def choose_or_remove(analyses, wordre, trad):
+		new_analyses = analyses
+		found = False
+		for token in spa:
+			if re.findall(wordre, token.lower()):
+				found = True
+		if found:
+			new_analyses = [i for i in analyses if i[3] == trad]
+		else:
+			new_analyses = [i for i in analyses if i[3] != trad]
 
 		return new_analyses
 
@@ -113,16 +138,24 @@ def disambiguate(form, analyses, cux, spa):
 		new_analyses = choose_if_else(analyses, 'cuñada', 'NOUN', 'VERB')
 	elif form == 'kuaa':
 		new_analyses = choose_if_else(analyses, r'rel[aá]mpago', 'NOUN', 'VERB')
+	elif form == 'kaaka':
+		new_analyses = choose_if_else(analyses, 'papel', 'NOUN', 'VERB')
 	elif form == 'kueta':
 		new_analyses = choose_if_else(analyses, 'cohete', 'NOUN', 'VERB')
 	elif form == 'bea':
-		new_analyses = choose_if(analyses, r'sentad[oa]', 'VERB')
+		new_analyses = choose_if_not(analyses, r'sentad[oa]', 'VERB')
 	elif form == 'iyu':
 		new_analyses = choose_if_not_trad(analyses, 'luna', 'mes')
 	elif form == 'ñoʼö':
 		new_analyses = choose_if_not_trad(analyses, r'(árbol|árboles)', 'pueblo')
 	elif form == 'cheʼed':
 		new_analyses = choose_if_not_trad(analyses, 'come', 'fuiste')
+	elif form == 'dii':
+		new_analyses = choose_or_remove(analyses, 'resistente', 'resistente')
+		if len(new_analyses) > 1:
+			new_analyses = choose_if(new_analyses, r'^(tú|ti|te)$', 'PRON')
+		if len(new_analyses) > 1:
+			new_analyses = choose_if_else(new_analyses, r'trabaj.*', 'VERB', 'PRON')
 	elif form == 'yada':
 		new_analyses = choose_if_not_trad(analyses, r'pájaros?', 'vestido')
 	elif form == 'yuduu':
@@ -163,6 +196,8 @@ for line in sys.stdin.readlines():
 	cux = clean_sent(cux)
 	tokens = re.sub('([,:?¿!¡;.])', ' \g<1> ', cux).strip().split(' ')
 	tokens_spa = re.sub('([,:?¿!¡;.])', ' \g<1> ', spa).strip().split(' ')
+
+	print('# sent_id = ejemplos:%s' % (str(sent_id).zfill(4)), file=sys.stderr)
 
 	token_id = 1
 	n_found_pos = 0

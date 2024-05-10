@@ -1,4 +1,4 @@
-Palabra	Lema	POS	Feats	Significado	Glosa	1267	925	1060
+Palabra	Lema	POS	Feats	Significado	Glosa	1269	945	1082
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -93,6 +93,7 @@ deakea				despeinado(a)
 deakea		NOUN		nido				
 dí		PRON	PronType=Prs	tú	2SG			
 dibi		NOUN		estiércol				
+dii		PRON	PronType=Prs	tú	2SG			
 dii				resistente				
 díi		NOUN		caspa				
 díi				tamo				
@@ -233,6 +234,7 @@ kàba				feo
 kàchi		NOUN		avispa				
 kadi		NOUN		peso($)				
 kajobe		ADV		anteayer				
+kaaka		NOUN		papel				
 kaka		NOUN		papel				
 káka		NOUN		peine				
 kaka yòò		NOUN		cal				
@@ -808,19 +810,19 @@ tnoʼo
 tíyu		NOUN		tenatillo				
 tiudi		NOUN		ratón				
 tíñ								
-tínu								
+tínu		NOUN		ropa				
 tíntu		NOUN		colibrí				
 tími		NOUN		ombligo				
-tiku								
-tikoo								
-tiid								
+tiku		NOUN		ramo				
+tikoo		NONU		niña				
+tiid		NOUN		tu cabeza	cabeza-POSS.2SG			
 tïd		NOUN		tu cabello	cabello-POSS.2SG			
 tibi		VERB	VerbForm=Fin	fumar	?-fumar-?			
 tiäa		NOUN		chicozapote				
-tatioo								
+tatioo				mañana				
 tamoʼo		VERB		abrazar	?-abrazar-?			
 tama				otra				
-takoó								
+takoó		NOUN		esa mujer				
 taka	taka	ADV		cómo				
 tadin		NOUN		niña				
 tadii		NOUN		niña				
@@ -888,7 +890,7 @@ chíika		VERB	VerbForm=Fin	corté	?-cortar-?
 nooyos		NOUN		su edad				
 noobe				par				
 nóó								
-nojoobee								
+nojoobee		NOUN		cielo				
 nod								
 nobe								
 Nóba	Nóba	PROPN		Oaxaca				
@@ -910,9 +912,8 @@ neés		VERB	VerbForm=Fin	quiere	?-querer-3SG.MSC
 nede		NOUN		barranca				
 neatu								
 néabea								
-ne								
-nduu								
-ndoyo								
+nduu		NOUN		caña				
+ndoyo		NOUN		año				
 ndó								
 ndios		NOUN		dios				
 ndimi								
@@ -923,7 +924,7 @@ ndea
 ndáy								
 ndaá								
 nanuku								
-nanomnod								
+nanomnod		VERB		llegar primero				
 nankuníbii								
 naneache								
 nana								
@@ -956,7 +957,7 @@ kutea
 kuoʼoo								
 kunoo		VERB	VerbForm=Fin	caer	?-caer-?			
 kuni								
-kuna								
+kuna		VERB	VerbForm=Fin	masticar	?-masticar-1SG			
 kulantro		NOUN		cilantro				
 kúiyu								
 kuïñu								
@@ -980,19 +981,19 @@ kiuñú
 keade								
 keabeay								
 kayadu		VERB	VerbForm=Fin	dormir	?-dormir-?			
-kataʼa								
+kataʼa		VERB	VerbForm=Fin	traes	?-traer-?			
 kastila								
 kanuy		VERB		está	?-estar-3SG.HUM			
 kanuu		VERB		está				
 kanuchii								
-käntay								
-kánta								
+käntay				delicados				
+kánta				peligrosas				
 kani				rápido				
 kangùy		VERB		va a dejar				
 kanguu		VERB		moler				
 kanguad		VERB		traer	?-traer-2SG			
-kanet								
-kaneñ								
+kanet		VERB		está	?-estar-3SG.AML			
+kaneñ		VERB		está	?-estar-3SG.HUM			
 kánat		VERB	VerbForm=Fin	llevó	?-llevar-3SG.AML			
 kakay		VERB		echar tortilla				
 kachi								
@@ -1016,7 +1017,7 @@ jinkatu
 jinguyu								
 jinguay		VERB	VerbForm=Fin	va a traer	?-traer-?			
 jinguata		VERB		traer	?-traer-3SG.FEM			
-jineʼe								
+jineʼe		NOUN		encino				
 jineñ		VERB	VerbForm=Fin	pone	?-poner-?			
 jinenúkuta								
 jinéacheta		VERB	VerbForm=Fin	barre	?-barrer-?			
@@ -1106,16 +1107,16 @@ dituuy		VERB	VerbForm=Stat	fuerte
 dítuu		NOUN		orilla				
 dítu		NOUN		orilla				
 dinu		NOUN		mi hermano				
-dinaá				hice				
+dinaá		VERB		hice	?-hacer-?			
 din								
 dimoʼö								
 dimoo				sólo, puro				
-dikuoʼo								
+dikuoʼo		NOUN		bebé				
 dikunú		NOUN		nuera				
 dikaya		NOUN		niños				
 dikadi		VERB		peso				
 diiyu								
-diis								
+diis		VERB	VerbForm=Fin	cometió	?-hacer-3SG.MSC			
 diiñu		NOUN		diente				
 diinuu		NOUN		gorro				
 diijuku		NOUN		tecolote				
@@ -1123,6 +1124,7 @@ did
 dibyudi		NOUN		mala mujer				
 dibíkuy		VERB		bendecir	?-bendecir-?			
 dibaku		NOUN		cuicateco				
+dii		VERB		hago	?-hacer-?			
 dï		VERB		hago	?-hacer-?			
 dechea		NOUN		mugre				
 deanud		VERB	VerbForm=Fin	sabes	?-saber-SG2			
