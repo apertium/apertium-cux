@@ -1,4 +1,4 @@
-Palabra	Lema	POS	Feats	Significado	Glosa	1267	919	1055
+Palabra	Lema	POS	Feats	Significado	Glosa	1267	922	1059
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -587,17 +587,17 @@ joʼoy		VERB	VerbForm=Fin	da	?-dar-?
 chika		VERB	VerbForm=Fin	corté	?-cortar-?			
 kàkad		VERB	VerbForm=Fin	cortar	?-cortar-2SG			
 kaaka		VERB	VerbForm=Fin	cortar	?-cortar-?			
-kua		VERB	VerbForm=Fin	comprar	IRR-comprar-?			
-kaa		VERB	VerbForm=Fin	comprar	COM-comprar-?			
-kuaa		VERB	VerbForm=Fin	comprar	IRR-comprar-?			
-káta		VERB	VerbForm=Fin	compró	COM-comprar-3SG.FEM			
-kaá		VERB	VerbForm=Fin	compré	COM-comprar-1SG			
-ká		VERB	VerbForm=Fin	comprar	COM-comprar-1SG			
-kay		VERB	VerbForm=Fin	comprar	COM-comprar-3SG.HUM			
-kad		VERB	VerbForm=Fin	comprar	COM-comprar-2SG			
-kuad		VERB	VerbForm=Fin	comprar	IRR-comprar-2SG			
-kúad		VERB	VerbForm=Fin	comprar	IRR-comprar-2SG			
-jaata		VERB	VerbForm=Fin	compra	PROG-comprar-3SG.FEM			
+kua	kua	VERB	VerbForm=Fin	comprar	IRR-comprar-1SG			
+kaa	kua	VERB	VerbForm=Fin	comprar	COM-comprar-1SG			
+kuaa	kua	VERB	VerbForm=Fin	comprar	IRR-comprar-1SG			
+káta	kua	VERB	VerbForm=Fin	compró	COM-comprar-3SG.FEM			
+kaá	kua	VERB	VerbForm=Fin	compré	COM-comprar-1SG			
+ká	kua	VERB	VerbForm=Fin	comprar	COM-comprar-1SG			
+kay	kua	VERB	VerbForm=Fin	comprar	COM-comprar-3SG.HUM			
+kad	kua	VERB	VerbForm=Fin	comprar	COM-comprar-2SG			
+kuad	kua	VERB	VerbForm=Fin	comprar	IRR-comprar-2SG			
+kúad	kua	VERB	VerbForm=Fin	comprar	IRR-comprar-2SG			
+jaata	kua	VERB	VerbForm=Fin	compra	PROG-comprar-3SG.FEM			
 koʼoy		VERB	VerbForm=Fin	pegaron	?-pegar-?			
 jinuu		VERB	VerbForm=Fin	pongo	?-poner-1SG			
 jinikuta		VERB	VerbForm=Fin	vende	?-vender-3SG.FEM			
@@ -885,8 +885,8 @@ nubdamauʼu
 ntú		NOUN		atole				
 noʼos		VERB		ir	?-ir-3SG.MSC			
 chíika		VERB	VerbForm=Fin	corté	?-cortar-?			
-nooyos								
-noobe								
+nooyos		NOUN		su edad				
+noobe				par				
 nóó								
 nojoobee								
 nod								
@@ -1068,7 +1068,7 @@ jaá
 jaa				nuevo				
 itñeʼë		NOUN		mis animales	animal#base-POSS.1SG			
 iñʼtoʼö		NOUN		guajolota				
-iñuu								
+iñuu		NOUN		guajolote				
 iñsen								
 inun								
 ínu		VERB	VerbForm=Fin	mato	?-matar-1SG			
@@ -1092,7 +1092,7 @@ eanud		VERB	VerbForm=Fin	gustas	?-gustar-2SG
 duʼu		PRON	PronType=Int	quién				
 duuʼu		PRON	PronType=Int	quién				
 duú		NOUN		uña				
-dut								
+dut		NOUN		huevo				
 dúnu								
 dúkuu		VERB	VerbForm=Fin	robé	?-robar-?			
 duku		NOUN		ladrón				

@@ -58,11 +58,12 @@ def disambiguate(form, analyses, cux, spa):
 	print('disambiguate:', form, '|', analyses,'|', cux, spa, file=sys.stderr)
 	new_analyses = analyses
 
-	def choose_if_else(analyses, word, pos1, pos2):
+	def choose_if_else(analyses, wordre, pos1, pos2):
 		new_analyses = analyses
 		found = False
-		if word in [i.lower() for i in spa]:
-			found = True
+		for token in spa:
+			if re.findall(wordre, token.lower()):
+				found = True
 
 		if found:
 			new_analyses = [i for i in analyses if i[1] == pos1]	
@@ -109,7 +110,7 @@ def disambiguate(form, analyses, cux, spa):
 	elif form == 'cheanu':
 		new_analyses = choose_if_else(analyses, 'cuñada', 'NOUN', 'VERB')
 	elif form == 'kuaa':
-		new_analyses = choose_if_else(analyses, 'relámpago', 'NOUN', 'VERB')
+		new_analyses = choose_if_else(analyses, r'rel[aá]mpago', 'NOUN', 'VERB')
 	elif form == 'kueta':
 		new_analyses = choose_if_else(analyses, 'cohete', 'NOUN', 'VERB')
 	elif form == 'bea':
