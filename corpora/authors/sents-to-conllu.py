@@ -17,8 +17,13 @@ for line in open('lexicon.tsv').readlines():
 	if pos == '': pos = '_'
 	if lema == '': lema = '_'
 
+
 	if token not in lexicon:
 		lexicon[token] = []
+	else:
+		if pos == '_' and spa == '':
+			print('WARNING:', token, 'in lexicon', file=sys.stderr)
+			continue
 
 	lexicon[token].append((lema, pos, feats, spa, glosa))
 	lexicon[token] = list(set(lexicon[token]))
@@ -51,69 +56,48 @@ def disambiguate(form, analyses, cux, spa):
 	if len(analyses) < 2:
 		return analyses	
 
-	print('disambiguate:', form, '|', analyses,'|', cux, spa, file=sys.stderr)
+#	print('disambiguate:', form, '|', analyses,'|', cux, spa, file=sys.stderr)
 	new_analyses = analyses
 
-	# Choose 'a' as an ADV if we find "ya" in the translation, otherwise PART
-	if form == 'a':
+	def choose_if_else(analyses, word, pos1, pos2):
+		new_analyses = analyses
 		found = False
-		if 'ya' in [i.lower() for i in spa]:
+		if word in [i.lower() for i in spa]:
 			found = True
 
 		if found:
-			new_analyses = [i for i in analyses if i[1] == 'ADV']	
+			new_analyses = [i for i in analyses if i[1] == pos1]	
 		else:
-			new_analyses = [i for i in analyses if i[1] == 'PART']	
+			new_analyses = [i for i in analyses if i[1] == pos2]	
 
-		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
+		#print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
 
-	# Choose 'nichi' as NUM if we find "diez" otherwise VERB
-	elif form == 'nichi':
+		return new_analyses
+
+	def choose_if(analyses, wordre, pos1):
+		new_analyses = analyses
 		found = False
-		if 'diez' in [i.lower() for i in spa]:
-			found = True
-
-		if found:
-			new_analyses = [i for i in analyses if i[1] == 'NUM']	
-		else:
-			new_analyses = [i for i in analyses if i[1] == 'VERB']	
-
-		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
-
-	elif form == 'tii':
-		found = False
-		if 'dónde' in [i.lower() for i in spa]:
-			found = True
-
-		if found:
-			new_analyses = [i for i in analyses if i[1] == 'ADV']	
-		else:
-			new_analyses = [i for i in analyses if i[1] == 'NOUN']	
-
-		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
-
-	elif form == 'koʼo':
-		found = False
-		if 'pie' in [i.lower() for i in spa] or 'pies' in [i.lower() for i in spa]:
-			found = True
-
-		if found:
-			new_analyses = [i for i in analyses if i[1] == 'NOUN']	
-		else:
-			new_analyses = [i for i in analyses if i[1] == 'VERB']	
-
-		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
-
-	elif form == 'bea':
-		found = False
-		if 'sentado' in [i.lower() for i in spa] or 'sentada' in [i.lower() for i in spa]:
-			found = True
-
+		for token in spa:
+			if re.findall(wordre, token.lower()):
+				found = True
 		if not found:
-			new_analyses = [i for i in analyses if i[1] == 'VERB']	
+			new_analyses = [i for i in analyses if i[1] == pos1]	
+		#print('!!!:', wordre, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
 
-		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
-			
+		return new_analyses
+
+	if form == 'a': # Choose 'a' as an ADV if we find "ya" in the translation, otherwise PART
+		new_analyses = choose_if_else(analyses, 'ya', 'ADV', 'PART')
+	elif form == 'nichi': # Choose 'nichi' as NUM if we find "diez" otherwise VERB
+		new_analyses = choose_if_else(analyses, 'diez', 'NUM', 'VERB')
+	elif form == 'tii':
+		new_analyses = choose_if_else(analyses, 'dónde', 'ADV', 'NOUN')
+	elif form == 'koʼo':
+		new_analyses = choose_if_else(analyses, 'pie', 'NOUN', 'VERB')
+	elif form == 'kuʼu':
+		new_analyses = choose_if_else(analyses, 'plato', 'NOUN', 'VERB')
+	elif form == 'bea':
+		new_analyses = choose_if(analyses, 'sentad[oa]', 'VERB')
 	elif form == 'iyu':
 		found = False
 		if 'luna' in [i.lower() for i in spa]:
@@ -123,6 +107,9 @@ def disambiguate(form, analyses, cux, spa):
 			new_analyses = [i for i in analyses if i[2] == 'mes']	
 
 		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
+
+	if new_analyses == analyses:
+		print('remaining:', form, '|', analyses,'|', '|', cux, spa, file=sys.stderr)
 						
 	return new_analyses
 

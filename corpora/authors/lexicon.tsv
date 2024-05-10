@@ -1,4 +1,4 @@
-Palabra	Lema	POS	Feats	Significado	Glosa	1290	891	1034
+Palabra	Lema	POS	Feats	Significado	Glosa	1269	890	1032
 a	a	ADV		ya				
 a	a	PART			QST			
 áa				resuena				
@@ -31,7 +31,6 @@ boʼo		NOUN		miedo
 chakun		NOUN		mi mamá				
 chakud		NOUN		tu mamá	mamá-POSS.2SG			
 chaku		NOUN		mi mamá				
-cheʼë		VERB		fui				
 cheʼed		VERB		come				
 chea			PronType=Int	cuál				
 chéa		NOUN		comal				
@@ -327,7 +326,6 @@ muʼu		ADV		aquí
 naʼö								
 naama		NOUN		jabón				
 nabeánu				aborto				
-nabeanud				recoje				
 naboʼoo		NOUN		cereza, capulín				
 naíba		NOUN		mercado				
 naídii		NOUN		aguacate				
@@ -669,7 +667,6 @@ jába		VERB	VerbForm=Fin	ladra	?-ladrar-?
 								
 yeabean				mucho, muy				
 baʼa		NOUN		casa				
-yaʼa								
 kó				ese				
 eanu		VERB		gusto	?-gustar-1SG			
 tï		NOUN		cabeza				
@@ -683,7 +680,6 @@ ntiñu		NOUN		trabajo
 yana		NOUN		perro				
 yaá				está				
 tuu		NOUN		piedra				
-toó								
 tikaa		NOUN		mi ropa				
 tika		NOUN		ropa				
 tiaka		NOUN		plátano				
@@ -700,7 +696,6 @@ chinbaʼa		NOUN		puerta	boca#casa
 biʼi		NOUN		mi hermano				
 toʼo		NOUN		mano				
 nùni		NOUN		agua				
-nóʼo								
 noy								
 nakuu		NOUN		guarache				
 mojoben	mojobe	ADV		hoy				
@@ -735,9 +730,6 @@ snú		VERB		tengo	?-tener-SG1
 snu		VERB		tiene				
 sadii		NOUN		mi hermano				
 pö		NOUN		pan				
-ñú								
-ñoʼó								
-ñoo								
 nutdúü		NOUN		grilla				
 nutdiku								
 num				todo				
@@ -748,7 +740,6 @@ nó
 nintubii								
 ndeyee								
 nda				muy, mucho				
-najaʼa								
 naiyaá		NOUN		salsa				
 naa								
 mii		ADV		allá				
@@ -784,7 +775,6 @@ chinuñ		VERB	VerbForm=Fin	mató	?-matar-?
 chineabea		VERB	VerbForm=Fin	me caí	?-caerse-1SG			
 chikuincháakuu		NOUN		virgen				
 chií		VERB	VerbForm=Fin	tomé	?-tomar-1SG			
-chii								
 chiduu		NOUN		sacerdote				
 chiadi		NOUN		azúcar				
 cheé								
@@ -799,7 +789,6 @@ yuni
 yukuu		NOUN		calabaza				
 yúdu								
 yudnooy		NOUN		barba				
-yoʼo								
 yeabe								
 yaʼaa		NOUN		jícara				
 yaʼá								
@@ -814,14 +803,11 @@ yaaʼa
 yaás								
 üñ								
 túʼu								
-tuʼú								
 tumaa		VERB		cortar	?-cortar-?			
 tuma		VERB		cortar	?-cortar-?			
 toʼos		NOUN		su esposa	esposa-POSS.3SG.MSC			
 toʼoo		NOUN		mano				
-tös								
 töo								
-to								
 tnoʼo								
 tíyu		NOUN		tenatillo				
 tiudi		NOUN		ratón				
@@ -847,13 +833,10 @@ taa
 stebe		NOUN		corazón				
 sópa				grueso(a)				
 snuú								
-snú								
 snii		NOUN		sombrero				
 snï		NOUN		sobrino				
 snet				están				
 sné								
-si								
-santieʼe								
 sankubi		NOUN		borracho				
 sangáta		NOUN		lobo				
 sakuiti		NOUN		escarabajo				
@@ -890,7 +873,6 @@ o
 ñaʼa								
 ñañaa		NOUN		coyote				
 ñaña								
-ñana								
 ñaat								
 ña								
 nutyáku								
@@ -903,7 +885,6 @@ nun
 numiñ								
 núku		NOUN		conmigo	con-POSS.1SG			
 nuko		ADP		con				
-nukñoʼö								
 nubnuni		NOUN		lunar				
 nubi		NOUN		grano				
 nubdamauʼu								
@@ -956,7 +937,6 @@ nana
 najaá								
 naidii		NOUN		aguacate				
 nadna								
-naboʼoo								
 nabií								
 nabaku		NOUN		mi casa				
 nabaa								
@@ -1164,7 +1144,6 @@ damí
 daanu		NOUN		sombra				
 daá								
 chuu		PRON		ésto				
-chóʼoo								
 chóo								
 chiʼiy								
 chivatu		NOUN		chivo				
