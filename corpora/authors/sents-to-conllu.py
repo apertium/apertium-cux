@@ -51,58 +51,80 @@ def disambiguate(form, analyses, cux, spa):
 	if len(analyses) < 2:
 		return analyses	
 
-	#print('disambiguate:', form, '|', analyses,'|', cux, spa, file=sys.stderr)
-	new_analyses = []
+	print('disambiguate:', form, '|', analyses,'|', cux, spa, file=sys.stderr)
+	new_analyses = analyses
 
 	# Choose 'a' as an ADV if we find "ya" in the translation, otherwise PART
 	if form == 'a':
-		foundYa = False
+		found = False
 		if 'ya' in [i.lower() for i in spa]:
-			foundYa = True
+			found = True
 
-		if foundYa:
+		if found:
 			new_analyses = [i for i in analyses if i[1] == 'ADV']	
 		else:
 			new_analyses = [i for i in analyses if i[1] == 'PART']	
 
-		#print('!!!:', form, '|', foundYa,'|', analyses,'||', new_analyses, file=sys.stderr)
+		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
 
-		return new_analyses
 	# Choose 'nichi' as NUM if we find "diez" otherwise VERB
 	elif form == 'nichi':
-		foundDiez = False
+		found = False
 		if 'diez' in [i.lower() for i in spa]:
-			foundDiez = True
+			found = True
 
-		if foundDiez:
+		if found:
 			new_analyses = [i for i in analyses if i[1] == 'NUM']	
 		else:
 			new_analyses = [i for i in analyses if i[1] == 'VERB']	
 
-		return new_analyses
+		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
+
+	elif form == 'tii':
+		found = False
+		if 'dónde' in [i.lower() for i in spa]:
+			found = True
+
+		if found:
+			new_analyses = [i for i in analyses if i[1] == 'ADV']	
+		else:
+			new_analyses = [i for i in analyses if i[1] == 'NOUN']	
+
+		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
 
 	elif form == 'koʼo':
-		foundPie = False
+		found = False
 		if 'pie' in [i.lower() for i in spa] or 'pies' in [i.lower() for i in spa]:
-			foundPie = True
+			found = True
 
-		if foundPie:
+		if found:
 			new_analyses = [i for i in analyses if i[1] == 'NOUN']	
 		else:
 			new_analyses = [i for i in analyses if i[1] == 'VERB']	
 
-		return new_analyses
+		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
 
 	elif form == 'bea':
-		foundSentado = False
+		found = False
 		if 'sentado' in [i.lower() for i in spa] or 'sentada' in [i.lower() for i in spa]:
-			foundSentado = True
+			found = True
 
-		if not foundSentado:
+		if not found:
 			new_analyses = [i for i in analyses if i[1] == 'VERB']	
-			return new_analyses
+
+		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
+			
+	elif form == 'iyu':
+		found = False
+		if 'luna' in [i.lower() for i in spa]:
+			found = True
+
+		if not found:
+			new_analyses = [i for i in analyses if i[2] == 'mes']	
+
+		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
 						
-	return analyses
+	return new_analyses
 
 seen = set()
 

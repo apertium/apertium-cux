@@ -1,6 +1,6 @@
-Palabra	Lema	POS	Feats	Significado	Glosa	1291	891	1034
-a		ADV		ya				
-a		PART			QST			
+Palabra	Lema	POS	Feats	Significado	Glosa	1290	891	1034
+a	a	ADV		ya				
+a	a	PART			QST			
 áa				resuena				
 alberja		NOUN		chícharo				
 ama		NUM	NumType=Card	uno				
@@ -733,7 +733,6 @@ snúni		NOUN		padrino
 snuni		NOUN		padrino				
 snú		VERB		tengo	?-tener-SG1			
 snu		VERB		tiene				
-sakó								
 sadii		NOUN		mi hermano				
 pö		NOUN		pan				
 ñú								

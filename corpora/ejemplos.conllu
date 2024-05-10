@@ -3,7 +3,7 @@
 # text[orig] = A cheʼë kuete.
 # text[spa] = Ya fui al campo.
 # author = lilia
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	cheʼë	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=fui,fui
 3	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 4	.	.	PUNCT	_	_	_	_	_	
@@ -14,7 +14,7 @@
 # text[spa] = ¿Ya llegasté?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	nood	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=llegaste|Gloss=?-?-2SG
 4	?	?	PUNCT	_	_	_	_	_	
 
@@ -24,9 +24,9 @@
 # text[spa] = ¿A dónde fuiste antiayer?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
-3	tii	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cabeza,dónde
-4	cheʼed	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=fuiste,come
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	tii	_	ADV	_	_	_	_	_	Trad=dónde
+4	cheʼed	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=come,fuiste
 5	kajobe	_	ADV	_	_	_	_	_	Trad=anteayer
 6	?	?	PUNCT	_	_	_	_	_	
 
@@ -36,8 +36,8 @@
 # text[spa] = ¿A dónde estás?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
-3	tii	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cabeza,dónde
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	tii	_	ADV	_	_	_	_	_	Trad=dónde
 4	kaned	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estás|Gloss=?-estar-2SG
 5	?	?	PUNCT	_	_	_	_	_	
 
@@ -47,7 +47,7 @@
 # text[spa] = ¿Aquí te caiste?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 4	chineabed	_	_	_	_	_	_	_	
 5	?	?	PUNCT	_	_	_	_	_	
@@ -58,7 +58,7 @@
 # text[spa] = ¿Aquí se hizo la fiesta?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 4	chii	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=se.murió
 5	bikum	_	NOUN	_	Typo=Yes	_	_	_	Trad=fiesta
@@ -70,7 +70,7 @@
 # text[spa] = ¿Cómo esta la familia?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	takabea	_	_	_	_	_	_	_	
 4	iña	_	NOUN	_	_	_	_	_	Trad=gente
 5	ñuʼüu	_	_	_	_	_	_	_	
@@ -82,7 +82,7 @@
 # text[spa] = ¡Hola niños!
 # author = lilia
 1	¡	¡	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	takabea	_	_	_	_	_	_	_	
 4	dikaya	_	_	_	_	_	_	_	
 5	!	!	PUNCT	_	_	_	_	_	
@@ -93,7 +93,7 @@
 # text[spa] = ¿Cómo estas con tú familia?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	taka	taka	ADV	_	_	_	_	_	Trad=cómo
 4	kaned	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estás|Gloss=?-estar-2SG
 5	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
@@ -107,7 +107,7 @@
 # text[spa] = ¿Cuál es tu camisa?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	chea	_	_	_	PronType=Int	_	_	_	Trad=cuál
 4	kiana	_	NOUN	_	_	_	_	_	Trad=camisa
 5	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
@@ -119,9 +119,9 @@
 # text[spa] = ¿Cuál fruta quieres?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	chea	_	_	_	PronType=Int	_	_	_	Trad=cuál
-4	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,hermano(a)
+4	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
 5	neʼed	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quieres|Gloss=?-querer-2SG
 6	?	?	PUNCT	_	_	_	_	_	
 
@@ -131,7 +131,7 @@
 # text[spa] = ¿Haya esta mi mamá?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	mii	_	ADV	_	_	_	_	_	Trad=allá
 4	kane	_	_	_	_	_	_	_	Trad=está
 5	chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
@@ -143,7 +143,7 @@
 # text[spa] = ¿Haya está mi tío?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	mii	_	ADV	_	_	_	_	_	Trad=allá
 4	kane	_	_	_	_	_	_	_	Trad=está
 5	dunu	_	NOUN	_	_	_	_	_	Trad=mi.tío
@@ -177,7 +177,7 @@
 # text[spa] = ¿Sabes que vas a ir a la clinica?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	deanud	_	_	_	_	_	_	_	
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	koʼod	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
@@ -418,7 +418,7 @@
 # text[orig] = Chikuún bee noy.
 # text[spa] = Mi abuelita esta ciega.
 # author = lilia
-1	Chikuún	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=mi.abuelita,abuela
+1	Chikuún	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 2	bee	_	_	_	_	_	_	_	Trad=ciego
 3	noy	_	_	_	_	_	_	_	
 4	.	.	PUNCT	_	_	_	_	_	
@@ -441,7 +441,7 @@
 # author = lilia
 1	To	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mucho
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3
-3	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
+3	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=paloma,pichón,hierba
 4	bëe	_	NOUN	_	_	_	_	_	Trad=orilla
 5	yúuni	_	NOUN	_	_	_	_	_	Trad=camino
 6	.	.	PUNCT	_	_	_	_	_	
@@ -474,7 +474,7 @@
 # author = lilia
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	tadin	_	NOUN	_	_	_	_	_	Trad=niña
-3	kueta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=fue,cohete
+3	kueta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cohete,fue
 4	nuko	_	ADP	_	_	_	_	_	Trad=con
 5	beeye	_	NOUN	_	_	_	_	_	Trad=nixtamal
 6	ñëta	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ella|Gloss=base-POSS.3SG.FEM
@@ -489,7 +489,7 @@
 # author = lilia
 1	Yaa	_	_	_	_	_	_	_	
 2	beaku	_	_	_	_	_	_	_	Trad=elegante
-3	yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=perro,pájaro
+3	yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=pájaro,perro
 4	ñëta	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ella|Gloss=base-POSS.3SG.FEM
 5	.	.	PUNCT	_	_	_	_	_	
 
@@ -523,7 +523,7 @@
 # text[spa] = Una abuelita vende tamal.
 # author = lilia
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-2	chikuu	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=mi.abuelita,abuela
+2	chikuu	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
 4	betee	_	NOUN	_	_	_	_	_	Trad=tamal
 5	.	.	PUNCT	_	_	_	_	_	
@@ -533,7 +533,7 @@
 # text[orig] = Biʼi jínus nata.
 # text[spa] = Mi hermano siembra maíz.
 # author = lilia
-1	Biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,hermano(a)
+1	Biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
 2	jínus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=siembra|Gloss=?-sembrar-3SG.MSC
 3	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 4	.	.	PUNCT	_	_	_	_	_	
@@ -544,7 +544,7 @@
 # text[spa] = Mi hermano esta muy gordo.
 # author = lilia
 1	Dínu	_	NOUN	_	_	_	_	_	Trad=hermano
-2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 3	bichas	_	_	_	_	_	_	_	Trad=está.gordo
 4	.	.	PUNCT	_	_	_	_	_	
 
@@ -679,7 +679,7 @@
 # text[spa] = ¿Cuál te gusta?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	chea	_	_	_	PronType=Int	_	_	_	Trad=cuál
 4	eanud	_	VERB	_	VerbForm=Fin	_	_	_	Trad=gustas|Gloss=?-gustar-2SG
 5	?	?	PUNCT	_	_	_	_	_	
@@ -735,7 +735,7 @@
 # text[orig] = Cheanu yúduu ñeʼë.
 # text[spa] = Corrió mi caballo.
 # author = lilia
-1	Cheanu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=corrió,cuñada
+1	Cheanu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cuñada,corrió
 2	yúduu	_	NOUN	_	_	_	_	_	Trad=caballo
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	.	.	PUNCT	_	_	_	_	_	
@@ -746,7 +746,7 @@
 # text[spa] = Fui a correr en la mañana.
 # author = lilia
 1	Chee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
-2	cheanu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=corrió,cuñada
+2	cheanu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cuñada,corrió
 3	nabaa	_	_	_	_	_	_	_	
 4	tatioo	_	_	_	_	_	_	_	
 5	.	.	PUNCT	_	_	_	_	_	
@@ -777,7 +777,7 @@
 # text[orig] = Iyu koon yeaben cheanuu.
 # text[spa] = Ese mecate está muy largo.
 # author = lilia
-1	Iyu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mes,.luna,luna
+1	Iyu	_	_	_	_	_	_	_	
 2	koon	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ese,señora
 3	yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 4	cheanuu	_	VERB	_	VerbForm=Stat	_	_	_	Trad=largo
@@ -788,7 +788,7 @@
 # text[orig] = A chéatu sakoó.
 # text[spa] = Es sordo ese hombre.
 # author = lilia
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	chéatu	_	_	_	_	_	_	_	Trad=sordo
 3	sakoó	_	_	_	_	_	_	_	
 4	.	.	PUNCT	_	_	_	_	_	
@@ -798,7 +798,7 @@
 # text[orig] = Chikuún cheatuy.
 # text[spa] = Mi abuelita es sorda.
 # author = lilia
-1	Chikuún	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=mi.abuelita,abuela
+1	Chikuún	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 2	cheatuy	_	_	_	_	_	_	_	Trad=sordo
 3	.	.	PUNCT	_	_	_	_	_	
 
@@ -931,7 +931,7 @@
 # text[orig] = Cheʼed gua kuunód.
 # text[spa] = Come, no tengas pena.
 # author = lilia
-1	Cheʼed	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=fuiste,come
+1	Cheʼed	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=come,fuiste
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 3	kuunód	_	_	_	_	_	_	_	
 4	.	.	PUNCT	_	_	_	_	_	
@@ -967,7 +967,7 @@
 # text[spa] = Me duele el estómago.
 # author = lilia
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 3	cheete	_	NOUN	_	_	_	_	_	Trad=estómago
 4	.	.	PUNCT	_	_	_	_	_	
 
@@ -989,7 +989,7 @@
 # author = lilia
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
-3	chenu	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=corrió,cuñada
+3	chenu	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=cuñada,corrió
 4	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0091
@@ -1091,7 +1091,7 @@
 # author = lilia
 1	Chíchi	_	_	_	_	_	_	_	Trad=apretado
 2	jinuu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pongo|Gloss=?-poner-1SG
-3	yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=perro,pájaro
+3	yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=pájaro,perro
 4	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 5	.	.	PUNCT	_	_	_	_	_	
 
@@ -1103,7 +1103,7 @@
 1	Yaá	_	_	_	_	_	_	_	Trad=está
 2	chíchi	_	_	_	_	_	_	_	Trad=apretado
 3	numiñ	_	_	_	_	_	_	_	
-4	tii	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cabeza,dónde
+4	tii	_	ADV	_	_	_	_	_	Trad=dónde
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0101
@@ -1249,7 +1249,7 @@
 # text[orig] = A chíita daya.
 # text[spa] = Ya creció mi hijo.
 # author = lilia
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	chíita	_	VERB	_	VerbForm=Fin	_	_	_	Trad=creció|Gloss=?-crecer-?
 3	daya	_	NOUN	_	_	_	_	_	Trad=hijo(a)
 4	.	.	PUNCT	_	_	_	_	_	
@@ -1261,7 +1261,7 @@
 # author = lilia
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
-3	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.abuelita,abuela
+3	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 4	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0116
@@ -1272,7 +1272,7 @@
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	too	_	_	_	_	_	_	_	Trad=mucho
 3	nëe	_	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
-4	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.abuelita,abuela
+4	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0117
@@ -1401,7 +1401,7 @@
 # author = lilia
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
 2	ndea	_	_	_	_	_	_	_	
-3	kueta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=fue,cohete
+3	kueta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cohete,fue
 4	chini	_	VERB	_	VerbForm=Fin	_	_	_	Trad=tronar|Gloss=?-tronar-?
 5	ndoyo	_	_	_	_	_	_	_	
 6	jaa	_	_	_	_	_	_	_	Trad=nuevo
@@ -1445,7 +1445,7 @@
 # text[orig] = Chikuʼu jinay chita.
 # text[spa] = Mí abuelita hace ollas.
 # author = lilia
-1	Chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.abuelita,abuela
+1	Chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 2	jinay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=lleva|Gloss=?-llevar-?
 3	chita	_	NOUN	_	_	_	_	_	Trad=olla
 4	.	.	PUNCT	_	_	_	_	_	
@@ -1517,7 +1517,7 @@
 # text[orig] = A chóʼoo kubii.
 # text[spa] = Ya paso la lluvia.
 # author = lilia
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	chóʼoo	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=pasó
 3	kubii	_	NOUN	_	_	_	_	_	Trad=lluvia
 4	.	.	PUNCT	_	_	_	_	_	
@@ -1528,7 +1528,7 @@
 # text[spa] = ¿Ya comemos?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	chuʼuu	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=comemos|Gloss=?-comer-1PL
 4	?	?	PUNCT	_	_	_	_	_	
 
@@ -1559,7 +1559,7 @@
 # text[spa] = ¿Ésto es lo que quieres?
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	chuu	_	PRON	_	_	_	_	_	Trad=ésto
 4	ned	_	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=quieres|Gloss=?-querer-2SG
 5	baa	_	_	_	_	_	_	_	
@@ -1605,7 +1605,7 @@
 2	dama	_	_	_	_	_	_	_	Trad=igual
 3	jinee	_	_	_	_	_	_	_	
 4	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
-5	dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,gorro,talón
+5	dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
 6	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0148
@@ -1710,7 +1710,7 @@
 # text[orig] = Yaʼa dantu.
 # text[spa] = Me duele el cuello.
 # author = lilia
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 2	dantu	_	NOUN	_	_	_	_	_	Trad=cuello
 3	.	.	PUNCT	_	_	_	_	_	
 
@@ -1751,7 +1751,7 @@
 # text[orig] = Deabea tika.
 # text[spa] = Mi ropa esta limpia.
 # author = lilia
-1	Deabea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=limpio,alumbrado
+1	Deabea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=alumbrado,limpio
 2	tika	_	NOUN	_	_	_	_	_	Trad=ropa
 3	.	.	PUNCT	_	_	_	_	_	
 
@@ -1761,7 +1761,7 @@
 # text[spa] = Hay alumbrado público por donde paso.
 # author = lilia
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3
-2	deabea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=limpio,alumbrado
+2	deabea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=alumbrado,limpio
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 4	yuni	_	_	_	_	_	_	_	
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -1804,7 +1804,7 @@
 # author = lilia
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
-3	deakea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=nido,despeinado(a)
+3	deakea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=despeinado(a),nido
 4	tïi	_	NOUN	_	_	_	_	_	Trad=cabeza
 5	.	.	PUNCT	_	_	_	_	_	
 
@@ -1815,7 +1815,7 @@
 # author = lilia
 1	Naka	_	VERB	_	VerbForm=Fin	_	_	_	Trad=encontré|Gloss=?-encontrar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-3	deakea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=nido,despeinado(a)
+3	deakea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=despeinado(a),nido
 4	yáda	_	NOUN	_	_	_	_	_	Trad=pájaro
 5	.	.	PUNCT	_	_	_	_	_	
 
@@ -1886,7 +1886,7 @@
 5	jínay	_	_	_	_	_	_	_	
 6	,	,	PUNCT	_	_	_	_	_	
 7	jíni	_	_	_	_	_	_	_	
-8	díi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=caspa,tamo
+8	díi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=tamo,caspa
 9	tíñ	_	_	_	_	_	_	_	
 10	.	.	PUNCT	_	_	_	_	_	
 
@@ -1896,7 +1896,7 @@
 # text[spa] = _.
 # author = lilia
 1	Tano	_	_	_	_	_	_	_	
-2	díi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=caspa,tamo
+2	díi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=tamo,caspa
 3	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
 4	ne	_	_	_	_	_	_	_	
 5	.	.	PUNCT	_	_	_	_	_	
@@ -1944,7 +1944,7 @@
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	kadi	_	NOUN	_	_	_	_	_	Trad=peso($)
 4	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
-5	dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,gorro,talón
+5	dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 7	.	.	PUNCT	_	_	_	_	_	
 
@@ -2001,7 +2001,7 @@
 # text[spa] = ¿Te peso el maiz?.
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	dikadi	_	VERB	_	_	_	_	_	Trad=peso
 4	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
 5	ñëʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
@@ -2080,7 +2080,7 @@
 # text[spa] = Me duele el talón.
 # author = lilia
 1	Yagii	_	_	_	_	_	_	_	Trad=duele
-2	dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,gorro,talón
+2	dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
 3	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0190
@@ -2169,7 +2169,7 @@
 # author = lilia
 1	Nee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quería|Gloss=?-querer-?
 2	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
-3	dü	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=manteca,uña
+3	dü	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=uña,manteca
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 5	kuchii	_	NOUN	_	_	_	_	_	Trad=puerco
 6	.	.	PUNCT	_	_	_	_	_	
@@ -2268,7 +2268,7 @@
 # text[orig] = A duuʼu chee míi.
 # text[spa] = Quien fue ahí.
 # author = lilia
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	duuʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
 3	chee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
 4	míi	míi	ADV	_	_	_	_	_	Trad=ahí
@@ -2527,7 +2527,7 @@
 # text[orig] = Sakó gua jikadi jidkueakus kú.
 # text[spa] = El no puede tocar la campana.
 # author = lucy
-1	Sakó	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=él
+1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 3	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
 4	jidkueakus	_	VERB	_	_	_	_	_	Trad=tocar.campana
@@ -2539,7 +2539,7 @@
 # text[orig] = chikuʼü cheʼeñ kay ama chéa.
 # text[spa] = Mi abuelita fue a comprra un comal.
 # author = lucy
-1	Chikuʼü	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=mi.abuelita,abuela
+1	Chikuʼü	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 2	cheʼeñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=COM-ir-?
 3	kay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=?-comprar-3SG.HUM
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -2585,7 +2585,7 @@
 # text[spa] = Una abuelita vende cacayas.
 # author = lucy
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-2	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.abuelita,abuela
+2	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
 4	ndéa	_	NOUN	_	_	_	_	_	Trad=cacaya
 5	.	.	PUNCT	_	_	_	_	_	
@@ -2729,7 +2729,7 @@
 # text[spa] = Cuando amanece sale el sol.
 # author = lucy
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-2	a	_	ADV	_	_	_	_	_	Trad=ya
+2	a	a	PART	_	_	_	_	_	Gloss=QST
 3	jideabe	_	_	_	_	_	_	_	Trad=amanece
 4	jiknó	_	VERB	_	VerbForm=Fin	_	_	_	Trad=salen|Gloss=?-salir-?
 5	ñoʼö	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=pueblo,árbol
@@ -2868,7 +2868,7 @@
 # text[orig] = A ö ndó.
 # text[spa] = Llegué a media noche.
 # author = lucy
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	ö	_	_	_	_	_	_	_	
 3	ndó	_	_	_	_	_	_	_	
 4	.	.	PUNCT	_	_	_	_	_	
@@ -2903,7 +2903,7 @@
 2	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
 3	poʼo	_	_	_	_	_	_	_	
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
-5	chikuʼü	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=mi.abuelita,abuela
+5	chikuʼü	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 6	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0264
@@ -2957,7 +2957,7 @@
 # text[spa] = ¿Quién hace ruido?
 # author = lucy
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	Duʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=quien,quién
+2	Duʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=quién,quien
 3	jidi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-?
 4	ranti	_	NOUN	_	_	_	_	_	Trad=ruído
 5	?	?	PUNCT	_	_	_	_	_	
@@ -3125,7 +3125,7 @@
 # author = lucy
 1	Tilï	_	_	_	_	_	_	_	
 2	kó	_	_	_	_	_	_	_	Trad=ese
-3	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+3	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 4	áta	_	VERB	_	_	_	_	_	Trad=llora
 5	.	.	PUNCT	_	_	_	_	_	
 
@@ -3157,7 +3157,7 @@
 # text[spa] = El tecolote grita muy feo.
 # author = lucy
 1	Tecolote	_	NOUN	_	_	_	_	_	Trad=tecolote
-2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 3	kaba	_	_	_	_	_	_	_	Trad=feo
 4	át	_	VERB	_	_	_	_	_	Trad=grita
 5	.	.	PUNCT	_	_	_	_	_	
@@ -3178,7 +3178,7 @@
 # text[orig] = A nínaa tiaka chi chíka moneatea.
 # text[spa] = Ya está maduro el platano que corte la semana pasada.
 # author = lucy
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	nínaa	_	_	_	_	_	_	_	Trad=maduro
 3	tiaka	_	NOUN	_	_	_	_	_	Trad=plátano
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -3226,7 +3226,7 @@
 # text[orig] = Yaʼa tíku.
 # text[spa] = Me duele la cintura.
 # author = lucy
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 2	tíku	_	NOUN	_	_	_	_	_	Trad=chapulín
 3	.	.	PUNCT	_	_	_	_	_	
 
@@ -3247,7 +3247,7 @@
 # text[orig] = Sakó chìnus ama tíntu.
 # text[spa] = Él mató un colibrí.
 # author = lucy
-1	Sakó	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=él
+1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
 2	chìnus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3SG.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	tíntu	_	NOUN	_	_	_	_	_	Trad=colibrí
@@ -3344,7 +3344,7 @@
 # text[spa] = La gallina ya pone huevos.
 # author = lucy
 1	Tutoʼö	_	NOUN	_	_	_	_	_	Trad=gallina
-2	a	_	ADV	_	_	_	_	_	Trad=ya
+2	a	a	PART	_	_	_	_	_	Gloss=QST
 3	ìkut	_	VERB	_	_	_	_	_	Trad=pone|Gloss=?-poner-?
 4	dutit	_	NOUN	_	_	_	_	_	Trad=huevo
 5	.	.	PUNCT	_	_	_	_	_	
@@ -3400,7 +3400,7 @@
 # text[spa] = Yo te amo.
 # author = lucy
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 3	nukud	_	NOUN	_	NounType=Relat	_	_	_	Trad=contigo|Gloss=con-POSS.SG2
 4	.	.	PUNCT	_	_	_	_	_	
 
@@ -3437,7 +3437,7 @@
 2	dínud	_	VERB	_	_	_	_	_	Trad=apretas|Gloss=?-apretar-2SG
 3	koʼo	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
 4	kat	_	SCONJ	_	_	_	_	_	Trad=porque
-5	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+5	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 6	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0312
@@ -3446,7 +3446,7 @@
 # text[spa] = Me duele mucho mi mano.
 # author = lucy
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
-2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 3	toʼo	_	NOUN	_	_	_	_	_	Trad=mano
 4	.	.	PUNCT	_	_	_	_	_	
 
@@ -3457,7 +3457,7 @@
 # author = lucy
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
 2	chéatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
-3	yába	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=memela,piedra.grande,rocas.planas
+3	yába	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=piedra.grande,rocas.planas,memela
 4	kó	_	_	_	_	_	_	_	Trad=ese
 5	.	.	PUNCT	_	_	_	_	_	
 
@@ -3469,7 +3469,7 @@
 1	Kueten	_	NOUN	_	_	_	_	_	Trad=campo
 2	kane	_	_	_	_	_	_	_	Trad=está
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-4	yába	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=memela,piedra.grande,rocas.planas
+4	yába	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=piedra.grande,rocas.planas,memela
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0315
@@ -3512,7 +3512,7 @@
 # text[spa] = No hay hierba para que coman mis animales.
 # author = lucy
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
+2	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=paloma,pichón,hierba
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	chee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
 5	itñeʼë	_	NOUN	_	_	_	_	_	Trad=mis.animales|Gloss=animal#base-POSS.1SG
@@ -3525,7 +3525,7 @@
 # author = lucy
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	ika	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hago
-3	yába	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=memela,piedra.grande,rocas.planas
+3	yába	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=piedra.grande,rocas.planas,memela
 4	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0320
@@ -3535,7 +3535,7 @@
 # author = lucy
 1	Chinuú	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 2	yábaa	_	NOUN	_	_	_	_	_	Trad=arador
-3	dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,gorro,talón
+3	dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
 4	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0321
@@ -3546,7 +3546,7 @@
 1	Yabi	_	ADV	_	_	_	_	_	Trad=anoche
 2	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 3	baku	_	NOUN	_	_	_	_	_	Trad=casa
-4	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.abuelita,abuela
+4	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0322
@@ -3579,7 +3579,7 @@
 1	Noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 2	bakun	_	NOUN	_	_	_	_	_	Trad=mi.casa
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3
-4	yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=perro,pájaro
+4	yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=pájaro,perro
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0325
@@ -3728,7 +3728,7 @@
 # text[orig] = Yata beat jibakuu.
 # text[spa] = Hay palomas en Cuicatlán.
 # author = lucy
-1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
+1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=paloma,pichón,hierba
 2	beat	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3.AML
 3	jibakuu	_	PROPN	_	Typo=Yes	_	_	_	Trad=Cuicatlán|Gloss=LOC
 4	.	.	PUNCT	_	_	_	_	_	
@@ -3740,7 +3740,7 @@
 # author = lucy
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3
-3	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
+3	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=paloma,pichón,hierba
 4	jikioʼö	_	NOUN	_	_	_	_	_	Trad=bosque
 5	.	.	PUNCT	_	_	_	_	_	
 
@@ -3771,7 +3771,7 @@
 # text[orig] = Yaʼa yáti chi genee yuntu.
 # text[spa] = Está muy simple esta comida.
 # author = lucy
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 2	yáti	_	_	_	_	_	_	_	Trad=simple
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	genee	_	_	_	_	_	_	_	
@@ -3793,7 +3793,7 @@
 # text[orig] = Yaʼa yeabea yéabea koo.
 # text[spa] = Está muy bonita esa mariposa.
 # author = lucy
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 2	yeabea	_	_	_	_	_	_	_	Trad=bonito(a)
 3	yéabea	_	NOUN	_	_	_	_	_	Trad=mariposa
 4	koo	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
@@ -3845,7 +3845,7 @@
 1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	yoo	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amargo,brazada
-4	iyu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mes,.luna,luna
+4	iyu	_	_	_	_	_	_	_	
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	
 
@@ -3989,7 +3989,7 @@
 # text[orig] = Dinuu neé cheʼes yukjaʼa.
 # text[spa] = Mi hermano quiere comer chilacayota.
 # author = lucy
-1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,gorro,talón
+1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 3	cheʼes	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG.MSC
 4	yukjaʼa	_	NOUN	_	_	_	_	_	Trad=chilacayota
@@ -4036,7 +4036,7 @@
 # text[spa] = ¿Viste el camino de mi casa?
 # author = lucy
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
 4	yúni	_	NOUN	_	_	_	_	_	Trad=camino
 5	nabaku	_	NOUN	_	_	_	_	_	Trad=mi.casa
@@ -4192,7 +4192,7 @@
 # text[orig] = A kueʼe gèche nete.
 # text[spa] = Ya va matizando el ejote.
 # author = mazali
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	kueʼe	_	VERB	_	_	_	_	_	Trad=va|Gloss=?-ir-?
 3	gèche	_	_	_	_	_	_	_	Trad=macizo
 4	nete	_	NOUN	_	Typo=Yes	_	_	_	Trad=ejote
@@ -4257,7 +4257,7 @@
 # text[orig] = Yaʼa ndá gëe gibii.
 # text[spa] = Huele muy bien la hierbabuena.
 # author = mazali
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 2	ndá	_	_	_	_	_	_	_	Trad=bueno
 3	gëe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=huele|Gloss=?-oler-?
 4	gibii	_	NOUN	_	_	_	_	_	Trad=hierbabuena
@@ -4316,7 +4316,7 @@
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3
 3	sangáta	_	NOUN	_	_	_	_	_	Trad=lobo
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
-5	jíku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cerro,río
+5	jíku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=río,cerro
 6	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0390
@@ -4327,7 +4327,7 @@
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
 2	kani	_	_	_	_	_	_	_	Trad=rápido
 3	jika	_	NOUN	_	_	_	_	_	Trad=camina
-4	sakó	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=él
+4	sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0391
@@ -4338,7 +4338,7 @@
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	cheʼë	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=fui,fui
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
-4	jíku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cerro,río
+4	jíku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=río,cerro
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0392
@@ -4395,7 +4395,7 @@
 # text[orig] = Yaʼa yeabe jita yadkuöo.
 # text[spa] = Canta muy bonito el canario (pájaro).
 # author = mazali
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 2	yeabe	_	_	_	_	_	_	_	
 3	jita	_	VERB	_	VerbForm=Fin	_	_	_	Trad=canta|Gloss=?-cantar-?
 4	yadkuöo	_	NOUN	_	_	_	_	_	Trad=canario
@@ -4478,7 +4478,7 @@
 # text[spa] = ¿Te picó una hormiga?
 # author = mazali
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	koʼó	_	_	_	_	_	_	_	
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	íkùù	_	NOUN	_	_	_	_	_	Trad=hormiga
@@ -4501,7 +4501,7 @@
 # text[spa] = Cuando anochece sale la luciernaga.
 # author = mazali
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-2	a	_	ADV	_	_	_	_	_	Trad=ya
+2	a	a	PART	_	_	_	_	_	Gloss=QST
 3	jimaa	_	VERB	_	_	_	_	_	Trad=anochece
 4	jino	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sale|Gloss=?-salir-?
 5	itñoʼö	_	NOUN	_	_	_	_	_	Trad=luciérnaga
@@ -4522,7 +4522,7 @@
 # text[orig] = Iyu jòò dí ama biku no baku.
 # text[spa] = En el mes de junio voy a hacer una fiesta en mi casa.
 # author = mazali
-1	Iyu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mes,.luna,luna
+1	Iyu	_	_	_	_	_	_	_	
 2	jòò	_	NUM	_	_	_	_	_	Trad=seis
 3	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -4663,7 +4663,7 @@
 1	To	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mucho
 2	nda	_	_	_	_	_	_	_	Trad=muy,.mucho
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3
-4	deabea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=limpio,alumbrado
+4	deabea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=alumbrado,limpio
 5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 6	iyu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mes,.luna,luna
 7	.	.	PUNCT	_	_	_	_	_	
@@ -4697,7 +4697,7 @@
 # author = mazali
 1	Itsoʼö	_	NOUN	_	_	_	_	_	Trad=guajolote
 2	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	a	_	ADV	_	_	_	_	_	Trad=ya
+3	a	a	PART	_	_	_	_	_	Gloss=QST
 4	net	_	_	_	_	_	_	_	
 5	iñʼtoʼö	_	NOUN	_	_	_	_	_	Trad=guajolota
 6	.	.	PUNCT	_	_	_	_	_	
@@ -4890,7 +4890,7 @@
 # text[orig] = A bea kuni ñee iñtoʼö ñeʼë.
 # text[spa] = Ya tiene guajolotitos mi guajolota.
 # author = mazali
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3
 3	kuni	_	_	_	_	_	_	_	
 4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -4928,7 +4928,7 @@
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 3	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
-4	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
+4	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=paloma,pichón,hierba
 5	ícha	_	NOUN	_	_	_	_	_	Trad=tipo.de.quelite
 6	.	.	PUNCT	_	_	_	_	_	
 
@@ -5004,7 +5004,7 @@
 # text[spa] = Mi mamá se tapa su rebozo.
 # author = mazali
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	jeakuy	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=llorar,tapar
+2	jeakuy	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=tapar,llorar
 3	pañu	_	NOUN	_	_	_	_	_	Trad=rebozo
 4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
 5	.	.	PUNCT	_	_	_	_	_	
@@ -5024,7 +5024,7 @@
 # text[orig] = Chikuʼún kay ama jiba.
 # text[spa] = Mí abuelita compró un petate.
 # author = mazali
-1	Chikuʼún	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=mi.abuelita,abuela
+1	Chikuʼún	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 2	kay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=?-comprar-3SG.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	jiba	_	NOUN	_	_	_	_	_	Trad=petate
@@ -5036,7 +5036,7 @@
 # text[spa] = Mi mamá se tapa su rebozo.
 # author = mazali
 1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	jeakuy	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=llorar,tapar
+2	jeakuy	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=tapar,llorar
 3	pañu	_	NOUN	_	_	_	_	_	Trad=rebozo
 4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
 5	.	.	PUNCT	_	_	_	_	_	
@@ -5125,7 +5125,7 @@
 # text[spa] = ¿Te asusta una víbora?.
 # author = mazali
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	jindiyaa	_	VERB	_	VerbForm=Fin	_	_	_	Trad=asusta|Gloss=?-asusta-?
 4	kuu	_	NOUN	_	_	_	_	_	Trad=víbora
 5	dií	_	_	_	_	_	_	_	
@@ -5178,7 +5178,7 @@
 # text[orig] = A jintu noo ñoʼö ñeʼë.
 # text[spa] = Ya estan barbechando mi terreno.
 # author = mazali
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	jintu	_	_	_	_	_	_	_	Trad=barbecho
 3	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 4	ñoʼö	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=pueblo,árbol
@@ -5251,7 +5251,7 @@
 # author = mazali
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
 2	joʼö	_	_	_	_	_	_	_	Trad=suena
-3	jíku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cerro,río
+3	jíku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=río,cerro
 4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	jibaku	_	PROPN	_	Typo=Yes	_	_	_	Trad=Cuicatlán|Gloss=LOC
 6	.	.	PUNCT	_	_	_	_	_	
@@ -5398,7 +5398,7 @@
 # text[orig] = a jinda chi káchi nùnim.
 # text[spa] = falta mucho para que hierva el agua.
 # author = mazali
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	jinda	_	_	_	_	_	_	_	
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	káchi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hierva|Gloss=?-hervir-?
@@ -5433,7 +5433,7 @@
 # text[orig] = A mnòò kadínu.
 # text[spa] = Ya tiene rato que alimorcé.
 # author = mazali
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	mnòò	_	_	_	_	_	_	_	
 3	kadínu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=almorzar|Gloss=?-almorzar-1SG
 4	.	.	PUNCT	_	_	_	_	_	
@@ -5443,9 +5443,9 @@
 # text[orig] = A kadinu a déa bea.
 # text[spa] = Ya me enterare de lo que esta pasando.
 # author = mazali
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	kadinu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=me.enteraré|Gloss=?-enterarse-1SG
-3	a	_	ADV	_	_	_	_	_	Trad=ya
+3	a	a	PART	_	_	_	_	_	Gloss=QST
 4	déa	_	_	_	_	_	_	_	
 5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3
 6	.	.	PUNCT	_	_	_	_	_	
@@ -5514,7 +5514,7 @@
 # text[spa] = ¿Irás a cortar leña?
 # author = mazali
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	kod	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
 4	kàkad	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cortar|Gloss=?-cortar-2SG
 5	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
@@ -5557,7 +5557,7 @@
 # text[spa] = ¿Cuando te vas a casar?
 # author = mazali
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	dea	_	_	_	_	_	_	_	
 4	jobe	_	NOUN	_	_	_	_	_	Trad=día
 5	kanbakud	_	VERB	_	VerbForm=Fin	_	_	_	Trad=casarse|Gloss=?-casarse-2SG
@@ -5570,7 +5570,7 @@
 # author = mazali
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	kanbaku	_	VERB	_	VerbForm=Fin	_	_	_	Trad=casarse|Gloss=?-casarse-1SG
-3	iyu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mes,.luna,luna
+3	iyu	_	_	_	_	_	_	_	
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kuchi	_	NOUN	_	_	_	_	_	Trad=marrano
 6	.	.	PUNCT	_	_	_	_	_	
@@ -5581,7 +5581,7 @@
 # text[spa] = ¿Esta mi hermano aquí?
 # author = mazali
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	kane	_	_	_	_	_	_	_	Trad=está
 4	dinu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 5	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
@@ -5623,7 +5623,7 @@
 # text[orig] = A kutea koʼod kantaa.
 # text[spa] = Ya no iras a la guerra.
 # author = mazali
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	kutea	_	_	_	_	_	_	_	
 3	koʼod	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
 4	kantaa	_	NOUN	_	_	_	_	_	Trad=guerra
@@ -5669,7 +5669,7 @@
 # text[spa] = Cuando termina de llover, sale el arcoíris.
 # author = mazali
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-2	a	_	ADV	_	_	_	_	_	Trad=ya
+2	a	a	PART	_	_	_	_	_	Gloss=QST
 3	inu	inu	NUM	_	NumType=Card	_	_	_	Trad=tres
 4	jee	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 5	,	,	PUNCT	_	_	_	_	_	
@@ -5683,8 +5683,8 @@
 # text[spa] = ¿Dónde iras a cantar?
 # author = mazali
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
-3	tii	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cabeza,dónde
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	tii	_	ADV	_	_	_	_	_	Trad=dónde
 4	koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
 5	katad	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cantar|Gloss=?-cantar-2SG
 6	?	?	PUNCT	_	_	_	_	_	
@@ -5738,7 +5738,7 @@
 1	Kuoʼo	_	_	_	_	_	_	_	Trad=rojo
 2	kiana	_	NOUN	_	_	_	_	_	Trad=camisa
 3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
-4	sakó	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=él
+4	sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0516
@@ -5749,7 +5749,7 @@
 1	Kinü	kinü	ADV	_	_	_	_	_	Trad=mañana.en.la.noche
 2	nubdamauʼu	_	_	_	_	_	_	_	
 3	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
-4	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,hermano(a)
+4	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0517
@@ -5799,7 +5799,7 @@
 1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
 2	kuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=plato,tomo
 3	kui	_	_	_	_	_	_	_	
-4	cheʼed	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=fuiste,come
+4	cheʼed	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=come,fuiste
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0522
@@ -5865,7 +5865,7 @@
 # text[orig] = A neʼe kubdeabea.
 # text[spa] = Ya está amaneciendo.
 # author = mazali
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	neʼe	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=quiero,quiere
 3	kubdeabea	_	_	_	_	_	_	_	Trad=amanecer
 4	.	.	PUNCT	_	_	_	_	_	
@@ -5879,7 +5879,7 @@
 2	jee	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 3	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
 4	jinbinti	_	_	_	_	_	_	_	
-5	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
+5	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=paloma,pichón,hierba
 6	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0529
@@ -6031,7 +6031,7 @@
 # author = mazali
 1	Yaá	_	_	_	_	_	_	_	Trad=está
 2	kuèè	_	_	_	_	_	_	_	Trad=verde
-3	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
+3	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=paloma,pichón,hierba
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3
 6	kuete	_	NOUN	_	_	_	_	_	Trad=campo
@@ -6094,7 +6094,7 @@
 # text[orig] = Dinuu kuʼes kuete.
 # text[spa] = Mi hermano se fue al campo.
 # author = mazali
-1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,gorro,talón
+1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
 2	kuʼes	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=HAB-ir-3SG.MSC
 3	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 4	.	.	PUNCT	_	_	_	_	_	
@@ -6186,7 +6186,7 @@
 # text[spa] = Cuando anochece canta el buho.
 # author = paula
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-2	a	_	ADV	_	_	_	_	_	Trad=ya
+2	a	a	PART	_	_	_	_	_	Gloss=QST
 3	ji	_	VERB	_	_	_	_	_	Trad=hace|Gloss=?-hacer-?
 4	maa	_	_	_	_	_	_	_	Trad=noche
 5	,	,	PUNCT	_	_	_	_	_	
@@ -6222,7 +6222,7 @@
 # text[spa] = Mi hermano mató un cienpies.
 # author = paula
 1	Sadii	_	NOUN	_	_	_	_	_	Trad=mi.hermano
-2	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,hermano(a)
+2	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
 3	chinus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3SG.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	kunette	_	NOUN	_	_	_	_	_	Trad=cienpies
@@ -6349,7 +6349,7 @@
 # text[orig] = Dinuu nichis ama kuu töo.
 # text[spa] = Mi hermano vió un coralillo.
 # author = paula
-1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,gorro,talón
+1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
 2	nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-?
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	kuu	_	NOUN	_	_	_	_	_	Trad=víbora
@@ -6421,7 +6421,7 @@
 # text[spa] = ¿Te quieres dormir?
 # author = paula
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 4	kuyadud	_	VERB	_	VerbForm=Fin	_	_	_	Trad=duerme|Gloss=?-dormir-2SG
 5	?	?	PUNCT	_	_	_	_	_	
@@ -6465,7 +6465,7 @@
 # text[spa] = Cuando anochece sale la chachalaca.
 # author = paula
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-2	a	_	ADV	_	_	_	_	_	Trad=ya
+2	a	a	PART	_	_	_	_	_	Gloss=QST
 3	jimaa	_	VERB	_	_	_	_	_	Trad=anochece
 4	jinoo	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sale|Gloss=?-salir-?
 5	laka	_	_	_	_	_	_	_	Trad=chachalaca
@@ -6781,7 +6781,7 @@
 # text[orig] = Yata ñee kaka ñeedin yeabean nabií.
 # text[spa] = Las hojas de tu libro están muy pegados.
 # author = paula
-1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
+1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=paloma,pichón,hierba
 2	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 3	kaka	_	NOUN	_	_	_	_	_	Trad=papel
 4	ñeedin	_	_	_	_	_	_	_	
@@ -6816,7 +6816,7 @@
 # text[spa] = Vé a recoger el maíz.
 # author = paula
 1	Kued	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vé|Gloss=?-ir-2SG
-2	nabeanud	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=recoger,recoje
+2	nabeanud	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=recoje,recoger
 3	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
 4	.	.	PUNCT	_	_	_	_	_	
 
@@ -6898,7 +6898,7 @@
 1	Kákud	_	VERB	_	VerbForm=Fin	_	_	_	Trad=haz|Gloss=?-hacer-2SG
 2	naiyaa	_	NOUN	_	_	_	_	_	Trad=salsa
 3	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
-4	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.abuelita,abuela
+4	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0618
@@ -6906,7 +6906,7 @@
 # text[orig] = Dinuu jinikus najaʼa.
 # text[spa] = Mi hermano vende nuez.
 # author = paula
-1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,gorro,talón
+1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
 2	jinikus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.MSC
 3	najaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=nuez
 4	.	.	PUNCT	_	_	_	_	_	
@@ -7037,7 +7037,7 @@
 # text[spa] = Mi hermano siembra maíz.
 # author = paula
 1	Sadii	_	NOUN	_	_	_	_	_	Trad=mi.hermano
-2	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,hermano(a)
+2	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
 3	jiinus	_	_	_	_	_	_	_	
 4	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 5	.	.	PUNCT	_	_	_	_	_	
@@ -7098,7 +7098,7 @@
 # text[spa] = ¿Tú necesitas unos guaraches?.
 # author = paula
 1	¿	¿	PUNCT	_	_	_	_	_	
-2	A	_	ADV	_	_	_	_	_	Trad=ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	neʼéd	_	_	_	_	_	_	_	
 4	nobe	_	_	_	_	_	_	_	
 5	nakuu	_	NOUN	_	_	_	_	_	Trad=guarache
@@ -7254,7 +7254,7 @@
 # text[orig] = Yaʼa yaku chiba neatuu.
 # text[spa] = Está muy caro el tomate.
 # author = paula
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,dolor,,amo
+1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=duele,amo,,dolor
 2	yaku	_	_	_	_	_	_	_	Trad=alto
 3	chiba	_	_	_	_	_	_	_	
 4	neatuu	_	NOUN	_	_	_	_	_	Trad=tomate
@@ -7335,7 +7335,7 @@
 # text[orig] = Biʼi nichama nooyos.
 # text[spa] = Mi hermano tiene once años.
 # author = paula
-1	Biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mi.hermano,hermano(a)
+1	Biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
 2	nichama	_	NUM	_	_	_	_	_	Trad=once
 3	nooyos	_	_	_	_	_	_	_	
 4	.	.	PUNCT	_	_	_	_	_	
@@ -7448,7 +7448,7 @@
 # text[orig] = A bea ndeyee chi nínaa.
 # text[spa] = Ya hay duraznos maduros.
 # author = paula
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-SG3
 3	ndeyee	_	_	_	_	_	_	_	
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -7463,7 +7463,7 @@
 1	Nut	_	_	_	_	_	_	_	
 2	Bií	_	NOUN	_	_	_	_	_	Trad=fruta
 3	koon	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ese,señora
-4	a	_	ADV	_	_	_	_	_	Trad=ya
+4	a	a	PART	_	_	_	_	_	Gloss=QST
 5	nínaa	_	_	_	_	_	_	_	Trad=maduro
 6	.	.	PUNCT	_	_	_	_	_	
 
@@ -7484,7 +7484,7 @@
 # text[orig] = A ninchii núni.
 # text[spa] = Ya está cocido el frijol.
 # author = paula
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	ninchii	_	_	_	_	_	_	_	Trad=cocido
 3	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 4	.	.	PUNCT	_	_	_	_	_	
@@ -7529,7 +7529,7 @@
 # text[spa] = Se rompio mi cabeza por que me caí.
 # author = paula
 1	Nínii	_	_	_	_	_	_	_	
-2	tii	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cabeza,dónde
+2	tii	_	ADV	_	_	_	_	_	Trad=dónde
 3	,	,	PUNCT	_	_	_	_	_	
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	chineabea	_	VERB	_	VerbForm=Fin	_	_	_	Trad=me.caí|Gloss=?-caerse-1SG
@@ -7540,7 +7540,7 @@
 # text[orig] = A nínii núni.
 # text[spa] = Ya se reventó el frijol.
 # author = paula
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	nínii	_	_	_	_	_	_	_	
 3	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 4	.	.	PUNCT	_	_	_	_	_	
@@ -7553,7 +7553,7 @@
 1	Yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 2	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 3	takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
-4	a	_	ADV	_	_	_	_	_	Trad=ya
+4	a	a	PART	_	_	_	_	_	Gloss=QST
 5	nintubii	_	_	_	_	_	_	_	
 6	.	.	PUNCT	_	_	_	_	_	
 
@@ -7562,7 +7562,7 @@
 # text[orig] = A nintubii tiaka kuu.
 # text[spa] = Ya está descompuesto éste plátano.
 # author = paula
-1	A	_	ADV	_	_	_	_	_	Trad=ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	nintubii	_	_	_	_	_	_	_	
 3	tiaka	_	NOUN	_	_	_	_	_	Trad=plátano
 4	kuu	_	NOUN	_	_	_	_	_	Trad=víbora
@@ -8043,7 +8043,7 @@
 # text[orig] = Iyu juu intii nutñoo.
 # text[spa] = En el mes de mayo hay zarzamora.
 # author = paula
-1	Iyu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=mes,.luna,luna
+1	Iyu	_	_	_	_	_	_	_	
 2	juu	_	_	_	_	_	_	_	
 3	intii	_	_	_	_	_	_	_	
 4	nutñoo	_	NOUN	_	_	_	_	_	Trad=zarzamora
