@@ -118,7 +118,7 @@ def disambiguate(form, analyses, cux, spa):
 	elif form == 'iyu':
 		new_analyses = choose_if_not_trad(analyses, 'luna', 'mes')
 	elif form == 'ñoʼö':
-		new_analyses = choose_if_not_trad(analyses, r'árbol(es)?', 'pueblo')
+		new_analyses = choose_if_not_trad(analyses, r'(árbol|árboles)', 'pueblo')
 	elif form == 'cheʼed':
 		new_analyses = choose_if_not_trad(analyses, 'come', 'fuiste')
 	elif form == 'yada':
@@ -162,13 +162,9 @@ for line in sys.stdin.readlines():
 	tokens = re.sub('([,:?¿!¡;.])', ' \g<1> ', cux).strip().split(' ')
 	tokens_spa = re.sub('([,:?¿!¡;.])', ' \g<1> ', spa).strip().split(' ')
 
-	print('# sent_id = ejemplos:%s' % (str(sent_id).zfill(4)))
-	print('# text = %s' % (cux))
-	print('# text[orig] = %s' % (orig_cux))
-	print('# text[spa] = %s' % (spa))
-	print('# author = %s' % (author))
 	token_id = 1
 	n_found_pos = 0
+	token_lines = []
 	for token in tokens:
 		if token.strip() == '':
 			continue
@@ -226,15 +222,25 @@ for line in sys.stdin.readlines():
 		if upos != '_':
 			n_found_pos += 1
 
-		print('%d\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s' % (token_id, token, ulem, upos, '_', ufeat, '_', '_', '_', misc))
+		token_lines.append('%d\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s' % (token_id, token, ulem, upos, '_', ufeat, '_', '_', '_', misc))
 		token_id += 1
 		n_toks += 1
 
 	#print('!!', token_id, n_found_pos)
+	fully_tagged = False
 	if n_found_pos == (token_id - 1): 
-		n_tagged_tokens += token_id
+		n_tagged_tokens += token_id - 1
 		n_tagged_sents += 1	
+		fully_tagged = True
 
+	print('# sent_id = ejemplos:%s' % (str(sent_id).zfill(4)))
+	print('# text = %s' % (cux))
+	print('# text[orig] = %s' % (orig_cux))
+	print('# text[spa] = %s' % (spa))
+	print('# tagged = %s' % (str(fully_tagged).lower()))
+	print('# author = %s' % (author))
+	for token_line in token_lines:
+		print(token_line)
 	print()
 
 	n_sents += 1

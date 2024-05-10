@@ -1,4 +1,4 @@
-Palabra	Lema	POS	Feats	Significado	Glosa	1267	922	1059
+Palabra	Lema	POS	Feats	Significado	Glosa	1267	925	1060
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -444,7 +444,7 @@ yudii				arrugado
 yudnoo		NOUN		barba				
 yudu		NOUN		cabello				
 yuduu				plano (lugar)				
-yuduu				caballo				
+yuduu		NOUN		caballo				
 yúduu		NOUN		caballo				
 yukjaʼa		NOUN		chilacayota				
 yúku		NOUN		lagartija				
@@ -1154,10 +1154,10 @@ chíni		NOUN		frijolar
 chivatun		NOUN		chivo				
 chiní		NOUN		hígado				
 chineñ								
-chineabed				te caíste	?-caerse-2SG			
+chineabed		VERB		te caíste	?-caerse-2SG			
 chineabay		VERB	VerbForm=Fin	se cayó	?-caerse-?			
 chikudayay		NOUN		su comadre	comadre-POSS.3SG.HUM			
-chikuday								
+chikuday		NOUN		comadre				
 chikadi		VERB	VerbForm=Fin	pude	?-poder-1SG			
 chíita		VERB	VerbForm=Fin	creció	?-crecer-?			
 chiíbat		NOUN		telaraña				
