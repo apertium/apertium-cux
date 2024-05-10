@@ -212,10 +212,11 @@ for line in sys.stdin.readlines():
 			misc = add_featval(misc, 'Trad', analyses[0][3].replace(' ', '.'))
 			misc = add_featval(misc, 'Gloss',  analyses[0][4])
 		elif len(analyses) > 1:
-			trads = ''
+			ltrads = []
 			for a in analyses:
-				trads += a[3].replace(' ', '.') + ','
-			trads = trads.strip(',')
+				ltrads.append(a[3].replace(' ', '.'))
+			ltrads.sort()
+			trads = ','.join(ltrads)
 			misc = add_featval(misc, 'Ambiguous', 'Yes')
 			misc = add_featval(misc, 'Trad', trads)
 
