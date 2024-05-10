@@ -1137,7 +1137,7 @@
 # text[spa] = Voy a comprar azúcar.
 # tagged = true
 # author = lilia
-1	Koó	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
+1	Koó	_	DET	_	_	_	_	_	Trad=ese
 2	kuaa	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=IRR-comprar-1SG
 3	chiadi	_	NOUN	_	_	_	_	_	Trad=azúcar
 4	.	.	PUNCT	_	_	_	_	_	
@@ -1457,7 +1457,7 @@
 # text[spa] = Voy a comprar una puerta.
 # tagged = true
 # author = lilia
-1	Koó	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
+1	Koó	_	DET	_	_	_	_	_	Trad=ese
 2	kua	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=IRR-comprar-1SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	chinbaʼa	_	NOUN	_	_	_	_	_	Trad=puerta|Gloss=boca#casa
@@ -2613,11 +2613,11 @@
 # text = Chida koʼoñ kuay ñú mojobe.
 # text[orig] = Chida koʼoñ kuay ñú mojobe.
 # text[spa] = Mi pápa va a piscar mazorca hoy.
-# tagged = false
+# tagged = true
 # author = lucy
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	koʼoñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irá|Gloss=POT-ir-?
-3	kuay	_	_	_	_	_	_	_	
+3	kuay	_	VERB	_	_	_	_	_	Trad=piscar|Gloss=?-piscar-3SG.HUM
 4	ñú	_	NOUN	_	_	_	_	_	Trad=mazorca
 5	mojobe	mojobe	ADV	_	_	_	_	_	Trad=hoy
 6	.	.	PUNCT	_	_	_	_	_	
@@ -3347,7 +3347,7 @@
 # tagged = true
 # author = lucy
 1	Kueʼëd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=vé|Gloss=?-ir-2SG
-2	kanguad	_	VERB	_	_	_	_	_	Trad=traer|Gloss=?-traer-2SG
+2	kanguad	_	VERB	_	_	_	_	_	Trad=traer|Gloss=POT-traer-2SG
 3	snï	_	NOUN	_	_	_	_	_	Trad=sobrino
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	.	.	PUNCT	_	_	_	_	_	
@@ -5559,13 +5559,13 @@
 # text = Jingunoo yúduu ñeʼë yama ñëʼét.
 # text[orig] = Jingunoo yúduu ñeʼë yama ñëʼét.
 # text[spa] = Mi animal mastica su zacate.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Jingunoo	_	VERB	_	_	_	_	_	Trad=masticar
 2	yúduu	_	NOUN	_	_	_	_	_	Trad=caballo
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	yama	_	NOUN	_	_	_	_	_	Trad=zacate
-5	ñëʼét	_	_	_	_	_	_	_	
+5	ñëʼét	_	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3SG.AML
 6	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0460
@@ -5887,7 +5887,7 @@
 2	jinda	_	_	_	_	_	_	_	
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	káchi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hierva|Gloss=?-hervir-?
-5	nùnim	_	_	_	_	_	_	_	
+5	nùnim	_	NOUN	_	_	_	_	_	Trad=agua
 6	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0486
@@ -6263,7 +6263,7 @@
 # tagged = false
 # author = mazali
 1	Kinü	kinü	ADV	_	_	_	_	_	Trad=mañana.en.la.noche
-2	nubdamauʼu	_	_	_	_	_	_	_	
+2	nubdamauʼu	_	VERB	_	_	_	_	_	Trad=reuniremos
 3	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 4	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=fruta,hermano(a),mi.hermano
 5	.	.	PUNCT	_	_	_	_	_	
@@ -6315,11 +6315,11 @@
 # text = Ted kuʼu kui cheʼed.
 # text[orig] = Ted kuʼu kui cheʼed.
 # text[spa] = Dame un plato para servirte de comer.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
 2	kuʼu	_	NOUN	_	_	_	_	_	Trad=plato
-3	kui	_	_	_	_	_	_	_	
+3	kui	_	VERB	_	_	_	_	_	Trad=servir|Gloss=?-servir-?
 4	cheʼed	_	VERB	_	_	_	_	_	Trad=come
 5	.	.	PUNCT	_	_	_	_	_	
 
@@ -6655,10 +6655,10 @@
 1	Yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	kuili	_	_	_	_	_	_	_	Trad=renacuajo
-4	nóó	_	_	_	_	_	_	_	
-5	nun	_	_	_	_	_	_	_	
+4	nóó	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
+5	nun	_	NOUN	_	_	_	_	_	Trad=arroyo
 6	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
-7	koó	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
+7	koó	_	DET	_	_	_	_	_	Trad=ese
 8	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0549
@@ -6682,7 +6682,7 @@
 # author = mazali
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-3	kuïñu	_	_	_	_	_	_	_	
+3	kuïñu	_	NOUN	_	_	_	_	_	Trad=comadreja
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	
@@ -7134,7 +7134,7 @@
 4	nanta	_	NOUN	_	_	_	_	_	Trad=flor
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 6	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
-7	kuchba	_	_	_	_	_	_	_	
+7	kuchba	NOUN	_	_	_	_	_	_	Trad=patio
 8	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0587
@@ -7393,7 +7393,7 @@
 3	kaka	_	NOUN	_	_	_	_	_	Trad=papel
 4	ñeedin	_	_	_	_	_	_	_	
 5	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
-6	nabií	_	_	_	_	_	_	_	
+6	nabií	_	_	_	_	_	_	_	Trad=pegado
 7	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0608
@@ -7999,13 +7999,13 @@
 # text = Chakun bea nichi tuʼu ñeeñ.
 # text[orig] = Chakun bea nichi tuʼu ñeeñ.
 # text[spa] = Mi mamá tiene diez pollos.
-# tagged = false
+# tagged = true
 # author = paula
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	nichi	_	NUM	_	_	_	_	_	Trad=díez
 4	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
-5	ñeeñ	_	_	_	_	_	_	_	
+5	ñeeñ	_	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3SG.HUM
 6	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0657
@@ -8062,13 +8062,13 @@
 # text = Insen bea nichubi yúduu ñëʼen.
 # text[orig] = Insen bea nichubi yúduu ñëʼen.
 # text[spa] = Ustedes tienen doce caballos.
-# tagged = false
+# tagged = true
 # author = paula
 1	Insen	insen	PRON	_	PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	nichubi	_	NUM	_	_	_	_	_	Trad=doce
 4	yúduu	_	NOUN	_	_	_	_	_	Trad=caballo
-5	ñëʼen	_	_	_	_	_	_	_	
+5	ñëʼen	_	NOUN	_	NounType=Relat	_	_	_	
 6	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0662

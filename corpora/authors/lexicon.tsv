@@ -1,4 +1,4 @@
-Palabra	Lema	POS	Feats	Significado	Glosa	1269	945	1082
+ 	Lema	POS	Feats	Significado	Glosa	1270	955	1091
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -860,9 +860,9 @@ o
 ñonútii		NOUN		arena				
 ñóngukuu		NOUN		barro				
 ñò								
-ñëʼét								
-ñëʼen								
-ñeeñ								
+ñëʼét		NOUN	NounType=Relat		base-POSS.3SG.AML			
+ñëʼen		NOUN	NounType=Relat					
+ñeeñ		NOUN	NounType=Relat		base-POSS.3SG.HUM			
 ñeedin								
 ñëd								
 ñe								
@@ -876,14 +876,14 @@ nutoʼo		NOUN		dedo
 nutñó		NOUN		zarzamora				
 nutnoos		NOUN		su ojo	ojo-POSS.3SG.MSC			
 nunkubi		NOUN		agua de lluvia				
-nùnim								
-nun								
+nùnim		NOUN		agua				
+nun		NOUN		arroyo				
 numiñ								
 núku		NOUN		conmigo	con-POSS.1SG			
 nuko		ADP		con				
 nubnuni		NOUN		lunar				
 nubi		NOUN		grano				
-nubdamauʼu								
+nubdamauʼu		VERB		reuniremos				
 ntú		NOUN		atole				
 noʼos		VERB		ir	?-ir-3SG.MSC			
 chíika		VERB	VerbForm=Fin	corté	?-cortar-?			
@@ -931,7 +931,7 @@ nana
 najaá								
 naidii		NOUN		aguacate				
 nadna								
-nabií								
+nabií				pegado				
 nabaku		NOUN		mi casa				
 nabaa								
 naas								
@@ -960,21 +960,22 @@ kuni
 kuna		VERB	VerbForm=Fin	masticar	?-masticar-1SG			
 kulantro		NOUN		cilantro				
 kúiyu								
-kuïñu								
+kuïñu		NOUN		comadreja				
 kuiku				tengo hambre				
 kuid		VERB		echa	?-echar-?			
-kui								
+kui		VERB		servir	?-servir-?			
 kueʼe		VERB		va	?-ir-?			
 kueatoʼoy		VERB		echar pico	?-echar.pico-?			
 kuchii		NOUN		puerco				
-kuchba								
+kuchba	NOUN			patio				
 kubnoʼo								
 kúbi								
-kuay								
+kuay		VERB		piscar	?-piscar-3SG.HUM			
 kuäa								
 ku		DET		este				
 koʼos								
 koʼó								
+koó		DET		ese				
 koón		DET		ese				
 ko		DET		ese				
 kiuñú								
@@ -991,7 +992,7 @@ kánta				peligrosas
 kani				rápido				
 kangùy		VERB		va a dejar				
 kanguu		VERB		moler				
-kanguad		VERB		traer	?-traer-2SG			
+kanguad		VERB		traer	POT-traer-2SG			
 kanet		VERB		está	?-estar-3SG.AML			
 kaneñ		VERB		está	?-estar-3SG.HUM			
 kánat		VERB	VerbForm=Fin	llevó	?-llevar-3SG.AML			
