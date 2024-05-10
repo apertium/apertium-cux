@@ -17,13 +17,12 @@ for line in open('lexicon.tsv').readlines():
 	if pos == '': pos = '_'
 	if lema == '': lema = '_'
 
+	if pos == '_' and spa == '' and glosa == '':
+		print('WARNING: Empty token', token, 'in lexicon', file=sys.stderr)
+		continue
 
 	if token not in lexicon:
 		lexicon[token] = []
-	else:
-		if pos == '_' and spa == '':
-			print('WARNING:', token, 'in lexicon', file=sys.stderr)
-			continue
 
 	lexicon[token].append((lema, pos, feats, spa, glosa))
 	lexicon[token] = list(set(lexicon[token]))
@@ -56,7 +55,7 @@ def disambiguate(form, analyses, cux, spa):
 	if len(analyses) < 2:
 		return analyses	
 
-#	print('disambiguate:', form, '|', analyses,'|', cux, spa, file=sys.stderr)
+	print('disambiguate:', form, '|', analyses,'|', cux, spa, file=sys.stderr)
 	new_analyses = analyses
 
 	def choose_if_else(analyses, word, pos1, pos2):
@@ -70,7 +69,7 @@ def disambiguate(form, analyses, cux, spa):
 		else:
 			new_analyses = [i for i in analyses if i[1] == pos2]	
 
-		#print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
+		#print('\t!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
 
 		return new_analyses
 
@@ -82,7 +81,18 @@ def disambiguate(form, analyses, cux, spa):
 				found = True
 		if not found:
 			new_analyses = [i for i in analyses if i[1] == pos1]	
-		#print('!!!:', wordre, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
+		#print('\t!!!:', wordre, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
+
+		return new_analyses
+
+	def choose_if_not_trad(analyses, wordre, trad):
+		new_analyses = analyses
+		found = False
+		for token in spa:
+			if re.findall(wordre, token.lower()):
+				found = True
+		if not found:
+			new_analyses = [i for i in analyses if i[3] == trad]
 
 		return new_analyses
 
@@ -96,21 +106,34 @@ def disambiguate(form, analyses, cux, spa):
 		new_analyses = choose_if_else(analyses, 'pie', 'NOUN', 'VERB')
 	elif form == 'kuʼu':
 		new_analyses = choose_if_else(analyses, 'plato', 'NOUN', 'VERB')
+	elif form == 'cheanu':
+		new_analyses = choose_if_else(analyses, 'cuñada', 'NOUN', 'VERB')
+	elif form == 'kuaa':
+		new_analyses = choose_if_else(analyses, 'relámpago', 'NOUN', 'VERB')
+	elif form == 'kueta':
+		new_analyses = choose_if_else(analyses, 'cohete', 'NOUN', 'VERB')
 	elif form == 'bea':
-		new_analyses = choose_if(analyses, 'sentad[oa]', 'VERB')
+		new_analyses = choose_if(analyses, r'sentad[oa]', 'VERB')
 	elif form == 'iyu':
-		found = False
-		if 'luna' in [i.lower() for i in spa]:
-			found = True
-
-		if not found:
-			new_analyses = [i for i in analyses if i[2] == 'mes']	
-
-		print('!!!:', form, '|', found,'|', analyses,'||', new_analyses, file=sys.stderr)
+		new_analyses = choose_if_not_trad(analyses, 'luna', 'mes')
+	elif form == 'ñoʼö':
+		new_analyses = choose_if_not_trad(analyses, r'árbol(es)?', 'pueblo')
+	elif form == 'cheʼed':
+		new_analyses = choose_if_not_trad(analyses, 'come', 'fuiste')
+	elif form == 'yada':
+		new_analyses = choose_if_not_trad(analyses, r'pájaros?', 'vestido')
+	elif form == 'yuduu':
+		new_analyses = choose_if_not_trad(analyses, 'plano', 'caballo')
+	elif form == 'deabea':
+		new_analyses = choose_if_not_trad(analyses, 'alumbrado', 'limpio')
+	elif form == 'koon':
+		new_analyses = choose_if_not_trad(analyses, 'señora', 'ese')
 
 	if new_analyses == analyses:
-		print('remaining:', form, '|', analyses,'|', '|', cux, spa, file=sys.stderr)
-						
+		print('\tremaining:', form, '|', analyses,'|', '|', cux, spa, file=sys.stderr)
+	else:	
+		print('\tselected:', form, '|', new_analyses,'|', file=sys.stderr)
+
 	return new_analyses
 
 seen = set()
@@ -118,6 +141,7 @@ seen = set()
 n_toks = 0
 n_sents = 0
 n_tagged_sents = 0
+n_tagged_tokens = 0
 tokens_lex = 0
 
 sent_id = 1
@@ -154,6 +178,7 @@ for line in sys.stdin.readlines():
 		if token in ',:?¿!¡;.':
 			ulem = token
 			upos = 'PUNCT'
+
 		analyses = []
 
 		# first look up the token, if not lower case, if not the correction 
@@ -173,17 +198,18 @@ for line in sys.stdin.readlines():
 			analyses = lexicon[k.lower()]	
 
 		analyses = disambiguate(k, analyses, tokens, tokens_spa)
+		print('!!!', analyses, file=sys.stderr)
 
 		if len(analyses) == 1:
-			ulem = lexicon[k][0][0]
-			upos = lexicon[k][0][1]
-			for fv in lexicon[k][0][2].split('|'):
+			ulem = analyses[0][0]
+			upos = analyses[0][1]
+			for fv in analyses[0][2].split('|'):
 				if '=' not in fv:
 					continue
 				f, v = fv.split('=')
 				ufeat = add_featval(ufeat, f, v)
-			misc = add_featval(misc, 'Trad', lexicon[k][0][3].replace(' ', '.'))
-			misc = add_featval(misc, 'Gloss',  lexicon[k][0][4])
+			misc = add_featval(misc, 'Trad', analyses[0][3].replace(' ', '.'))
+			misc = add_featval(misc, 'Gloss',  analyses[0][4])
 		elif len(analyses) > 1:
 			trads = ''
 			for a in analyses:
@@ -204,6 +230,7 @@ for line in sys.stdin.readlines():
 
 	#print('!!', token_id, n_found_pos)
 	if n_found_pos == (token_id - 1): 
+		n_tagged_tokens += token_id
 		n_tagged_sents += 1	
 
 	print()
@@ -213,4 +240,5 @@ for line in sys.stdin.readlines():
 	sent_id += 1
 
 
-print('%d\t%d\t%d (%.2f%%)\t%d (%.2f%%)' % (n_sents, n_toks, tokens_lex, (tokens_lex/n_toks)*100, n_tagged_sents, (n_tagged_sents/n_sents)*100), file=sys.stderr)
+print('%d\t%d\t%d (%.2f%%)' % (n_sents, n_toks, tokens_lex, (tokens_lex/n_toks)*100), file=sys.stderr)
+print('%d (%.2f%%)\t%d (%.2f%%)' % (n_tagged_sents, (n_tagged_sents/n_sents)*100, n_tagged_tokens, (n_tagged_tokens/n_toks)*100), file=sys.stderr)

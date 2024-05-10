@@ -1,7 +1,7 @@
-Palabra	Lema	POS	Feats	Significado	Glosa	1269	890	1032
+Palabra	Lema	POS	Feats	Significado	Glosa	1267	919	1055
 a	a	ADV		ya				
 a	a	PART			QST			
-áa				resuena				
+áa		VERB		resuena				
 alberja		NOUN		chícharo				
 ama		NUM	NumType=Card	uno				
 baʼa		NOUN		casa				
@@ -10,7 +10,7 @@ nbaku		NOUN		casa
 bakuu		NOUN		cárcel				
 bakú		NOUN		cárcel				
 beâ		NOUN		naranja				
-bea		VERB		hay	?-existir-SG3			
+bea		VERB		hay	?-existir-3SG			
 bea				sentado				
 beaku				elegante				
 beanete		NOUN		limón				
@@ -18,6 +18,7 @@ beanu		NOUN		epazote
 bedbêe				envidia				
 bede		NOUN		español				
 bedinuu		NOUN		milagro				
+bee		NOUN		oreja				
 bee				ciego				
 bëe		NOUN		orilla				
 biʼi		NOUN		hermano(a)				
@@ -32,12 +33,12 @@ chakun		NOUN		mi mamá
 chakud		NOUN		tu mamá	mamá-POSS.2SG			
 chaku		NOUN		mi mamá				
 cheʼed		VERB		come				
-chea			PronType=Int	cuál				
+chea		DET	PronType=Int	cuál				
 chéa		NOUN		comal				
-chéanu		VERB		gusté	?-gustar-SG1			
+chéanu		VERB		gusté	?-gustar-1SG			
 cheanu		VERB		corrió				
 cheanu		NOUN		cuñada				
-cheanú				sufrir				
+cheanú		VERB		sufrí	?-sufrir-1SG			
 cheanuu		VERB	VerbForm=Stat	largo				
 cheatea		VERB	VerbForm=Stat	grande				
 chéatu				sordo				
@@ -46,7 +47,7 @@ chebinu		VERB		cenar
 cheede		NOUN		carga				
 cheene		NOUN		soplador				
 cheete		NOUN		estómago				
-cheutumañ		VERB	VerbForm=Fin	rodear	?-rodear-SG3.HUM			
+cheutumañ		VERB	VerbForm=Fin	rodear	?-rodear-3SG.HUM			
 chï				eso				
 chíbat		NOUN		telaraña				
 chibatu		NOUN		chivo				
@@ -58,7 +59,6 @@ chiíta		VERB	VerbForm=Fin	creció	?-crecer-?
 chíka		VERB	VerbForm=Fin	corté	?-cortar-?			
 chikuʼu		NOUN		abuela				
 chikudaya		NOUN		comadre				
-chinbaʼa		NOUN		puerta				
 chindiyaa				asustó				
 chini		VERB	VerbForm=Fin	tronar	?-tronar-?			
 chíní		NOUN		frijolar				
@@ -73,8 +73,7 @@ chunti
 chúnti		NOUN		grillo				
 clinika	clínica	NOUN		clínica				
 daday		NOUN		su yerno	yerno-POSS.3SG.HUM			
-dada		NOUN		yerno				
-dada		NOUN		cuñado				
+dada		NOUN		yerno, cuñado				
 daku		NOUN		sobrino				
 dama				igual				
 dankubi		NOUN		llovizna				
@@ -119,7 +118,6 @@ diydaʼa		NOUN		raíz
 dóo				hiel				
 dü		NOUN		manteca				
 dü		NOUN		uña				
-duʼu		PRON	PronType=Int	quien				
 dúchi		NOUN		codo				
 dúdi		NOUN		tía				
 dudi		NOUN		tía				
@@ -240,7 +238,7 @@ káka		NOUN		peine
 kaka yòò		NOUN		cal				
 kákaa		NOUN		cansancio				
 kambo		NOUN		compadre				
-kane				está				
+kane		VERB		está	?-estar-?			
 kaniku				deber (algo pendiente)				
 kaníku				algo colgado				
 känta				delicado, peligroso				
@@ -401,6 +399,7 @@ yábaa		NOUN		arador
 yabi		ADV		anoche				
 yábi		VERB		le hablé				
 yachi		NOUN		masa				
+yada		NOUN		vestido				
 yada		NOUN		pájaro				
 yadi				dulce				
 yadnuni		NOUN		pato				
@@ -445,6 +444,7 @@ yudii				arrugado
 yudnoo		NOUN		barba				
 yudu		NOUN		cabello				
 yuduu				plano (lugar)				
+yuduu				caballo				
 yúduu		NOUN		caballo				
 yukjaʼa		NOUN		chilacayota				
 yúku		NOUN		lagartija				
@@ -493,7 +493,7 @@ chikuʼu		NOUN		mi abuelita
 yada		NOUN		perro				
 noʼoo		NOUN		bala				
 betee		NOUN		tamal				
-koon				ese				
+koon		DET		ese				
 koon		NOUN		señora				
 skuela	skuela	NOUN		escuela				
 tòò		ADV		ahí				
@@ -517,10 +517,10 @@ jínyinii		VERB	VerbForm=Fin	sembrar	?-sembrar-?
 jiinuy		VERB	VerbForm=Fin	siembra	?-sembrar-3SG.HUM			
 jínuñ		VERB	VerbForm=Fin	siembra	?-sembrar-?			
 jínus		VERB	VerbForm=Fin	siembra	?-sembrar-3SG.MSC			
-nichis		VERB	VerbForm=Fin	vio	?-ver-?			
-nichiy		VERB	VerbForm=Fin	vio	?-ver-?			
-nichita		VERB	VerbForm=Fin	vio	?-ver-?			
-jinus		VERB	VerbForm=Fin	usa	?-usar-?			
+nichis		VERB	VerbForm=Fin	vio	?-ver-3SG.MSC			
+nichiy		VERB	VerbForm=Fin	vio	?-ver-3SG.HUM			
+nichita		VERB	VerbForm=Fin	vio	?-ver-3SG.FEM			
+jinus		VERB	VerbForm=Fin	usa	?-usar-3SG.MSC			
 nood	kaʼan	VERB	VerbForm=Fin	llegaste	?-?-2SG			
 noʼó	kaʼan	VERB	VerbForm=Fin	voy	?-?-1SG			
 chúʼüu	kaʼan	VERB	VerbForm=Fin	fuimos	COM-ir-1PL			
@@ -548,7 +548,7 @@ jeʼet	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG
 jeét	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG 			
 jeéta	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.FEM			
 jeéy	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.HUM			
-cheʼet	cheʼe	VERB	VerbForm=Fin	comio	?-comer-3SG			
+cheʼet	cheʼe	VERB	VerbForm=Fin	comio	?-comer-3SG.AML			
 cheʼe	cheʼe	VERB	VerbForm=Fin	como	?-comer-1SG			
 cheʼes	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.MSC			
 jeeya	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.HUM			
@@ -562,7 +562,6 @@ chuʼuu	cheʼe	VERB	VerbForm=Fin	comemos	?-comer-1PL
 neʼë		VERB	VerbForm=Fin	quiero	?-querer-1SG			
 nee		VERB	VerbForm=Fin	quería	?-querer-?			
 neʼé		VERB	VerbForm=Fin	quiero	?-querer-1SG			
-neʼe		VERB	VerbForm=Fin	quiero	?-querer-1SG			
 neé		VERB	VerbForm=Fin	quiere	?-querer-?			
 neʼe		VERB	VerbForm=Fin	quiere	?-querer-?			
 neʼes		VERB	VerbForm=Fin	quiere	?-querer-3SG.MSC			
@@ -588,17 +587,17 @@ joʼoy		VERB	VerbForm=Fin	da	?-dar-?
 chika		VERB	VerbForm=Fin	corté	?-cortar-?			
 kàkad		VERB	VerbForm=Fin	cortar	?-cortar-2SG			
 kaaka		VERB	VerbForm=Fin	cortar	?-cortar-?			
-kua		VERB	VerbForm=Fin	comprar	?-comprar-?			
-kaa		VERB	VerbForm=Fin	comprar	?-comprar-?			
-kuaa		VERB	VerbForm=Fin	comprar	?-comprar-?			
-káta		VERB	VerbForm=Fin	compró	?-comprar-3SG.FEM			
-kaá		VERB	VerbForm=Fin	compré	?-comprar-1SG			
-ká		VERB	VerbForm=Fin	comprar	?-comprar-1SG			
-kay		VERB	VerbForm=Fin	comprar	?-comprar-3SG.HUM			
-kad		VERB	VerbForm=Fin	comprar	?-comprar-2SG			
-kuad		VERB	VerbForm=Fin	comprar	?-comprar-2SG			
-kúad		VERB	VerbForm=Fin	comprar	?-comprar-2SG			
-jaata		VERB	VerbForm=Fin	compra	?-comprar-3SG.FEM			
+kua		VERB	VerbForm=Fin	comprar	IRR-comprar-?			
+kaa		VERB	VerbForm=Fin	comprar	COM-comprar-?			
+kuaa		VERB	VerbForm=Fin	comprar	IRR-comprar-?			
+káta		VERB	VerbForm=Fin	compró	COM-comprar-3SG.FEM			
+kaá		VERB	VerbForm=Fin	compré	COM-comprar-1SG			
+ká		VERB	VerbForm=Fin	comprar	COM-comprar-1SG			
+kay		VERB	VerbForm=Fin	comprar	COM-comprar-3SG.HUM			
+kad		VERB	VerbForm=Fin	comprar	COM-comprar-2SG			
+kuad		VERB	VerbForm=Fin	comprar	IRR-comprar-2SG			
+kúad		VERB	VerbForm=Fin	comprar	IRR-comprar-2SG			
+jaata		VERB	VerbForm=Fin	compra	PROG-comprar-3SG.FEM			
 koʼoy		VERB	VerbForm=Fin	pegaron	?-pegar-?			
 jinuu		VERB	VerbForm=Fin	pongo	?-poner-1SG			
 jinikuta		VERB	VerbForm=Fin	vende	?-vender-3SG.FEM			
@@ -642,7 +641,7 @@ kaneé		VERB	VerbForm=Fin	cargar	?-cargar-?
 naka		VERB	VerbForm=Fin	encontré	?-encontrar-1SG			
 tanod		VERB	VerbForm=Fin	sácale	?-sacar-2SG			
 kakad		VERB	VerbForm=Fin	corta	?-cortar-2SG			
-chinót		VERB	VerbForm=Fin	se cayó	?-caerse-3SG			
+chinót		VERB	VerbForm=Fin	se cayó	?-caerse-3SG.AML			
 guay		VERB	VerbForm=Fin	traer	?-traer-3SG.HUM			
 jinay		VERB	VerbForm=Fin	lleva	?-llevar-?			
 kunud		VERB	VerbForm=Fin	ponle	?-poner-2SG			
@@ -667,7 +666,7 @@ jába		VERB	VerbForm=Fin	ladra	?-ladrar-?
 								
 yeabean				mucho, muy				
 baʼa		NOUN		casa				
-kó				ese				
+kó		DET		ese				
 eanu		VERB		gusto	?-gustar-1SG			
 tï		NOUN		cabeza				
 nochi		ADV	AdvType=Rel	donde				
@@ -683,7 +682,6 @@ tuu		NOUN		piedra
 tikaa		NOUN		mi ropa				
 tika		NOUN		ropa				
 tiaka		NOUN		plátano				
-ñuu								
 ñoʼoo		NOUN		tierra, barro				
 ñeé		NOUN		de él	base-POSS.3SG			
 noʼo		NOUN		leña				
@@ -696,12 +694,12 @@ chinbaʼa		NOUN		puerta	boca#casa
 biʼi		NOUN		mi hermano				
 toʼo		NOUN		mano				
 nùni		NOUN		agua				
-noy								
+noy		VERB		vino	?-venir-?			
 nakuu		NOUN		guarache				
 mojoben	mojobe	ADV		hoy				
 mojobe	mojobe	ADV		hoy				
 kuee								
-kú				este				
+kú		DET		este				
 kané		VERB		está	?-estar-?			
 kaba				feo				
 ji		VERB		hace	?-hacer-?			
@@ -712,7 +710,7 @@ keaben		NOUN		mi hermano
 chinuú		NOUN		mi hermano				
 chiblaʼa		NOUN		armadillo				
 cheate		VERB	VerbForm=Stat	grande				
-beat		VERB		hay	?-existir-SG3.AML			
+beat		VERB		hay	?-existir-3SG.AML			
 yúdii		NOUN		elote				
 yádi		NOUN		higo				
 toʼö								
@@ -721,12 +719,12 @@ tíkun		NOUN		chapulín
 tíku		NOUN		chapulín				
 tïi		NOUN		cabeza				
 tiba		NOUN		empanada				
-takabea								
+takabea		VERB		cómo está	cómo#estar			
 soʼö		NOUN		hombre				
 snuu		VERB		tiene	?-tener-?			
 snúni		NOUN		padrino				
 snuni		NOUN		padrino				
-snú		VERB		tengo	?-tener-SG1			
+snú		VERB		tengo	?-tener-1SG			
 snu		VERB		tiene				
 sadii		NOUN		mi hermano				
 pö		NOUN		pan				
@@ -734,7 +732,7 @@ nutdúü		NOUN		grilla
 nutdiku								
 num				todo				
 nukud		NOUN	NounType=Relat	contigo	con-POSS.SG2			
-noos		NOUN		su cara	cara-POSS.SG3.MSC			
+noos		NOUN		su cara	cara-POSS.3SG.MSC			
 nojobe								
 nó								
 nintubii								
@@ -746,9 +744,8 @@ mii		ADV		allá
 maa				noche				
 kuí		VERB		echar	?-echar-?			
 kueta		NOUN		cohete				
-kueta		VERB	VerbForm=Fin	fue	?-ir-SG3.FEM			
+kueta		VERB	VerbForm=Fin	fue	?-ir-3SG.FEM			
 kubii		NOUN		lluvia				
-kon								
 kántu		NOUN		caldo				
 kanee		VERB	VerbForm=Fin	se quedó	?-quedarse-?			
 kaned		VERB	VerbForm=Fin	estás	?-estar-2SG			
@@ -761,7 +758,7 @@ jimaa		VERB		anochece
 jíkuu		NOUN		río				
 jiku		NOUN		río, cerro				
 iñan		NOUN		gente				
-íi		VERB	VerbForm=Fin	echo	?-echar-SG1			
+íi		VERB	VerbForm=Fin	echo	?-echar-1SG			
 gë				hay				
 díta		NOUN		pájaro carpintero				
 dínud		VERB		apretas	?-apretar-2SG			
@@ -769,7 +766,7 @@ dikuoʼoo		NOUN		bebé
 dijú								
 dijinuy		NOUN		nieto				
 dií								
-dayay		NOUN		su hijo(a)	hijo-POSS.SG3.HUM			
+dayay		NOUN		su hijo(a)	hijo-POSS.3SG.HUM			
 chúntii		NOUN		grillo				
 chinuñ		VERB	VerbForm=Fin	mató	?-matar-?			
 chineabea		VERB	VerbForm=Fin	me caí	?-caerse-1SG			
@@ -785,7 +782,7 @@ adeea		PRON	PronType=Int	qué
 zangáta		NOUN		lobo				
 yúuni		NOUN		camino				
 yùni		NOUN		camino				
-yuni								
+yuni		NOUN		camino				
 yukuu		NOUN		calabaza				
 yúdu								
 yudnooy		NOUN		barba				
@@ -801,7 +798,6 @@ yáda		NOUN		pájaro
 yàbi		ADV		anoche				
 yaaʼa								
 yaás								
-üñ								
 túʼu								
 tumaa		VERB		cortar	?-cortar-?			
 tuma		VERB		cortar	?-cortar-?			
@@ -856,14 +852,12 @@ o
 ñu		NOUN		granizo				
 ñóʼoo		NOUN		barro				
 ñoʼön								
-ñoʼon								
 ñòon								
-ñöo								
+ñöo		NOUN		calor				
 ñóo								
 ñonútii		NOUN		arena				
 ñóngukuu		NOUN		barro				
 ñò								
-ñó								
 ñëʼét								
 ñëʼen								
 ñeeñ								
@@ -873,7 +867,7 @@ o
 ñaʼa								
 ñañaa		NOUN		coyote				
 ñaña								
-ñaat								
+ñaat				sucio				
 ña								
 nutyáku								
 nutoʼo		NOUN		dedo				
@@ -906,7 +900,6 @@ niibii
 niï								
 nichid		VERB	VerbForm=Fin	viste	?-ver-2SG			
 nicha								
-nì								
 nguay		VERB	VerbForm=Fin	traer	?-traer-?			
 neʼëñ								
 neʼéd								
@@ -923,7 +916,7 @@ ndoyo
 ndó								
 ndios		NOUN		dios				
 ndimi								
-ndeyaa								
+ndeyaa		NOUN		durazno				
 ndeayaa		NOUN		durazno				
 ndéa		NOUN		cacaya				
 ndea								
@@ -956,7 +949,7 @@ lantiku
 kúʼuu		VERB		tomar	?-tomar-?			
 kuʼö	kuʼö	ADV		antenoche				
 kuyadu		VERB		dormir	?-dormir-?			
-kuunód								
+kuunód		VERB		tienes pena	?-tener.pena-2SG			
 küu								
 kútii		NOUN		sombra				
 kutea								
@@ -967,7 +960,7 @@ kuna
 kulantro		NOUN		cilantro				
 kúiyu								
 kuïñu								
-kuiku								
+kuiku				tengo hambre				
 kuid		VERB		echa	?-echar-?			
 kui								
 kueʼe		VERB		va	?-ir-?			
@@ -978,11 +971,11 @@ kubnoʼo
 kúbi								
 kuay								
 kuäa								
-ku				este				
+ku		DET		este				
 koʼos								
 koʼó								
-koón				ese				
-ko								
+koón		DET		ese				
+ko		DET		ese				
 kiuñú								
 keade								
 keabeay								
@@ -996,7 +989,7 @@ käntay
 kánta								
 kani				rápido				
 kangùy		VERB		va a dejar				
-kanguu								
+kanguu		VERB		moler				
 kanguad		VERB		traer	?-traer-2SG			
 kanet								
 kaneñ								
@@ -1119,7 +1112,7 @@ dimoʼö
 dimoo				sólo, puro				
 dikuoʼo								
 dikunú		NOUN		nuera				
-dikaya								
+dikaya		NOUN		niños				
 dikadi		VERB		peso				
 diiyu								
 diis								
@@ -1128,15 +1121,15 @@ diinuu		NOUN		gorro
 diijuku		NOUN		tecolote				
 did								
 dibyudi		NOUN		mala mujer				
-dibíkuy								
-dibaku								
-dï								
-dechea								
-deanud								
+dibíkuy		VERB		bendecir	?-bendecir-?			
+dibaku		NOUN		cuicateco				
+dï		VERB		hago	?-hacer-?			
+dechea		NOUN		mugre				
+deanud		VERB	VerbForm=Fin	sabes	?-saber-SG2			
 deaku		NOUN		basura				
 déa								
 dea								
-dayas		NOUN		su hijo(a)	hijo-POSS.SG3.MSC			
+dayas		NOUN		su hijo(a)	hijo-POSS.3SG.MSC			
 dayad		NOUN		tu hijo(a)	hijo-POSS.SG2			
 dayaa		NOUN		su hijo(a)				
 damid								
@@ -1145,7 +1138,7 @@ daanu		NOUN		sombra
 daá								
 chuu		PRON		ésto				
 chóo								
-chiʼiy								
+chiʼiy		VERB		murió	?-morir-3SG.HUM			
 chivatu		NOUN		chivo				
 chivato		NOUN		chivo				
 chitöo								
@@ -1161,9 +1154,9 @@ chíni		NOUN		frijolar
 chivatun		NOUN		chivo				
 chiní		NOUN		hígado				
 chineñ								
-chineabed								
+chineabed				te caíste	?-caerse-2SG			
 chineabay		VERB	VerbForm=Fin	se cayó	?-caerse-?			
-chikudayay		NOUN		su comadre	comadre-POSS.SG3.HUM			
+chikudayay		NOUN		su comadre	comadre-POSS.3SG.HUM			
 chikuday								
 chikadi		VERB	VerbForm=Fin	pude	?-poder-1SG			
 chíita		VERB	VerbForm=Fin	creció	?-crecer-?			
@@ -1189,6 +1182,7 @@ biʼin		NOUN		mi hermana
 binkuinuu				de luto				
 bílu		NOUN		gato				
 bíʼi		NOUN		mi hermano				
+biʼi		NOUN		fruta				
 bií		NOUN		fruta				
 bii		NOUN		fruta				
 bichi		NOUN		gato				
@@ -1204,7 +1198,7 @@ beede		NOUN		español
 bèè								
 bée				malo(a)				
 bedyeno				estar de fiesta				
-bedeanu								
+bedeanu				conocimiento				
 bed								
 beaye								
 chichëen		NOUN		mi abuelito				
@@ -1215,7 +1209,7 @@ chichen		NOUN		mi abuelito
 ñoo		NOUN		pueblo				
 ñó		NOUN		pueblo				
 bayaka		NOUN		coscomate				
-bañeʼë		NOUN		mi casa	casa#base-POSS.SG1			
+bañeʼë		NOUN		mi casa	casa#base-POSS.1SG			
 bakun		NOUN		mi casa				
 baa								
 ay				llama				
@@ -1224,9 +1218,9 @@ ay				llama
 at		VERB		grita				
 dikayan		NOUN		niños				
 ñuu		NOUN		mazorca				
-tin				ese				
-ti				ese				
-kon				ese				
+tin		DET		ese				
+ti		DET		ese				
+kon		DET		ese				
 ey		INTJ		sí				
 mun		ADV		aquí				
 kuninun				allá arriba				
@@ -1243,6 +1237,8 @@ nuekueʼen		PRON		todos
 tös				enojado				
 toó				allí				
 amañ		PRON		alguien				
+chenu		NOUN		cuñada				
+chenun		NOUN		cuñada				
 tutoʼö		NOUN		gallina				
 tusoʼö		NOUN		gallo				
 tú		NOUN		pulgada				
@@ -1254,6 +1250,8 @@ chii		VERB		se murió	?-morirse-?
 ika		VERB		hago	?-hacer-1SG			
 yaʼa		VERB		duele				
 üñ		VERB		raja	?-rajar-?			
+anicha				macizo				
+choʼo		VERB		pasé	?-pasar-1SG			
 kachika		VERB		anda	?-andar-?			
 nantibid		VERB		haz	?-hacer-?			
 neñu		VERB		voy a coser	?-coser-?			
