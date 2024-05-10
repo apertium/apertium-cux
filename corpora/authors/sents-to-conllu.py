@@ -94,6 +94,8 @@ def disambiguate(form, analyses, cux, spa):
 				found = True
 		if not found:
 			new_analyses = [i for i in analyses if i[3] == trad]
+		else:
+			new_analyses = [i for i in analyses if i[3] != trad]
 
 		return new_analyses
 

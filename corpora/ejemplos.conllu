@@ -379,11 +379,11 @@
 # text = Un bea ñoʼö beanete ñeʼë.
 # text[orig] = Un bea ñoʼö beanete ñeʼë.
 # text[spa] = Yo tengo árboles de limones.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-3	ñoʼö	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=pueblo,árbol
+3	ñoʼö	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
 4	beanete	_	NOUN	_	_	_	_	_	Trad=limón
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	
@@ -1014,9 +1014,9 @@
 # text = Cheʼed gua kuunód.
 # text[orig] = Cheʼed gua kuunód.
 # text[spa] = Come, no tengas pena.
-# tagged = false
+# tagged = true
 # author = lilia
-1	Cheʼed	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=come,fuiste
+1	Cheʼed	_	VERB	_	_	_	_	_	Trad=come
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 3	kuunód	_	VERB	_	_	_	_	_	Trad=tienes.pena|Gloss=?-tener.pena-2SG
 4	.	.	PUNCT	_	_	_	_	_	
@@ -1923,7 +1923,7 @@
 # tagged = false
 # author = lilia
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-2	deabea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=alumbrado,limpio
+2	deabea	_	_	_	_	_	_	_	Trad=alumbrado
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 4	yuni	_	NOUN	_	_	_	_	_	Trad=camino
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -3903,7 +3903,7 @@
 1	Noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 2	bakun	_	NOUN	_	_	_	_	_	Trad=mi.casa
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-4	yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=perro,pájaro,vestido
+4	yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=perro,pájaro
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0325
@@ -4324,7 +4324,7 @@
 # tagged = false
 # author = lucy
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
-2	yuduu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=caballo,plano.(lugar)
+2	yuduu	_	_	_	_	_	_	_	Trad=plano.(lugar)
 3	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 5	.	.	PUNCT	_	_	_	_	_	
@@ -6320,7 +6320,7 @@
 1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
 2	kuʼu	_	NOUN	_	_	_	_	_	Trad=plato
 3	kui	_	_	_	_	_	_	_	
-4	cheʼed	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=come,fuiste
+4	cheʼed	_	VERB	_	_	_	_	_	Trad=come
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0522
@@ -7650,10 +7650,10 @@
 # text = Iña koon jinánuy chita ñëʼeñ.
 # text[orig] = Iña koon jinánuy chita ñëʼeñ.
 # text[spa] = Esa señora está lavando su olla.
-# tagged = false
+# tagged = true
 # author = paula
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
-2	koon	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ese,señora
+2	koon	_	NOUN	_	_	_	_	_	Trad=señora
 3	jinánuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=está.lavando|Gloss=?-lavar-3SG.HUM
 4	chita	_	NOUN	_	_	_	_	_	Trad=olla
 5	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
@@ -8641,7 +8641,7 @@
 # tagged = false
 # author = paula
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
-2	koon	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ese,señora
+2	koon	_	NOUN	_	_	_	_	_	Trad=señora
 3	jiníkuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vendio|Gloss=?-vender-3SG.HUM
 4	nutbee	_	NOUN	_	_	_	_	_	Trad=arete
 5	naa	_	_	_	_	_	_	_	
