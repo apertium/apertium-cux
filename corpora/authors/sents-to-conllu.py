@@ -212,7 +212,7 @@ for line in sys.stdin.readlines():
 			misc = add_featval(misc, 'Trad', analyses[0][3].replace(' ', '.'))
 			misc = add_featval(misc, 'Gloss',  analyses[0][4])
 		elif len(analyses) > 1:
-			ltrads = []
+			ltrads = [] # make sure list of translations is in stable order
 			for a in analyses:
 				ltrads.append(a[3].replace(' ', '.'))
 			ltrads.sort()
