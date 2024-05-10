@@ -160,6 +160,8 @@ def disambiguate(form, analyses, cux, spa):
 		new_analyses = choose_if_not_trad(analyses, r'pájaros?', 'vestido')
 	elif form == 'yuduu':
 		new_analyses = choose_if_not_trad(analyses, 'plano', 'caballo')
+	elif form == 'chikuu' or form == 'chikuʼu':
+		new_analyses = choose_if_not_trad(analyses, r'(mi|mí)', 'abuela')
 	elif form == 'deabea':
 		new_analyses = choose_if_not_trad(analyses, 'alumbrado', 'limpio')
 	elif form == 'koon':

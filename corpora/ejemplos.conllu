@@ -456,7 +456,7 @@
 # text[spa] = Mi abuelita esta ciega.
 # tagged = false
 # author = lilia
-1	Chikuún	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+1	Chikuún	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.abuelita
 2	bee	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ciego,oreja
 3	noy	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
 4	.	.	PUNCT	_	_	_	_	_	
@@ -567,10 +567,10 @@
 # text = Ama chikuu jinikuy betee.
 # text[orig] = Ama chikuu jinikuy betee.
 # text[spa] = Una abuelita vende tamal.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-2	chikuu	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+2	chikuu	_	NOUN	_	Typo=Yes	_	_	_	Trad=abuela
 3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
 4	betee	_	NOUN	_	_	_	_	_	Trad=tamal
 5	.	.	PUNCT	_	_	_	_	_	
@@ -870,7 +870,7 @@
 # text[spa] = Mi abuelita es sorda.
 # tagged = false
 # author = lilia
-1	Chikuún	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+1	Chikuún	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.abuelita
 2	cheatuy	_	_	_	_	_	_	_	Trad=sordo
 3	.	.	PUNCT	_	_	_	_	_	
 
@@ -1372,11 +1372,11 @@
 # text = Bea obe chikuʼu.
 # text[orig] = Bea obe chikuʼu.
 # text[spa] = Tengo dos abuelitas.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
-3	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+3	chikuʼu	_	NOUN	_	_	_	_	_	Trad=abuela
 4	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0116
@@ -1388,7 +1388,7 @@
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	too	_	_	_	_	_	_	_	Trad=mucho
 3	nëe	_	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
-4	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+4	chikuʼu	_	NOUN	_	_	_	_	_	Trad=mi.abuelita
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0117
@@ -1575,9 +1575,9 @@
 # text = Chikuʼu jinay chita.
 # text[orig] = Chikuʼu jinay chita.
 # text[spa] = Mí abuelita hace ollas.
-# tagged = false
+# tagged = true
 # author = lilia
-1	Chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+1	Chikuʼu	_	NOUN	_	_	_	_	_	Trad=mi.abuelita
 2	jinay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=lleva|Gloss=?-llevar-?
 3	chita	_	NOUN	_	_	_	_	_	Trad=olla
 4	.	.	PUNCT	_	_	_	_	_	
@@ -2768,9 +2768,9 @@
 # text = Chikuʼü cheʼeñ kay ama chéa.
 # text[orig] = chikuʼü cheʼeñ kay ama chéa.
 # text[spa] = Mi abuelita fue a comprra un comal.
-# tagged = false
+# tagged = true
 # author = lucy
-1	Chikuʼü	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+1	Chikuʼü	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.abuelita
 2	cheʼeñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=COM-ir-?
 3	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=COM-comprar-3SG.HUM
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -2817,10 +2817,10 @@
 # text = Ama chikuʼu jinikuy ndéa.
 # text[orig] = Ama chikuʼu jinikuy ndéa.
 # text[spa] = Una abuelita vende cacayas.
-# tagged = false
+# tagged = true
 # author = lucy
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-2	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+2	chikuʼu	_	NOUN	_	_	_	_	_	Trad=abuela
 3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
 4	ndéa	_	NOUN	_	_	_	_	_	Trad=cacaya
 5	.	.	PUNCT	_	_	_	_	_	
@@ -3166,7 +3166,7 @@
 2	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
 3	poʼo	_	_	_	_	_	_	_	
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
-5	chikuʼü	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+5	chikuʼü	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.abuelita
 6	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0264
@@ -3862,12 +3862,12 @@
 # text = Yabi cheʼe baku chikuʼu.
 # text[orig] = Yabi cheʼe baku chikuʼu.
 # text[spa] = Anoche fui a casa de mi abuelita.
-# tagged = false
+# tagged = true
 # author = lucy
 1	Yabi	_	ADV	_	_	_	_	_	Trad=anoche
 2	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 3	baku	_	NOUN	_	_	_	_	_	Trad=casa
-4	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+4	chikuʼu	_	NOUN	_	_	_	_	_	Trad=mi.abuelita
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0322
@@ -5474,9 +5474,9 @@
 # text = Chikuʼún kay ama jiba.
 # text[orig] = Chikuʼún kay ama jiba.
 # text[spa] = Mí abuelita compró un petate.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Chikuʼún	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+1	Chikuʼún	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.abuelita
 2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=COM-comprar-3SG.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	jiba	_	NOUN	_	_	_	_	_	Trad=petate
@@ -7510,12 +7510,12 @@
 # text = Kákud naiyaa cheʼe chikuʼu.
 # text[orig] = Kákud naiyaa cheʼe chikuʼu.
 # text[spa] = Has salsa para que coma mi abuela.
-# tagged = false
+# tagged = true
 # author = paula
 1	Kákud	_	VERB	_	VerbForm=Fin	_	_	_	Trad=haz|Gloss=?-hacer-2SG
 2	naiyaa	_	NOUN	_	_	_	_	_	Trad=salsa
 3	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
-4	chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+4	chikuʼu	_	NOUN	_	_	_	_	_	Trad=mi.abuelita
 5	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0618
