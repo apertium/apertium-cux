@@ -1,4 +1,4 @@
-Palabra	Lema	POS	Feats	Significado	Glosa	1289	851	1014
+Palabra	Lema	POS	Feats	Significado	Glosa	1289	857	1023
 a		ADV		ya				
 a		PART			QST			
 áa				resuena				
@@ -741,7 +741,7 @@ pö		NOUN		pan
 ñoo								
 nutdúü		NOUN		grilla				
 nutdiku								
-num								
+num				todo				
 nukud		NOUN	NounType=Relat	contigo	con-POSS.SG2			
 noos		NOUN		su cara	cara-POSS.SG3.MSC			
 nojobe								
@@ -750,29 +750,29 @@ nintubii
 ndeyee								
 nda								
 najaʼa								
-naiyaá								
+naiyaá		NOUN		salsa				
 naa								
-mii								
+mii		ADV		allá				
 maa								
 kuí		VERB		echar	?-echar-?			
 kueta		NOUN		cohete				
 kueta		VERB	VerbForm=Fin	fue	?-ir-SG3.FEM			
-kubii								
+kubii		NOUN		lluvia				
 kon								
 kántu		NOUN		caldo				
 kanee		VERB	VerbForm=Fin	se quedó	?-quedarse-?			
-kaned								
+kaned		VERB	VerbForm=Fin	estás	?-estar-2SG			
 kanat		VERB	VerbForm=Fin	lleva	?-llevar-3SG.AML			
-jobey								
+jobey				se llama				
 jinguy		VERB	VerbForm=Fin	dejar	?-dejar-?			
 jiney		VERB	VerbForm=Fin		?-hablar-?			
 jinee								
-jimaa								
+jimaa		VERB		anochece				
 jíkuu		NOUN		río				
 jiku		NOUN		río, cerro				
 iñan		NOUN		gente				
 íi		VERB	VerbForm=Fin	echo	?-echar-SG1			
-gë								
+gë				hay				
 díta		NOUN		pájaro carpintero				
 dínud		VERB		apretas	?-apretar-2SG			
 dikuoʼoo		NOUN		bebé				
@@ -1021,7 +1021,7 @@ kanguu
 kanguad		VERB		traer	?-traer-2SG			
 kanet								
 kaneñ								
-kánat								
+kánat		VERB	VerbForm=Fin	llevó	?-llevar-3SG.AML			
 kakay		VERB		echar tortilla				
 kachi								
 kabachi								
