@@ -47,6 +47,63 @@ def clean_sent(s):
 		o = o[0].upper() + o[1:]
 	return o
 
+def disambiguate(form, analyses, cux, spa):
+	if len(analyses) < 2:
+		return analyses	
+
+	#print('disambiguate:', form, '|', analyses,'|', cux, spa, file=sys.stderr)
+	new_analyses = []
+
+	# Choose 'a' as an ADV if we find "ya" in the translation, otherwise PART
+	if form == 'a':
+		foundYa = False
+		if 'ya' in [i.lower() for i in spa]:
+			foundYa = True
+
+		if foundYa:
+			new_analyses = [i for i in analyses if i[1] == 'ADV']	
+		else:
+			new_analyses = [i for i in analyses if i[1] == 'PART']	
+
+		#print('!!!:', form, '|', foundYa,'|', analyses,'||', new_analyses, file=sys.stderr)
+
+		return new_analyses
+	# Choose 'nichi' as NUM if we find "diez" otherwise VERB
+	elif form == 'nichi':
+		foundDiez = False
+		if 'diez' in [i.lower() for i in spa]:
+			foundDiez = True
+
+		if foundDiez:
+			new_analyses = [i for i in analyses if i[1] == 'NUM']	
+		else:
+			new_analyses = [i for i in analyses if i[1] == 'VERB']	
+
+		return new_analyses
+
+	elif form == 'koʼo':
+		foundPie = False
+		if 'pie' in [i.lower() for i in spa] or 'pies' in [i.lower() for i in spa]:
+			foundPie = True
+
+		if foundPie:
+			new_analyses = [i for i in analyses if i[1] == 'NOUN']	
+		else:
+			new_analyses = [i for i in analyses if i[1] == 'VERB']	
+
+		return new_analyses
+
+	elif form == 'bea':
+		foundSentado = False
+		if 'sentado' in [i.lower() for i in spa] or 'sentada' in [i.lower() for i in spa]:
+			foundSentado = True
+
+		if not foundSentado:
+			new_analyses = [i for i in analyses if i[1] == 'VERB']	
+			return new_analyses
+						
+	return analyses
+
 seen = set()
 
 n_toks = 0
@@ -69,6 +126,7 @@ for line in sys.stdin.readlines():
 	orig_cux = cux
 	cux = clean_sent(cux)
 	tokens = re.sub('([,:?¿!¡;.])', ' \g<1> ', cux).strip().split(' ')
+	tokens_spa = re.sub('([,:?¿!¡;.])', ' \g<1> ', spa).strip().split(' ')
 
 	print('# sent_id = ejemplos:%s' % (str(sent_id).zfill(4)))
 	print('# text = %s' % (cux))
@@ -105,6 +163,8 @@ for line in sys.stdin.readlines():
 			k = corrections[k.lower()]
 			analyses = lexicon[k.lower()]	
 
+		analyses = disambiguate(k, analyses, tokens, tokens_spa)
+
 		if len(analyses) == 1:
 			ulem = lexicon[k][0][0]
 			upos = lexicon[k][0][1]
@@ -115,7 +175,7 @@ for line in sys.stdin.readlines():
 				ufeat = add_featval(ufeat, f, v)
 			misc = add_featval(misc, 'Trad', lexicon[k][0][3].replace(' ', '.'))
 			misc = add_featval(misc, 'Gloss',  lexicon[k][0][4])
-		elif len(analyses) > 0:
+		elif len(analyses) > 1:
 			trads = ''
 			for a in analyses:
 				trads += a[3].replace(' ', '.') + ','
