@@ -1,4 +1,4 @@
-Palabra	Lema	POS	Feats	Significado	Glosa	1289	857	1023
+Palabra	Lema	POS	Feats	Significado	Glosa	1291	891	1034
 a		ADV		ya				
 a		PART			QST			
 áa				resuena				
@@ -16,14 +16,14 @@ beaku				elegante
 beanete		NOUN		limón				
 beanu		NOUN		epazote				
 bedbêe				envidia				
-bede				español				
+bede		NOUN		español				
 bedinuu		NOUN		milagro				
 bee				ciego				
 bëe		NOUN		orilla				
-biʼi				hermano(a)				
+biʼi		NOUN		hermano(a)				
 bíchaa				gordo				
 bichñoʼö		NOUN		carpintero				
-biidi				pasle				
+biidi		NOUN		pasle				
 bíku		NOUN		fiesta				
 bíni		NOUN		charco				
 bítuu		NOUN		viga				
@@ -69,7 +69,7 @@ chinyadi				chismoso
 chita		NOUN		olla				
 chiya		NOUN		lengua				
 chó				aquello				
-chóʼoo				pasó				
+chóʼoo		VERB		pasó				
 chunti								
 chúnti		NOUN		grillo				
 clinika	clínica	NOUN		clínica				
@@ -94,7 +94,7 @@ deachea		NOUN		mugre
 deakea				despeinado(a)				
 deakea		NOUN		nido				
 dí		PRON	PronType=Prs	tú	2SG			
-dibi				estiercol				
+dibi		NOUN		estiércol				
 dii				resistente				
 díi		NOUN		caspa				
 díi				tamo				
@@ -102,7 +102,7 @@ dijuku		NOUN		tecolote
 tecolote		NOUN		tecolote				
 dikúnu		NOUN		nuera				
 dikuoʼoo		NOUN		bebé				
-díkuy				pecho				
+díkuy		NOUN		pecho				
 díma		NOUN		cáscara				
 dininii		NOUN		cuerno				
 dínu		NOUN		hermano				
@@ -121,10 +121,10 @@ dóo				hiel
 dü		NOUN		manteca				
 dü		NOUN		uña				
 duʼu		PRON	PronType=Int	quien				
-dúchi				codo				
+dúchi		NOUN		codo				
 dúdi		NOUN		tía				
 dudi		NOUN		tía				
-dúku				robé				
+dúku		VERB		robé				
 düntuu				marca de un golpe				
 dutit		NOUN		huevo				
 dutu		NOUN		nariz				
@@ -154,7 +154,7 @@ icha				frío
 ícha		NOUN		tipo de quelite				
 ii				pesa				
 íku	íku	ADV		ayer				
-íkùù				hormiga				
+íkùù		NOUN		hormiga				
 íma		NOUN		zorrillo				
 inbíku		NOUN		semana santa				
 santieʼe		NOUN		autoridades				
@@ -165,7 +165,7 @@ inuu				caliente
 inʼö				sueño,soñar				
 iñ		NOUN		gente				
 iña		NOUN		gente				
-iñsoʼö niku				suegro				
+iñsoʼö niku		NOUN		suegro				
 iñtoʼö		NOUN		guajolota				
 inu	inu	NUM	NumType=Card	tres				
 íñu		NOUN		estrella				
@@ -225,12 +225,11 @@ jòò		NUM		seis
 joobe		NOUN		voladero				
 joʼö				suena				
 jubii		NOUN		lugar arenoso				
-jubii				_				
 juchi		NOUN		sobrina				
 júku		NOUN		estaca				
 juuchi		NOUN		flama				
 juʼü		NUM		cinco				
-kä				zancudo				
+kä		NOUN		zancudo				
 káa		NOUN		filo				
 kaaba				suelto				
 kàba				feo				
@@ -239,7 +238,7 @@ kadi		NOUN		peso($)
 kajobe		ADV		anteayer				
 kaka		NOUN		papel				
 káka		NOUN		peine				
-kaka yòò				cal				
+kaka yòò		NOUN		cal				
 kákaa		NOUN		cansancio				
 kambo		NOUN		compadre				
 kane				está				
@@ -266,7 +265,7 @@ kubnoʼö		NOUN		aguacero
 kuch-cheanu		NOUN		jabalí				
 kuch-nùni		NOUN		tepexcuintle				
 kuchi		NOUN		marrano				
-kudiana				campamocha				
+kudiana		NOUN		campamocha				
 kudima		NOUN		calzón de manta.				
 kudintaa		NOUN		tijera				
 kudubi		NOUN		cuchara				
@@ -278,7 +277,7 @@ kueatʼichi		NOUN		canasta
 kuëd		VERB		aprender				
 kuèè				verde				
 kuëe				va a llover				
-kuejobe				azul cielo				
+kuejobe		NOUN		azul cielo				
 kuejuku				adornar				
 kueten		NOUN		campo				
 kuete		NOUN		campo				
@@ -311,7 +310,7 @@ leantu		NOUN		lagaña
 leeko		NOUN		coyote				
 lï		VERB	VerbForm=Stat|Number=Sing	pequeño				
 lii				arrugado				
-lítu				saquetón				
+lítu		NOUN		saquetón				
 lö		NOUN		hoyo				
 lunchi		NOUN		borrego				
 lunti				redondo				
@@ -319,22 +318,22 @@ lútii				corto
 luuchi				bonito				
 marceja		NOUN		murciélago				
 mee				nublado				
-meede				calceta				
+meede		NOUN		calceta				
 mï		NOUN		camote				
 mnoo				arriba				
-mogechey				axila				
+mogechey		NOUN		axila				
 moo				abajo				
-muʼu				aquí				
+muʼu		ADV		aquí				
 naʼö								
-naama				jabón				
+naama		NOUN		jabón				
 nabeánu				aborto				
 nabeanud				recoje				
-naboʼoo				cereza, capulín				
-naíba				mercado				
+naboʼoo		NOUN		cereza, capulín				
+naíba		NOUN		mercado				
 naídii		NOUN		aguacate				
 naiyaa		NOUN		salsa				
 najaʼa		NOUN		nuez				
-naneachea				borrar				
+naneachea		VERB		borrar				
 nanta		NOUN		flor				
 nantioö		NOUN		rosa				
 ndá				bueno				
@@ -355,7 +354,7 @@ nichama		NUM		once
 nichi		NUM		díez				
 nichubi		NUM		doce				
 nïi		NOUN		chayote				
-niichi				ver				
+niichi		VERB		ver				
 níitu		NOUN		nopal				
 nínaa				maduro				
 ninchii				cocido				
@@ -399,7 +398,7 @@ yââ		NOUN		barranco
 yàaku		NOUN		mosquito				
 yába		NOUN		rocas planas				
 yába		NOUN		piedra grande				
-yába				memela				
+yába		NOUN		memela				
 yábaa		NOUN		arador				
 yabi		ADV		anoche				
 yábi		VERB		le hablé				
@@ -445,7 +444,7 @@ yuchmee		NOUN		cerebro
 yudi		NOUN		rata				
 yúdi		NOUN		elote				
 yudii				arrugado				
-yudnoo				barba				
+yudnoo		NOUN		barba				
 yudu		NOUN		cabello				
 yuduu				plano (lugar)				
 yúduu		NOUN		caballo				
@@ -463,6 +462,7 @@ yuudu		NOUN		metate
 yuuna		NOUN		aire				
 yuuni		NOUN		pasto				
 yuunu		NOUN		cigarro				
+takoon	takoo	PRON	PronType=Prs	ella	3SG.FEM			
 takon	takoo	PRON	PronType=Prs	ella	3SG.FEM			
 takoo	takoo	PRON	PronType=Prs	ella	3SG.FEM			
 sakoon	sakoo	PRON	PronType=Prs	él	3SG.MSC			
@@ -748,12 +748,12 @@ nojobe
 nó								
 nintubii								
 ndeyee								
-nda								
+nda				muy, mucho				
 najaʼa								
 naiyaá		NOUN		salsa				
 naa								
 mii		ADV		allá				
-maa								
+maa				noche				
 kuí		VERB		echar	?-echar-?			
 kueta		NOUN		cohete				
 kueta		VERB	VerbForm=Fin	fue	?-ir-SG3.FEM			
@@ -1207,11 +1207,12 @@ boʼos				su miedo	miedo-POSS.3SG.MSC
 booy								
 bakñoo		NOUN		municipio				
 bokioo		NOUN		municipio				
-biʼin								
-binkuinuu								
+biʼin		NOUN		mi hermana				
+binkuinuu				de luto				
 bílu		NOUN		gato				
-bií								
-bii								
+bíʼi		NOUN		mi hermano				
+bií		NOUN		fruta				
+bii		NOUN		fruta				
 bichi		NOUN		gato				
 bichas				está gordo				
 beta								
@@ -1240,9 +1241,9 @@ bañeʼë		NOUN		mi casa	casa#base-POSS.SG1
 bakun		NOUN		mi casa				
 baa								
 ay				llama				
-áta								
-át								
-at								
+áta		VERB		llora				
+át		VERB		grita				
+at		VERB		grita				
 dikayan		NOUN		niños				
 ñuu		NOUN		mazorca				
 tin				ese				
@@ -1263,6 +1264,7 @@ sangoʼoo		NOUN		arriera
 nuekueʼen		PRON		todos				
 tös				enojado				
 toó				allí				
+amañ		PRON		alguien				
 tutoʼö		NOUN		gallina				
 tusoʼö		NOUN		gallo				
 tú		NOUN		pulgada				
