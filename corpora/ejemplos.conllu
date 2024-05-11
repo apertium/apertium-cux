@@ -1117,7 +1117,7 @@
 4	jiñöo	_	_	_	_	_	_	_	
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-7	jáa	_	_	_	_	_	_	_	
+7	jáa	_	_	_	_	_	_	_	Trad=nuevo(a)
 8	.	.	PUNCT	_	_	_	_	_	
 
 # sent_id = ejemplos:0094
@@ -5661,7 +5661,7 @@
 2	jeanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=correr|Gloss=?-correr-?
 3	yuna	_	NOUN	_	_	_	_	_	Trad=zorro
 4	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
-5	jinkue	_	_	_	_	_	_	_	
+5	jinkue	_	VERB	_	_	_	_	_	Trad=levanta|Gloss=?-levantar-?
 6	jiyáka	_	NOUN	_	_	_	_	_	Trad=polvo
 7	.	.	PUNCT	_	_	_	_	_	
 
@@ -5788,8 +5788,8 @@
 # author = mazali
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
 2	jubii	_	NOUN	_	_	_	_	_	Trad=lugar.arenoso
-3	bèè	_	_	_	_	_	_	_	
-4	jikuu	_	_	_	_	_	_	_	
+3	bèè	_	NOUN	_	_	_	_	_	Trad=orilla
+4	jikuu	_	NOUN	_	_	_	_	_	Trad=río
 5	ñeé	_	NOUN	_	_	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 6	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 7	.	.	PUNCT	_	_	_	_	_	
@@ -6406,7 +6406,7 @@
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 2	jee	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 3	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
-4	jinbinti	_	_	_	_	_	_	_	
+4	jinbinti	_	VERB	_	_	_	_	_	Trad=retoñan|Gloss=?-retoñar-?
 5	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
 6	.	.	PUNCT	_	_	_	_	_	
 
@@ -8413,7 +8413,7 @@
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	yaá	_	_	_	_	_	_	_	Trad=está
 3	eanu	_	VERB	_	_	_	_	_	Trad=gusto|Gloss=?-gustar-1SG
-4	jiʼi	_	_	_	_	_	_	_	
+4	jiʼi	_	VERB	_	_	_	_	_	Trad=tomar|Gloss=?-tomar-?
 5	ntu	_	NOUN	_	_	_	_	_	Trad=atole
 6	.	.	PUNCT	_	_	_	_	_	
 

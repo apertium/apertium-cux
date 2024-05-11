@@ -1,4 +1,4 @@
- 	Lema	POS	Feats	Significado	Glosa	1268	1006	1161
+ 	Lema	POS	Feats	Significado	Glosa	1268	1011	1167
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -1006,13 +1006,13 @@ jubid
 joʼó								
 joʼo		VERB		pica	?-picar-?			
 jóbey								
-jiʼi								
+jiʼi		VERB		tomar	?-tomar-?			
 jíyuu		NOUN		carrizo				
 jitnoy		VERB	VerbForm=Fin	hace	?-hacer-3SG.HUM			
 jitbon		VERB		atrapar	?-atrapar-?			
 jitatï								
 jiñöo								
-jinkue								
+jinkue		VERB		levanta	?-levantar-?			
 jinkatu								
 jinguyu								
 jinguay		VERB	VerbForm=Fin	va a traer	?-traer-?			
@@ -1023,13 +1023,13 @@ jinenúkuta
 jinéacheta		VERB	VerbForm=Fin	barre	?-barrer-?			
 jiné								
 jinda								
-jinbinti								
+jinbinti		VERB		retoñan	?-retoñar-?			
 jínay		VERB		se baña	?-bañarse-?			
 jináy		VERB	VerbForm=Fin	preparan	?-preparar-?			
 jinatnoy		VERB	VerbForm=Fin	está sacando	?-sacar-3SG.HUM			
 jinanus		VERB	VerbForm=Fin	está lavando	?-lavar-3SG.MSC			
 jinanuchi		VERB	VerbForm=Fin	me despierto	?-despertarse-?			
-jikuu								
+jikuu		NOUN		río				
 jikney		VERB	VerbForm=Fin	cargan	?-cargar-?			
 jikadi		VERB	VerbForm=Fin	puede	?-poder-?			
 jijéa		VERB	VerbForm=Fin	se tira	?-tirarse-?			
@@ -1064,7 +1064,7 @@ jeaas
 jabnututa		VERB	VerbForm=Fin	da vueltas	?-dar.vueltas-3SG.FEM			
 jabee		NOUN		oreja, oido				
 jabat		VERB	VerbForm=Fin	ladra	?-ladrar-?			
-jáa								
+jáa				nuevo(a)				
 jaá								
 jaa				nuevo				
 itñeʼë		NOUN		mis animales	animal#base-POSS.1SG			
@@ -1197,7 +1197,7 @@ beeye		NOUN		nixtamal
 bèèya		NOUN		nixtamal				
 bëeñ								
 beede		NOUN		español				
-bèè								
+bèè		NOUN		orilla				
 bée				malo(a)				
 bedyeno				estar de fiesta				
 bedeanu				conocimiento				
