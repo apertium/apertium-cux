@@ -1,4 +1,4 @@
- 	Lema	POS	Feats	Significado	Glosa	1270	955	1091
+ 	Lema	POS	Feats	Significado	Glosa	1268	1006	1161
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -271,7 +271,7 @@ kudubi		NOUN		cuchara
 kué				chueco				
 kúë				delgado				
 kuea				blanco				
-kueatea				canasto				
+kueatea		NOUN		canasto				
 kueatʼichi		NOUN		canasta				
 kuëd		VERB		aprender				
 kuèè				verde				
@@ -323,7 +323,6 @@ mnoo				arriba
 mogechey		NOUN		axila				
 moo				abajo				
 muʼu		ADV		aquí				
-naʼö								
 naama		NOUN		jabón				
 nabeánu				aborto				
 naboʼoo		NOUN		cereza, capulín				
@@ -731,17 +730,17 @@ snu		VERB		tiene
 sadii		NOUN		mi hermano				
 pö		NOUN		pan				
 nutdúü		NOUN		grilla				
-nutdiku								
+nutdiku		NOUN		granadas				
 num				todo				
 nukud		NOUN	NounType=Relat	contigo	con-POSS.SG2			
 noos		NOUN		su cara	cara-POSS.3SG.MSC			
-nojobe								
+nojobe		NOUN		cielo				
 nó								
-nintubii								
-ndeyee								
+nintubii				descompuesto				
+ndeyee		NOUN		durazno				
 nda				muy, mucho				
 naiyaá		NOUN		salsa				
-naa								
+naa		NOUN		oro				
 mii		ADV		allá				
 maa				noche				
 kuí		VERB		echar	?-echar-?			
@@ -755,7 +754,7 @@ kanat		VERB	VerbForm=Fin	lleva	?-llevar-3SG.AML
 jobey				se llama				
 jinguy		VERB	VerbForm=Fin	dejar	?-dejar-?			
 jiney		VERB	VerbForm=Fin		?-hablar-?			
-jinee								
+jinee		VERB	VerbForm=Fin	hablo	?-hablar-?			
 jimaa		VERB		anochece				
 jíkuu		NOUN		río				
 jiku		NOUN		río, cerro				
@@ -767,7 +766,7 @@ dínud		VERB		apretas	?-apretar-2SG
 dikuoʼoo		NOUN		bebé				
 dijú								
 dijinuy		NOUN		nieto				
-dií								
+dií		PRON	PronType=Prs	tú	2SG			
 dayay		NOUN		su hijo(a)	hijo-POSS.3SG.HUM			
 chúntii		NOUN		grillo				
 chinuñ		VERB	VerbForm=Fin	mató	?-matar-?			
@@ -776,9 +775,9 @@ chikuincháakuu		NOUN		virgen
 chií		VERB	VerbForm=Fin	tomé	?-tomar-1SG			
 chiduu		NOUN		sacerdote				
 chiadi		NOUN		azúcar				
-cheé								
+cheé		VERB		comer	?-comer-?			
 chedee		NOUN		carga				
-chéche								
+chéche				duro				
 chebäa				comer				
 adeea		PRON	PronType=Int	qué				
 zangáta		NOUN		lobo				
@@ -786,27 +785,27 @@ yúuni		NOUN		camino
 yùni		NOUN		camino				
 yuni		NOUN		camino				
 yukuu		NOUN		calabaza				
-yúdu								
+yúdu		NOUN		animal				
 yudnooy		NOUN		barba				
-yeabe								
+yeabe				mucho, muy				
 yaʼaa		NOUN		jícara				
-yaʼá								
+yaʼá		VERB		duele	?-doler-?			
 yàta		NOUN		hierba				
 yat								
-yanuʼu								
+yanuʼu				profundo				
 yakun		NOUN		iglesia				
 yadkuöo		NOUN		canario				
 yáda		NOUN		pájaro				
 yàbi		ADV		anoche				
-yaaʼa								
-yaás								
-túʼu								
+yaaʼa				duele				
+yaás		VERB		ama	?-amar-3SG.MSC			
+túʼu		NOUN		pollo				
 tumaa		VERB		cortar	?-cortar-?			
 tuma		VERB		cortar	?-cortar-?			
 toʼos		NOUN		su esposa	esposa-POSS.3SG.MSC			
 toʼoo		NOUN		mano				
-töo								
-tnoʼo								
+töo		NOUN						
+tnoʼo				muertos				
 tíyu		NOUN		tenatillo				
 tiudi		NOUN		ratón				
 tíñ								
@@ -827,51 +826,51 @@ taka	taka	ADV		cómo
 tadin		NOUN		niña				
 tadii		NOUN		niña				
 tadï		NOUN		niña				
-taa								
+taa				verde				
 stebe		NOUN		corazón				
 sópa				grueso(a)				
-snuú								
+snuú		VERB		tiene				
 snii		NOUN		sombrero				
 snï		NOUN		sobrino				
-snet				están				
-sné								
+snet		VERB		están				
+sné		VERB		están				
 sankubi		NOUN		borracho				
 sangáta		NOUN		lobo				
 sakuiti		NOUN		escarabajo				
-sakoó								
+sakoó		NOUN		hombre				
 runtíya		NOUN		rodilla				
 renke				flaco				
-raʼa								
+raʼa				duro				
 rantiya		NOUN		rodilla				
 ranti		NOUN		ruído				
-ranku								
+ranku				alto				
 rampa				calvo				
 raabu		NOUN		mostaza				
-poʼo								
+poʼo				recien nacido				
 ö								
 o								
 ñuʼüu								
 ñu		NOUN		granizo				
 ñóʼoo		NOUN		barro				
-ñoʼön								
+ñoʼön		NOUN		sol				
 ñòon								
 ñöo		NOUN		calor				
-ñóo								
+ñóo		NOUN		espina				
 ñonútii		NOUN		arena				
 ñóngukuu		NOUN		barro				
-ñò								
+ñò		NOUN		espina				
 ñëʼét		NOUN	NounType=Relat		base-POSS.3SG.AML			
 ñëʼen		NOUN	NounType=Relat					
 ñeeñ		NOUN	NounType=Relat		base-POSS.3SG.HUM			
 ñeedin								
-ñëd								
+ñëd		NOUN	NounType=Relat	de ti	base-POSS.2SG			
 ñe								
-ñaʼa								
+ñaʼa				lejos				
 ñañaa		NOUN		coyote				
 ñaña								
 ñaat				sucio				
 ña								
-nutyáku								
+nutyáku		NOUN		cebolla				
 nutoʼo		NOUN		dedo				
 nutñó		NOUN		zarzamora				
 nutnoos		NOUN		su ojo	ojo-POSS.3SG.MSC			
@@ -889,74 +888,74 @@ noʼos		VERB		ir	?-ir-3SG.MSC
 chíika		VERB	VerbForm=Fin	corté	?-cortar-?			
 nooyos		NOUN		su edad				
 noobe				par				
-nóó								
 nojoobee		NOUN		cielo				
-nod								
-nobe								
+nod				tienes				
+nobe				par				
 Nóba	Nóba	PROPN		Oaxaca				
-nnioó								
-ninjaʼa								
-nínii								
+nnioó		ADV		en la lumbre	en#lumbre			
+ninjaʼa				lastimado(a)				
+nínii		VERB		se reventó	?-reventar-?			
 niku								
-niibii								
-niï								
+niibii		NOUN		papa				
+niï		NOUN		chayote				
 nichid		VERB	VerbForm=Fin	viste	?-ver-2SG			
-nicha								
+nicha				grande				
 nguay		VERB	VerbForm=Fin	traer	?-traer-?			
-neʼëñ								
-neʼéd								
+neʼëñ		VERB	VerbForm=Fin	quiere				
+neʼéd		VERB	VerbForm=Fin	necesitas				
 neʼed		VERB	VerbForm=Fin	quieres	?-querer-2SG			
 net								
+iñsee		PRON	PronType=Prs	ellos	3PL			
 nenoo								
 neés		VERB	VerbForm=Fin	quiere	?-querer-3SG.MSC			
 nede		NOUN		barranca				
-neatu								
-néabea								
+neatu		NOUN		tomate				
+néabea		NOUN		gallina ciega				
 nduu		NOUN		caña				
 ndoyo		NOUN		año				
 ndó								
 ndios		NOUN		dios				
-ndimi								
+ndimi		NOUN		hombro				
 ndeyaa		NOUN		durazno				
 ndeayaa		NOUN		durazno				
 ndéa		NOUN		cacaya				
 ndea								
-ndáy								
-ndaá								
+ndáy				bueno				
+ndaá				bueno				
 nanuku								
 nanomnod		VERB		llegar primero				
-nankuníbii								
-naneache								
-nana								
-najaá								
+nankuníbii				grande				
+naneache		VERB		borrar				
+nana		VERB		voy a hacer	?-hacer-?			
+najaá		NOUN		nuez				
 naidii		NOUN		aguacate				
 nadna								
 nabií				pegado				
 nabaku		NOUN		mi casa				
 nabaa								
-naas								
+naas				bueno				
 naá								
 muu		ADV		aquí				
 moneatea		ADV		semana pasada				
-mogeché								
-mnòò								
+mogeché		NOUN		axila				
+mnòò				tiene rato				
 mïn								
 míi	míi	ADV		ahí				
-man								
-lunch								
+man		ADV		ahora				
+lunch		NOUN		borrego				
 Luis	Luis	PROPN		Luis				
 lantuu								
-lantiku								
+lantiku				costilla				
 kúʼuu		VERB		tomar	?-tomar-?			
 kuʼö	kuʼö	ADV		antenoche				
 kuyadu		VERB		dormir	?-dormir-?			
 kuunód		VERB		tienes pena	?-tener.pena-2SG			
-küu								
+küu		NOUN		molde para hacer comal				
 kútii		NOUN		sombra				
-kutea								
+kutea				no				
 kuoʼoo								
 kunoo		VERB	VerbForm=Fin	caer	?-caer-?			
-kuni								
+kuni		NOUN		guajolotito				
 kuna		VERB	VerbForm=Fin	masticar	?-masticar-1SG			
 kulantro		NOUN		cilantro				
 kúiyu								
@@ -967,23 +966,23 @@ kui		VERB		servir	?-servir-?
 kueʼe		VERB		va	?-ir-?			
 kueatoʼoy		VERB		echar pico	?-echar.pico-?			
 kuchii		NOUN		puerco				
-kuchba	NOUN			patio				
+kuchba		NOUN		patio				
 kubnoʼo								
 kúbi								
 kuay		VERB		piscar	?-piscar-3SG.HUM			
 kuäa								
 ku		DET		este				
 koʼos								
-koʼó								
+koʼó		VERB		picó	?-picar-?			
 koó		DET		ese				
 koón		DET		ese				
 ko		DET		ese				
-kiuñú								
+kiuñú				picudo				
 keade								
-keabeay								
+keabeay		NOUN		su hermano	hermano-3SG.HUM			
 kayadu		VERB	VerbForm=Fin	dormir	?-dormir-?			
 kataʼa		VERB	VerbForm=Fin	traes	?-traer-?			
-kastila								
+kastila		NOUN		sávila				
 kanuy		VERB		está	?-estar-3SG.HUM			
 kanuu		VERB		está				
 kanuchii								
@@ -997,15 +996,15 @@ kanet		VERB		está	?-estar-3SG.AML
 kaneñ		VERB		está	?-estar-3SG.HUM			
 kánat		VERB	VerbForm=Fin	llevó	?-llevar-3SG.AML			
 kakay		VERB		echar tortilla				
-kachi								
-kabachi								
+kachi		NOUN		avispa				
+kabachi				porque				
 kunu		VERB		voy a poner	?-poner-1SG			
 jitií		VERB		se seca	?-secarse-?			
-juú		NUM		cinco				
-juu								
+juú		NUM	NumType=Card	cinco				
+juu		NUM	NumType=Card	cinco				
 jubid								
 joʼó								
-joʼo								
+joʼo		VERB		pica	?-picar-?			
 jóbey								
 jiʼi								
 jíyuu		NOUN		carrizo				
@@ -1025,7 +1024,7 @@ jinéacheta		VERB	VerbForm=Fin	barre	?-barrer-?
 jiné								
 jinda								
 jinbinti								
-jínay								
+jínay		VERB		se baña	?-bañarse-?			
 jináy		VERB	VerbForm=Fin	preparan	?-preparar-?			
 jinatnoy		VERB	VerbForm=Fin	está sacando	?-sacar-3SG.HUM			
 jinanus		VERB	VerbForm=Fin	está lavando	?-lavar-3SG.MSC			
@@ -1156,7 +1155,7 @@ chiniiyat		VERB	VerbForm=Fin	asustó	?-asustar-?
 chíni		NOUN		frijolar				
 chivatun		NOUN		chivo				
 chiní		NOUN		hígado				
-chineñ								
+chineñ		VERB		culparon				
 chineabed		VERB		te caíste	?-caerse-2SG			
 chineabay		VERB	VerbForm=Fin	se cayó	?-caerse-?			
 chikudayay		NOUN		su comadre	comadre-POSS.3SG.HUM			
@@ -1165,9 +1164,9 @@ chikadi		VERB	VerbForm=Fin	pude	?-poder-1SG
 chíita		VERB	VerbForm=Fin	creció	?-crecer-?			
 chiíbat		NOUN		telaraña				
 chiibat		NOUN		telaraña				
-chiiba								
+chiiba		NOUN		precio				
 chich								
-chiba								
+chiba		NOUN		precio				
 chenet		VERB	VerbForm=Fin	morder	?-morder-?			
 cheéd		VERB	VerbForm=Fin	comes	?-comer-2SG			
 cheebinuy		VERB	VerbForm=Fin	va a cenar	?-cenar-3SG.HUM			
@@ -1177,7 +1176,7 @@ cheatuy				sordo
 chéatea		VERB	VerbForm=Stat	grande				
 cháku		NOUN		mi mamá				
 cantu								
-boʼos				su miedo	miedo-POSS.3SG.MSC			
+boʼos		NOUN		su miedo	miedo-POSS.3SG.MSC			
 booy								
 bakñoo		NOUN		municipio				
 bokioo		NOUN		municipio				
@@ -1246,7 +1245,6 @@ tutoʼö		NOUN		gallina
 tusoʼö		NOUN		gallo				
 tú		NOUN		pulgada				
 noʼo		NOUN		leña				
-ñëd		NOUN		camisa				
 si		PRON		eso				
 kuí		VERB		echar	?-echar-?			
 chii		VERB		se murió	?-morirse-?			
