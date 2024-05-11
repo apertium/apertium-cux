@@ -150,6 +150,10 @@ def disambiguate(form, analyses, cux, spa):
 		new_analyses = choose_if_not_trad(analyses, r'(árbol|árboles)', 'pueblo')
 	elif form == 'cheʼed':
 		new_analyses = choose_if_not_trad(analyses, 'come', 'fuiste')
+	elif form == 'yata':
+		new_analyses = choose_or_remove(analyses, 'hierba', 'hierba')
+	elif form == 'biʼi':
+		new_analyses = choose_or_remove(analyses, 'fruta', 'fruta')
 	elif form == 'dii':
 		new_analyses = choose_or_remove(analyses, 'resistente', 'resistente')
 		if len(new_analyses) > 1:
@@ -177,6 +181,7 @@ def disambiguate(form, analyses, cux, spa):
 seen = set()
 
 n_toks = 0
+n_toks_nopunct = 0
 n_sents = 0
 n_tagged_sents = 0
 n_tagged_tokens = 0
@@ -261,6 +266,12 @@ for line in sys.stdin.readlines():
 		if upos != '_':
 			n_found_pos += 1
 
+		if upos != 'PUNCT':
+			n_toks_nopunct += 1
+
+		if misc == '': misc = '_'
+		misc = misc.strip()
+
 		token_lines.append('%d\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s' % (token_id, token, ulem, upos, '_', ufeat, '_', '_', '_', misc))
 		token_id += 1
 		n_toks += 1
@@ -287,5 +298,5 @@ for line in sys.stdin.readlines():
 	sent_id += 1
 
 
-print('%d\t%d\t%d (%.2f%%)' % (n_sents, n_toks, tokens_lex, (tokens_lex/n_toks)*100), file=sys.stderr)
-print('%d (%.2f%%)\t%d (%.2f%%)' % (n_tagged_sents, (n_tagged_sents/n_sents)*100, n_tagged_tokens, (n_tagged_tokens/n_toks)*100), file=sys.stderr)
+print('%d\t%d\t%d\t%d (%.2f%%)' % (n_sents, n_toks, n_toks_nopunct, tokens_lex, (tokens_lex/n_toks_nopunct)*100), file=sys.stderr)
+print('%d (%.2f%%)\t\t%d (%.2f%%)' % (n_tagged_sents, (n_tagged_sents/n_sents)*100, n_tagged_tokens, (n_tagged_tokens/n_toks)*100), file=sys.stderr)

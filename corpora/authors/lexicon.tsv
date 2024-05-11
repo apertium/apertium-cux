@@ -1,4 +1,4 @@
- 	Lema	POS	Feats	Significado	Glosa	1268	1011	1167
+ 	Lema	POS	Feats	Significado	Glosa	1272	1023	1179
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -249,6 +249,7 @@ kanuñ				está (adentro)
 jadii		NOUN		tepache				
 karrunti		NOUN		arcoiris				
 káya		VERB	VerbForm=Stat|Number=Plur	pequeñas				
+kéabea		NOUN		mi hermana				
 keabea		NOUN		hermano(a)				
 keadea		NOUN		comezón				
 kiana		NOUN		camisa				
@@ -678,6 +679,7 @@ tii		NOUN		cabeza
 tii		ADV		dónde				
 ntiñu		NOUN		trabajo				
 yana		NOUN		perro				
+yaa				está				
 yaá				está				
 tuu		NOUN		piedra				
 tikaa		NOUN		mi ropa				
@@ -688,7 +690,7 @@ tiaka		NOUN		plátano
 noʼo		NOUN		leña				
 nata		NOUN		maíz				
 it		NOUN		animal				
-dami								
+dami		NOUN		espalda, caparazón				
 chinta		VERB	VerbForm=Fin	se mojó	?-mojarse-?			
 chiinta		VERB	VerbForm=Fin	se mojaron	?-mojarse-?			
 chinbaʼa		NOUN		puerta	boca#casa			
@@ -715,7 +717,7 @@ beat		VERB		hay	?-existir-3SG.AML
 yúdii		NOUN		elote				
 yádi		NOUN		higo				
 toʼö								
-tö								
+tö				mucho				
 tíkun		NOUN		chapulín				
 tíku		NOUN		chapulín				
 tïi		NOUN		cabeza				
@@ -735,7 +737,7 @@ num				todo
 nukud		NOUN	NounType=Relat	contigo	con-POSS.SG2			
 noos		NOUN		su cara	cara-POSS.3SG.MSC			
 nojobe		NOUN		cielo				
-nó								
+nó		VERB		lavar				
 nintubii				descompuesto				
 ndeyee		NOUN		durazno				
 nda				muy, mucho				
@@ -751,16 +753,17 @@ kántu		NOUN		caldo
 kanee		VERB	VerbForm=Fin	se quedó	?-quedarse-?			
 kaned		VERB	VerbForm=Fin	estás	?-estar-2SG			
 kanat		VERB	VerbForm=Fin	lleva	?-llevar-3SG.AML			
+job		NOUN		día				
 jobey				se llama				
 jinguy		VERB	VerbForm=Fin	dejar	?-dejar-?			
-jiney		VERB	VerbForm=Fin		?-hablar-?			
+jiney		VERB	VerbForm=Fin		?-hablar-3SG.HUM			
 jinee		VERB	VerbForm=Fin	hablo	?-hablar-?			
 jimaa		VERB		anochece				
 jíkuu		NOUN		río				
 jiku		NOUN		río, cerro				
 iñan		NOUN		gente				
 íi		VERB	VerbForm=Fin	echo	?-echar-1SG			
-gë				hay				
+gë		VERB		hace				
 díta		NOUN		pájaro carpintero				
 dínud		VERB		apretas	?-apretar-2SG			
 dikuoʼoo		NOUN		bebé				
@@ -867,7 +870,7 @@ o
 ñe								
 ñaʼa				lejos				
 ñañaa		NOUN		coyote				
-ñaña								
+ñaña		NOUN		león				
 ñaat				sucio				
 ña								
 nutyáku		NOUN		cebolla				
@@ -967,8 +970,8 @@ kueʼe		VERB		va	?-ir-?
 kueatoʼoy		VERB		echar pico	?-echar.pico-?			
 kuchii		NOUN		puerco				
 kuchba		NOUN		patio				
-kubnoʼo								
-kúbi								
+kubnoʼo		NOUN		aguacero				
+kúbi		NOUN		lluvia				
 kuay		VERB		piscar	?-piscar-3SG.HUM			
 kuäa								
 ku		DET		este				
@@ -1014,7 +1017,7 @@ jitatï
 jiñöo								
 jinkue		VERB		levanta	?-levantar-?			
 jinkatu								
-jinguyu								
+Jinguyu	Jinguyu	PROPN		México				
 jinguay		VERB	VerbForm=Fin	va a traer	?-traer-?			
 jinguata		VERB		traer	?-traer-3SG.FEM			
 jineʼe		NOUN		encino				
@@ -1044,7 +1047,7 @@ jidií		VERB	VerbForm=Fin	hacer	?-hacer-?
 jidí		VERB	VerbForm=Fin	hacer	?-hacer-1SG			
 jidi		VERB	VerbForm=Fin	hace	?-hacer-?			
 jideku								
-jideabe				amanece				
+jideabe		VERB		amanece	?-amanecer-?			
 jichoó		VERB	VerbForm=Fin	paso	?-pasar-?			
 jichisnee		VERB	VerbForm=Fin	amarro	?-amarrar-?			
 jichiba		VERB	VerbForm=Fin	sirve	?-servir-?			
@@ -1067,6 +1070,7 @@ jabat		VERB	VerbForm=Fin	ladra	?-ladrar-?
 jáa				nuevo(a)				
 jaá								
 jaa				nuevo				
+kamboo		NOUN		compadre				
 itñeʼë		NOUN		mis animales	animal#base-POSS.1SG			
 iñʼtoʼö		NOUN		guajolota				
 iñuu		NOUN		guajolote				
@@ -1109,7 +1113,7 @@ dítu		NOUN		orilla
 dinu		NOUN		mi hermano				
 dinaá		VERB		hice	?-hacer-?			
 din								
-dimoʼö								
+dimoʼö		ADV		sólo				
 dimoo				sólo, puro				
 dikuoʼo		NOUN		bebé				
 dikunú		NOUN		nuera				
