@@ -56,7 +56,7 @@ chíchi				apretado
 chídi		NOUN		garrapata				
 chidúbi		NOUN		cucaracha				
 chiíta		VERB	VerbForm=Fin	creció	?-crecer-?			
-chíka		VERB	VerbForm=Fin	corté	?-cortar-?			
+chíka		VERB	VerbForm=Fin	corté	CPL-cortar-1SG			
 chikuʼu		NOUN		abuela				
 chikudaya		NOUN		comadre				
 chindiyaa				asustó				
@@ -525,18 +525,18 @@ nichita		VERB	VerbForm=Fin	vio	?-ver-3SG.FEM
 jinus		VERB	VerbForm=Fin	usa	?-usar-3SG.MSC			
 nood	kaʼan	VERB	VerbForm=Fin	llegaste	?-?-2SG			
 noʼó	kaʼan	VERB	VerbForm=Fin	voy	?-?-1SG			
-chúʼüu	kaʼan	VERB	VerbForm=Fin	fuimos	COM-ir-1PL			
-cheʼë	kaʼan	VERB	VerbForm=Fin	fui	COM-ir-1SG			
+chúʼüu	kaʼan	VERB	VerbForm=Fin	fuimos	CPL-ir-1PL			
+cheʼë	kaʼan	VERB	VerbForm=Fin	fui	CPL-ir-1SG			
 kuʼes	kaʼan	VERB	VerbForm=Fin	fue	HAB-ir-3SG.MSC			
-cheés	kaʼan	VERB	VerbForm=Fin	fue	COM-ir-3SG.MSC			
-cheʼéy	kaʼan	VERB	VerbForm=Fin	fue	COM-ir-3SG.HUM			
+cheés	kaʼan	VERB	VerbForm=Fin	fue	CPL-ir-3SG.MSC			
+cheʼéy	kaʼan	VERB	VerbForm=Fin	fue	CPL-ir-3SG.HUM			
 kueʼëñ	kaʼan	VERB	VerbForm=Fin	fue	HAB-ir-?			
-cheʼeñ	kaʼan	VERB	VerbForm=Fin	fue	COM-ir-?			
+cheʼeñ	kaʼan	VERB	VerbForm=Fin	fue	CPL-ir-?			
 kuey	kaʼan	VERB	VerbForm=Fin	fue	HAB-ir-3SG.HUM			
 koʼöd	kaʼan	VERB	VerbForm=Fin	irás	POT-ir-2SG			
 koʼo	kaʼan	VERB	VerbForm=Fin	iré	POT-ir-1SG			
 koʼö	kaʼan	VERB	VerbForm=Fin	iré	POT-ir-1SG			
-cheʼed	kaʼan	VERB	VerbForm=Fin	fuiste	COM-ir-2SG			
+cheʼed	kaʼan	VERB	VerbForm=Fin	fuiste	CPL-ir-2SG			
 jeʼëñ	kaʼan	VERB	VerbForm=Fin	va	?-ir-?			
 koʼoñ	kaʼan	VERB	VerbForm=Fin	irá	POT-ir-?			
 jeʼëta	kaʼan	VERB	VerbForm=Fin	van	?-ir-3SG.FEM			
@@ -586,17 +586,17 @@ kanó		VERB	VerbForm=Fin	salí	?-salir-1SG
 kanoo		VERB	VerbForm=Fin	salió	?-salir-?			
 ted		VERB		dame	?-dar-2SG			
 joʼoy		VERB	VerbForm=Fin	da	?-dar-?			
-chika		VERB	VerbForm=Fin	corté	?-cortar-?			
-kàkad		VERB	VerbForm=Fin	cortar	?-cortar-2SG			
-kaaka		VERB	VerbForm=Fin	cortar	?-cortar-?			
+chika		VERB	VerbForm=Fin	corté	CPL-cortar-1SG			
+kàkad		VERB	VerbForm=Fin	cortar	POT-cortar-2SG			
+kaaka		VERB	VerbForm=Fin	cortar	POT-cortar-?			
 kua	kua	VERB	VerbForm=Fin	comprar	IRR-comprar-1SG			
-kaa	kua	VERB	VerbForm=Fin	comprar	COM-comprar-1SG			
+kaa	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-1SG			
 kuaa	kua	VERB	VerbForm=Fin	comprar	IRR-comprar-1SG			
-káta	kua	VERB	VerbForm=Fin	compró	COM-comprar-3SG.FEM			
-kaá	kua	VERB	VerbForm=Fin	compré	COM-comprar-1SG			
-ká	kua	VERB	VerbForm=Fin	comprar	COM-comprar-1SG			
-kay	kua	VERB	VerbForm=Fin	comprar	COM-comprar-3SG.HUM			
-kad	kua	VERB	VerbForm=Fin	comprar	COM-comprar-2SG			
+káta	kua	VERB	VerbForm=Fin	compró	CPL-comprar-3SG.FEM			
+kaá	kua	VERB	VerbForm=Fin	compré	CPL-comprar-1SG			
+ká	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-1SG			
+kay	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-3SG.HUM			
+kad	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-2SG			
 kuad	kua	VERB	VerbForm=Fin	comprar	IRR-comprar-2SG			
 kúad	kua	VERB	VerbForm=Fin	comprar	IRR-comprar-2SG			
 jaata	kua	VERB	VerbForm=Fin	compra	PROG-comprar-3SG.FEM			
@@ -642,7 +642,7 @@ kakioʼöd		VERB	VerbForm=Fin	quemar	?-quemar-2SG
 kaneé		VERB	VerbForm=Fin	cargar	?-cargar-?			
 naka		VERB	VerbForm=Fin	encontré	?-encontrar-1SG			
 tanod		VERB	VerbForm=Fin	sácale	?-sacar-2SG			
-kakad		VERB	VerbForm=Fin	corta	?-cortar-2SG			
+kakad		VERB	VerbForm=Fin	corta	POT-cortar-2SG			
 chinót		VERB	VerbForm=Fin	se cayó	?-caerse-3SG.AML			
 guay		VERB	VerbForm=Fin	traer	?-traer-3SG.HUM			
 jinay		VERB	VerbForm=Fin	lleva	?-llevar-?			
@@ -888,7 +888,7 @@ nubi		NOUN		grano
 nubdamauʼu		VERB		reuniremos				
 ntú		NOUN		atole				
 noʼos		VERB		ir	?-ir-3SG.MSC			
-chíika		VERB	VerbForm=Fin	corté	?-cortar-?			
+chíika		VERB	VerbForm=Fin	corté	CPL-cortar-1SG			
 nooyos		NOUN		su edad				
 noobe				par				
 nojoobee		NOUN		cielo				

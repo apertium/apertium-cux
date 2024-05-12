@@ -5,7 +5,7 @@
 # tagged = true
 # author = lilia
 1	A	a	ADV	_	_	_	_	_	Trad=ya
-2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=COM-ir-1SG
+2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -29,7 +29,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	tii	_	ADV	_	_	_	_	_	Trad=dónde
-4	cheʼed	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fuiste|Gloss=COM-ir-2SG
+4	cheʼed	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fuiste|Gloss=CPL-ir-2SG
 5	kajobe	_	ADV	_	_	_	_	_	Trad=anteayer
 6	?	?	PUNCT	_	_	_	_	_	_
 
@@ -321,7 +321,7 @@
 # tagged = true
 # author = lilia
 1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=COM-ir-1SG
+2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	baku	_	NOUN	_	_	_	_	_	Trad=casa
 4	diiya	_	NOUN	_	Typo=Yes	_	_	_	Trad=tío
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -617,7 +617,7 @@
 # tagged = true
 # author = lilia
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=COM-ir-1SG
+2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	baku	_	NOUN	_	_	_	_	_	Trad=casa
 4	bichñoʼö	_	NOUN	_	_	_	_	_	Trad=carpintero
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -642,7 +642,7 @@
 # tagged = true
 # author = lilia
 1	Chichen	_	NOUN	_	_	_	_	_	Trad=mi.abuelito
-2	cheʼéy	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=COM-ir-3SG.HUM
+2	cheʼéy	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=CPL-ir-3SG.HUM
 3	nguay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=traer|Gloss=?-traer-?
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	bítuu	_	NOUN	_	_	_	_	_	Trad=viga
@@ -927,7 +927,7 @@
 # tagged = true
 # author = lilia
 1	Ikun	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=COM-ir-1SG
+2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	Jibaku	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -937,7 +937,7 @@
 # text[spa] = Fui al campo hoy.
 # tagged = true
 # author = lilia
-1	Cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=COM-ir-1SG
+1	Cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 2	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 3	mojobe	mojobe	ADV	_	_	_	_	_	Trad=hoy
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1172,7 +1172,7 @@
 # text[spa] = Fui a Cuicatlán por eso no vine a la fiesta.
 # tagged = false
 # author = lilia
-1	Cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=COM-ir-1SG
+1	Cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 2	jibaku	_	PROPN	_	Typo=Yes	_	_	_	Trad=Cuicatlán|Gloss=LOC
 3	chich	_	_	_	_	_	_	_	_
 4	tika	_	NOUN	_	_	_	_	_	Trad=ropa
@@ -1320,7 +1320,7 @@
 # text[spa] = Me corté un dedo.
 # tagged = true
 # author = lilia
-1	Chíika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=?-cortar-?
+1	Chíika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	nutoʼo	_	NOUN	_	_	_	_	_	Trad=dedo
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1901,7 +1901,7 @@
 # text[spa] = Le compré ropa a mi ahijado(a).
 # tagged = true
 # author = lilia
-1	Kaá	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=compré|Gloss=COM-comprar-1SG
+1	Kaá	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=compré|Gloss=CPL-comprar-1SG
 2	tika	_	NOUN	_	_	_	_	_	Trad=ropa
 3	daynuni	_	NOUN	_	_	_	_	_	Trad=ahijado(a)
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2461,7 +2461,7 @@
 # text[spa] = Me corté la uña con una piedra.
 # tagged = true
 # author = lilia
-1	Chika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=?-cortar-?
+1	Chika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 2	duú	_	NOUN	_	_	_	_	_	Trad=uña
 3	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -2700,8 +2700,8 @@
 # text[spa] = Fui a comprar jitomates.
 # tagged = true
 # author = lucy
-1	Cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=COM-ir-1SG
-2	ká	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=COM-comprar-1SG
+1	Cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
+2	ká	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-1SG
 3	neatuu	_	NOUN	_	_	_	_	_	Trad=tomate
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2771,8 +2771,8 @@
 # tagged = true
 # author = lucy
 1	Chikuʼü	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.abuelita
-2	cheʼeñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=COM-ir-?
-3	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=COM-comprar-3SG.HUM
+2	cheʼeñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=CPL-ir-?
+3	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-3SG.HUM
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	chéa	_	NOUN	_	_	_	_	_	Trad=comal
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -2807,7 +2807,7 @@
 # tagged = true
 # author = lucy
 1	Mojoben	mojobe	ADV	_	_	_	_	_	Trad=hoy
-2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=COM-ir-1SG
+2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 4	tuma	_	VERB	_	_	_	_	_	Trad=cortar|Gloss=?-cortar-?
 5	nutñó	_	NOUN	_	_	_	_	_	Trad=zarzamora
@@ -2832,7 +2832,7 @@
 # tagged = true
 # author = lucy
 1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=COM-comprar-3SG.HUM
+2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-3SG.HUM
 3	juʼu	_	NUM	_	Typo=Yes	_	_	_	Trad=cinco
 4	betee	_	NOUN	_	_	_	_	_	Trad=tamal
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3102,7 +3102,7 @@
 # tagged = true
 # author = lucy
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-2	chika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=?-cortar-?
+2	chika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 3	toʼo	_	NOUN	_	_	_	_	_	Trad=mano
 4	kanó	_	VERB	_	VerbForm=Fin	_	_	_	Trad=salí|Gloss=?-salir-1SG
 5	ñuu	_	NOUN	_	_	_	_	_	Trad=mazorca
@@ -3470,7 +3470,7 @@
 2	nínaa	_	_	_	_	_	_	_	Trad=maduro
 3	tiaka	_	NOUN	_	_	_	_	_	Trad=plátano
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	chíka	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=?-cortar-?
+5	chíka	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 6	moneatea	_	ADV	_	_	_	_	_	Trad=semana.pasada
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3719,7 +3719,7 @@
 # tagged = true
 # author = lucy
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	ká	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=COM-comprar-1SG
+2	ká	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-1SG
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	yaʼaa	_	NOUN	_	_	_	_	_	Trad=jícara
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4727,7 +4727,7 @@
 # tagged = false
 # author = mazali
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=COM-ir-1SG
+2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 4	jíku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cerro,río
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4895,7 +4895,7 @@
 # tagged = true
 # author = mazali
 1	Íku	íku	ADV	_	_	_	_	_	Trad=ayer
-2	cheʼé	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=fui|Gloss=COM-ir-1SG
+2	cheʼé	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5345,7 +5345,7 @@
 # tagged = false
 # author = mazali
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	ká	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=COM-comprar-1SG
+2	ká	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-1SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	tö	_	_	_	_	_	_	_	Trad=mucho
 5	iʼyu	_	NOUN	_	_	_	_	_	Trad=mecate
@@ -5477,7 +5477,7 @@
 # tagged = true
 # author = mazali
 1	Chikuʼún	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.abuelita
-2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=COM-comprar-3SG.HUM
+2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-3SG.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	jiba	_	NOUN	_	_	_	_	_	Trad=petate
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -5759,7 +5759,7 @@
 # text[spa] = Corta una estaca para mi animal.
 # tagged = true
 # author = mazali
-1	Kakad	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corta|Gloss=?-cortar-2SG
+1	Kakad	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corta|Gloss=POT-cortar-2SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	júku	_	NOUN	_	_	_	_	_	Trad=estaca
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -6011,7 +6011,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	kod	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
-4	kàkad	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cortar|Gloss=?-cortar-2SG
+4	kàkad	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cortar|Gloss=POT-cortar-2SG
 5	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
 6	?	?	PUNCT	_	_	_	_	_	_
 
@@ -7289,7 +7289,7 @@
 # text[spa] = Compre chayocamotes.
 # tagged = true
 # author = paula
-1	Kaá	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=compré|Gloss=COM-comprar-1SG
+1	Kaá	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=compré|Gloss=CPL-comprar-1SG
 2	mï	_	NOUN	_	_	_	_	_	Trad=camote
 3	nïi	_	NOUN	_	_	_	_	_	Trad=chayote
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -7747,7 +7747,7 @@
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
 2	ndee	_	_	_	_	_	_	_	Trad=mucho
 3	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
-4	kad	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=COM-comprar-2SG
+4	kad	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-2SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0636
@@ -7942,7 +7942,7 @@
 # tagged = true
 # author = paula
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=COM-comprar-3SG.HUM
+2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-3SG.HUM
 3	neene	_	NOUN	_	_	_	_	_	Trad=guaje
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8177,7 +8177,7 @@
 # tagged = true
 # author = paula
 1	Takon	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
-2	káta	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=compró|Gloss=COM-comprar-3SG.FEM
+2	káta	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=compró|Gloss=CPL-comprar-3SG.FEM
 3	nini	_	NUM	_	NumType=Card	_	_	_	Trad=nueve
 4	kudubi	_	NOUN	_	_	_	_	_	Trad=cuchara
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -8534,7 +8534,7 @@
 # tagged = true
 # author = paula
 1	Sakon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	cheés	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=COM-ir-3SG.MSC
+2	cheés	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=CPL-ir-3SG.MSC
 3	nguas	_	VERB	_	VerbForm=Fin	_	_	_	Trad=traer|Gloss=?-traer-3SG.MSC
 4	nuna	_	NOUN	_	_	_	_	_	Trad=pitalla
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -8629,7 +8629,7 @@
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	kaa	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=COM-comprar-1SG
+2	kaa	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-1SG
 3	noobe	_	_	_	_	_	_	_	Trad=par
 4	nutbee	_	NOUN	_	_	_	_	_	Trad=arete
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -8748,7 +8748,7 @@
 # text[spa] = Se pego una piedra en su tobillo.
 # tagged = true
 # author = paula
-1	Kaá	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=compré|Gloss=COM-comprar-1SG
+1	Kaá	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=compré|Gloss=CPL-comprar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	tuu	_	NOUN	_	_	_	_	_	Trad=piedra
 4	nutnoo	_	NOUN	_	_	_	_	_	Trad=ojo
@@ -8822,8 +8822,8 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	cheʼé	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=fui|Gloss=COM-ir-1SG
-3	kaa	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=COM-comprar-1SG
+2	cheʼé	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
+3	kaa	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-1SG
 4	nutyáku	_	NOUN	_	_	_	_	_	Trad=cebolla
 5	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 6	naíba	_	NOUN	_	_	_	_	_	Trad=mercado
