@@ -527,12 +527,12 @@ nood	kaʼan	VERB	VerbForm=Fin	llegaste	?-?-2SG
 noʼó	kaʼan	VERB	VerbForm=Fin	voy	?-?-1SG			
 chúʼüu	kaʼan	VERB	VerbForm=Fin	fuimos	CPL-ir-1PL			
 cheʼë	kaʼan	VERB	VerbForm=Fin	fui	CPL-ir-1SG			
-kuʼes	kaʼan	VERB	VerbForm=Fin	fue	HAB-ir-3SG.MSC			
+kuʼes	kaʼan	VERB	VerbForm=Fin	fue	PROG-ir-3SG.MSC			
 cheés	kaʼan	VERB	VerbForm=Fin	fue	CPL-ir-3SG.MSC			
 cheʼéy	kaʼan	VERB	VerbForm=Fin	fue	CPL-ir-3SG.HUM			
-kueʼëñ	kaʼan	VERB	VerbForm=Fin	fue	HAB-ir-?			
+kueʼëñ	kaʼan	VERB	VerbForm=Fin	fue	PROG-ir-?			
 cheʼeñ	kaʼan	VERB	VerbForm=Fin	fue	CPL-ir-?			
-kuey	kaʼan	VERB	VerbForm=Fin	fue	HAB-ir-3SG.HUM			
+kuey	kaʼan	VERB	VerbForm=Fin	fue	PROG-ir-3SG.HUM			
 koʼöd	kaʼan	VERB	VerbForm=Fin	irás	POT-ir-2SG			
 koʼo	kaʼan	VERB	VerbForm=Fin	iré	POT-ir-1SG			
 koʼö	kaʼan	VERB	VerbForm=Fin	iré	POT-ir-1SG			
@@ -576,7 +576,7 @@ jiníkuy		VERB	VerbForm=Fin	vendio	?-vender-3SG.HUM
 jinuy		VERB	VerbForm=Fin	pone	?-poner-3SG.HUM			
 jiíy		VERB	VerbForm=Fin	toma	?-tomar-3SG.HUM			
 jiì		VERB	VerbForm=Fin	tomo	?-tomar-1SG			
-kuʼu		VERB	VerbForm=Fin	tomo	?-tomar-1SG			
+kuʼu	kúʼu	VERB	VerbForm=Fin	tomo	POT-tomar-1SG			
 jinoo		VERB	VerbForm=Fin	sale	?-salir-?			
 jiknó		VERB	VerbForm=Fin	salen	?-salir-?			
 jino		VERB	VerbForm=Fin	sale	?-salir-?			
@@ -589,16 +589,16 @@ joʼoy		VERB	VerbForm=Fin	da	?-dar-?
 chika		VERB	VerbForm=Fin	corté	CPL-cortar-1SG			
 kàkad		VERB	VerbForm=Fin	cortar	POT-cortar-2SG			
 kaaka		VERB	VerbForm=Fin	cortar	POT-cortar-?			
-kua	kua	VERB	VerbForm=Fin	comprar	IRR-comprar-1SG			
+kua	kua	VERB	VerbForm=Fin	comprar	POT-comprar-1SG			
 kaa	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-1SG			
-kuaa	kua	VERB	VerbForm=Fin	comprar	IRR-comprar-1SG			
+kuaa	kua	VERB	VerbForm=Fin	comprar	POT-comprar-1SG			
 káta	kua	VERB	VerbForm=Fin	compró	CPL-comprar-3SG.FEM			
 kaá	kua	VERB	VerbForm=Fin	compré	CPL-comprar-1SG			
 ká	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-1SG			
 kay	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-3SG.HUM			
 kad	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-2SG			
-kuad	kua	VERB	VerbForm=Fin	comprar	IRR-comprar-2SG			
-kúad	kua	VERB	VerbForm=Fin	comprar	IRR-comprar-2SG			
+kuad	kua	VERB	VerbForm=Fin	comprar	POT-comprar-2SG			
+kúad	kua	VERB	VerbForm=Fin	comprar	POT-comprar-2SG			
 jaata	kua	VERB	VerbForm=Fin	compra	PROG-comprar-3SG.FEM			
 koʼoy		VERB	VerbForm=Fin	pegaron	?-pegar-?			
 jinuu		VERB	VerbForm=Fin	pongo	?-poner-1SG			
@@ -647,7 +647,7 @@ chinót		VERB	VerbForm=Fin	se cayó	?-caerse-3SG.AML
 guay		VERB	VerbForm=Fin	traer	?-traer-3SG.HUM			
 jinay		VERB	VerbForm=Fin	lleva	?-llevar-?			
 kunud		VERB	VerbForm=Fin	ponle	?-poner-2SG			
-kúʼu		VERB	VerbForm=Fin	tomar	?-tomar-1SG			
+kúʼu	kúʼu	VERB	VerbForm=Fin	tomar	POT-tomar-1SG			
 kánud		VERB	VerbForm=Fin	corre	?-correr-2SG			
 kanú		VERB	VerbForm=Fin	cargar	?-cargar-?			
 kadinu		VERB	VerbForm=Fin	me enteraré	?-enterarse-1SG			
@@ -775,7 +775,7 @@ chúntii		NOUN		grillo
 chinuñ		VERB	VerbForm=Fin	mató	?-matar-?			
 chineabea		VERB	VerbForm=Fin	me caí	?-caerse-1SG			
 chikuincháakuu		NOUN		virgen				
-chií		VERB	VerbForm=Fin	tomé	?-tomar-1SG			
+chií	kúʼu	VERB	VerbForm=Fin	tomé	CPL-tomar-1SG			
 chiduu		NOUN		sacerdote				
 chiadi		NOUN		azúcar				
 cheé		VERB		comer	?-comer-?			
@@ -949,7 +949,7 @@ lunch		NOUN		borrego
 Luis	Luis	PROPN		Luis				
 lantuu								
 lantiku				costilla				
-kúʼuu		VERB		tomar	?-tomar-?			
+kúʼuu	kúʼu	VERB		tomar	POT-tomar-?			
 kuʼö	kuʼö	ADV		antenoche				
 kuyadu		VERB		dormir	?-dormir-?			
 kuunód		VERB		tienes pena	?-tener.pena-2SG			

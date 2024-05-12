@@ -729,7 +729,7 @@
 # tagged = true
 # author = lilia
 1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	kueʼëñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=HAB-ir-?
+2	kueʼëñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=PROG-ir-?
 3	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1138,7 +1138,7 @@
 # tagged = true
 # author = lilia
 1	Koó	_	DET	_	_	_	_	_	Trad=ese
-2	kuaa	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=IRR-comprar-1SG
+2	kuaa	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=POT-comprar-1SG
 3	chiadi	_	NOUN	_	_	_	_	_	Trad=azúcar
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1458,7 +1458,7 @@
 # tagged = true
 # author = lilia
 1	Koó	_	DET	_	_	_	_	_	Trad=ese
-2	kua	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=IRR-comprar-1SG
+2	kua	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=POT-comprar-1SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	chinbaʼa	_	NOUN	_	_	_	_	_	Trad=puerta|Gloss=boca#casa
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -1724,7 +1724,7 @@
 # text[spa] = Tomé tepache cuando fuimos a la fiesta.
 # tagged = false
 # author = lilia
-1	Chií	_	VERB	_	VerbForm=Fin	_	_	_	Trad=tomé|Gloss=?-tomar-1SG
+1	Chií	kúʼu	VERB	_	VerbForm=Fin	_	_	_	Trad=tomé|Gloss=CPL-tomar-1SG
 2	jadi	_	NOUN	_	_	_	_	_	Trad=tepache
 3	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 4	chúʼüu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=fuimos,fuimos
@@ -2873,7 +2873,7 @@
 # author = lucy
 1	Dinán	_	VERB	_	_	_	_	_	Trad=preparan|Gloss=?-preparar-?
 2	ntú	_	NOUN	_	_	_	_	_	Trad=atole
-3	kúʼuu	_	VERB	_	_	_	_	_	Trad=tomar|Gloss=?-tomar-?
+3	kúʼuu	kúʼu	VERB	_	_	_	_	_	Trad=tomar|Gloss=POT-tomar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0240
@@ -2906,7 +2906,7 @@
 # tagged = true
 # author = lucy
 1	Kueʼëd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=vé|Gloss=?-ir-2SG
-2	kuad	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=IRR-comprar-2SG
+2	kuad	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=POT-comprar-2SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	ñaa	_	NOUN	_	_	_	_	_	Trad=vela
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3659,7 +3659,7 @@
 # tagged = true
 # author = lucy
 1	Kueʼëd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=vé|Gloss=?-ir-2SG
-2	kúad	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=IRR-comprar-2SG
+2	kúad	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=POT-comprar-2SG
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	tú	_	NOUN	_	_	_	_	_	Trad=pulgada
 5	iʼyu	_	NOUN	_	_	_	_	_	Trad=mecate
@@ -4424,7 +4424,7 @@
 # tagged = true
 # author = lucy
 1	Kuéd	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vé|Gloss=?-ir-2SG
-2	kuad	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=IRR-comprar-2SG
+2	kuad	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=POT-comprar-2SG
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	yúntu	_	NOUN	_	_	_	_	_	Trad=tabla
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -5672,7 +5672,7 @@
 # tagged = true
 # author = mazali
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	kuey	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=HAB-ir-3SG.HUM
+2	kuey	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=PROG-ir-3SG.HUM
 3	guay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=traer|Gloss=?-traer-3SG.HUM
 4	jiyuu	_	NOUN	_	_	_	_	_	Trad=carrizo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -6306,7 +6306,7 @@
 # text[spa] = Voy a tomar un refresco.
 # tagged = true
 # author = mazali
-1	Kúʼu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=tomar|Gloss=?-tomar-1SG
+1	Kúʼu	kúʼu	VERB	_	VerbForm=Fin	_	_	_	Trad=tomar|Gloss=POT-tomar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	nunyadi	_	NOUN	_	_	_	_	_	Trad=refresco
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -6642,7 +6642,7 @@
 # tagged = false
 # author = mazali
 1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
-2	kuʼes	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=HAB-ir-3SG.MSC
+2	kuʼes	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=PROG-ir-3SG.MSC
 3	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7265,7 +7265,7 @@
 # text[spa] = Cómprame una calceta.
 # tagged = true
 # author = paula
-1	Kuad	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=IRR-comprar-2SG
+1	Kuad	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=POT-comprar-2SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	meede	_	NOUN	_	_	_	_	_	Trad=calceta
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -7403,7 +7403,7 @@
 # tagged = true
 # author = paula
 1	Koʼo	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
-2	kua	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=IRR-comprar-1SG
+2	kua	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=POT-comprar-1SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	naama	_	NOUN	_	_	_	_	_	Trad=jabón
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -8547,7 +8547,7 @@
 # author = paula
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	nee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quería|Gloss=?-querer-?
-3	kuʼu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=tomo|Gloss=?-tomar-1SG
+3	kuʼu	kúʼu	VERB	_	VerbForm=Fin	_	_	_	Trad=tomo|Gloss=POT-tomar-1SG
 4	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 5	.	.	PUNCT	_	_	_	_	_	_
 
