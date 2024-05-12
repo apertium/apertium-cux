@@ -847,7 +847,7 @@
 # text[spa] = Ese mecate está muy largo.
 # tagged = false
 # author = lilia
-1	Iyu	_	_	_	_	_	_	_	_
+1	Iyu	_	NOUN	_	_	_	_	_	Trad=mes
 2	koon	_	DET	_	_	_	_	_	Trad=ese
 3	yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 4	cheanuu	_	VERB	_	VerbForm=Stat	_	_	_	Trad=largo
@@ -3806,7 +3806,7 @@
 # author = lucy
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 2	ñòon	_	_	_	_	_	_	_	_
-3	inti	_	_	_	_	_	_	_	_
+3	inti	_	_	_	_	_	_	_	Trad=hay
 4	yàaku	_	NOUN	_	_	_	_	_	Trad=mosquito
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4192,7 +4192,7 @@
 1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	yoo	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amargo,brazada
-4	iyu	_	_	_	_	_	_	_	_
+4	iyu	_	NOUN	_	_	_	_	_	Trad=mes
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4927,9 +4927,9 @@
 # text = Iyu jòò dí ama biku no baku.
 # text[orig] = Iyu jòò dí ama biku no baku.
 # text[spa] = En el mes de junio voy a hacer una fiesta en mi casa.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Iyu	_	_	_	_	_	_	_	_
+1	Iyu	_	NOUN	_	_	_	_	_	Trad=mes
 2	jòò	_	NUM	_	_	_	_	_	Trad=seis
 3	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -5085,7 +5085,7 @@
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 4	deabea	_	_	_	_	_	_	_	Trad=limpio
 5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
-6	iyu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=luna,mes,.luna
+6	iyu	_	NOUN	_	_	_	_	_	Trad=luna
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0421
@@ -6066,11 +6066,11 @@
 # text = Uu kanbaku iyu chi kuchi.
 # text[orig] = Uu kanbaku iyu chi kuchi.
 # text[spa] = Yo me caso el próximo mes.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	kanbaku	_	VERB	_	VerbForm=Fin	_	_	_	Trad=casarse|Gloss=?-casarse-1SG
-3	iyu	_	_	_	_	_	_	_	_
+3	iyu	_	NOUN	_	_	_	_	_	Trad=mes
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kuchi	_	NOUN	_	_	_	_	_	Trad=marrano
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -8425,7 +8425,7 @@
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	kuee	_	_	_	_	_	_	_	_
+3	kuee	_	_	_	_	_	_	_	Trad=chueco
 4	nadna	_	_	_	_	_	_	_	_
 5	ntu	_	NOUN	_	_	_	_	_	Trad=atole
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -8685,14 +8685,14 @@
 # text = Takoon jitubita nutdúü chi jeé beta.
 # text[orig] = Takoon jitubita nutdúü chi jeé beta.
 # text[spa] = Ella ocupa la grilla para el dolor de oído.
-# tagged = false
+# tagged = true
 # author = paula
 1	Takoon	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
 2	jitubita	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupa|Gloss=?-ocupar-3SG.FEM
 3	nutdúü	_	NOUN	_	_	_	_	_	Trad=grilla
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	jeé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
-6	beta	_	_	_	_	_	_	_	_
+6	beta	_	NOUN	_	_	_	_	_	Trad=su.oreja
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0713
@@ -8737,7 +8737,7 @@
 # tagged = false
 # author = paula
 1	Takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
-2	kuee	_	_	_	_	_	_	_	_
+2	kuee	_	_	_	_	_	_	_	Trad=chueco
 3	nutnoo	_	NOUN	_	_	_	_	_	Trad=ojo
 4	taa	_	_	_	_	_	_	_	Trad=verde
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -8761,9 +8761,9 @@
 # text[spa] = En el mes de mayo hay zarzamora.
 # tagged = false
 # author = paula
-1	Iyu	_	_	_	_	_	_	_	_
+1	Iyu	_	NOUN	_	_	_	_	_	Trad=mes
 2	juu	_	NUM	_	NumType=Card	_	_	_	Trad=cinco
-3	intii	_	_	_	_	_	_	_	_
+3	intii	_	_	_	_	_	_	_	Trad=hay
 4	nutñoo	_	NOUN	_	_	_	_	_	Trad=zarzamora
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8798,8 +8798,8 @@
 # tagged = false
 # author = paula
 1	Nuttoʼo	_	NOUN	_	_	_	_	_	Trad=dedo
-2	din	_	_	_	_	_	_	_	_
-3	kuee	_	_	_	_	_	_	_	_
+2	din	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
+3	kuee	_	_	_	_	_	_	_	Trad=chueco
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0722

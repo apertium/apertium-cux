@@ -1,4 +1,4 @@
- 	Lema	POS	Feats	Significado	Glosa	1272	1023	1179
+ 	Lema	POS	Feats	Significado	Glosa	1273	1025	1184
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -184,7 +184,7 @@ itsó		NOUN		sapo
 itsoʼö		NOUN		guajolote				
 iyaa		NOUN		chile				
 iynutii		NOUN		chile piquín				
-iyu		NOUN		mes, luna				
+iyu		NOUN		mes				
 iyu		NOUN		luna				
 íyu		NOUN		pulga				
 iʼbaa		NOUN		guacamaya				
@@ -701,7 +701,7 @@ noy		VERB		vino	?-venir-?
 nakuu		NOUN		guarache				
 mojoben	mojobe	ADV		hoy				
 mojobe	mojobe	ADV		hoy				
-kuee								
+kuee				chueco				
 kú		DET		este				
 kané		VERB		está	?-estar-?			
 kaba				feo				
@@ -769,6 +769,7 @@ dínud		VERB		apretas	?-apretar-2SG
 dikuoʼoo		NOUN		bebé				
 dijú								
 dijinuy		NOUN		nieto				
+din		PRON	PronType=Prs	tú	2SG			
 dií		PRON	PronType=Prs	tú	2SG			
 dayay		NOUN		su hijo(a)	hijo-POSS.3SG.HUM			
 chúntii		NOUN		grillo				
@@ -1077,8 +1078,8 @@ iñuu		NOUN		guajolote
 iñsen								
 inun								
 ínu		VERB	VerbForm=Fin	mato	?-matar-1SG			
-intii								
-inti								
+intii				hay				
+inti				hay				
 inbakuyan								
 ìkut		VERB		pone	?-poner-?			
 ikay		VERB		hace	?-hacer-?			
@@ -1193,7 +1194,7 @@ bií		NOUN		fruta
 bii		NOUN		fruta				
 bichi		NOUN		gato				
 bichas				está gordo				
-beta								
+beta		NOUN		su oreja				
 bet								
 bemoñoʼo								
 bèèye		NOUN		nixtamal				
