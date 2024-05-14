@@ -98,6 +98,24 @@ def disambiguate(form, analyses, cux, spa):
 
 		return new_analyses
 
+	def choose_or_remove_list(analyses, words, trad):
+		new_analyses = analyses
+		found = True 
+		spa_lower = [i.lower() for i in spa]
+		res = [i.lower() in spa_lower for i in words.split(' ')]
+		print('@@@', res, file=sys.stderr)
+		for r in res:
+			if r == False: 
+				found = False
+				break
+		if found:
+			new_analyses = [i for i in analyses if i[3] == trad]
+		else:
+			new_analyses = [i for i in analyses if i[3] != trad]
+		print('###', analyses, '|||', new_analyses, file=sys.stderr)
+
+		return new_analyses
+
 	def choose_or_remove(analyses, wordre, trad):
 		new_analyses = analyses
 		found = False
@@ -150,8 +168,27 @@ def disambiguate(form, analyses, cux, spa):
 		new_analyses = choose_if_not_trad(analyses, r'(árbol|árboles)', 'pueblo')
 	elif form == 'cheʼed':
 		new_analyses = choose_if_not_trad(analyses, 'come', 'fuiste')
+	elif form == 'díi':
+		new_analyses = choose_or_remove(analyses, 'caspa', 'caspa')
+	elif form == 'yába':
+		new_analyses = choose_or_remove(analyses, 'memela', 'memela')
+	elif form == 'yaʼa':
+		new_analyses = choose_or_remove(analyses, 'duele', 'duele')
+		new_analyses = choose_or_remove(new_analyses, 'amo', 'amo')
+	elif form == 'jíku':
+		new_analyses = choose_or_remove(analyses, 'río', 'río')
 	elif form == 'yata':
 		new_analyses = choose_or_remove(analyses, 'hierba', 'hierba')
+		if len(new_analyses) > 1:
+			new_analyses = choose_or_remove(new_analyses, 'pichón', 'pichón')
+	elif form == 'yoo':
+		new_analyses = choose_or_remove(analyses, 'brazadas?', 'brazada')
+	elif form == 'dü':
+		new_analyses = choose_or_remove(analyses, 'manteca', 'manteca')
+	elif form == 'dinuu':
+		new_analyses = choose_or_remove(analyses, 'talón', 'talón')
+		if len(new_analyses) > 1:
+			new_analyses = choose_or_remove_list(new_analyses, 'mi hermano', 'mi hermano')
 	elif form == 'biʼi':
 		new_analyses = choose_or_remove(analyses, 'fruta', 'fruta')
 	elif form == 'dii':
@@ -166,6 +203,8 @@ def disambiguate(form, analyses, cux, spa):
 		new_analyses = choose_if_not_trad(analyses, 'plano', 'caballo')
 	elif form == 'chikuu' or form == 'chikuʼu':
 		new_analyses = choose_if_not_trad(analyses, r'(mi|mí)', 'abuela')
+	elif form == 'jeakuy':
+		new_analyses = choose_if_not_trad(analyses, 'llor[^ ]+', 'tapar')
 	elif form == 'deabea':
 		new_analyses = choose_if_not_trad(analyses, 'alumbrado', 'limpio')
 	elif form == 'koon':

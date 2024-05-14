@@ -593,7 +593,7 @@
 # tagged = false
 # author = lilia
 1	Dínu	_	NOUN	_	_	_	_	_	Trad=hermano
-2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+2	yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
 3	bichas	_	_	_	_	_	_	_	Trad=está.gordo
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1052,10 +1052,10 @@
 # text = Un yaʼa cheete.
 # text[orig] = Un yaʼa cheete.
 # text[spa] = Me duele el estómago.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+2	yaʼa	_	VERB	_	_	_	_	_	Trad=duele
 3	cheete	_	NOUN	_	_	_	_	_	Trad=estómago
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1722,12 +1722,12 @@
 # text = Chií jadi tochi chúʼüu bíkum.
 # text[orig] = Chií jadi tochi chúʼüu bíkum.
 # text[spa] = Tomé tepache cuando fuimos a la fiesta.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Chií	kúʼu	VERB	_	VerbForm=Fin	_	_	_	Trad=tomé|Gloss=CPL-tomar-1SG
 2	jadi	_	NOUN	_	_	_	_	_	Trad=tepache
 3	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-4	chúʼüu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=fuimos,fuimos
+4	chúʼüu	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fuimos|Gloss=CPL-ir-1PL
 5	bíkum	_	NOUN	_	Typo=Yes	_	_	_	Trad=fiesta
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1752,7 +1752,7 @@
 2	dama	_	_	_	_	_	_	_	Trad=igual
 3	jinee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hablo|Gloss=?-hablar-?
 4	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
-5	dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
+5	dinuu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0148
@@ -1865,9 +1865,9 @@
 # text = Yaʼa dantu.
 # text[orig] = Yaʼa dantu.
 # text[spa] = Me duele el cuello.
-# tagged = false
+# tagged = true
 # author = lilia
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+1	Yaʼa	_	VERB	_	_	_	_	_	Trad=duele
 2	dantu	_	NOUN	_	_	_	_	_	Trad=cuello
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2058,7 +2058,7 @@
 5	jínay	_	VERB	_	_	_	_	_	Trad=se.baña|Gloss=?-bañarse-?
 6	,	,	PUNCT	_	_	_	_	_	_
 7	jíni	_	_	_	_	_	_	_	_
-8	díi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=caspa,tamo
+8	díi	_	NOUN	_	_	_	_	_	Trad=caspa
 9	tíñ	_	_	_	_	_	_	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2069,7 +2069,7 @@
 # tagged = false
 # author = lilia
 1	Tano	_	_	_	_	_	_	_	_
-2	díi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=caspa,tamo
+2	díi	_	_	_	_	_	_	_	Trad=tamo
 3	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
 4	ne	_	_	_	_	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2115,13 +2115,13 @@
 # text = Kanuu ama kadi noo dinuu ñeʼë.
 # text[orig] = Kanuu ama kadi noo dinuu ñeʼë.
 # text[spa] = Tengo un peso en mi bolsa.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Kanuu	_	VERB	_	_	_	_	_	Trad=está
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	kadi	_	NOUN	_	_	_	_	_	Trad=peso($)
 4	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
-5	dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
+5	dinuu	_	NOUN	_	_	_	_	_	Trad=gorro
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2269,7 +2269,7 @@
 # tagged = false
 # author = lilia
 1	Yagii	_	_	_	_	_	_	_	Trad=duele
-2	dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
+2	dinuu	_	NOUN	_	_	_	_	_	Trad=talón
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0190
@@ -2353,7 +2353,7 @@
 # tagged = false
 # author = lilia
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
-2	yoo	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amargo,brazada
+2	yoo	_	_	_	_	_	_	_	Trad=amargo
 3	dóo	_	_	_	_	_	_	_	Trad=hiel
 4	tuʼú	_	NOUN	_	_	_	_	_	Trad=pollo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2362,11 +2362,11 @@
 # text = Nee cheʼe dü ñëʼe kuchii.
 # text[orig] = Nee cheʼe dü ñëʼe kuchii.
 # text[spa] = Quiero comer manteca de puerco.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Nee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quería|Gloss=?-querer-?
 2	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
-3	dü	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=manteca,uña
+3	dü	_	NOUN	_	_	_	_	_	Trad=manteca
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 5	kuchii	_	NOUN	_	_	_	_	_	Trad=puerco
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -3408,7 +3408,7 @@
 # author = lucy
 1	Tilï	_	_	_	_	_	_	_	_
 2	kó	_	DET	_	_	_	_	_	Trad=ese
-3	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+3	yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
 4	áta	_	VERB	_	_	_	_	_	Trad=llora
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3443,7 +3443,7 @@
 # tagged = false
 # author = lucy
 1	Tecolote	_	NOUN	_	_	_	_	_	Trad=tecolote
-2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+2	yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
 3	kaba	_	_	_	_	_	_	_	Trad=feo
 4	át	_	VERB	_	_	_	_	_	Trad=grita
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3516,9 +3516,9 @@
 # text = Yaʼa tíku.
 # text[orig] = Yaʼa tíku.
 # text[spa] = Me duele la cintura.
-# tagged = false
+# tagged = true
 # author = lucy
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+1	Yaʼa	_	VERB	_	_	_	_	_	Trad=duele
 2	tíku	_	NOUN	_	_	_	_	_	Trad=chapulín
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3705,10 +3705,10 @@
 # text = Ú yaʼa nukud.
 # text[orig] = Ú yaʼa nukud.
 # text[spa] = Yo te amo.
-# tagged = false
+# tagged = true
 # author = lucy
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+2	yaʼa	_	VERB	_	_	_	_	_	Trad=amo|Gloss=?-amar-?
 3	nukud	_	NOUN	_	NounType=Relat	_	_	_	Trad=contigo|Gloss=con-POSS.SG2
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3742,13 +3742,13 @@
 # text = Gua dínud koʼo kat yaʼa.
 # text[orig] = Gua dínud koʼo kat yaʼa.
 # text[spa] = No aprientes mi pie porque me duele.
-# tagged = false
+# tagged = true
 # author = lucy
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	dínud	_	VERB	_	_	_	_	_	Trad=apretas|Gloss=?-apretar-2SG
 3	koʼo	_	NOUN	_	_	_	_	_	Trad=pie
 4	kat	_	SCONJ	_	_	_	_	_	Trad=porque
-5	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+5	yaʼa	_	VERB	_	_	_	_	_	Trad=duele
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0312
@@ -3758,7 +3758,7 @@
 # tagged = false
 # author = lucy
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
-2	yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+2	yaʼa	_	VERB	_	_	_	_	_	Trad=duele
 3	toʼo	_	NOUN	_	_	_	_	_	Trad=mano
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3770,7 +3770,7 @@
 # author = lucy
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
 2	chéatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
-3	yába	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=memela,piedra.grande,rocas.planas
+3	yába	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=piedra.grande,rocas.planas
 4	kó	_	DET	_	_	_	_	_	Trad=ese
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3783,7 +3783,7 @@
 1	Kueten	_	NOUN	_	_	_	_	_	Trad=campo
 2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-4	yába	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=memela,piedra.grande,rocas.planas
+4	yába	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=piedra.grande,rocas.planas
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0315
@@ -3840,22 +3840,22 @@
 # text = Uu ika yába.
 # text[orig] = Uu ika yába.
 # text[spa] = Yo hago memelas.
-# tagged = false
+# tagged = true
 # author = lucy
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	ika	_	VERB	_	_	_	_	_	Trad=hago|Gloss=?-hacer-1SG
-3	yába	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=memela,piedra.grande,rocas.planas
+3	yába	_	NOUN	_	_	_	_	_	Trad=memela
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0320
 # text = Chinuú yábaa dinuu.
 # text[orig] = Chinuú yábaa dinuu.
 # text[spa] = Mi hermano tiene aradores.
-# tagged = false
+# tagged = true
 # author = lucy
 1	Chinuú	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 2	yábaa	_	NOUN	_	_	_	_	_	Trad=arador
-3	dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
+3	dinuu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0321
@@ -4063,9 +4063,9 @@
 # text = Yata beat jibakuu.
 # text[orig] = Yata beat jibakuu.
 # text[spa] = Hay palomas en Cuicatlán.
-# tagged = false
+# tagged = true
 # author = lucy
-1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=paloma,pichón
+1	Yata	_	NOUN	_	_	_	_	_	Trad=paloma
 2	beat	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG.AML
 3	jibakuu	_	PROPN	_	Typo=Yes	_	_	_	Trad=Cuicatlán|Gloss=LOC
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4078,7 +4078,7 @@
 # author = lucy
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-3	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=paloma,pichón
+3	yata	_	NOUN	_	_	_	_	_	Trad=pichón
 4	jikioʼö	_	NOUN	_	_	_	_	_	Trad=bosque
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4102,7 +4102,7 @@
 1	Mun	_	ADV	_	_	_	_	_	Trad=aquí
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 3	nee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quería|Gloss=?-querer-?
-4	yati	_	_	_	_	_	_	_	Trad=chindete
+4	yati	_	NOUN	_	_	_	_	_	Trad=chindete
 5	bet	_	_	_	_	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4112,7 +4112,7 @@
 # text[spa] = Está muy simple esta comida.
 # tagged = false
 # author = lucy
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+1	Yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
 2	yáti	_	_	_	_	_	_	_	Trad=simple
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	genee	_	_	_	_	_	_	_	_
@@ -4136,7 +4136,7 @@
 # text[spa] = Está muy bonita esa mariposa.
 # tagged = false
 # author = lucy
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+1	Yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
 2	yeabea	_	_	_	_	_	_	_	Trad=bonito(a)
 3	yéabea	_	NOUN	_	_	_	_	_	Trad=mariposa
 4	koo	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
@@ -4180,18 +4180,18 @@
 4	,	,	PUNCT	_	_	_	_	_	_
 5	kat	_	SCONJ	_	_	_	_	_	Trad=porque
 6	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
-7	yoo	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amargo,brazada
+7	yoo	_	_	_	_	_	_	_	Trad=amargo
 8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0347
 # text = Ted obe yoo iyu ñëʼe.
 # text[orig] = Ted obe yoo iyu ñëʼe.
 # text[spa] = Dame dos brazadas de mecate.
-# tagged = false
+# tagged = true
 # author = lucy
 1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
-3	yoo	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amargo,brazada
+3	yoo	_	NOUN	_	_	_	_	_	Trad=brazada
 4	iyu	_	NOUN	_	_	_	_	_	Trad=mes
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -4215,7 +4215,7 @@
 # tagged = false
 # author = lucy
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	yoo	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amargo,brazada
+2	yoo	_	_	_	_	_	_	_	Trad=amargo
 3	kastila	_	NOUN	_	_	_	_	_	Trad=sávila
 4	muu	_	ADV	_	_	_	_	_	Trad=aquí
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4228,7 +4228,7 @@
 # author = lucy
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	dnee	_	_	_	_	_	_	_	_
-3	yubi	_	_	_	_	_	_	_	Trad=tejón
+3	yubi	_	NOUN	_	_	_	_	_	Trad=tejón
 4	beat	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG.AML
 5	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -4347,9 +4347,9 @@
 # text = Dinuu neé cheʼes yukjaʼa.
 # text[orig] = Dinuu neé cheʼes yukjaʼa.
 # text[spa] = Mi hermano quiere comer chilacayota.
-# tagged = false
+# tagged = true
 # author = lucy
-1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
+1	Dinuu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 3	cheʼes	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG.MSC
 4	yukjaʼa	_	NOUN	_	_	_	_	_	Trad=chilacayota
@@ -4641,7 +4641,7 @@
 # text[spa] = Huele muy bien la hierbabuena.
 # tagged = false
 # author = mazali
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+1	Yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
 2	ndá	_	_	_	_	_	_	_	Trad=bueno
 3	gëe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=huele|Gloss=?-oler-?
 4	gibii	_	NOUN	_	_	_	_	_	Trad=hierbabuena
@@ -4705,7 +4705,7 @@
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	sangáta	_	NOUN	_	_	_	_	_	Trad=lobo
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
-5	jíku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cerro,río
+5	jíku	_	NOUN	_	_	_	_	_	Trad=cerro
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0390
@@ -4724,12 +4724,12 @@
 # text = Ú cheʼë no jíku.
 # text[orig] = Ú cheʼë no jíku.
 # text[spa] = Yo fui al río.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
-4	jíku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cerro,río
+4	jíku	_	NOUN	_	_	_	_	_	Trad=río
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0392
@@ -4791,7 +4791,7 @@
 # text[spa] = Canta muy bonito el canario (pájaro).
 # tagged = false
 # author = mazali
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+1	Yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
 2	yeabe	_	_	_	_	_	_	_	Trad=mucho,.muy
 3	jita	_	VERB	_	VerbForm=Fin	_	_	_	Trad=canta|Gloss=?-cantar-?
 4	yadkuöo	_	NOUN	_	_	_	_	_	Trad=canario
@@ -5366,12 +5366,12 @@
 # text = Ú neʼë cheʼe yata ícha.
 # text[orig] = Ú neʼë cheʼe yata ícha.
 # text[spa] = Yo quiero comer quelite.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 3	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
-4	yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=paloma,pichón
+4	yata	_	NOUN	_	_	_	_	_	Trad=paloma
 5	ícha	_	NOUN	_	_	_	_	_	Trad=tipo.de.quelite
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5451,10 +5451,10 @@
 # text = Chakun jeakuy pañu ñeʼeñ.
 # text[orig] = Chakun jeakuy pañu ñeʼeñ.
 # text[spa] = Mi mamá se tapa su rebozo.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	jeakuy	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=llorar,tapar
+2	jeakuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=tapar|Gloss=?-tapar-3SG.HUM
 3	pañu	_	NOUN	_	_	_	_	_	Trad=rebozo
 4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -5486,10 +5486,10 @@
 # text = Chaku jeakuy pañu ñeʼeñ.
 # text[orig] = chaku jeakuy pañu ñeʼeñ.
 # text[spa] = Mi mamá se tapa su rebozo.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	jeakuy	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=llorar,tapar
+2	jeakuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=tapar|Gloss=?-tapar-3SG.HUM
 3	pañu	_	NOUN	_	_	_	_	_	Trad=rebozo
 4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -5723,7 +5723,7 @@
 # author = mazali
 1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
 2	joʼö	_	_	_	_	_	_	_	Trad=suena
-3	jíku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=cerro,río
+3	jíku	_	NOUN	_	_	_	_	_	Trad=río
 4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	jibaku	_	PROPN	_	Typo=Yes	_	_	_	Trad=Cuicatlán|Gloss=LOC
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -6639,9 +6639,9 @@
 # text = Dinuu kuʼes kuete.
 # text[orig] = Dinuu kuʼes kuete.
 # text[spa] = Mi hermano se fue al campo.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
+1	Dinuu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 2	kuʼes	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=PROG-ir-3SG.MSC
 3	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -6916,9 +6916,9 @@
 # text = Dinuu nichis ama kuu töo.
 # text[orig] = Dinuu nichis ama kuu töo.
 # text[spa] = Mi hermano vió un coralillo.
-# tagged = false
+# tagged = true
 # author = paula
-1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
+1	Dinuu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 2	nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	kuu	_	NOUN	_	_	_	_	_	Trad=víbora
@@ -6929,13 +6929,13 @@
 # text = Uu nichi ama kuu yati.
 # text[orig] = Uu nichi ama kuu yati.
 # text[spa] = Yo vi a una lagartija-vibora.
-# tagged = false
+# tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	kuu	_	NOUN	_	_	_	_	_	Trad=víbora
-5	yati	_	_	_	_	_	_	_	Trad=chindete
+5	yati	_	NOUN	_	_	_	_	_	Trad=chindete
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0571
@@ -7388,7 +7388,7 @@
 # text[spa] = Las hojas de tu libro están muy pegados.
 # tagged = false
 # author = paula
-1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=paloma,pichón
+1	Yata	_	NOUN	_	_	_	_	_	Trad=paloma
 2	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 3	kaka	_	NOUN	_	_	_	_	_	Trad=papel
 4	ñeedin	_	_	_	_	_	_	_	_
@@ -7522,9 +7522,9 @@
 # text = Dinuu jinikus najaʼa.
 # text[orig] = Dinuu jinikus najaʼa.
 # text[spa] = Mi hermano vende nuez.
-# tagged = false
+# tagged = true
 # author = paula
-1	Dinuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=gorro,mi.hermano,talón
+1	Dinuu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 2	jinikus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.MSC
 3	najaʼa	_	NOUN	_	_	_	_	_	Trad=nuez
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -7902,7 +7902,7 @@
 # text[spa] = Está muy caro el tomate.
 # tagged = false
 # author = paula
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+1	Yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
 2	yaku	_	_	_	_	_	_	_	Trad=alto
 3	chiba	_	NOUN	_	_	_	_	_	Trad=precio
 4	neatuu	_	NOUN	_	_	_	_	_	Trad=tomate

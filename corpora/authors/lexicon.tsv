@@ -1,4 +1,4 @@
- 	Lema	POS	Feats	Significado	Glosa	1273	1025	1184
+ 	Lema	POS	Feats	Significado	Glosa	1272	1028	1183
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -418,12 +418,12 @@ yàna		NOUN		red
 yánaa		NOUN		mi perro				
 ñana		NOUN		perro				
 yana		NOUN		perro				
-yat kúiyu				sause				
+yat kúiyu		NOUN		sause				
 yata		NOUN		hierba				
 yata		NOUN		paloma				
 yata		NOUN		pichón				
 yáta		NOUN		tlacuache				
-yati				chindete				
+yati		NOUN		chindete				
 yáti				simple				
 yatneachea		NOUN		escoba de vara				
 yeabea				bonito(a)				
@@ -434,9 +434,9 @@ yojinu				contento(a)
 yoko		NOUN		tenate para cargar				
 yuku		NOUN		tenate para cargar				
 yoo				amargo				
-yoo				brazada				
+yoo		NOUN		brazada				
 yoo kastila		NOUN		sávila				
-yubi				tejón				
+yubi		NOUN		tejón				
 yúbi		NOUN		mapache				
 yuchii		NOUN		puño				
 yuchmee		NOUN		cerebro				
@@ -559,7 +559,7 @@ cheeta	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.FEM
 chuʼuu	cheʼe	VERB	VerbForm=Fin	comemos	?-comer-1PL			
 cheʼey	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.HUM			
 jeʼe	cheʼe	VERB	VerbForm=Fin	estoy.comiendo	?-comer-1SG			
-chúʼüu	kaʼan	VERB	VerbForm=Fin	fuimos	?-ir-1PL			
+								
 chuʼuu	cheʼe	VERB	VerbForm=Fin	comemos	?-comer-1PL			
 neʼë		VERB	VerbForm=Fin	quiero	?-querer-1SG			
 nee		VERB	VerbForm=Fin	quería	?-querer-?			
