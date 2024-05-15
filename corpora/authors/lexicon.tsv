@@ -1,4 +1,4 @@
- 	Lema	POS	Feats	Significado	Glosa	1272	1028	1183
+ 	Lema	POS	Feats	Significado	Glosa	1272	1030	1183
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -112,9 +112,9 @@ dítdanti		NOUN		correcamino
 dituu		VERB	VerbForm=Stat	fuerte				
 dunu		NOUN		mi tío				
 dunun		NOUN		mi tío				
-diyan		NOUN		tío				
-dìya		NOUN		tío				
-diya		NOUN		tío				
+diyan		NOUN		su tío				
+dìya		NOUN		mi tío				
+diya		NOUN		mi tío				
 diydaʼa		NOUN		raíz				
 dóo				hiel				
 dü		NOUN		manteca				
@@ -199,7 +199,7 @@ jaʼa		NOUN		cáscara
 jiba		NOUN		petate				
 jíba		NOUN		sanja				
 jidéaku		NOUN		basura				
-jijobaa				sombras de estaciones en la fiesta de semana santa				
+jijobaa		NOUN		sombras de estaciones en la fiesta de semana santa				
 jika		NOUN		camina				
 jikioʼö		NOUN		bosque				
 jíku		NOUN		cerro				
@@ -666,7 +666,7 @@ jidijü		VERB	VerbForm=Fin	estoy escribiendo	?-escribir-1SG
 jeakuta		VERB	VerbForm=Fin	está llorando	?-llorar-3SG.FEM			
 jába		VERB	VerbForm=Fin	ladra	?-ladrar-?			
 								
-yeabean				mucho, muy				
+yeabean		ADV		mucho, muy				
 baʼa		NOUN		casa				
 kó		DET		ese				
 eanu		VERB		gusto	?-gustar-1SG			
@@ -702,7 +702,7 @@ nakuu		NOUN		guarache
 mojoben	mojobe	ADV		hoy				
 mojobe	mojobe	ADV		hoy				
 kuee				chueco				
-kú		DET		este				
+kú		NOUN		campana				
 kané		VERB		está	?-estar-?			
 kaba				feo				
 ji		VERB		hace	?-hacer-?			
@@ -1041,7 +1041,7 @@ jììya
 jiinus								
 jii								
 jigea		VERB	VerbForm=Fin	cae	?-caer-?			
-jidkueakus		VERB		tocar campana				
+jidkueakus		VERB		tocar				
 jidis		VERB	VerbForm=Fin	hace	?-hacer-3SG.MSC			
 jidiñ		VERB	VerbForm=Fin	está haciendo	?-hacer-?			
 jidií		VERB	VerbForm=Fin	hacer	?-hacer-?			

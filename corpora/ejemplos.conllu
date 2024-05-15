@@ -239,7 +239,7 @@
 # text[spa] = Mi tío tiene un caballo.
 # tagged = true
 # author = lilia
-1	Diya	_	NOUN	_	_	_	_	_	Trad=tío
+1	Diya	_	NOUN	_	_	_	_	_	Trad=mi.tío
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	yuduu	_	NOUN	_	_	_	_	_	Trad=caballo
@@ -250,9 +250,9 @@
 # text = Yeabean áa jiku.
 # text[orig] = Yeabean áa jiku.
 # text[spa] = Suena el río.
-# tagged = false
+# tagged = true
 # author = lilia
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	áa	_	VERB	_	_	_	_	_	Trad=resuena
 3	jiku	_	NOUN	_	_	_	_	_	Trad=río,.cerro
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -323,7 +323,7 @@
 1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	baku	_	NOUN	_	_	_	_	_	Trad=casa
-4	diiya	_	NOUN	_	Typo=Yes	_	_	_	Trad=tío
+4	diiya	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.tío
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0028
@@ -408,7 +408,7 @@
 # text[spa] = Hay mucha envidia en Tepeuxila.
 # tagged = false
 # author = lilia
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	bedbêe	_	_	_	_	_	_	_	Trad=envidia
 4	Kukoo	_	PROPN	_	_	_	_	_	Trad=Tepeuxila|Gloss=LOC
@@ -826,7 +826,7 @@
 # author = lilia
 1	Chéanu	_	VERB	_	_	_	_	_	Trad=gusté|Gloss=?-gustar-1SG
 2	kiana	_	NOUN	_	_	_	_	_	Trad=camisa
-3	kú	_	DET	_	_	_	_	_	Trad=este
+3	kú	_	NOUN	_	_	_	_	_	Trad=campana
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0069
@@ -845,11 +845,11 @@
 # text = Iyu koon yeaben cheanuu.
 # text[orig] = Iyu koon yeaben cheanuu.
 # text[spa] = Ese mecate está muy largo.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Iyu	_	NOUN	_	_	_	_	_	Trad=mes
 2	koon	_	DET	_	_	_	_	_	Trad=ese
-3	yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+3	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 4	cheanuu	_	VERB	_	VerbForm=Stat	_	_	_	Trad=largo
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1233,9 +1233,9 @@
 # text = Yeabean snuu chídi yúduu ñeʼë.
 # text[orig] = Yeabean snuu chídi yúduu ñeʼë.
 # text[spa] = Mí caballo tiene muchas garrapatas.
-# tagged = false
+# tagged = true
 # author = lilia
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	snuu	_	VERB	_	_	_	_	_	Trad=tiene|Gloss=?-tener-?
 3	chídi	_	NOUN	_	_	_	_	_	Trad=garrapata
 4	yúduu	_	NOUN	_	_	_	_	_	Trad=caballo
@@ -1527,7 +1527,7 @@
 # text[spa] = Tronaron muchos kuetes en año nuevo.
 # tagged = false
 # author = lilia
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	ndea	_	_	_	_	_	_	_	_
 3	kueta	_	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=?-ir-3SG.FEM
 4	chini	_	VERB	_	VerbForm=Fin	_	_	_	Trad=tronar|Gloss=?-tronar-?
@@ -1611,7 +1611,7 @@
 # text[spa] = Mi tío mató un chivo.
 # tagged = true
 # author = lilia
-1	Diya	_	NOUN	_	_	_	_	_	Trad=tío
+1	Diya	_	NOUN	_	_	_	_	_	Trad=mi.tío
 2	chinuñ	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-?
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	chibatu	_	NOUN	_	_	_	_	_	Trad=chivo
@@ -1784,10 +1784,10 @@
 # text = Dada yeabean jidis ntiñu.
 # text[orig] = Dada yeabean jidis ntiñu.
 # text[spa] = Mí yerno trabaja mucho.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Dada	_	NOUN	_	_	_	_	_	Trad=yerno,.cuñado
-2	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 3	jidis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-3SG.MSC
 4	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -1968,7 +1968,7 @@
 # tagged = false
 # author = lilia
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 3	deakea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=despeinado(a),nido
 4	tïi	_	NOUN	_	_	_	_	_	Trad=cabeza
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2029,7 +2029,7 @@
 # author = lilia
 1	Ñoʼó	_	NOUN	_	_	_	_	_	Trad=terreno
 2	jineʼe	_	NOUN	_	_	_	_	_	Trad=encino
-3	yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+3	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 4	dii	_	_	_	_	_	_	_	Trad=resistente
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2143,7 +2143,7 @@
 # text[spa] = Mi tío tiene dos hijos.
 # tagged = true
 # author = lilia
-1	Diiya	_	NOUN	_	Typo=Yes	_	_	_	Trad=tío
+1	Diiya	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.tío
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	dayay	_	NOUN	_	_	_	_	_	Trad=su.hijo(a)|Gloss=hijo-POSS.3SG.HUM
@@ -2217,11 +2217,11 @@
 # text = Iña koo yeabean cheate díkuy.
 # text[orig] = Iña koo yeabean cheate díkuy.
 # text[spa] = Esa persona tiene muy grande el pecho.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
 2	koo	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
-3	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+3	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 4	cheate	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 5	díkuy	_	NOUN	_	_	_	_	_	Trad=pecho
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -2253,9 +2253,9 @@
 # text = Yeabean cheate dininii itintu ñëʼe.
 # text[orig] = Yeabean cheate dininii itintu ñëʼe.
 # text[spa] = Esta muy grande el cuerno de mí toro.
-# tagged = false
+# tagged = true
 # author = lilia
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	cheate	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 3	dininii	_	NOUN	_	_	_	_	_	Trad=cuerno
 4	itintu	_	NOUN	_	_	_	_	_	Trad=toro
@@ -2302,7 +2302,7 @@
 # text[spa] = Mi tío vió un pájaro carpintero en el campo.
 # tagged = true
 # author = lilia
-1	Diyan	_	NOUN	_	_	_	_	_	Trad=tío
+1	Diyan	_	NOUN	_	_	_	_	_	Trad=su.tío
 2	nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	díta	_	NOUN	_	_	_	_	_	Trad=pájaro.carpintero
@@ -2352,7 +2352,7 @@
 # text[spa] = Esta muy agrio la hiel del pollo.
 # tagged = false
 # author = lilia
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	yoo	_	_	_	_	_	_	_	Trad=amargo
 3	dóo	_	_	_	_	_	_	_	Trad=hiel
 4	tuʼú	_	NOUN	_	_	_	_	_	Trad=pollo
@@ -2388,7 +2388,7 @@
 # text[spa] = Mi tío habla bromas.
 # tagged = true
 # author = lilia
-1	Diyan	_	NOUN	_	_	_	_	_	Trad=tío
+1	Diyan	_	NOUN	_	_	_	_	_	Trad=su.tío
 2	jiney	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-hablar-3SG.HUM
 3	duchii	_	NOUN	_	_	_	_	_	Trad=bromas
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2711,7 +2711,7 @@
 # text[spa] = Esta muy caro el huevo.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	yaku	_	_	_	_	_	_	_	Trad=alto
 3	kané	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 4	dutit	_	NOUN	_	_	_	_	_	Trad=huevo
@@ -2760,8 +2760,8 @@
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 3	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
-4	jidkueakus	_	VERB	_	_	_	_	_	Trad=tocar.campana
-5	kú	_	DET	_	_	_	_	_	Trad=este
+4	jidkueakus	_	VERB	_	_	_	_	_	Trad=tocar
+5	kú	_	NOUN	_	_	_	_	_	Trad=campana
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0231
@@ -2893,7 +2893,7 @@
 # text[spa] = Mi hermano esta muy lejos.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	ñaʼa	_	_	_	_	_	_	_	Trad=lejos
 3	kané	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 4	dínu	_	NOUN	_	_	_	_	_	Trad=hermano
@@ -2989,7 +2989,7 @@
 # text[spa] = Esta muy derecho aquel palo.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	kuaku	_	_	_	_	_	_	_	Trad=derecho
 3	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
 4	kó	_	DET	_	_	_	_	_	Trad=ese
@@ -3001,7 +3001,7 @@
 # text[spa] = Hay mucha tierra buena aquí.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	ñoʼó	_	NOUN	_	_	_	_	_	Trad=terreno
 4	ndá	_	_	_	_	_	_	_	Trad=bueno
@@ -3139,7 +3139,7 @@
 # text[spa] = Mi tío hace pan.
 # tagged = true
 # author = lucy
-1	Dìya	_	NOUN	_	_	_	_	_	Trad=tío
+1	Dìya	_	NOUN	_	_	_	_	_	Trad=mi.tío
 2	jitnoy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-3SG.HUM
 3	pö	_	NOUN	_	_	_	_	_	Trad=pan
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3175,7 +3175,7 @@
 # text[spa] = Esta muy duro el caparazón del armadillo.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	raʼa	_	_	_	_	_	_	_	Trad=duro
 3	dami	_	NOUN	_	_	_	_	_	Trad=espalda,.caparazón
 4	chiblaʼa	_	NOUN	_	_	_	_	_	Trad=armadillo
@@ -3199,7 +3199,7 @@
 # text[spa] = Está calvo ese señor.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	rampa	_	_	_	_	_	_	_	Trad=calvo
 3	tï	_	NOUN	_	_	_	_	_	Trad=cabeza
 4	iña	_	NOUN	_	_	_	_	_	Trad=gente
@@ -3236,7 +3236,7 @@
 # text[spa] = Mi hermano esta muy flaco.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	renke	_	_	_	_	_	_	_	Trad=flaco
 3	dínu	_	NOUN	_	_	_	_	_	Trad=hermano
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3259,7 +3259,7 @@
 # text[spa] = Esta muy gruesa la tortilla.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	sópa	_	_	_	_	_	_	_	Trad=grueso(a)
 3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3309,9 +3309,9 @@
 # text = Yeabean bea zangáta jikioʼö.
 # text[orig] = Yeabean bea zangáta jikioʼö.
 # text[spa] = Hay muchos lobos en el bosque.
-# tagged = false
+# tagged = true
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	zangáta	_	NOUN	_	_	_	_	_	Trad=lobo
 4	jikioʼö	_	NOUN	_	_	_	_	_	Trad=bosque
@@ -3591,7 +3591,7 @@
 # tagged = false
 # author = lucy
 1	Dijínu	_	_	_	_	_	_	_	_
-2	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 3	tös	_	_	_	_	_	_	_	Trad=enojado
 4	núku	_	NOUN	_	_	_	_	_	Trad=conmigo|Gloss=con-POSS.1SG
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3694,7 +3694,7 @@
 # text[spa] = Hay mucha húmedad donde se tira el agua.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	yáʼa	_	_	_	_	_	_	_	Trad=húmedo
 3	nochi	_	ADV	_	AdvType=Rel	_	_	_	Trad=donde
 4	jijéa	_	VERB	_	VerbForm=Fin	_	_	_	Trad=se.tira|Gloss=?-tirarse-?
@@ -3755,9 +3755,9 @@
 # text = Yeabean yaʼa toʼo.
 # text[orig] = Yeabean yaʼa toʼo.
 # text[spa] = Me duele mucho mi mano.
-# tagged = false
+# tagged = true
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	yaʼa	_	VERB	_	_	_	_	_	Trad=duele
 3	toʼo	_	NOUN	_	_	_	_	_	Trad=mano
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3768,7 +3768,7 @@
 # text[spa] = Esta muy grande esa roca plana.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	chéatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 3	yába	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=piedra.grande,rocas.planas
 4	kó	_	DET	_	_	_	_	_	Trad=ese
@@ -3878,16 +3878,16 @@
 # author = lucy
 1	Ikun	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 2	yábi	_	VERB	_	_	_	_	_	Trad=le.hablé
-3	diiya	_	NOUN	_	Typo=Yes	_	_	_	Trad=tío
+3	diiya	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.tío
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0323
 # text = Yeabean bea yachi chi kakay.
 # text[orig] = Yeabean bea yachi chi kakay.
 # text[spa] = Hay mucha masa para echar tortilla.
-# tagged = false
+# tagged = true
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	yachi	_	NOUN	_	_	_	_	_	Trad=masa
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -3971,10 +3971,10 @@
 # text = Kueten yeabean bea yakaa.
 # text[orig] = Kueten yeabean bea yakaa.
 # text[spa] = En el campo hay mucho ocote.
-# tagged = false
+# tagged = true
 # author = lucy
 1	Kueten	_	NOUN	_	_	_	_	_	Trad=campo
-2	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 4	yakaa	_	NOUN	_	_	_	_	_	Trad=ocote
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4024,9 +4024,9 @@
 # text = Yeabean jinoo yami noo baʼa ñëʼed.
 # text[orig] = Yeabean jinoo yami noo baʼa ñëʼed.
 # text[spa] = Sale mucho humo de tu casa.
-# tagged = false
+# tagged = true
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	jinoo	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sale|Gloss=?-salir-?
 3	yami	_	NOUN	_	_	_	_	_	Trad=humo
 4	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
@@ -4052,7 +4052,7 @@
 # text[spa] = Hay mucho zause en la barranca.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	yat	_	_	_	_	_	_	_	_
 4	kúiyu	_	_	_	_	_	_	_	_
@@ -4074,9 +4074,9 @@
 # text = Yeabean bea yata jikioʼö.
 # text[orig] = Yeabean bea yata jikioʼö.
 # text[spa] = En el bosque hay mucho pichón.
-# tagged = false
+# tagged = true
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	yata	_	NOUN	_	_	_	_	_	Trad=pichón
 4	jikioʼö	_	NOUN	_	_	_	_	_	Trad=bosque
@@ -4148,7 +4148,7 @@
 # text[spa] = Estoy muy contento porque ví a mi mamá.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	yojinu	_	_	_	_	_	_	_	Trad=contento(a)
 3	kabachi	_	_	_	_	_	_	_	Trad=porque
 4	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
@@ -4179,7 +4179,7 @@
 3	si	_	PRON	_	_	_	_	_	Trad=eso
 4	,	,	PUNCT	_	_	_	_	_	_
 5	kat	_	SCONJ	_	_	_	_	_	Trad=porque
-6	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+6	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 7	yoo	_	_	_	_	_	_	_	Trad=amargo
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4287,7 +4287,7 @@
 # text[spa] = Esta muy arrugada tu camisa.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	yudii	_	_	_	_	_	_	_	Trad=arrugado
 3	kiana	_	NOUN	_	_	_	_	_	Trad=camisa
 4	ñëd	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
@@ -4297,10 +4297,10 @@
 # text = Chida yeabean bea yudnooy.
 # text[orig] = Chida yeabean bea yudnooy.
 # text[spa] = Mi papá tiene mucha barba.
-# tagged = false
+# tagged = true
 # author = lucy
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 4	yudnooy	_	NOUN	_	_	_	_	_	Trad=barba
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4309,9 +4309,9 @@
 # text = Yeabean eanu yudu tïd.
 # text[orig] = Yeabean eanu yudu tïd.
 # text[spa] = Esta muy largo tu cabello.
-# tagged = false
+# tagged = true
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	eanu	_	VERB	_	_	_	_	_	Trad=gusto|Gloss=?-gustar-1SG
 3	yudu	_	NOUN	_	_	_	_	_	Trad=cabello
 4	tïd	_	NOUN	_	_	_	_	_	Trad=tu.cabello|Gloss=cabello-POSS.2SG
@@ -4323,7 +4323,7 @@
 # text[spa] = Mi campo esta muy plano.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	yuduu	_	_	_	_	_	_	_	Trad=plano.(lugar)
 3	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -4335,7 +4335,7 @@
 # text[spa] = Mi tio tiene un caballo.
 # tagged = false
 # author = lucy
-1	Diiya	_	NOUN	_	Typo=Yes	_	_	_	Trad=tío
+1	Diiya	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.tío
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	yúduu	_	NOUN	_	_	_	_	_	Trad=caballo
@@ -4384,11 +4384,11 @@
 # text = Ama yuna yeabean jeét yúdii.
 # text[orig] = Ama yuna yeabean jeét yúdii.
 # text[spa] = Un zorro come mucho elote.
-# tagged = false
+# tagged = true
 # author = lucy
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	yuna	_	NOUN	_	_	_	_	_	Trad=zorro
-3	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+3	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 4	jeét	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG
 5	yúdii	_	NOUN	_	_	_	_	_	Trad=elote
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -4436,7 +4436,7 @@
 # text[spa] = Esta muy tierno mi ejote.
 # tagged = false
 # author = lucy
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	yúnuu	_	_	_	_	_	_	_	Trad=tierno
 3	dnete	_	NOUN	_	_	_	_	_	Trad=ejote
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -4548,7 +4548,7 @@
 # text[spa] = El camino está muy de subida.
 # tagged = false
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	gea	_	_	_	_	_	_	_	Trad=subida
 3	yùni	_	NOUN	_	_	_	_	_	Trad=camino
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4699,9 +4699,9 @@
 # text = Yeabean bea sangáta no jíku.
 # text[orig] = Yeabean bea sangáta no jíku.
 # text[spa] = Hay muchos lobos en el cerro.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	sangáta	_	NOUN	_	_	_	_	_	Trad=lobo
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -4714,7 +4714,7 @@
 # text[spa] = Él camina muy rápido.
 # tagged = false
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	kani	_	_	_	_	_	_	_	Trad=rápido
 3	jika	_	NOUN	_	_	_	_	_	Trad=camina
 4	sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
@@ -4762,12 +4762,12 @@
 # text = Tochi jino nùni yeaben ji ginchéte.
 # text[orig] = Tochi jino nùni yeaben ji ginchéte.
 # text[spa] = Cuando tiro agua, se hace mucho lodo.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 2	jino	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sale|Gloss=?-salir-?
 3	nùni	_	NOUN	_	_	_	_	_	Trad=agua
-4	yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+4	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 5	ji	_	VERB	_	_	_	_	_	Trad=hace|Gloss=?-hacer-?
 6	ginchéte	_	NOUN	_	_	_	_	_	Trad=lodo
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -4776,12 +4776,12 @@
 # text = Toch neʼë kuyadu yeaben ginoyaanti.
 # text[orig] = Toch neʼë kuyadu yeaben ginoyaanti.
 # text[spa] = Cuando quiero dormir me dan ganas de bostezar.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Toch	tochi	SCONJ	_	Typo=Yes	_	_	_	Trad=cuando|Gloss=cuando
 2	neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 3	kuyadu	_	VERB	_	_	_	_	_	Trad=dormir|Gloss=?-dormir-?
-4	yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+4	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 5	ginoyaanti	_	VERB	_	_	_	_	_	Trad=bostezar
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4801,9 +4801,9 @@
 # text = Yeaben gíta koʼo.
 # text[orig] = Yeaben gíta koʼo.
 # text[spa] = Me duele mucho el pie.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	gíta	_	NOUN	_	_	_	_	_	Trad=dolor
 3	koʼo	_	NOUN	_	_	_	_	_	Trad=pie
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4816,7 +4816,7 @@
 # author = mazali
 1	Jitiaka	_	NOUN	_	_	_	_	_	Trad=platanal
 2	ñeʼën	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
-3	yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+3	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 4	ndaá	_	_	_	_	_	_	_	Trad=bueno
 5	jiné	_	_	_	_	_	_	_	_
 6	tiaka	_	NOUN	_	_	_	_	_	Trad=plátano
@@ -4965,7 +4965,7 @@
 # text[spa] = Está muy caliente tu espalda.
 # tagged = false
 # author = mazali
-1	Yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	inuu	_	_	_	_	_	_	_	Trad=caliente
 3	damid	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4987,7 +4987,7 @@
 # text[spa] = Está muy frío el hielo.
 # tagged = false
 # author = mazali
-1	Yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	icha	_	_	_	_	_	_	_	Trad=frío
 3	iba	_	NOUN	_	_	_	_	_	Trad=hielo
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4998,7 +4998,7 @@
 # text[spa] = Estaban muy grandes dos puerco espines que maté.
 # tagged = false
 # author = mazali
-1	Yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	nicha	_	_	_	_	_	_	_	Trad=grande
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	itduza	_	NOUN	_	_	_	_	_	Trad=puerco.espín
@@ -5010,9 +5010,9 @@
 # text = Yeabean ínuu jibaku.
 # text[orig] = Yeabean ínuu jibaku.
 # text[spa] = Hace mucho calor en Cuicatlán.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	ínuu	_	NOUN	_	_	_	_	_	Trad=calor
 3	jibaku	_	PROPN	_	Typo=Yes	_	_	_	Trad=Cuicatlán|Gloss=LOC
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -5032,9 +5032,9 @@
 # text = Yeabean bea itjingatu noo nùni.
 # text[orig] = Yeabean bea itjingatu noo nùni.
 # text[spa] = Hay mucha libélula en el agua.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	itjingatu	_	NOUN	_	_	_	_	_	Trad=libélula
 4	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
@@ -5047,7 +5047,7 @@
 # text[spa] = Hay muchos sapos.
 # tagged = false
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	bee	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ciego,oreja
 3	itsó	_	NOUN	_	_	_	_	_	Trad=sapo
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -5143,7 +5143,7 @@
 # text[spa] = Mi mula hace feo.
 # tagged = false
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	kaba	_	_	_	_	_	_	_	Trad=feo
 3	jidií	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hacer|Gloss=?-hacer-?
 4	it	_	NOUN	_	_	_	_	_	Trad=animal
@@ -5180,9 +5180,9 @@
 # text = Yeabean snuú íyu yana ñeʼë.
 # text[orig] = Yeabean snuú íyu yana ñeʼë.
 # text[spa] = Mi perro tiene muchas pulgas.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	snuú	_	VERB	_	_	_	_	_	Trad=tiene
 3	íyu	_	NOUN	_	_	_	_	_	Trad=pulga
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -5218,7 +5218,7 @@
 # text[spa] = Mi tío mató un zorrillo.
 # tagged = true
 # author = mazali
-1	Diyan	_	NOUN	_	_	_	_	_	Trad=tío
+1	Diyan	_	NOUN	_	_	_	_	_	Trad=su.tío
 2	chinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3SG.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	íma	_	NOUN	_	_	_	_	_	Trad=zorrillo
@@ -5392,7 +5392,7 @@
 # text[spa] = Está muy dura la cáscara de la calabaza.
 # tagged = false
 # author = mazali
-1	Yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	chéche	_	_	_	_	_	_	_	Trad=duro
 3	jaʼa	_	NOUN	_	_	_	_	_	Trad=cáscara
 4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -5466,7 +5466,7 @@
 # tagged = false
 # author = mazali
 1	Juchin	_	_	_	_	_	_	_	_
-2	yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+2	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 3	jeanuta	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5498,12 +5498,12 @@
 # text = Toch inbíku jinay jijobaa.
 # text[orig] = Toch inbíku jinay jijobaa.
 # text[spa] = En la fiesta de semana santa hacen sombras.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Toch	tochi	SCONJ	_	Typo=Yes	_	_	_	Trad=cuando|Gloss=cuando
 2	inbíku	_	NOUN	_	_	_	_	_	Trad=semana.santa
 3	jinay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=lleva|Gloss=?-llevar-?
-4	jijobaa	_	_	_	_	_	_	_	Trad=sombras.de.estaciones.en.la.fiesta.de.semana.santa
+4	jijobaa	_	NOUN	_	_	_	_	_	Trad=sombras.de.estaciones.en.la.fiesta.de.semana.santa
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0455
@@ -5547,9 +5547,9 @@
 # text = Yeabean cheate jingö ñeʼë.
 # text[orig] = Yeabean cheate jingö ñeʼë.
 # text[spa] = Esta muy grande mi milpa.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	cheate	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 3	jingö	_	NOUN	_	_	_	_	_	Trad=milpa
 4	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -5655,12 +5655,12 @@
 # text = Tochi jeanu yuna yeabean jinkue jiyáka.
 # text[orig] = Tochi jeanu yuna yeabean jinkue jiyáka.
 # text[spa] = Cuando hay viento levanta mucho polvo.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 2	jeanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=correr|Gloss=?-correr-?
 3	yuna	_	NOUN	_	_	_	_	_	Trad=zorro
-4	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+4	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 5	jinkue	_	VERB	_	_	_	_	_	Trad=levanta|Gloss=?-levantar-?
 6	jiyáka	_	NOUN	_	_	_	_	_	Trad=polvo
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -5708,7 +5708,7 @@
 # text[spa] = Mi tío tiene seis chivos.
 # tagged = true
 # author = mazali
-1	Diya	_	NOUN	_	_	_	_	_	Trad=tío
+1	Diya	_	NOUN	_	_	_	_	_	Trad=mi.tío
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	jòò	_	NUM	_	_	_	_	_	Trad=seis
 4	chivato	_	NOUN	_	_	_	_	_	Trad=chivo
@@ -5721,7 +5721,7 @@
 # text[spa] = Suena mucho el río de Cuicatlán.
 # tagged = false
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	joʼö	_	_	_	_	_	_	_	Trad=suena
 3	jíku	_	NOUN	_	_	_	_	_	Trad=río
 4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -5784,9 +5784,9 @@
 # text = Yeabean jubii bèè jikuu ñeé muʼu.
 # text[orig] = Yeabean jubii bèè jikuu ñeé muʼu.
 # text[spa] = Esta muy arenoso la orilla del río de aquí.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	jubii	_	NOUN	_	_	_	_	_	Trad=lugar.arenoso
 3	bèè	_	NOUN	_	_	_	_	_	Trad=orilla
 4	jikuu	_	NOUN	_	_	_	_	_	Trad=río
@@ -5847,7 +5847,7 @@
 # text[spa] = Esta muy suelta la papa (papa en la tierra).
 # tagged = false
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	kaaba	_	_	_	_	_	_	_	Trad=suelto
 3	snú	_	VERB	_	_	_	_	_	Trad=tengo|Gloss=?-tener-1SG
 4	niibii	_	NOUN	_	_	_	_	_	Trad=papa
@@ -6118,7 +6118,7 @@
 # tagged = false
 # author = mazali
 1	Dikayan	_	NOUN	_	_	_	_	_	Trad=niños
-2	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 3	käntay	_	_	_	_	_	_	_	Trad=delicados
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -6215,9 +6215,9 @@
 # text = Yeabean káya najaá.
 # text[orig] = Yeabean káya najaá.
 # text[spa] = Estan muy pequeñas las nueces.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	káya	_	VERB	_	VerbForm=Stat|Number=Plur	_	_	_	Trad=pequeñas
 3	najaá	_	NOUN	_	_	_	_	_	Trad=nuez
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -6285,7 +6285,7 @@
 # text[spa] = Esta muy grande mi pie.
 # tagged = false
 # author = mazali
-1	Yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	eate	_	_	_	_	_	_	_	_
 3	koʼo	_	NOUN	_	_	_	_	_	Trad=pie
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -6497,7 +6497,7 @@
 4	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 5	kaaka	_	NOUN	_	_	_	_	_	Trad=papel
 6	kaka	_	NOUN	_	_	_	_	_	Trad=papel
-7	kú	_	DET	_	_	_	_	_	Trad=este
+7	kú	_	NOUN	_	_	_	_	_	Trad=campana
 8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0536
@@ -6584,7 +6584,7 @@
 # text[spa] = Esta muy chueco tu pie.
 # tagged = false
 # author = mazali
-1	Yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	kué	_	_	_	_	_	_	_	Trad=chueco
 3	koʼod	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -6605,7 +6605,7 @@
 # text[spa] = Ella es muy delgada.
 # tagged = false
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	kúë	_	_	_	_	_	_	_	Trad=delgado
 3	takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -6614,9 +6614,9 @@
 # text = Yeabean kuejobe kiana ñëʼed.
 # text[orig] = Yeabean kuejobe kiana ñëʼed.
 # text[spa] = Esta muy azul tu camisa.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	kuejobe	_	NOUN	_	_	_	_	_	Trad=azul.cielo
 3	kiana	_	NOUN	_	_	_	_	_	Trad=camisa
 4	ñëʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
@@ -6652,7 +6652,7 @@
 # text[spa] = Hay muchos renacuajos en ese arroyo.
 # tagged = false
 # author = mazali
-1	Yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	kuili	_	_	_	_	_	_	_	Trad=renacuajo
 4	nóó	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
@@ -6678,9 +6678,9 @@
 # text = Yeabean bea kuïñu kuete ñeʼë.
 # text[orig] = Yeabean bea kuïñu kuete ñeʼë.
 # text[spa] = Hay muchas comadrejas en mi campo.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	kuïñu	_	NOUN	_	_	_	_	_	Trad=comadreja
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
@@ -6693,7 +6693,7 @@
 # text[spa] = Esta muy picudo la punta de ese cerro.
 # tagged = false
 # author = mazali
-1	Yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	kiuñú	_	_	_	_	_	_	_	Trad=picudo
 3	tï	_	NOUN	_	_	_	_	_	Trad=cabeza
 4	jiku	_	NOUN	_	_	_	_	_	Trad=río,.cerro
@@ -6756,7 +6756,7 @@
 # tagged = false
 # author = paula
 1	Min	_	_	_	_	_	_	_	_
-2	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 3	bee	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ciego,oreja
 4	kulanto	_	NOUN	_	_	_	_	_	Trad=cilantro
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -6792,7 +6792,7 @@
 # text[spa] = Esta bien blando la espalda de un borrego.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	kúnu	_	_	_	_	_	_	_	Trad=blando
 3	damí	_	_	_	_	_	_	_	_
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -6867,7 +6867,7 @@
 # text[spa] = Esta muy frío el fierro de mi puerta.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	icha	_	_	_	_	_	_	_	Trad=frío
 3	kúu	_	NOUN	_	_	_	_	_	Trad=fierro
 4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -6983,7 +6983,7 @@
 # text[spa] = Mi almohada es de algodón.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	kuuchi	_	NOUN	_	_	_	_	_	Trad=algodón
 3	nochi	_	ADV	_	AdvType=Rel	_	_	_	Trad=donde
 4	jitatï	_	_	_	_	_	_	_	_
@@ -7007,7 +7007,7 @@
 # text[spa] = Cuando llueve hay mucho lodo.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	jii	_	_	_	_	_	_	_	_
 3	laasi	_	NOUN	_	_	_	_	_	Trad=lodo
 4	toch	tochi	SCONJ	_	Typo=Yes	_	_	_	Trad=cuando|Gloss=cuando
@@ -7029,9 +7029,9 @@
 # text = Yeabean bea labente kuete.
 # text[orig] = Yeabean bea labente kuete.
 # text[spa] = Hay muchos duendes en el campo.
-# tagged = false
+# tagged = true
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	labente	_	NOUN	_	_	_	_	_	Trad=duende
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
@@ -7054,13 +7054,13 @@
 # text = Ama lanti ñëe túʼu yeabean lï.
 # text[orig] = Ama lanti ñëe túʼu yeabean lï.
 # text[spa] = Un hueso de pollo es muy pequeño.
-# tagged = false
+# tagged = true
 # author = paula
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	lanti	_	NOUN	_	_	_	_	_	Trad=hueso
 3	ñëe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	túʼu	_	NOUN	_	_	_	_	_	Trad=pollo
-5	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+5	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 6	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7070,7 +7070,7 @@
 # text[spa] = Me duele la costilla.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	yaaʼa	_	_	_	_	_	_	_	Trad=duele
 3	lantiku	_	_	_	_	_	_	_	Trad=costilla
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -7092,7 +7092,7 @@
 # text[spa] = Muy aguado salió tu frijol.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	leabe	_	_	_	_	_	_	_	Trad=aguado
 3	kanoo	_	VERB	_	VerbForm=Fin	_	_	_	Trad=salió|Gloss=?-salir-?
 4	cantu	_	_	_	_	_	_	_	_
@@ -7106,7 +7106,7 @@
 # text[spa] = Tienes mucha lagaña.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	leantu	_	NOUN	_	_	_	_	_	Trad=lagaña
 3	nod	_	_	_	_	_	_	_	Trad=tienes
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -7143,7 +7143,7 @@
 # text[spa] = Está muy arrugado mi ropa.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	lii	_	_	_	_	_	_	_	Trad=arrugado
 3	tika	_	NOUN	_	_	_	_	_	Trad=ropa
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -7166,13 +7166,13 @@
 # text[spa] = Mi tío se cayó en un hoyo muy profundo.
 # tagged = false
 # author = paula
-1	Diya	_	NOUN	_	_	_	_	_	Trad=tío
+1	Diya	_	NOUN	_	_	_	_	_	Trad=mi.tío
 2	chinoy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=se.cayó|Gloss=?-caerse-3SG.HUM
 3	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	lö	_	NOUN	_	_	_	_	_	Trad=hoyo
 6	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-7	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+7	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 8	yanuʼu	_	_	_	_	_	_	_	Trad=profundo
 9	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7196,7 +7196,7 @@
 # text[spa] = El estiercol del chivo es redondo.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	lunti	_	_	_	_	_	_	_	Trad=redondo
 3	diibi	_	NOUN	_	_	_	_	_	Trad=estiércol
 4	chivatu	_	NOUN	_	_	_	_	_	Trad=chivo
@@ -7208,7 +7208,7 @@
 # text[spa] = Tienes muy corto uno de tus pies.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	lútii	_	_	_	_	_	_	_	Trad=corto
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	koʼod	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
@@ -7221,7 +7221,7 @@
 # tagged = false
 # author = paula
 1	Sakon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 3	luuchi	_	_	_	_	_	_	_	Trad=bonito
 4	noos	_	NOUN	_	_	_	_	_	Trad=su.cara|Gloss=cara-POSS.3SG.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -7241,9 +7241,9 @@
 # text = Yeabean bea marceja kuete.
 # text[orig] = Yeabean bea marceja kuete.
 # text[spa] = Hay muchos murciélagos en el campo.
-# tagged = false
+# tagged = true
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	marceja	_	NOUN	_	_	_	_	_	Trad=murciélago
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
@@ -7255,7 +7255,7 @@
 # text[spa] = Está muy nublado.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	mee	_	_	_	_	_	_	_	Trad=nublado
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7326,9 +7326,9 @@
 # text = Yeabean keadea mogeché.
 # text[orig] = Yeabean keadea mogeché.
 # text[spa] = Tengo comezón en las axilas.
-# tagged = false
+# tagged = true
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	keadea	_	NOUN	_	_	_	_	_	Trad=comezón
 3	mogeché	_	NOUN	_	_	_	_	_	Trad=axila
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -7392,7 +7392,7 @@
 2	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 3	kaka	_	NOUN	_	_	_	_	_	Trad=papel
 4	ñeedin	_	_	_	_	_	_	_	_
-5	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+5	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 6	nabií	_	_	_	_	_	_	_	Trad=pegado
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7461,10 +7461,10 @@
 # text = Chidan yeabean bea naídii ñëʼeñ.
 # text[orig] = Chidan yeabean bea naídii ñëʼeñ.
 # text[spa] = Mi papá tiene muchos aguacates.
-# tagged = false
+# tagged = true
 # author = paula
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 4	naídii	_	NOUN	_	_	_	_	_	Trad=aguacate
 5	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
@@ -7576,7 +7576,7 @@
 # text[spa] = El árbol del colorin es muy grande.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	chete	_	NOUN	_	_	_	_	_	Trad=estómago
 3	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -7703,7 +7703,7 @@
 # text[spa] = Mi tío es muy bueno conmigo.
 # tagged = false
 # author = paula
-1	Diya	_	NOUN	_	_	_	_	_	Trad=tío
+1	Diya	_	NOUN	_	_	_	_	_	Trad=mi.tío
 2	too	_	_	_	_	_	_	_	Trad=mucho
 3	ndáy	_	_	_	_	_	_	_	Trad=bueno
 4	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
@@ -7744,7 +7744,7 @@
 # text[spa] = Compraste mucho maíz.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	ndee	_	_	_	_	_	_	_	Trad=mucho
 3	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
 4	kad	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-2SG
@@ -7756,7 +7756,7 @@
 # text[spa] = Tienes muchos hijos.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	ndee	_	_	_	_	_	_	_	Trad=mucho
 3	dayad	_	NOUN	_	_	_	_	_	Trad=tu.hijo(a)|Gloss=hijo-POSS.SG2
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -7776,10 +7776,10 @@
 # text = Uu yeabean bea ndete ñëʼe.
 # text[orig] = Uu yeabean bea ndete ñëʼe.
 # text[spa] = Yo tengo muchos ejotes.
-# tagged = false
+# tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 4	ndete	_	NOUN	_	_	_	_	_	Trad=ejote
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -7891,7 +7891,7 @@
 # author = paula
 1	Moo	_	_	_	_	_	_	_	Trad=abajo
 2	ñoʼoo	_	NOUN	_	_	_	_	_	Trad=tierra,.barro
-3	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+3	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 4	snu	_	VERB	_	_	_	_	_	Trad=tiene
 5	néabea	_	NOUN	_	_	_	_	_	Trad=gallina.ciega
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -7914,7 +7914,7 @@
 # text[spa] = Mi tío siembra tomate en el campo.
 # tagged = true
 # author = paula
-1	Diya	_	NOUN	_	_	_	_	_	Trad=tío
+1	Diya	_	NOUN	_	_	_	_	_	Trad=mi.tío
 2	jiinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=siembra|Gloss=?-sembrar-3SG.HUM
 3	neatuu	_	NOUN	_	_	_	_	_	Trad=tomate
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
@@ -8077,7 +8077,7 @@
 # text[spa] = El chayote es muy caro.
 # tagged = false
 # author = paula
-1	Yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	yaku	_	_	_	_	_	_	_	Trad=alto
 3	chiiba	_	NOUN	_	_	_	_	_	Trad=precio
 4	nïi	_	NOUN	_	_	_	_	_	Trad=chayote
@@ -8247,10 +8247,10 @@
 # text = Un yeaben bea ninu ñëʼe.
 # text[orig] = Un yeaben bea ninu ñëʼe.
 # text[spa] = Yo tengo mucho maìz.
-# tagged = false
+# tagged = true
 # author = paula
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+2	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 4	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -8326,7 +8326,7 @@
 # text[spa] = Esta muy nublado el cielo.
 # tagged = false
 # author = paula
-1	Yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	mee	_	_	_	_	_	_	_	Trad=nublado
 3	nojobe	_	NOUN	_	_	_	_	_	Trad=cielo
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -8386,7 +8386,7 @@
 # tagged = false
 # author = paula
 1	Noʼoo	_	NOUN	_	_	_	_	_	Trad=bala
-2	yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+2	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 3	kánta	_	_	_	_	_	_	_	Trad=peligrosas
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8522,7 +8522,7 @@
 # author = paula
 1	Ñoo	_	NOUN	_	_	_	_	_	Trad=pueblo
 2	inun	_	_	_	_	_	_	_	_
-3	yeaben	_	_	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+3	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 4	bee	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ciego,oreja
 5	nuna	_	NOUN	_	_	_	_	_	Trad=pitalla
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -8699,10 +8699,10 @@
 # text = Uu yeabean eanu nutiukuu.
 # text[orig] = Uu yeabean eanu nutiukuu.
 # text[spa] = A mi me gusta la semilla.
-# tagged = false
+# tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 3	eanu	_	VERB	_	_	_	_	_	Trad=gusto|Gloss=?-gustar-1SG
 4	nutiukuu	_	NOUN	_	_	_	_	_	Trad=semilla
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -8886,12 +8886,12 @@
 # text = Noo ñoʼo ñëʼed yeabean bea núuku.
 # text[orig] = Noo ñoʼo ñëʼed yeabean bea núuku.
 # text[spa] = En tu terreno hay mucha vara.
-# tagged = false
+# tagged = true
 # author = paula
 1	Noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 2	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
 3	ñëʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
-4	yeabean	_	_	_	_	_	_	_	Trad=mucho,.muy
+4	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 6	núuku	_	NOUN	_	_	_	_	_	Trad=vara
 7	.	.	PUNCT	_	_	_	_	_	_
