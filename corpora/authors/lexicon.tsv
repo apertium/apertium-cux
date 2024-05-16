@@ -1,4 +1,4 @@
- 	Lema	POS	Feats	Significado	Glosa	1272	1031	1184
+ 	Lema	POS	Feats	Significado	Glosa	1270	1036	1182
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -85,8 +85,7 @@ daya		NOUN		hijo(a)
 dayata	daya	NOUN		su.hijo(a)	hijo-POSS.3SG.FEM			
 daybede		NOUN		hijastro(a)				
 daynuni		NOUN		ahijado(a)				
-deabea				limpio				
-deabea				alumbrado				
+deabea		NOUN		alumbrado				
 deache		NOUN		resina				
 deachea		NOUN		mugre				
 deakea				despeinado(a)				
@@ -192,9 +191,8 @@ iʼbaa		NOUN		guacamaya
 iʼyaa		NOUN		águila				
 iʼyu		NOUN		mecate				
 jààba		NOUN		ingredientes				
-jabnutu				vuelta				
+jabnutu		VERB		da vueltas				
 jadi		NOUN		tepache				
-jaunutu				vuelta				
 jaʼa		NOUN		cáscara				
 jiba		NOUN		petate				
 jíba		NOUN		sanja				
@@ -211,8 +209,8 @@ jingu		VERB		moler
 jingunoo		VERB		masticar				
 jinìnii		NOUN		araña				
 jinta		VERB		se moja				
-jíntinii				estaca para sembrar				
-jintu				barbecho				
+jíntinii		NOUN		estaca para sembrar				
+jintu		VERB		están barbechando				
 jita		VERB	VerbForm=Fin	canta	?-cantar-?			
 jitiaka		NOUN		platanal				
 jiyáka		NOUN		polvo				
@@ -221,7 +219,7 @@ jobe		NOUN		día
 jóbe		NOUN		nombre				
 jòò		NUM		seis				
 joobe		NOUN		voladero				
-joʼö				suena				
+joʼö		VERB		suena				
 jubii		NOUN		lugar arenoso				
 juchi		NOUN		sobrina				
 júku		NOUN		estaca				

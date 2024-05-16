@@ -545,7 +545,7 @@
 # author = lilia
 1	Kuaku	_	_	_	_	_	_	_	Trad=derecho
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-3	joʼö	_	_	_	_	_	_	_	Trad=suena
+3	joʼö	_	VERB	_	_	_	_	_	Trad=suena
 4	bemoñoʼo	_	_	_	_	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1910,9 +1910,9 @@
 # text = Deabea tika.
 # text[orig] = Deabea tika.
 # text[spa] = Mi ropa esta limpia.
-# tagged = false
+# tagged = true
 # author = lilia
-1	Deabea	_	_	_	_	_	_	_	Trad=limpio
+1	Deabea	_	NOUN	_	_	_	_	_	Trad=alumbrado
 2	tika	_	NOUN	_	_	_	_	_	Trad=ropa
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1920,10 +1920,10 @@
 # text = Bea deabea no yuni chi jichoó.
 # text[orig] = Bea deabea no yuni chi jichoó.
 # text[spa] = Hay alumbrado público por donde paso.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-2	deabea	_	_	_	_	_	_	_	Trad=alumbrado
+2	deabea	_	NOUN	_	_	_	_	_	Trad=alumbrado
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 4	yuni	_	NOUN	_	_	_	_	_	Trad=camino
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -5083,7 +5083,7 @@
 1	To	_	_	_	_	_	_	_	Trad=mucho
 2	nda	_	_	_	_	_	_	_	Trad=muy,.mucho
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-4	deabea	_	_	_	_	_	_	_	Trad=limpio
+4	deabea	_	NOUN	_	_	_	_	_	Trad=alumbrado
 5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 6	iyu	_	NOUN	_	_	_	_	_	Trad=luna
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -5642,10 +5642,10 @@
 # text = A jintu noo ñoʼö ñeʼë.
 # text[orig] = A jintu noo ñoʼö ñeʼë.
 # text[spa] = Ya estan barbechando mi terreno.
-# tagged = false
+# tagged = true
 # author = mazali
 1	A	a	ADV	_	_	_	_	_	Trad=ya
-2	jintu	_	_	_	_	_	_	_	Trad=barbecho
+2	jintu	_	VERB	_	_	_	_	_	Trad=están.barbechando
 3	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 4	ñoʼö	_	NOUN	_	_	_	_	_	Trad=pueblo
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -5719,10 +5719,10 @@
 # text = Yeabean joʼö jíku ñee jibaku.
 # text[orig] = Yeabean joʼö jíku ñee jibaku.
 # text[spa] = Suena mucho el río de Cuicatlán.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	joʼö	_	_	_	_	_	_	_	Trad=suena
+2	joʼö	_	VERB	_	_	_	_	_	Trad=suena
 3	jíku	_	NOUN	_	_	_	_	_	Trad=río
 4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	jibaku	_	PROPN	_	Typo=Yes	_	_	_	Trad=Cuicatlán|Gloss=LOC
