@@ -1,4 +1,4 @@
- 	Lema	POS	Feats	Significado	Glosa	1272	1030	1183
+ 	Lema	POS	Feats	Significado	Glosa	1272	1031	1184
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -817,7 +817,7 @@ tínu		NOUN		ropa
 tíntu		NOUN		colibrí				
 tími		NOUN		ombligo				
 tiku		NOUN		ramo				
-tikoo		NONU		niña				
+tikoo		NOUN		niña				
 tiid		NOUN		tu cabeza	cabeza-POSS.2SG			
 tïd		NOUN		tu cabello	cabello-POSS.2SG			
 tibi		VERB	VerbForm=Fin	fumar	?-fumar-?			
@@ -1009,7 +1009,7 @@ juu		NUM	NumType=Card	cinco
 jubid								
 joʼó								
 joʼo		VERB		pica	?-picar-?			
-jóbey								
+jóbey		NOUN		su nombre	nombre-POSS.3SG.HUM			
 jiʼi		VERB		tomar	?-tomar-?			
 jíyuu		NOUN		carrizo				
 jitnoy		VERB	VerbForm=Fin	hace	?-hacer-3SG.HUM			

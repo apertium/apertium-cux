@@ -469,7 +469,7 @@
 # author = lilia
 1	To	_	_	_	_	_	_	_	Trad=mucho
 2	bée	_	_	_	_	_	_	_	Trad=malo(a)
-3	tikoo	_	NONU	_	_	_	_	_	Trad=niña
+3	tikoo	_	NOUN	_	_	_	_	_	Trad=niña
 4	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5694,11 +5694,11 @@
 # text = Iña kon jóbey nacho.
 # text[orig] = Iña kon jóbey nacho.
 # text[spa] = Ese señor se llama Ignacio.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
 2	kon	_	DET	_	_	_	_	_	Trad=ese
-3	jóbey	_	_	_	_	_	_	_	_
+3	jóbey	_	NOUN	_	_	_	_	_	Trad=su.nombre|Gloss=nombre-POSS.3SG.HUM
 4	nacho	Nacho	PROPN	_	Typo=Yes	_	_	_	Trad=Nacho
 5	.	.	PUNCT	_	_	_	_	_	_
 
