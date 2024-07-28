@@ -8,6 +8,19 @@ sys.path.insert(0, parentdir +'/tagger')
 
 from tagger import Tagger
 
+def clean(s):
+	o = s
+	o = o.replace('´', 'ʼ')
+	o = o.replace('’', 'ʼ')
+	o = o.replace('`', 'ʼ')
+	o = o.replace("'", 'ʼ')
+	o = o.replace('?.','?')
+	o = o.replace('.?','?')
+	o = o.replace(' ?', '?')
+	o = o.replace('¿ ', '¿')
+	o = re.sub('  *', ' ', o)
+	return o
+
 def clean_sent(s):
 	o = s
 	if o[0] == o[0].lower():
@@ -52,6 +65,7 @@ for line in open(sys.argv[1]):
 		cux = cux + '.'
 
 	orig_cux = cux
+	cux = clean(cux)
 	cux = clean_sent(cux)
 	tokens = re.sub('([,:?¿!¡;.])', ' \g<1> ', cux).strip().split(' ')
 	tokens_spa = re.sub('([,:?¿!¡;.])', ' \g<1> ', spa).strip().split(' ')
