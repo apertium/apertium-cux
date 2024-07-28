@@ -1734,8 +1734,8 @@
 # text = Kuetíchi kon ñeʼë.
 # text[orig] = Kuetíchi kon ñe'ë.
 # text[spa] = Esa canasta es mía.
-# tagged = false
-1	Kuetíchi	_	_	_	_	_	_	_	_
+# tagged = true
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1744,8 +1744,8 @@
 # text = Kuetíchi kon ñeʼed.
 # text[orig] = Kuetíchi kon ñe'ed.
 # text[spa] = Esa canasta es tuya.
-# tagged = false
-1	Kuetíchi	_	_	_	_	_	_	_	_
+# tagged = true
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1755,7 +1755,7 @@
 # text[orig] = Kuetíchi kon ñe'es.
 # text[spa] = Esa canasta es de él
 # tagged = false
-1	Kuetíchi	_	_	_	_	_	_	_	_
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	ñeʼes	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1764,8 +1764,8 @@
 # text = Kuetíchi kon gua ñeʼed.
 # text[orig] = Kuetíchi kon gua ñe'ed.
 # text[spa] = Esa canasta no es tuya.
-# tagged = false
-1	Kuetíchi	_	_	_	_	_	_	_	_
+# tagged = true
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
@@ -1776,7 +1776,7 @@
 # text[orig] = Kuetíchi kon gua ñe'es.
 # text[spa] = Esa canasta no es de él.
 # tagged = false
-1	Kuetíchi	_	_	_	_	_	_	_	_
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ñeʼes	_	_	_	_	_	_	_	_
@@ -1786,9 +1786,9 @@
 # text = Kuetíchi kon gua ñeʼen.
 # text[orig] = Kuetíchi kon gua ñe'en.
 # text[spa] = Esa canasta no es nuestra.
-# tagged = false
+# tagged = true
 # note = (exclusivo)
-1	Kuetíchi	_	_	_	_	_	_	_	_
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
@@ -1800,7 +1800,7 @@
 # text[spa] = Esta canasta no es nuestra.
 # tagged = false
 # note = (inclusivo)
-1	Kuetíchi	_	_	_	_	_	_	_	_
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kun	_	_	_	_	_	_	_	_
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
@@ -1810,8 +1810,8 @@
 # text = Kuetíchi kon gua ñeʼën.
 # text[orig] = Kuetíchi kon gua ñe'ën.
 # text[spa] = Esa canasta no es de ustedes
-# tagged = false
-1	Kuetíchi	_	_	_	_	_	_	_	_
+# tagged = true
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ñeʼën	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -1821,9 +1821,9 @@
 # text = Kuetíchi kon ñeʼen.
 # text[orig] = Kuetíchi kon ñe'en.
 # text[spa] = Esa canasta es nuestra.
-# tagged = false
+# tagged = true
 # note = (exclusivo)
-1	Kuetíchi	_	_	_	_	_	_	_	_
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1832,8 +1832,8 @@
 # text = Kuetíchi kon ñeʼën.
 # text[orig] = Kuetíchi kon ñe'ën.
 # text[spa] = Esa canasta es de ustedes.
-# tagged = false
-1	Kuetíchi	_	_	_	_	_	_	_	_
+# tagged = true
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	ñeʼën	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1843,7 +1843,7 @@
 # text[orig] = Kuetíchi kon ñe'ey.
 # text[spa] = Esa canasta es de ellos.
 # tagged = false
-1	Kuetíchi	_	_	_	_	_	_	_	_
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	ñeʼey	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1852,8 +1852,8 @@
 # text = Kuetíchi kon gua ñeʼë.
 # text[orig] = Kuetíchi kon gua ñe'ë.
 # text[spa] = Esa canasta no es mía.
-# tagged = false
-1	Kuetíchi	_	_	_	_	_	_	_	_
+# tagged = true
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -1864,7 +1864,7 @@
 # text[orig] = Kuetíchi kon gua ñe'ey.
 # text[spa] = Esa canasta no es de ellos.
 # tagged = false
-1	Kuetíchi	_	_	_	_	_	_	_	_
+1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ñeʼey	_	_	_	_	_	_	_	_
@@ -1874,11 +1874,11 @@
 # text = ¿Ñeʼe duʼu kuetíchi ko?
 # text[orig] = ¿Ñe'e du'u kuetíchi ko?
 # text[spa] = ¿De quién es esa canasta?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
-4	kuetíchi	_	_	_	_	_	_	_	_
+4	kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 5	ko	_	DET	_	_	_	_	_	Trad=ese
 6	?	?	PUNCT	_	_	_	_	_	_
 
@@ -1890,7 +1890,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
 3	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
-4	kuetíchi	_	_	_	_	_	_	_	_
+4	kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 5	ko	_	DET	_	_	_	_	_	Trad=ese
 6	?	?	PUNCT	_	_	_	_	_	_
 
@@ -1903,7 +1903,7 @@
 2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
-5	kuetíchi	_	_	_	_	_	_	_	_
+5	kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 6	ko	_	DET	_	_	_	_	_	Trad=ese
 7	?	?	PUNCT	_	_	_	_	_	_
 
