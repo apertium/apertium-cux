@@ -2,9 +2,9 @@
 # text = Baʼa kun cheatea.
 # text[orig] = Ba'a kun cheatea.
 # text[spa] = Esta casa es grande.
-# tagged = false
+# tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -12,9 +12,9 @@
 # text = Baʼa kun gua cheatea.
 # text[orig] = Ba'a kun gua cheatea.
 # text[spa] = Esta casa no es grande.
-# tagged = false
+# tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -23,9 +23,9 @@
 # text = Baʼa kun lï.
 # text[orig] = Ba'a kun lï.
 # text[spa] = Esta casa es chica.
-# tagged = false
+# tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -33,9 +33,9 @@
 # text = Baʼa kun Gua lï.
 # text[orig] = ba'a kun Gua lï.
 # text[spa] = Esta casa no es chica.
-# tagged = false
+# tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -46,7 +46,7 @@
 # text[spa] = Esta casa es vieja.
 # tagged = false
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	niku	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -56,7 +56,7 @@
 # text[spa] = Esta casa no es vieja.
 # tagged = false
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	niku	_	_	_	_	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -67,7 +67,7 @@
 # text[spa] = Esta casa es blanca.
 # tagged = false
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	kuea	_	_	_	_	_	_	_	Trad=blanco
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -77,7 +77,7 @@
 # text[spa] = Esta casa no es blanca.
 # tagged = false
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	kuea	_	_	_	_	_	_	_	Trad=blanco
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -342,10 +342,10 @@
 # text = Tioʼö kun cheatea.
 # text[orig] = Tio'ö kun cheatea.
 # text[spa] = El árbol es grande.
-# tagged = false
+# tagged = true
 # text[lit] = Este árbol es grande
 1	Tioʼö	_	NOUN	_	_	_	_	_	Trad=árbol
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -356,7 +356,7 @@
 # tagged = false
 # text[lit] = Este árbol va a ser grande
 1	Tioʼö	_	NOUN	_	_	_	_	_	Trad=árbol
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	kub	_	_	_	_	_	_	_	_
 4	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -369,7 +369,7 @@
 # text[lit] = Este árbol ya es grande
 # note = (cuando vinimos aquí).
 1	Tioʼö	_	NOUN	_	_	_	_	_	Trad=árbol
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	na	_	_	_	_	_	_	_	_
 4	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -392,7 +392,7 @@
 # text[spa] = Este sombrero es igual al tuyo.
 # tagged = false
 1	Sï	_	NOUN	_	_	_	_	_	Trad=sombrero
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	dama	_	_	_	_	_	_	_	Trad=igual
 4	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 5	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
@@ -404,7 +404,7 @@
 # text[spa] = Este sombrero no es igual al tuyo.
 # tagged = false
 1	Sï	_	NOUN	_	_	_	_	_	Trad=sombrero
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	dama	_	_	_	_	_	_	_	Trad=igual
 5	kunu	_	VERB	_	_	_	_	_	Trad=voy.a.poner|Gloss=?-poner-1SG
@@ -1798,10 +1798,10 @@
 # text = Kuetíchi kun gua ñeʼen.
 # text[orig] = Kuetíchi kun gua ñe'en.
 # text[spa] = Esta canasta no es nuestra.
-# tagged = false
+# tagged = true
 # note = (inclusivo)
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2028,9 +2028,9 @@
 # text = Comida kun yuta kuchi.
 # text[orig] = Comida kun yuta kuchi.
 # text[spa] = Esta comida es carne de puerco.
-# tagged = false
+# tagged = true
 1	Comida	_	NOUN	_	_	_	_	_	Trad=comida
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	yuta	_	NOUN	_	_	_	_	_	Trad=carne
 4	kuchi	_	NOUN	_	_	_	_	_	Trad=marrano
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4188,7 +4188,7 @@
 # text[spa] = Esta planta es buena para comer.
 # tagged = false
 1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	ndá	_	_	_	_	_	_	_	Trad=bueno
 4	jeʼë	_	_	_	_	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4199,7 +4199,7 @@
 # text[spa] = Esta planta es buena para esa enfermedad.
 # tagged = false
 1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	ndá	_	_	_	_	_	_	_	Trad=bueno
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	káa	_	NOUN	_	_	_	_	_	Trad=filo
@@ -4212,7 +4212,7 @@
 # text[spa] = Esta planta es mala para esa enfermedad.
 # tagged = false
 1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
-2	kun	_	_	_	_	_	_	_	_
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ndá	_	_	_	_	_	_	_	Trad=bueno
 5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
