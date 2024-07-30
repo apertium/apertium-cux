@@ -114,7 +114,7 @@
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
-3	já	_	_	_	_	_	_	_	_
+3	já	_	ADJ	_	_	_	_	_	Trad=nuevo
 4	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 5	mi	_	DET	_	_	_	_	_	Trad=esa
 6	?	?	PUNCT	_	_	_	_	_	_
