@@ -86,9 +86,9 @@
 # text = ¿A taka baʼa mi?
 # text[orig] = ¿A taka ba'a mi?
 # text[spa] = ¿Cómo es esa casa?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	taka	taka	ADV	_	_	_	_	_	Trad=cómo
 4	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 5	mi	_	DET	_	_	_	_	_	Trad=esa
@@ -98,10 +98,10 @@
 # text = ¿A cheatea baʼa mi?
 # text[orig] = ¿A cheatea ba'a mi?
 # text[spa] = ¿Qué tan grande es esa casa?
-# tagged = false
+# tagged = true
 # text[lit] = ¿Es grande esa casa?
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 5	mi	_	DET	_	_	_	_	_	Trad=esa
@@ -111,9 +111,9 @@
 # text = ¿A já baʼa mi?
 # text[orig] = ¿A já ba'a mi?
 # text[spa] = ¿Es nueva esa casa?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	já	_	ADJ	_	_	_	_	_	Trad=nuevo
 4	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 5	mi	_	DET	_	_	_	_	_	Trad=esa
@@ -173,8 +173,8 @@
 # text = Insën yakun.
 # text[orig] = Insën yakun.
 # text[spa] = Ustedes son altos
-# tagged = false
-1	Insën	_	_	_	_	_	_	_	_
+# tagged = true
+1	Insën	_	PRON	_	_	_	_	_	Trad=ustedes
 2	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -238,7 +238,7 @@
 # text[spa] = Nosotros somos flacos .
 # tagged = false
 # text[lit] = (Insú= se utiliza para responder al alguien que no está incluido en el adjetivo)
-1	Insú	_	_	_	_	_	_	_	_
+1	Insú	_	PRON	_	_	_	_	_	Trad=nosotros
 2	kúën	_	_	_	_	_	_	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -283,9 +283,9 @@
 # text = Baku insén cheatea.
 # text[orig] = Baku insén cheatea.
 # text[spa] = La casa de ustedes es grande.
-# tagged = false
+# tagged = true
 1	Baku	_	NOUN	_	_	_	_	_	Trad=casa
-2	insén	_	_	_	_	_	_	_	_
+2	insén	_	PRON	_	_	_	_	_	Trad=ustedes
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -530,7 +530,7 @@
 # text[spa] = ¿Está lejos el pueblo?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ñaʼa	_	_	_	_	_	_	_	Trad=lejos
 4	ñoom	_	NOUN	_	Typo=Yes	_	_	_	Trad=pueblo
 5	?	?	PUNCT	_	_	_	_	_	_
@@ -550,9 +550,9 @@
 # text = ¿A ti kane Fom mniñu?
 # text[orig] = ¿A ti kane Fom mniñu?
 # text[spa] = ¿Dónde está Juan ahora?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 5	Fom	_	PROPN	_	_	_	_	_	Trad=Juan
@@ -566,7 +566,7 @@
 # tagged = false
 # text[lit] = ¿Esta en Cuicatlán?
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	kanés	_	_	_	Typo=Yes	_	_	_	Trad=está|Gloss=?-estar-?
 4	Jibaku	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
 5	?	?	PUNCT	_	_	_	_	_	_
@@ -578,7 +578,7 @@
 # tagged = false
 # text[lit] = ¿Ayer estaba en Cuicatlán? (sujeto masculino)
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kenés	_	_	_	_	_	_	_	_
@@ -589,9 +589,9 @@
 # text = ¿A ti kane chidad?
 # text[orig] = ¿A ti kane chidad?
 # text[spa] = ¿Dónde está tu papá?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 5	chidad	_	NOUN	_	_	_	_	_	Trad=tu.papá|Gloss=papá-POSS.2SG
@@ -601,9 +601,9 @@
 # text = ¿A kanu chidad baʼa?
 # text[orig] = ¿A kanu chidad ba'a?
 # text[spa] = ¿Tu papá está en la casa?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	kanu	_	VERB	_	_	_	_	_	Trad=está
 4	chidad	_	NOUN	_	_	_	_	_	Trad=tu.papá|Gloss=papá-POSS.2SG
 5	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -613,9 +613,9 @@
 # text = ¿A gua kanu chidad baʼa?
 # text[orig] = ¿A gua kanu chidad ba'a?
 # text[spa] = ¿Tu papá no está en la casa?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	kanu	_	VERB	_	_	_	_	_	Trad=está
 5	chidad	_	NOUN	_	_	_	_	_	Trad=tu.papá|Gloss=papá-POSS.2SG
@@ -704,10 +704,10 @@
 # text = ¿A kanú chidad?
 # text[orig] = ¿A kanú chidad?
 # text[spa] = ¿Está tu papá?
-# tagged = false
+# tagged = true
 # note = (dicho fuera de la casa)
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	kanú	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cargar|Gloss=?-cargar-?
 4	chidad	_	NOUN	_	_	_	_	_	Trad=tu.papá|Gloss=papá-POSS.2SG
 5	?	?	PUNCT	_	_	_	_	_	_
@@ -716,9 +716,9 @@
 # text = ¿A ti kane kutum?
 # text[orig] = ¿A ti kane kutum?
 # text[spa] = ¿Dónde está la olla?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 5	kutum	_	NOUN	_	_	_	_	_	Trad=olla
@@ -728,9 +728,9 @@
 # text = ¿A ti kane machetem?
 # text[orig] = ¿A ti kane machetem?
 # text[spa] = ¿Dónde está el machete?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 5	machetem	_	NOUN	_	_	_	_	_	Trad=machete
@@ -778,9 +778,9 @@
 # text = ¿A ti kane yanam.
 # text[orig] = ¿A ti kane yanam.
 # text[spa] = ¿Dónde está el perro?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 5	yanam	_	NOUN	_	_	_	_	_	Trad=perro
@@ -810,9 +810,9 @@
 # text = ¿A ti kane yákum?
 # text[orig] = ¿A ti kane yákum?
 # text[spa] = ¿Dónde está la iglesia?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 5	yákum	_	NOUN	_	_	_	_	_	Trad=iglesia
@@ -822,9 +822,9 @@
 # text = ¿A ti kane nʼíba?
 # text[orig] = ¿A ti kane n'íba?
 # text[spa] = ¿Dónde está el mercado?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 5	nʼíba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
@@ -834,9 +834,9 @@
 # text = ¿A ti kane bakud?
 # text[orig] = ¿A ti kane bakud?
 # text[spa] = ¿Dónde está tu casa?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 5	bakud	_	NOUN	_	_	_	_	_	Trad=tu.casa|Gloss=casa-POSS.2SG
@@ -870,9 +870,9 @@
 # text = ¿A ti kane.
 # text[orig] = ¿A ti kane.
 # text[spa] = ¿Dónde está el corral de las chivas?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -918,9 +918,9 @@
 # text = ¿A tabea yana bea ñeʼed?
 # text[orig] = ¿A tabea yana bea ñe'ed?
 # text[spa] = ¿Cuántos perros tienes?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	tabea	_	PRON	_	_	_	_	_	Trad=cuánto
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
 5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -1116,7 +1116,7 @@
 # text[spa] = ¿Tienen cola los perros?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 4	nduk	_	_	_	_	_	_	_	_
 5	daʼa	_	_	_	_	_	_	_	_
@@ -1164,7 +1164,7 @@
 # text[spa] = ¿Cómo es el pelo de Juan?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	taka	taka	ADV	_	_	_	_	_	Trad=cómo
 4	duytï	_	_	_	_	_	_	_	Trad=pelo
 5	Fo	_	PROPN	_	_	_	_	_	Trad=Juan
@@ -1251,7 +1251,7 @@
 # tagged = false
 # text[lit] = ¿Le echaste sal a la comida?
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	chid	_	VERB	_	_	_	_	_	Trad=echaste
 4	jima	_	NOUN	_	_	_	_	_	Trad=sal
 5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -1316,7 +1316,7 @@
 # text[spa] = ¿Cuántos hermanos tienes?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	tabea	_	PRON	_	_	_	_	_	Trad=cuánto
 4	biʼid	_	_	_	_	_	_	_	_
 5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -1348,7 +1348,7 @@
 # text[spa] = ¿Tienes frío?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ichad	_	_	_	_	_	_	_	_
 4	?	?	PUNCT	_	_	_	_	_	_
 
@@ -1495,9 +1495,9 @@
 # text = ¿A snú núni no kutum?
 # text[orig] = ¿A snú núni no kutum?
 # text[spa] = ¿Hay frijoles en la olla?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	snú	_	VERB	_	_	_	_	_	Trad=tengo|Gloss=?-tener-1SG
 4	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -1510,7 +1510,7 @@
 # text[spa] = ¿No hay frijoles en la olla?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	kutea	_	_	_	_	_	_	_	Trad=no
 4	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -1541,10 +1541,10 @@
 # text = ¿A bea itcheanu kuete?
 # text[orig] = ¿A bea itcheanu kuete?
 # text[spa] = ¿En el monte no hay venados?
-# tagged = false
+# tagged = true
 # text[lit] = ¿Hay venados en el campo?
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 4	itcheanu	_	NOUN	_	_	_	_	_	Trad=venado
 5	kuete	_	NOUN	_	_	_	_	_	Trad=campo
@@ -1670,9 +1670,9 @@
 # text = ¿A duʼu noʼö?
 # text[orig] = ¿A du'u no'ö?
 # text[spa] = ¿Quién es maestro?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
 4	noʼö	_	NOUN	_	_	_	_	_	Trad=maestro
 5	?	?	PUNCT	_	_	_	_	_	_
@@ -1691,9 +1691,9 @@
 # text = ¿A noʼö Juó?
 # text[orig] = ¿A no'ö Juó?
 # text[spa] = ¿Juan es maestro?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	noʼö	_	NOUN	_	_	_	_	_	Trad=maestro
 4	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 5	?	?	PUNCT	_	_	_	_	_	_
@@ -1886,9 +1886,9 @@
 # text = ¿A ñeʼed kuetíchi ko?
 # text[orig] = ¿A ñe'ed kuetíchi ko?
 # text[spa] = ¿Es tuya esa canasta?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	ADV	_	_	_	_	_	Trad=ya
 3	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 4	kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 5	ko	_	DET	_	_	_	_	_	Trad=ese
@@ -1898,9 +1898,9 @@
 # text = ¿A gua ñeʼed kuetíchi ko?
 # text[orig] = ¿A gua ñe'ed kuetíchi ko?
 # text[spa] = ¿No es tuya esa canasta?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	ADV	_	_	_	_	_	Trad=ya
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 5	kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
@@ -1966,9 +1966,9 @@
 # text = ¿A dae kubi Juó?
 # text[orig] = ¿A dae kubi Juó?
 # text[spa] = ¿Qué va a ser Juan?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	dae	_	PRON	_	_	_	_	_	Trad=que
 4	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
 5	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
@@ -2125,9 +2125,9 @@
 # text = ¿A taka jobed?
 # text[orig] = ¿A taka jobed?
 # text[spa] = ¿Cómo te llamas?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	taka	taka	ADV	_	_	_	_	_	Trad=cómo
 4	jobed	_	NOUN	_	_	_	_	_	Trad=tu.nombre
 5	?	?	PUNCT	_	_	_	_	_	_
@@ -2213,10 +2213,10 @@
 # text = ¿A taka kadi koʼö ñoo bakud?
 # text[orig] = ¿A taka kadi ko'ö ñoo bakud?
 # text[spa] = ¿Cómo se va a tu pueblo?
-# tagged = false
+# tagged = true
 # text[lit] = ¿Cómo puedo ir a tu pueblo?
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	taka	taka	ADV	_	_	_	_	_	Trad=cómo
 4	kadi	_	NOUN	_	_	_	_	_	Trad=peso($)
 5	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
@@ -2230,7 +2230,7 @@
 # text[spa] = ¿Dónde venden azucar?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	jinukuy	_	_	_	_	_	_	_	_
 5	chiadi	_	NOUN	_	_	_	_	_	Trad=azúcar
@@ -2331,9 +2331,9 @@
 # text = Gua diyadus chi màà.
 # text[orig] = Gua diyadus chi màà.
 # text[spa] = No duerme de noche.
-# tagged = false
+# tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	diyadus	_	_	_	_	_	_	_	_
+2	diyadus	_	VERB	_	_	_	_	_	Trad=duerme
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	màà	_	NOUN	_	_	_	_	_	Trad=noche
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2407,9 +2407,9 @@
 # text = ¿A chikata yuntu dí?
 # text[orig] = ¿A chikata yuntu dí?
 # text[spa] = ¿Ella te pidió tortillas?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3SG.FEM
 4	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 5	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
@@ -2431,9 +2431,9 @@
 # text = ¿A duʼu chika yuntu dí?
 # text[orig] = ¿A du'u chika yuntu dí?
 # text[spa] = ¿Quién te pidió tortillas?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
 4	chika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 5	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
@@ -2444,9 +2444,9 @@
 # text = ¿A dae chikata dí?
 # text[orig] = ¿A dae chikata dí?
 # text[spa] = ¿Qué te pidió ella?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	dae	_	PRON	_	_	_	_	_	Trad=que
 4	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3SG.FEM
 5	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
@@ -2551,8 +2551,8 @@
 # text = A nichid ú iku nʼiba.
 # text[orig] = A nichid ú iku n'iba.
 # text[spa] = Me viste ayer en el mercado.
-# tagged = false
-1	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+# tagged = true
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
@@ -2564,7 +2564,7 @@
 # text[orig] = A nichid to'ö iku n'iba.
 # text[spa] = Lo viste ayer en el mercado.
 # tagged = false
-1	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
 3	toʼö	_	_	_	_	_	_	_	_
 4	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
@@ -2575,9 +2575,9 @@
 # text = Nichid insú iku no nʼiba.
 # text[orig] = Nichid insú iku no n'iba.
 # text[spa] = Nos viste ayer en el mercado.
-# tagged = false
+# tagged = true
 1	Nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
-2	insú	_	_	_	_	_	_	_	_
+2	insú	_	PRON	_	_	_	_	_	Trad=nosotros
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
@@ -2652,9 +2652,9 @@
 # text = ¿A nichi ú iku nʼiba?
 # text[orig] = ¿A nichi ú iku n'iba?
 # text[spa] = ¿Me viste ayer en el mercado?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
@@ -2665,9 +2665,9 @@
 # text = ¿A duʼu nichid iku nʼiba?
 # text[orig] = ¿A du'u nichid iku n'iba?
 # text[spa] = ¿A quién viste ayer en el mercado?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
 4	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
 5	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
@@ -2680,7 +2680,7 @@
 # text[spa] = ¿Qué viste ayer en el mercado?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	dae	_	PRON	_	_	_	_	_	Trad=que
 4	nochid	_	_	_	_	_	_	_	_
 5	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
@@ -2691,9 +2691,9 @@
 # text = ¿A ti nichid ú?
 # text[orig] = ¿A ti nichid ú?
 # text[spa] = ¿Dónde me viste?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -2742,8 +2742,8 @@
 # text = Nèta dí chi koʼöd Jibaku.
 # text[orig] = Nèta dí chi ko'öd Jibaku.
 # text[spa] = El te ordenó ir a Huamantla.
-# tagged = false
-1	Nèta	_	_	_	_	_	_	_	_
+# tagged = true
+1	Nèta	_	VERB	_	_	_	_	_	Trad=ordenó
 2	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
@@ -2816,7 +2816,7 @@
 # text[spa] = ¿Sabes español?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	jined	_	_	_	_	_	_	_	_
 4	beade	_	_	_	_	_	_	_	_
 5	?	?	PUNCT	_	_	_	_	_	_
@@ -2834,9 +2834,9 @@
 # text = ¿A chikadinud chi a ndo?
 # text[orig] = ¿A chikadinud chi a ndo?
 # text[spa] = ¿Cuándo supiste que yo había llegado?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	chikadinud	_	VERB	_	_	_	_	_	Trad=supiste
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	a	a	PART	_	_	_	_	_	Gloss=QST
@@ -2847,9 +2847,9 @@
 # text = ¿A taka chikadinud chi a ndo?
 # text[orig] = ¿A taka chikadinud chi a ndo?
 # text[spa] = ¿Cómo supiste que yo había llegado?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	taka	taka	ADV	_	_	_	_	_	Trad=cómo
 4	chikadinud	_	VERB	_	_	_	_	_	Trad=supiste
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -2874,7 +2874,7 @@
 # text[spa] = ¿Aprendiste español?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	chèd	_	_	_	_	_	_	_	_
 4	beade	_	_	_	_	_	_	_	_
 5	?	?	PUNCT	_	_	_	_	_	_
@@ -2972,9 +2972,9 @@
 # text = ¿A dae neʼe did?
 # text[orig] = ¿A dae ne'e did?
 # text[spa] = ¿Qué quieres hacer?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	dae	_	PRON	_	_	_	_	_	Trad=que
 4	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 5	did	_	VERB	_	_	_	_	_	Trad=hacer|Gloss=?-hacer-?
@@ -3075,7 +3075,7 @@
 # text[spa] = ¿Crees en Dios?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	jitenud	_	_	_	_	_	_	_	_
 4	Ndios	_	NOUN	_	_	_	_	_	Trad=dios
 5	?	?	PUNCT	_	_	_	_	_	_
@@ -3119,7 +3119,7 @@
 # text[spa] = ¿Sabes quién no viene?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	denud	_	_	_	_	_	_	_	_
 4	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
 5	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
@@ -3624,7 +3624,7 @@
 # text[spa] = ¿Has ido alguna vez a México?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	neʼéd	_	VERB	_	VerbForm=Fin	_	_	_	Trad=necesitas
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	née	_	_	_	_	_	_	_	_
@@ -3641,7 +3641,7 @@
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 5	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
-6	insé	_	_	_	_	_	_	_	_
+6	insé	_	PRON	_	_	_	_	_	Trad=ustedes
 7	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:304
@@ -3832,8 +3832,8 @@
 # text = A cheʼë ama nèè bakud.
 # text[orig] = A che'ë ama nèè bakud.
 # text[spa] = Fui a tu casa una vez.
-# tagged = false
-1	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+# tagged = true
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	nèè	_	NOUN	_	_	_	_	_	Trad=vez
@@ -3844,8 +3844,8 @@
 # text = A cheʼë obe nèè bakud.
 # text[orig] = A che'ë obe nèè bakud.
 # text[spa] = Fui a tu casa dos veces
-# tagged = false
-1	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+# tagged = true
+1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	nèè	_	NOUN	_	_	_	_	_	Trad=vez
@@ -4137,7 +4137,7 @@
 # text[spa] = ¿Quiere algo de esto?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	neʼed	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quieres|Gloss=?-querer-2SG
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	dea	_	_	_	_	_	_	_	_
@@ -4161,7 +4161,7 @@
 # text[orig] = A tan kabiö chi kadi dì ntiñu.
 # text[spa] = Ya sólo puedo trabajar en la mañana.
 # tagged = false
-1	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+1	A	a	ADV	_	_	_	_	_	Trad=ya
 2	tan	_	_	_	_	_	_	_	_
 3	kabiö	_	ADV	_	_	_	_	_	Trad=mañana
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -4284,7 +4284,7 @@
 # text[spa] = ¿Quiere mucho?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
+2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ndee	_	_	_	_	_	_	_	Trad=mucho
 4	neʼed	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quieres|Gloss=?-querer-2SG
 5	?	?	PUNCT	_	_	_	_	_	_
