@@ -264,9 +264,9 @@
 # text = Baku sakón cheatea.
 # text[orig] = Baku sakón cheatea.
 # text[spa] = La casa de él es grande.
-# tagged = false
+# tagged = true
 1	Baku	_	NOUN	_	_	_	_	_	Trad=casa
-2	sakón	_	_	_	_	_	_	_	_
+2	sakón	_	PRON	_	_	_	_	_	Trad=él
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1235,13 +1235,13 @@
 # text = Gua chid jima ñeʼe komida.
 # text[orig] = Gua chid jima ñe'e komida.
 # text[spa] = La comida tiene sal.
-# tagged = false
+# tagged = true
 # text[lit] = No le echaste sal a la comida
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	chid	_	VERB	_	_	_	_	_	Trad=echaste
 3	jima	_	NOUN	_	_	_	_	_	Trad=sal
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
-5	komida	_	_	_	_	_	_	_	_
+5	komida	_	NOUN	_	_	_	_	_	Trad=comida
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:82
@@ -1274,7 +1274,7 @@
 # tagged = false
 # text[lit] = Esta picante la comida
 1	Yaduu	_	_	_	_	_	_	_	_
-2	sopa	_	_	_	_	_	_	_	_
+2	sopa	_	NOUN	_	_	_	_	_	Trad=sopa
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:85
@@ -1381,8 +1381,8 @@
 # text = Nujinu.
 # text[orig] = Nujinu.
 # text[spa] = Tengo prisa.
-# tagged = false
-1	Nujinu	_	_	_	_	_	_	_	_
+# tagged = true
+1	Nujinu	_	VERB	_	_	_	_	_	Trad=tengo.prisa
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:98
@@ -1660,10 +1660,10 @@
 # text = Juó gua noʼös.
 # text[orig] = Juó gua no'ös.
 # text[spa] = Juan no es maestro.
-# tagged = false
+# tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-3	noʼös	_	_	_	_	_	_	_	_
+3	noʼös	_	NOUN	_	_	_	_	_	Trad=maestro
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:122
@@ -1978,9 +1978,9 @@
 # text = Juó soʼös.
 # text[orig] = Juó so'ös.
 # text[spa] = Juan es hombre.
-# tagged = false
+# tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	soʼös	_	_	_	_	_	_	_	_
+2	soʼös	_	NOUN	_	_	_	_	_	Trad=hombre
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:148
@@ -2394,7 +2394,7 @@
 # text[spa] = Ella me pidió tortilas para su madre.
 # tagged = false
 # text[lit] = Ella me pidió tortillas para que comiera su mamá
-1	Tako	_	_	_	_	_	_	_	_
+1	Tako	_	PRON	_	_	_	_	_	Trad=ella
 2	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3SG.FEM
 3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -3858,7 +3858,7 @@
 # text[spa] = Los hombres salieron de la casa uno por uno.
 # tagged = false
 1	Am	_	_	_	_	_	_	_	_
-2	amas	_	_	_	_	_	_	_	_
+2	amas	_	_	_	_	_	_	_	Trad=en.uno
 3	kanós	_	_	_	_	_	_	_	_
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -3870,8 +3870,8 @@
 # text[orig] = Ob obes kanós ñe'e no ba'a.
 # text[spa] = Los hombres salieron de la casa de dos en dos.
 # tagged = false
-1	Ob	_	_	_	_	_	_	_	_
-2	obes	_	_	_	_	_	_	_	_
+1	Ob	_	_	_	_	_	_	_	Trad=dos
+2	obes	_	_	_	_	_	_	_	Trad=en.dos
 3	kanós	_	_	_	_	_	_	_	_
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -3884,7 +3884,7 @@
 # text[spa] = Los hombres salieron de la casa de tres en tres.
 # tagged = false
 1	In	_	_	_	_	_	_	_	_
-2	inus	_	_	_	_	_	_	_	_
+2	inus	_	_	_	_	_	_	_	Trad=en.tres
 3	kanós	_	_	_	_	_	_	_	_
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -3990,7 +3990,7 @@
 # tagged = false
 1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
 2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
-3	soʼön	_	_	_	_	_	_	_	_
+3	soʼön	_	PRON	_	_	_	_	_	Trad=él
 4	tumin	_	NOUN	_	_	_	_	_	Trad=dinero
 5	chika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 6	machetem	_	NOUN	_	_	_	_	_	Trad=machete
