@@ -147,7 +147,7 @@
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
 2	yakus	_	_	_	_	_	_	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
-4	Takó	_	_	_	_	_	_	_	_
+4	Takó	_	PRON	_	_	_	_	_	Trad=ella
 5	yakuta	_	_	_	_	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -827,7 +827,7 @@
 2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
-5	nʼíba	_	_	_	_	_	_	_	_
+5	nʼíba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
 6	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:49
@@ -921,7 +921,7 @@
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
-3	tabea	_	_	_	_	_	_	_	_
+3	tabea	_	PRON	_	_	_	_	_	Trad=cuánto
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
 5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 6	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
@@ -1096,7 +1096,7 @@
 # note = (señalando el bolsillo o un costal)
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Dae	_	PRON	_	_	_	_	_	Trad=que
-3	nád	_	_	_	_	_	_	_	_
+3	nád	_	VERB	_	_	_	_	_	Trad=tienes|Gloss=?-tener-2SG
 4	tò	_	_	_	_	_	_	_	_
 5	?	?	PUNCT	_	_	_	_	_	_
 
@@ -1104,9 +1104,9 @@
 # text = Duʼu ná machetem?
 # text[orig] = Du'u ná machetem?
 # text[spa] = ¿Quién tiene el machete?
-# tagged = false
+# tagged = true
 1	Duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
-2	ná	_	_	_	_	_	_	_	_
+2	ná	_	VERB	_	_	_	_	_	Trad=tiene.
 3	machetem	_	NOUN	_	_	_	_	_	Trad=machete
 4	?	?	PUNCT	_	_	_	_	_	_
 
@@ -1317,7 +1317,7 @@
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
-3	tabea	_	_	_	_	_	_	_	_
+3	tabea	_	PRON	_	_	_	_	_	Trad=cuánto
 4	biʼid	_	_	_	_	_	_	_	_
 5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 6	?	?	PUNCT	_	_	_	_	_	_
@@ -1626,11 +1626,11 @@
 # text = Ño baku bea nʼíba.
 # text[orig] = Ño baku bea n'íba.
 # text[spa] = En mi pueblo hay mercado.
-# tagged = false
-1	Ño	_	_	_	_	_	_	_	_
+# tagged = true
+1	Ño	_	ADP	_	_	_	_	_	Trad=en
 2	baku	_	NOUN	_	_	_	_	_	Trad=casa
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-4	nʼíba	_	_	_	_	_	_	_	_
+4	nʼíba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:116
@@ -1638,7 +1638,7 @@
 # text[orig] = Ño kon bea ba'a eatea.
 # text[spa] = En ese pueblo hay casas grandes.
 # tagged = false
-1	Ño	_	_	_	_	_	_	_	_
+1	Ño	_	ADP	_	_	_	_	_	Trad=en
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 4	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -1842,10 +1842,10 @@
 # text = Kuetíchi kon ñeʼey.
 # text[orig] = Kuetíchi kon ñe'ey.
 # text[spa] = Esa canasta es de ellos.
-# tagged = false
+# tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
-3	ñeʼey	_	_	_	_	_	_	_	_
+3	ñeʼey	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ellos|Gloss=base-POSS.3PL
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:131
@@ -1863,11 +1863,11 @@
 # text = Kuetíchi kon gua ñeʼey.
 # text[orig] = Kuetíchi kon gua ñe'ey.
 # text[spa] = Esa canasta no es de ellos.
-# tagged = false
+# tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	ñeʼey	_	_	_	_	_	_	_	_
+4	ñeʼey	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ellos|Gloss=base-POSS.3PL
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:133
@@ -1989,7 +1989,7 @@
 # text[spa] = María es mujer.
 # tagged = false
 1	Ta	_	_	_	_	_	_	_	_
-2	Marian	_	_	_	_	_	_	_	_
+2	Marian	_	PROPN	_	_	_	_	_	Trad=María
 3	ndatata	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2007,9 +2007,9 @@
 # text = Ú ndata ú.
 # text[orig] = Ú ndata ú.
 # text[spa] = Yo soy mujer.
-# tagged = false
+# tagged = true
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	ndata	_	_	_	_	_	_	_	_
+2	ndata	_	NOUN	_	_	_	_	_	Trad=mujer
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2042,7 +2042,7 @@
 # tagged = false
 # text[lit] = Yo soy joven
 1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	yunu	_	_	_	_	_	_	_	_
+2	yunu	_	_	_	_	_	_	_	Trad=joven
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:153
@@ -2053,7 +2053,7 @@
 # text[lit] = Yo ya no soy joven
 1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	kutea	_	_	_	_	_	_	_	Trad=no
-3	yunu	_	_	_	_	_	_	_	_
+3	yunu	_	_	_	_	_	_	_	Trad=joven
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:155
@@ -2074,7 +2074,7 @@
 1	Eduviges	_	_	_	_	_	_	_	_
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	jobe	_	NOUN	_	_	_	_	_	Trad=día
-4	ndata	_	_	_	_	_	_	_	_
+4	ndata	_	NOUN	_	_	_	_	_	Trad=mujer
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:160
@@ -2360,10 +2360,10 @@
 # text = Koʼö kuyadu silï.
 # text[orig] = Ko'ö kuyadu silï.
 # text[spa] = El niño se ve a dormir.
-# tagged = false
+# tagged = true
 1	Koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
 2	kuyadu	_	VERB	_	_	_	_	_	Trad=dormir|Gloss=?-dormir-?
-3	silï	_	_	_	_	_	_	_	_
+3	silï	_	NOUN	_	_	_	_	_	Trad=niño
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:187
@@ -2384,7 +2384,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	yeabea	_	_	_	_	_	_	_	Trad=bonito(a)
 3	kayadu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dormir|Gloss=?-dormir-?
-4	silï	_	_	_	_	_	_	_	_
+4	silï	_	NOUN	_	_	_	_	_	Trad=niño
 5	yabi	_	ADV	_	_	_	_	_	Trad=anoche
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2480,7 +2480,7 @@
 # text[spa] = Ella me enseñó esta canción.
 # tagged = false
 # text[lit] = Ella me enseñó
-1	Takó	_	_	_	_	_	_	_	_
+1	Takó	_	PRON	_	_	_	_	_	Trad=ella
 2	chikueta	_	_	_	_	_	_	_	_
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2909,7 +2909,7 @@
 1	Kakued	_	_	_	_	_	_	_	_
 2	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 3	dae	_	PRON	_	_	_	_	_	Trad=que
-4	nád	_	_	_	_	_	_	_	_
+4	nád	_	VERB	_	_	_	_	_	Trad=tienes|Gloss=?-tener-2SG
 5	toʼod	_	_	_	_	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3421,7 +3421,7 @@
 # text[orig] = Nangakud chi ne'e chi ku'uu diuu ntiñu.
 # text[spa] = Acuérdate de que tenemos que trabajar.
 # tagged = false
-1	Nangakud	_	_	_	_	_	_	_	_
+1	Nangakud	_	VERB	_	_	_	_	_	Trad=acuérdate
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -3456,7 +3456,7 @@
 # text[orig] = Nangakud neachead ba'a.
 # text[spa] = Acuérdate de barrer la casa.
 # tagged = false
-1	Nangakud	_	_	_	_	_	_	_	_
+1	Nangakud	_	VERB	_	_	_	_	_	Trad=acuérdate
 2	neachead	_	_	_	_	_	_	_	_
 3	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3836,7 +3836,7 @@
 1	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
 2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-4	nèè	_	_	_	_	_	_	_	_
+4	nèè	_	NOUN	_	_	_	_	_	Trad=vez
 5	bakud	_	NOUN	_	_	_	_	_	Trad=tu.casa|Gloss=casa-POSS.2SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3848,7 +3848,7 @@
 1	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
 2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
-4	nèè	_	_	_	_	_	_	_	_
+4	nèè	_	NOUN	_	_	_	_	_	Trad=vez
 5	bakud	_	NOUN	_	_	_	_	_	Trad=tu.casa|Gloss=casa-POSS.2SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
