@@ -133,7 +133,7 @@
 # text[spa] = Tú eres alto.  Usted es alto.
 # tagged = false
 1	Dín	_	PRON	_	_	_	_	_	Trad=tú
-2	yakud	_	_	_	_	_	_	_	_
+2	yakud	_	_	_	_	_	_	_	Trad=alto
 3	,	,	PUNCT	_	_	_	_	_	_
 4	intin	_	_	_	_	_	_	_	_
 5	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
@@ -145,10 +145,10 @@
 # text[spa] = El es alto.  Ella es alta.
 # tagged = false
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	yakus	_	_	_	_	_	_	_	_
+2	yakus	_	_	_	_	_	_	_	Trad=alto
 3	.	.	PUNCT	_	_	_	_	_	_
 4	Takó	_	PRON	_	_	_	_	_	Trad=ella
-5	yakuta	_	_	_	_	_	_	_	_
+5	yakuta	_	_	_	_	_	_	_	Trad=alta
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:4
@@ -184,7 +184,7 @@
 # text[spa] = Ellos son altos.
 # tagged = false
 1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
-2	yakuy	_	_	_	_	_	_	_	_
+2	yakuy	_	_	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:4
@@ -783,7 +783,7 @@
 2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
-5	yanam	_	_	_	_	_	_	_	_
+5	yanam	_	NOUN	_	_	_	_	_	Trad=perro
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:48
@@ -815,7 +815,7 @@
 2	A	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,ya
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
-5	yákum	_	_	_	_	_	_	_	_
+5	yákum	_	NOUN	_	_	_	_	_	Trad=iglesia
 6	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:49
@@ -1046,12 +1046,12 @@
 # text = Tochi kane yuudum ñeʼe.
 # text[orig] = Tochi kane yuudum ñe'e.
 # text[spa] = Tenía un caballo
-# tagged = false
+# tagged = true
 # text[lit] = Cuanto estaba mi caballo (ñe'e indica posición, se puede decir que estaba es igual a tener)
 # note = (pero lo vendí).
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
-3	yuudum	_	_	_	_	_	_	_	_
+3	yuudum	_	NOUN	_	_	_	_	_	Trad=caballo
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1092,12 +1092,12 @@
 # text = ¿Dae nád tò?
 # text[orig] = ¿Dae nád tò?
 # text[spa] = ¿Qué tienes ahí?
-# tagged = false
+# tagged = true
 # note = (señalando el bolsillo o un costal)
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Dae	_	PRON	_	_	_	_	_	Trad=que
 3	nád	_	VERB	_	_	_	_	_	Trad=tienes|Gloss=?-tener-2SG
-4	tò	_	_	_	_	_	_	_	_
+4	tò	_	ADV	_	_	_	_	_	Trad=ahí
 5	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:67
@@ -1175,7 +1175,7 @@
 # text[orig] = Yudtï Fo kuä.
 # text[spa] = El pelo de Juan es negro.
 # tagged = false
-1	Yudtï	_	_	_	_	_	_	_	_
+1	Yudtï	_	_	_	_	_	_	_	Trad=pelo
 2	Fo	_	PROPN	_	_	_	_	_	Trad=Juan
 3	kuä	_	_	_	_	_	_	_	Trad=negro
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1188,7 +1188,7 @@
 1	Ndá	_	_	_	_	_	_	_	Trad=bueno
 2	machete	_	NOUN	_	_	_	_	_	Trad=machete
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-4	tubnéd	_	_	_	_	_	_	_	_
+4	tubnéd	_	VERB	_	_	_	_	_	Trad=prestaste|Gloss=?-prestar-2SG
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1397,8 +1397,8 @@
 # text = Yàka.
 # text[orig] = Yàka.
 # text[spa] = Tengo sed.
-# tagged = false
-1	Yàka	_	_	_	_	_	_	_	_
+# tagged = true
+1	Yàka	_	VERB	_	_	_	_	_	Trad=tengo.sed
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:98
@@ -2070,8 +2070,8 @@
 # text = Eduviges chi jobe ndata.
 # text[orig] = Eduviges chi jobe ndata.
 # text[spa] = Eduviges es nombre de mujer.
-# tagged = false
-1	Eduviges	_	_	_	_	_	_	_	_
+# tagged = true
+1	Eduviges	_	PROPN	_	_	_	_	_	Trad=Eduviges
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	jobe	_	NOUN	_	_	_	_	_	Trad=día
 4	ndata	_	NOUN	_	_	_	_	_	Trad=mujer
@@ -2136,10 +2136,10 @@
 # text = Ún jobe Pedro.
 # text[orig] = Ún jobe Pedro.
 # text[spa] = Me llamo Pedro.
-# tagged = false
+# tagged = true
 1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	jobe	_	NOUN	_	_	_	_	_	Trad=día
-3	Pedro	_	_	_	_	_	_	_	_
+3	Pedro	_	PROPN	_	_	_	_	_	Trad=Pedro
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:170
@@ -2254,7 +2254,7 @@
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	koʼos	_	_	_	_	_	_	_	_
 3	chis	_	_	_	_	_	_	_	_
-4	tonto	_	_	_	_	_	_	_	_
+4	tonto	_	ADJ	_	_	_	_	_	Trad=tonto
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2905,12 +2905,12 @@
 # text = Kakued ú dae nád toʼod.
 # text[orig] = Kakued ú dae nád to'od.
 # text[spa] = ¡Enséñame que tienes en la mano!
-# tagged = false
+# tagged = true
 1	Kakued	_	VERB	_	_	_	_	_	Trad=enséñame
 2	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 3	dae	_	PRON	_	_	_	_	_	Trad=que
 4	nád	_	VERB	_	_	_	_	_	Trad=tienes|Gloss=?-tener-2SG
-5	toʼod	_	_	_	_	_	_	_	_
+5	toʼod	_	NOUN	_	_	_	_	_	Trad=tu.mano
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:231
@@ -3286,7 +3286,7 @@
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
 5	jinuku	_	VERB	_	_	_	_	_	Trad=vende
-6	yakut	_	_	_	_	_	_	_	_
+6	yakut	_	VERB	_	_	_	_	_	Trad=volar
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:269
@@ -3465,9 +3465,9 @@
 # text = Tumgoʼos dae neʼe.
 # text[orig] = Tumgo'os dae ne'e.
 # text[spa] = Me preguntó qué quería yo.
-# tagged = false
+# tagged = true
 # text[lit] = sujeto masculino
-1	Tumgoʼos	_	_	_	_	_	_	_	_
+1	Tumgoʼos	_	VERB	_	_	_	_	_	Trad=me.preguntó
 2	dae	_	PRON	_	_	_	_	_	Trad=que
 3	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3512,7 +3512,7 @@
 # tagged = false
 1	Ndininus	_	_	_	_	_	_	_	_
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-3	temprano	_	_	_	_	_	_	_	_
+3	temprano	_	ADV	_	_	_	_	_	Trad=temprano
 4	jinankués	_	VERB	_	_	_	_	_	Trad=levantarse|Gloss=?-levantar-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3662,7 +3662,7 @@
 # text[spa] = Súbete a cortar ese aguacate.
 # tagged = false
 1	Kód	_	_	_	_	_	_	_	_
-2	tumad	_	_	_	_	_	_	_	_
+2	tumad	_	VERB	_	_	_	_	_	Trad=cortar
 3	naídii	_	NOUN	_	_	_	_	_	Trad=aguacate
 4	.	.	PUNCT	_	_	_	_	_	_
 
