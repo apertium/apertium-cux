@@ -1,4 +1,4 @@
- 	Lema	POS	Feats	Significado	Glosa	1400	1151	1312
+ 	Lema	POS	Feats	Significado	Glosa	1416	1171	1327
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -1389,10 +1389,10 @@ tako		PRON		ella
 soʼös		NOUN		hombre				
 soʼön		PRON		él				
 sakón		PRON		él				
-obes				en dos				
-inus				en tres				
-amas				en uno				
-ob				dos				
+obes		NUM		en dos				
+inus		NUM		en tres				
+amas		NUM		en uno				
+ob		NUM		dos				
 nujinu		VERB		tengo prisa				
 noʼös		NOUN		maestro				
 nèta		VERB		ordenó				
@@ -1401,22 +1401,22 @@ insën		PRON		ustedes
 insén		PRON		ustedes				
 insé		PRON		ustedes				
 insú		PRON		nosotros				
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
+noʼöm		NOUN		maestro				
+nòò		NUM		nueve				
+neachea		NUM		siete				
+kùù		NUM		cuatro				
+joo		NUM		seis				
+nini		NUM		ocho				
+nichama		NUM		once				
+niku		NUM		veinte				
+jeku		NUM						
+am		NUM		uno				
+kanós		VERB		salieron				
+in		NUM		tres				
+kutoʼon		VERB		agarren				
+kunoʼos		VERB		se fue				
+tum		SCONJ		para que				
+ndó		VERB		vino	?-venir-?			
 								
 								
 								

@@ -47,7 +47,7 @@
 # tagged = false
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
-3	niku	_	_	_	_	_	_	_	Trad=viejo
+3	niku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=veinte,viejo
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:1g
@@ -58,7 +58,7 @@
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	niku	_	_	_	_	_	_	_	Trad=viejo
+4	niku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=veinte,viejo
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:1h
@@ -1576,10 +1576,10 @@
 # text = Muʼu bea kùù yuntu.
 # text[orig] = Mu'u bea kùù yuntu.
 # text[spa] = Aquí hay cuatro tortillas.
-# tagged = false
+# tagged = true
 1	Muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-3	kùù	_	_	_	_	_	_	_	_
+3	kùù	_	NUM	_	_	_	_	_	Trad=cuatro
 4	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1681,10 +1681,10 @@
 # text = ¿Duʼu noʼöm?
 # text[orig] = ¿Du'u no'öm?
 # text[spa] = ¿Quién es el maestro?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
-3	noʼöm	_	_	_	_	_	_	_	_
+3	noʼöm	_	NOUN	_	_	_	_	_	Trad=maestro
 4	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:127
@@ -2117,7 +2117,7 @@
 # tagged = false
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	a	a	PART	_	_	_	_	_	Gloss=QST
-3	niku	_	_	_	_	_	_	_	Trad=viejo
+3	niku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=veinte,viejo
 4	injobes	_	_	_	_	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3217,7 +3217,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	chikadinu	_	_	_	_	_	_	_	_
 3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
-4	ndó	_	_	_	_	_	_	_	_
+4	ndó	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:262
@@ -3728,8 +3728,8 @@
 # text = Kùù.
 # text[orig] = Kùù.
 # text[spa] = cuatro
-# tagged = false
-1	Kùù	_	_	_	_	_	_	_	_
+# tagged = true
+1	Kùù	_	NUM	_	_	_	_	_	Trad=cuatro
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:546
@@ -3744,32 +3744,32 @@
 # text = Joo.
 # text[orig] = Joo.
 # text[spa] = seis
-# tagged = false
-1	Joo	_	_	_	_	_	_	_	_
+# tagged = true
+1	Joo	_	NUM	_	_	_	_	_	Trad=seis
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:546
 # text = Neachea.
 # text[orig] = Neachea.
 # text[spa] = siete
-# tagged = false
-1	Neachea	_	_	_	_	_	_	_	_
+# tagged = true
+1	Neachea	_	NUM	_	_	_	_	_	Trad=siete
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:546
 # text = Nini.
 # text[orig] = Nini.
 # text[spa] = ocho
-# tagged = true
-1	Nini	_	NUM	_	NumType=Card	_	_	_	Trad=nueve
+# tagged = false
+1	Nini	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=nueve,ocho
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:546
 # text = Nòò.
 # text[orig] = Nòò.
 # text[spa] = nueve
-# tagged = false
-1	Nòò	_	_	_	_	_	_	_	_
+# tagged = true
+1	Nòò	_	NUM	_	_	_	_	_	Trad=nueve
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:546
@@ -3793,16 +3793,16 @@
 # text[orig] = Niku.
 # text[spa] = veinte
 # tagged = false
-1	Niku	_	_	_	_	_	_	_	Trad=viejo
+1	Niku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=veinte,viejo
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:546
 # text = Juʼu jeku.
 # text[orig] = Ju'u jeku.
 # text[spa] = cien
-# tagged = false
+# tagged = true
 1	Juʼu	_	NUM	_	Typo=Yes	_	_	_	Trad=cinco
-2	jeku	_	_	_	_	_	_	_	_
+2	jeku	_	NUM	_	_	_	_	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:547
@@ -3856,10 +3856,10 @@
 # text = Am amas kanós ñeʼe no baʼa.
 # text[orig] = Am amas kanós ñe'e no ba'a.
 # text[spa] = Los hombres salieron de la casa uno por uno.
-# tagged = false
-1	Am	_	_	_	_	_	_	_	_
-2	amas	_	_	_	_	_	_	_	Trad=en.uno
-3	kanós	_	_	_	_	_	_	_	_
+# tagged = true
+1	Am	_	NUM	_	_	_	_	_	Trad=uno
+2	amas	_	NUM	_	_	_	_	_	Trad=en.uno
+3	kanós	_	VERB	_	_	_	_	_	Trad=salieron
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -3869,10 +3869,10 @@
 # text = Ob obes kanós ñeʼe no baʼa.
 # text[orig] = Ob obes kanós ñe'e no ba'a.
 # text[spa] = Los hombres salieron de la casa de dos en dos.
-# tagged = false
-1	Ob	_	_	_	_	_	_	_	Trad=dos
-2	obes	_	_	_	_	_	_	_	Trad=en.dos
-3	kanós	_	_	_	_	_	_	_	_
+# tagged = true
+1	Ob	_	NUM	_	_	_	_	_	Trad=dos
+2	obes	_	NUM	_	_	_	_	_	Trad=en.dos
+3	kanós	_	VERB	_	_	_	_	_	Trad=salieron
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -3882,10 +3882,10 @@
 # text = In inus kanós ñeʼe no baʼa.
 # text[orig] = In inus kanós ñe'e no ba'a.
 # text[spa] = Los hombres salieron de la casa de tres en tres.
-# tagged = false
-1	In	_	_	_	_	_	_	_	_
-2	inus	_	_	_	_	_	_	_	Trad=en.tres
-3	kanós	_	_	_	_	_	_	_	_
+# tagged = true
+1	In	_	NUM	_	_	_	_	_	Trad=tres
+2	inus	_	NUM	_	_	_	_	_	Trad=en.tres
+3	kanós	_	VERB	_	_	_	_	_	Trad=salieron
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -3895,8 +3895,8 @@
 # text = Kutoʼon ama tuu.
 # text[orig] = Kuto'on ama tuu.
 # text[spa] = ¡Agarren una piedra cada uno!
-# tagged = false
-1	Kutoʼon	_	_	_	_	_	_	_	_
+# tagged = true
+1	Kutoʼon	_	VERB	_	_	_	_	_	Trad=agarren
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	tuu	_	NOUN	_	_	_	_	_	Trad=piedra
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3905,10 +3905,10 @@
 # text = Juóm kunoʼos tum gua nichid soʼö.
 # text[orig] = Juóm kuno'os tum gua nichid so'ö.
 # text[spa] = Juan se fue para que no lo vieras.
-# tagged = false
+# tagged = true
 1	Juóm	_	PROPN	_	_	_	_	_	Trad=Juan
-2	kunoʼos	_	_	_	_	_	_	_	_
-3	tum	_	_	_	_	_	_	_	_
+2	kunoʼos	_	VERB	_	_	_	_	_	Trad=se.fue
+3	tum	_	SCONJ	_	_	_	_	_	Trad=para.que
 4	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 5	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
 6	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
@@ -3918,10 +3918,10 @@
 # text = Ndó Juó tum nichid soʼö.
 # text[orig] = Ndó Juó tum nichid so'ö.
 # text[spa] = Juan vino para que lo vieras.
-# tagged = false
-1	Ndó	_	_	_	_	_	_	_	_
+# tagged = true
+1	Ndó	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
 2	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-3	tum	_	_	_	_	_	_	_	_
+3	tum	_	SCONJ	_	_	_	_	_	Trad=para.que
 4	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
 5	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -3977,7 +3977,7 @@
 1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
 2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 3	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
-4	tum	_	_	_	_	_	_	_	_
+4	tum	_	SCONJ	_	_	_	_	_	Trad=para.que
 5	kaka	_	NOUN	_	_	_	_	_	Trad=papel
 6	machetem	_	NOUN	_	_	_	_	_	Trad=machete
 7	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre

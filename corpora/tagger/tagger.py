@@ -146,9 +146,7 @@ class Tagger:
 	
 			return new_analyses
 	
-		if form == 'a': # Choose 'a' as an ADV if we find "ya" in the translation, otherwise PART
-			new_analyses = choose_or_remove(analyses, 'ya', 'ya')
-		elif form == 'A': # Choose 'a' as an ADV if we find "ya" in the translation, otherwise PART
+		if form.lower() == 'a': 
 			new_analyses = choose_or_remove(analyses, 'ya', 'ya')
 		elif form == 'nichi': # Choose 'nichi' as NUM if we find "diez" otherwise VERB
 			new_analyses = choose_if_else(analyses, 'diez', 'NUM', 'VERB')
