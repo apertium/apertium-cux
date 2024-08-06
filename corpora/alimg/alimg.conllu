@@ -3213,9 +3213,9 @@
 # text = Gua chikadinu duʼu ndó.
 # text[orig] = Gua chikadinu du'u ndó.
 # text[spa] = No supe quién vino.
-# tagged = false
+# tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	chikadinu	_	_	_	_	_	_	_	_
+2	chikadinu	_	VERB	_	_	_	_	_	Trad=supe|Gloss=?-saber-?
 3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
 4	ndó	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3224,21 +3224,21 @@
 # text = Chimjinu nangadí chimbaʼam.
 # text[orig] = Chimjinu nangadí chimba'am.
 # text[spa] = Me olvidé de cerrar la puerta.
-# tagged = false
+# tagged = true
 1	Chimjinu	_	VERB	_	_	_	_	_	Trad=me.olvidé
-2	nangadí	_	_	_	_	_	_	_	_
-3	chimbaʼam	_	_	_	_	_	_	_	_
+2	nangadí	_	VERB	_	_	_	_	_	Trad=cerrar|Gloss=?-cerrar-?
+3	chimbaʼam	_	NOUN	_	_	_	_	_	Trad=puerta
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:263
 # text = Chimjinu chi ndod jobeku.
 # text[orig] = Chimjinu chi ndod jobeku.
 # text[spa] = Me olvidé de que llegabas hoy.
-# tagged = false
+# tagged = true
 1	Chimjinu	_	VERB	_	_	_	_	_	Trad=me.olvidé
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
-4	jobeku	_	_	_	_	_	_	_	_
+4	jobeku	_	ADV	_	_	_	_	_	Trad=hoy
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:264

@@ -213,6 +213,8 @@ class Tagger:
 			new_analyses = choose_if_not_trad(analyses, 'alumbrado', 'limpio')
 		elif form == 'koon':
 			new_analyses = choose_if_not_trad(analyses, 'señora', 'ese')
+		elif form == 'yeabean':
+			new_analyses = choose_if_not_trad(analyses, 'mucho', 'muy')
 	
 		if new_analyses == analyses:
 			print('\tremaining:', form, '|', analyses,'|', '|', cux, spa, file=sys.stderr)
