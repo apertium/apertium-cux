@@ -1415,8 +1415,8 @@
 # text = Dànti.
 # text[orig] = Dànti.
 # text[spa] = Tengo flojera.
-# tagged = false
-1	Dànti	_	_	_	_	_	_	_	_
+# tagged = true
+1	Dànti	_	VERB	_	_	_	_	_	Trad=tengo.flojera
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:99
@@ -1433,18 +1433,18 @@
 # text = Kuenó.
 # text[orig] = Kuenó.
 # text[spa] = Tengo pena.
-# tagged = false
-1	Kuenó	_	_	_	_	_	_	_	_
+# tagged = true
+1	Kuenó	_	VERB	_	_	_	_	_	Trad=tengo.pena
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:101
 # text = Gua kuenód.
 # text[orig] = Gua kuenód.
 # text[spa] = Soy penoso.
-# tagged = false
+# tagged = true
 # text[lit] = No tengas pena
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	kuenód	_	_	_	_	_	_	_	_
+2	kuenód	_	VERB	_	_	_	_	_	Trad=tienes.pena
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:102
@@ -1474,7 +1474,7 @@
 # text[orig] = Kutea núni no kutum.
 # text[spa] = En la olla no hay frijoles.
 # tagged = false
-1	Kutea	_	_	_	_	_	_	_	Trad=no
+1	Kutea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=no,no.hay
 2	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 4	kutum	_	NOUN	_	_	_	_	_	Trad=olla
@@ -1485,7 +1485,7 @@
 # text[orig] = Kutea nuni no kutum.
 # text[spa] = En la olla no hay agua.
 # tagged = false
-1	Kutea	_	_	_	_	_	_	_	Trad=no
+1	Kutea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=no,no.hay
 2	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 4	kutum	_	NOUN	_	_	_	_	_	Trad=olla
@@ -1511,7 +1511,7 @@
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	kutea	_	_	_	_	_	_	_	Trad=no
+3	kutea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=no,no.hay
 4	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 6	kutum	_	NOUN	_	_	_	_	_	Trad=olla
@@ -1534,7 +1534,7 @@
 # text[lit] = No, ya no hay
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	,	,	PUNCT	_	_	_	_	_	_
-3	kutea	_	_	_	_	_	_	_	Trad=no
+3	kutea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=no,no.hay
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:107
@@ -1642,7 +1642,7 @@
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 4	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
-5	eatea	_	_	_	_	_	_	_	_
+5	eatea	_	_	_	_	_	_	_	Trad=grandes
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:119
@@ -1651,7 +1651,7 @@
 # text[spa] = ¿Qué pájaro es ese?
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	Daë	_	_	_	_	_	_	_	_
+2	Daë	_	_	_	_	_	_	_	Trad=qué
 3	yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=perro,pájaro
 4	chó	_	_	_	_	_	_	_	Trad=aquello
 5	?	?	PUNCT	_	_	_	_	_	_
@@ -1921,11 +1921,11 @@
 # text = Juó ñeʼe Jidiba soʼö.
 # text[orig] = Juó ñe'e Jidiba so'ö.
 # text[spa] = Juan es de Huamantla.
-# tagged = false
+# tagged = true
 # text[lit] = Juan es de la Mixteca
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
-3	Jidiba	_	_	_	_	_	_	_	_
+3	Jidiba	_	PROPN	_	_	_	_	_	Trad=Mixteca
 4	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1990,7 +1990,7 @@
 # tagged = false
 1	Ta	_	_	_	_	_	_	_	_
 2	Marian	_	PROPN	_	_	_	_	_	Trad=María
-3	ndatata	_	_	_	_	_	_	_	_
+3	ndatata	_	NOUN	_	_	_	_	_	Trad=mujer
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:149
@@ -2052,7 +2052,7 @@
 # tagged = false
 # text[lit] = Yo ya no soy joven
 1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	kutea	_	_	_	_	_	_	_	Trad=no
+2	kutea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=no,no.hay
 3	yunu	_	_	_	_	_	_	_	Trad=joven
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2094,7 +2094,7 @@
 # text[spa] = Juana se parece a su madre.
 # tagged = false
 1	Ta	_	_	_	_	_	_	_	_
-2	juana	_	_	_	_	_	_	_	_
+2	juana	Juana	PROPN	_	_	_	_	_	Trad=Juana
 3	ninubita	_	_	_	_	_	_	_	_
 4	chaqueta	_	_	_	_	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2202,9 +2202,9 @@
 # text = Nuku beayee jidiñ yuntu.
 # text[orig] = Nuku beayee jidiñ yuntu.
 # text[spa] = Las tortillas se hacen con nixtamal.
-# tagged = false
+# tagged = true
 1	Nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
-2	beayee	_	_	_	_	_	_	_	_
+2	beayee	_	NOUN	_	_	_	_	_	Trad=nixtamal
 3	jidiñ	_	VERB	_	VerbForm=Fin	_	_	_	Trad=está.haciendo|Gloss=?-hacer-?
 4	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2228,11 +2228,11 @@
 # text = ¿A ti jinukuy chiadi?
 # text[orig] = ¿A ti jinukuy chiadi?
 # text[spa] = ¿Dónde venden azucar?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
-4	jinukuy	_	_	_	_	_	_	_	_
+4	jinukuy	_	VERB	_	_	_	_	_	Trad=venden
 5	chiadi	_	NOUN	_	_	_	_	_	Trad=azúcar
 6	?	?	PUNCT	_	_	_	_	_	_
 
@@ -2270,27 +2270,27 @@
 # text = Kadayuʼuu.
 # text[orig] = Kadayu'uu.
 # text[spa] = Estamos durmiendo
-# tagged = false
+# tagged = true
 # note = (exclusivo)
-1	Kadayuʼuu	_	_	_	_	_	_	_	_
+1	Kadayuʼuu	_	VERB	_	_	_	_	_	Trad=estamos.durmiendo
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:182
 # text = Lï jiyaduy.
 # text[orig] = Lï jiyaduy.
 # text[spa] = Duerme poco.
-# tagged = false
+# tagged = true
 1	Lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
-2	jiyaduy	_	_	_	_	_	_	_	_
+2	jiyaduy	_	VERB	_	_	_	_	_	Trad=duerme
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:183
 # text = Jiyadu jobe.
 # text[orig] = Jiyadu jobe.
 # text[spa] = Duerme de día.
-# tagged = false
+# tagged = true
 # text[lit] = De día yo duermo
-1	Jiyadu	_	_	_	_	_	_	_	_
+1	Jiyadu	_	VERB	_	_	_	_	_	Trad=duermo
 2	jobe	_	NOUN	_	_	_	_	_	Trad=día
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2370,8 +2370,8 @@
 # text = Nauné kayadu silïm.
 # text[orig] = Nauné kayadu silïm.
 # text[spa] = El niño se durmió de nuevo.
-# tagged = false
-1	Nauné	_	_	_	_	_	_	_	_
+# tagged = true
+1	Nauné	_	ADV	_	_	_	_	_	Trad=de.nuevo
 2	kayadu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dormir|Gloss=?-dormir-?
 3	silïm	_	NOUN	_	_	_	_	_	Trad=niño
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2392,7 +2392,7 @@
 # text = Tako chikata yuntu ú chi cheʼe chakuta.
 # text[orig] = Tako chikata yuntu ú chi che'e chakuta.
 # text[spa] = Ella me pidió tortilas para su madre.
-# tagged = false
+# tagged = true
 # text[lit] = Ella me pidió tortillas para que comiera su mamá
 1	Tako	_	PRON	_	_	_	_	_	Trad=ella
 2	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3SG.FEM
@@ -2400,7 +2400,7 @@
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 6	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
-7	chakuta	_	_	_	_	_	_	_	_
+7	chakuta	_	NOUN	_	_	_	_	_	Trad=su.mamá
 8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:194
@@ -2419,8 +2419,8 @@
 # text = Jù, chikata yuntu ú.
 # text[orig] = Jù, chikata yuntu ú.
 # text[spa] = Sí ella me pidió tortillas.
-# tagged = false
-1	Jù	_	_	_	_	_	_	_	_
+# tagged = true
+1	Jù	_	INTJ	_	_	_	_	_	Trad=sí
 2	,	,	PUNCT	_	_	_	_	_	_
 3	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3SG.FEM
 4	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
@@ -2467,9 +2467,9 @@
 # text = Nokuó jikata yuntu ú.
 # text[orig] = Nokuó jikata yuntu ú.
 # text[spa] = Ella a veces me pide tortillas.
-# tagged = false
-1	Nokuó	_	_	_	_	_	_	_	_
-2	jikata	_	_	_	_	_	_	_	_
+# tagged = true
+1	Nokuó	_	ADV	_	_	_	_	_	Trad=a.veces
+2	jikata	_	VERB	_	_	_	_	_	Trad=pide|Gloss=?-pedir-3SG.FEM
 3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4249,7 +4249,7 @@
 # tagged = false
 1	Mniñu	_	ADV	_	_	_	_	_	Trad=ahora
 2	a	a	PART	_	_	_	_	_	Gloss=QST
-3	kutea	_	_	_	_	_	_	_	Trad=no
+3	kutea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=no,no.hay
 4	jinichiʼuu	_	_	_	_	_	_	_	_
 5	it	_	NOUN	_	_	_	_	_	Trad=animal
 6	cheanu	_	VERB	_	_	_	_	_	Trad=corrió
