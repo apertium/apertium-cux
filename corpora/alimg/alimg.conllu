@@ -135,7 +135,7 @@
 1	Dín	_	PRON	_	_	_	_	_	Trad=tú
 2	yakud	_	_	_	_	_	_	_	Trad=alto
 3	,	,	PUNCT	_	_	_	_	_	_
-4	intin	_	_	_	_	_	_	_	_
+4	intin	_	PRON	_	_	_	_	_	Trad=usted
 5	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -334,7 +334,7 @@
 # text[spa] = Los chiles todavía no están rojos.
 # tagged = false
 1	Íyaam	_	NOUN	_	Typo=Yes	_	_	_	Trad=chile
-2	nikua	_	_	_	_	_	_	_	_
+2	nikua	_	_	_	_	_	_	_	Trad=no
 3	kuoʼo	_	_	_	_	_	_	_	Trad=rojo
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -897,7 +897,7 @@
 # text[lit] = Ese pájaro está en ese árbol
 1	Yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=perro,pájaro,vestido
 2	kon	_	DET	_	_	_	_	_	Trad=ese
-3	kanut	_	_	_	_	_	_	_	_
+3	kanut	_	VERB	_	_	_	_	_	Trad=está
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 5	tiʼö	_	NOUN	_	_	_	_	_	Trad=árbol
 6	ko	_	DET	_	_	_	_	_	Trad=ese
@@ -1248,14 +1248,14 @@
 # text = ¿A chid jima ñeʼe kantu?
 # text[orig] = ¿A chid jima ñe'e kantu?
 # text[spa] = La comida no tiene sal.
-# tagged = false
+# tagged = true
 # text[lit] = ¿Le echaste sal a la comida?
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	chid	_	VERB	_	_	_	_	_	Trad=echaste
 4	jima	_	NOUN	_	_	_	_	_	Trad=sal
 5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
-6	kantu	_	_	_	_	_	_	_	_
+6	kantu	_	NOUN	_	_	_	_	_	Trad=comida
 7	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:83
@@ -2107,7 +2107,7 @@
 # text[lit] = Su hijo se parece a usted
 1	Yadan	_	_	_	_	_	_	_	_
 2	ninubis	_	_	_	_	_	_	_	_
-3	intï	_	_	_	_	_	_	_	_
+3	intï	_	PRON	_	_	_	_	_	Trad=usted
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:166
@@ -2944,8 +2944,8 @@
 # tagged = false
 1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-3	dimod	_	_	_	_	_	_	_	_
-4	jeʼed	_	_	_	_	_	_	_	_
+3	dimod	_	ADV	_	_	_	_	_	Trad=sólo
+4	jeʼed	_	VERB	_	_	_	_	_	Trad=estás.comiendo
 5	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3005,12 +3005,12 @@
 # text = Gua neʼë chi kuned dimod muʼu.
 # text[orig] = Gua ne'ë chi kuned dimod mu'u.
 # text[spa] = No quiero que te quedes solo aquí.
-# tagged = false
+# tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	kuned	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ayuda|Gloss=?-ayudar-2SG
-5	dimod	_	_	_	_	_	_	_	_
+5	dimod	_	ADV	_	_	_	_	_	Trad=sólo
 6	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3085,8 +3085,8 @@
 # text[orig] = Nigua kue'es nuku Juó.
 # text[spa] = Creo que él se fue con Juan.
 # tagged = false
-1	Nigua	_	_	_	_	_	_	_	_
-2	kueʼes	_	_	_	_	_	_	_	_
+1	Nigua	_	_	_	_	_	_	_	Trad=no
+2	kueʼes	_	VERB	_	_	_	_	_	Trad=se.fue
 3	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 4	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3096,7 +3096,7 @@
 # text[orig] = Nigua ni gua ndos.
 # text[spa] = Dudo que venga Juan.
 # tagged = false
-1	Nigua	_	_	_	_	_	_	_	_
+1	Nigua	_	_	_	_	_	_	_	Trad=no
 2	ni	_	_	_	_	_	_	_	_
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ndos	_	_	_	_	_	_	_	_
@@ -3426,7 +3426,7 @@
 3	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kuʼuu	_	_	_	_	_	_	_	_
-6	diuu	_	_	_	_	_	_	_	_
+6	diuu	_	VERB	_	_	_	_	_	_
 7	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3498,8 +3498,8 @@
 # text[orig] = Nikua ndininu comida ñe'e mu'u.
 # text[spa] = No me acostumbro a la comida de aquí.
 # tagged = false
-1	Nikua	_	_	_	_	_	_	_	_
-2	ndininu	_	_	_	_	_	_	_	_
+1	Nikua	_	_	_	_	_	_	_	Trad=no
+2	ndininu	_	VERB	_	_	_	_	_	Trad=acostumbro
 3	comida	_	NOUN	_	_	_	_	_	Trad=comida
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
@@ -3509,8 +3509,8 @@
 # text = Ndininus chi temprano jinankués.
 # text[orig] = Ndininus chi temprano jinankués.
 # text[spa] = Lo acostumbró a levantarse temprano.
-# tagged = false
-1	Ndininus	_	_	_	_	_	_	_	_
+# tagged = true
+1	Ndininus	_	VERB	_	_	_	_	_	Trad=acostumbró
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	temprano	_	ADV	_	_	_	_	_	Trad=temprano
 4	jinankués	_	VERB	_	_	_	_	_	Trad=levantarse|Gloss=?-levantar-?
@@ -4003,7 +4003,7 @@
 # text[spa] = Me voy porque no estoy trabajando.
 # tagged = false
 # text[lit] = Creo que me voy a ir porque no estoy trabajando
-1	Nigua	_	_	_	_	_	_	_	_
+1	Nigua	_	_	_	_	_	_	_	Trad=no
 2	noʼö	_	NOUN	_	_	_	_	_	Trad=maestro
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
@@ -4160,9 +4160,9 @@
 # text = A tan kabiö chi kadi dì ntiñu.
 # text[orig] = A tan kabiö chi kadi dì ntiñu.
 # text[spa] = Ya sólo puedo trabajar en la mañana.
-# tagged = false
+# tagged = true
 1	A	a	ADV	_	_	_	_	_	Trad=ya
-2	tan	_	_	_	_	_	_	_	_
+2	tan	_	ADV	_	_	_	_	_	Trad=sólo
 3	kabiö	_	ADV	_	_	_	_	_	Trad=mañana
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kadi	_	NOUN	_	_	_	_	_	Trad=peso($)
@@ -4190,7 +4190,7 @@
 1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	ndá	_	_	_	_	_	_	_	Trad=bueno
-4	jeʼë	_	_	_	_	_	_	_	_
+4	jeʼë	_	VERB	_	_	_	_	_	Trad=comer
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:585
@@ -4260,7 +4260,7 @@
 # text[orig] = Nigua mniñu a chis.
 # text[spa] = Puede que venga pronto.
 # tagged = false
-1	Nigua	_	_	_	_	_	_	_	_
+1	Nigua	_	_	_	_	_	_	_	Trad=no
 2	mniñu	_	ADV	_	_	_	_	_	Trad=ahora
 3	a	a	PART	_	_	_	_	_	Gloss=QST
 4	chis	_	_	_	_	_	_	_	_
