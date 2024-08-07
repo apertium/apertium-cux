@@ -44,21 +44,21 @@
 # text = Baʼa kun niku.
 # text[orig] = Ba'a kun niku.
 # text[spa] = Esta casa es vieja.
-# tagged = false
+# tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
-3	niku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=veinte,viejo
+3	niku	_	ADJ	_	_	_	_	_	Trad=viejo
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:1g
 # text = Baʼa kun gua niku.
 # text[orig] = Ba'a kun gua niku.
 # text[spa] = Esta casa no es vieja.
-# tagged = false
+# tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	niku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=veinte,viejo
+4	niku	_	ADJ	_	_	_	_	_	Trad=viejo
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:1h
@@ -131,9 +131,9 @@
 # text = Dín yakud, intin yakun.
 # text[orig] = Dín yakud, intin yakun.
 # text[spa] = Tú eres alto.  Usted es alto.
-# tagged = false
+# tagged = true
 1	Dín	_	PRON	_	_	_	_	_	Trad=tú
-2	yakud	_	_	_	_	_	_	_	Trad=alto
+2	yakud	_	ADJ	_	_	_	_	_	Trad=alto
 3	,	,	PUNCT	_	_	_	_	_	_
 4	intin	_	PRON	_	_	_	_	_	Trad=usted
 5	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
@@ -143,12 +143,12 @@
 # text = Sakó yakus. Takó yakuta.
 # text[orig] = Sakó yakus. Takó yakuta.
 # text[spa] = El es alto.  Ella es alta.
-# tagged = false
+# tagged = true
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	yakus	_	_	_	_	_	_	_	Trad=alto
+2	yakus	_	ADJ	_	_	_	_	_	Trad=alto
 3	.	.	PUNCT	_	_	_	_	_	_
 4	Takó	_	PRON	_	_	_	_	_	Trad=ella
-5	yakuta	_	_	_	_	_	_	_	Trad=alta
+5	yakuta	_	ADJ	_	_	_	_	_	Trad=alta
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:4
@@ -182,64 +182,64 @@
 # text = Iñsé yakuy.
 # text[orig] = Iñsé yakuy.
 # text[spa] = Ellos son altos.
-# tagged = false
+# tagged = true
 1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
-2	yakuy	_	_	_	_	_	_	_	Trad=altos
+2	yakuy	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:4
 # text = Dín iyúd.
 # text[orig] = Dín iyúd.
 # text[spa] = Tú eres chaparro.
-# tagged = false
+# tagged = true
 1	Dín	_	PRON	_	_	_	_	_	Trad=tú
-2	iyúd	_	_	_	_	_	_	_	Trad=chaparro
+2	iyúd	_	ADJ	_	_	_	_	_	Trad=chaparro|Gloss=chaparro-COP.2SG
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:4
 # text = Sakó iyús.
 # text[orig] = Sakó iyús.
 # text[spa] = El es chaparro.
-# tagged = false
+# tagged = true
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	iyús	_	_	_	_	_	_	_	Trad=chaparro
+2	iyús	_	ADJ	_	_	_	_	_	Trad=chaparro
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:4
 # text = ʼUu iyúʼuu.
 # text[orig] = 'Uu iyú'uu.
 # text[spa] = Nosotros somos chaparros.
-# tagged = false
+# tagged = true
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	iyúʼuu	_	_	_	_	_	_	_	Trad=chaparros
+2	iyúʼuu	_	ADJ	_	_	_	_	_	Trad=chaparros
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:4
 # text = Iñsé iyún.
 # text[orig] = Iñsé iyún.
 # text[spa] = Ellos son chaparros.
-# tagged = false
+# tagged = true
 1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
-2	iyún	_	_	_	_	_	_	_	Trad=chaparro
+2	iyún	_	ADJ	_	_	_	_	_	Trad=chaparro
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:4
 # text = Sakó kúës.
 # text[orig] = Sakó kúës.
 # text[spa] = El es flaco.
-# tagged = false
+# tagged = true
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	kúës	_	_	_	_	_	_	_	Trad=flaco
+2	kúës	_	ADJ	_	_	_	_	_	Trad=flaco
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:4
 # text = Insú kúën.
 # text[orig] = Insú kúën.
 # text[spa] = Nosotros somos flacos .
-# tagged = false
+# tagged = true
 # text[lit] = (Insú= se utiliza para responder al alguien que no está incluido en el adjetivo)
 1	Insú	_	PRON	_	_	_	_	_	Trad=nosotros
-2	kúën	_	_	_	_	_	_	_	Trad=flacos
+2	kúën	_	ADJ	_	_	_	_	_	Trad=flacos
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:9
@@ -846,10 +846,10 @@
 # text = Yáku kane nano baʼa mi.
 # text[orig] = Yáku kane nano ba'a mi.
 # text[spa] = La iglesia está enfrente de aquella casa.
-# tagged = false
+# tagged = true
 1	Yáku	_	NOUN	_	_	_	_	_	Trad=iglesia
 2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
-3	nano	_	_	_	_	_	_	_	_
+3	nano	_	ADP	_	_	_	_	_	Trad=en.frente.de
 4	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 5	mi	_	DET	_	_	_	_	_	Trad=esa
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -943,8 +943,8 @@
 # text = Bea ama yana ñeʼed.
 # text[orig] = Bea ama yana ñe'ed.
 # text[spa] = Tienes un perro.
-# tagged = false
-1	Bea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hay,sentado
+# tagged = true
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
 4	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
@@ -954,8 +954,8 @@
 # text = Bea ama yana ñeʼes.
 # text[orig] = Bea ama yana ñe'es.
 # text[spa] = El tiene un perro.
-# tagged = false
-1	Bea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hay,sentado
+# tagged = true
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
 4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
@@ -966,7 +966,7 @@
 # text[orig] = Bea ama yana ñu'uu.
 # text[spa] = Tenemos un perro.
 # tagged = false
-1	Bea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hay,sentado
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
 4	ñuʼuu	_	_	_	_	_	_	_	_
@@ -976,8 +976,8 @@
 # text = Bea ama yana ñeʼen.
 # text[orig] = Bea ama yana ñe'en.
 # text[spa] = Tenemos un perro.
-# tagged = false
-1	Bea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hay,sentado
+# tagged = true
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
 4	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
@@ -999,8 +999,8 @@
 # text = Bea obe yana ñeʼed.
 # text[orig] = Bea obe yana ñe'ed.
 # text[spa] = Tienes dos perros.
-# tagged = false
-1	Bea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hay,sentado
+# tagged = true
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
 4	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
@@ -1010,9 +1010,9 @@
 # text = Bea obe yana ñeʼen.
 # text[orig] = Bea obe yana ñe'en.
 # text[spa] = Tenemos dos perros.
-# tagged = false
+# tagged = true
 # note = (exclusivo)
-1	Bea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hay,sentado
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
 4	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
@@ -1304,7 +1304,7 @@
 # text[orig] = Bea obe so'ö bi'i.
 # text[spa] = Tengo dos hermanos.
 # tagged = false
-1	Bea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hay,sentado
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 4	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
@@ -1327,7 +1327,7 @@
 # text[orig] = Chito'o inuu ú.
 # text[spa] = Tengo gripa.
 # tagged = false
-1	Chitoʼo	_	_	_	_	_	_	_	_
+1	Chitoʼo	_	VERB	_	_	_	_	_	Trad=tener.gripa
 2	inuu	_	_	_	_	_	_	_	Trad=caliente
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1337,7 +1337,7 @@
 # text[orig] = Chito'o inuu ú.
 # text[spa] = Tuve gripa.
 # tagged = false
-1	Chitoʼo	_	_	_	_	_	_	_	_
+1	Chitoʼo	_	VERB	_	_	_	_	_	Trad=tener.gripa
 2	inuu	_	_	_	_	_	_	_	Trad=caliente
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1346,10 +1346,10 @@
 # text = ¿A ichad?
 # text[orig] = ¿A ichad?
 # text[spa] = ¿Tienes frío?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	ichad	_	_	_	_	_	_	_	_
+3	ichad	_	VERB	_	_	_	_	_	Trad=tienes.frío
 4	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:95
@@ -1423,8 +1423,8 @@
 # text = Bea ntiñu ñeʼë.
 # text[orig] = Bea ntiñu ñe'ë.
 # text[spa] = Tengo trabajo.
-# tagged = false
-1	Bea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hay,sentado
+# tagged = true
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1616,8 +1616,8 @@
 # text = Mí bea tiʼö.
 # text[orig] = Mí bea ti'ö.
 # text[spa] = Allá hay árboles.
-# tagged = false
-1	Mí	_	_	_	_	_	_	_	_
+# tagged = true
+1	Mí	_	ADV	_	_	_	_	_	Trad=allá
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	tiʼö	_	NOUN	_	_	_	_	_	Trad=árbol
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1987,8 +1987,8 @@
 # text = Ta Marian ndatata.
 # text[orig] = Ta Marian ndatata.
 # text[spa] = María es mujer.
-# tagged = false
-1	Ta	_	_	_	_	_	_	_	_
+# tagged = true
+1	Ta	_	NOUN	_	NounType=Clf	_	_	_	_
 2	Marian	_	PROPN	_	_	_	_	_	Trad=María
 3	ndatata	_	NOUN	_	_	_	_	_	Trad=mujer
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2092,10 +2092,10 @@
 # text = Ta juana ninubita chaqueta.
 # text[orig] = Ta juana ninubita chaqueta.
 # text[spa] = Juana se parece a su madre.
-# tagged = false
-1	Ta	_	_	_	_	_	_	_	_
+# tagged = true
+1	Ta	_	NOUN	_	NounType=Clf	_	_	_	_
 2	juana	Juana	PROPN	_	_	_	_	_	Trad=Juana
-3	ninubita	_	_	_	_	_	_	_	_
+3	ninubita	_	VERB	_	_	_	_	_	Trad=se.parece
 4	chaqueta	_	NOUN	_	Typo=Yes	_	_	_	Trad=su.mamá
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2106,7 +2106,7 @@
 # tagged = false
 # text[lit] = Su hijo se parece a usted
 1	Yadan	_	_	_	_	_	_	_	_
-2	ninubis	_	_	_	_	_	_	_	_
+2	ninubis	_	VERB	_	_	_	_	_	Trad=se.parece
 3	intï	_	PRON	_	_	_	_	_	Trad=usted
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2117,7 +2117,7 @@
 # tagged = false
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	a	a	PART	_	_	_	_	_	Gloss=QST
-3	niku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=veinte,viejo
+3	niku	_	ADJ	_	_	_	_	_	Trad=viejo
 4	injobes	_	_	_	_	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2729,9 +2729,9 @@
 # text = Nès dí chi koʼöd Jibaku.
 # text[orig] = Nès dí chi ko'öd Jibaku.
 # text[spa] = El ordenó que fueras a Huamantla.
-# tagged = false
+# tagged = true
 # text[lit] = Te prfeno qué fueras a Cuicatlán
-1	Nès	_	_	_	_	_	_	_	_
+1	Nès	_	VERB	_	_	_	_	_	Trad=ordenó|Gloss=?-ordenar-?
 2	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
@@ -3177,12 +3177,12 @@
 # text = Gua deanu a taka nandinda chimbaʼa.
 # text[orig] = Gua deanu a taka nandinda chimba'a.
 # text[spa] = No sé cómo arreglar la puerta.
-# tagged = false
+# tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
 3	a	a	PART	_	_	_	_	_	Gloss=QST
 4	taka	taka	ADV	_	_	_	_	_	Trad=cómo
-5	nandinda	_	_	_	_	_	_	_	_
+5	nandinda	_	VERB	_	_	_	_	_	Trad=arregla
 6	chimbaʼa	_	NOUN	_	_	_	_	_	Trad=puerta
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3486,11 +3486,11 @@
 # text = Gua deanu chea neʼeta.
 # text[orig] = Gua deanu chea ne'eta.
 # text[spa] = No sé cuál quere.
-# tagged = false
+# tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
 3	chea	_	DET	_	PronType=Int	_	_	_	Trad=cuál
-4	neʼeta	_	_	_	_	_	_	_	_
+4	neʼeta	_	VERB	_	_	_	_	_	Trad=quiere
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:289
@@ -3809,8 +3809,8 @@
 # text = Bea ama yuduu ñeʼë.
 # text[orig] = Bea ama yuduu ñe'ë.
 # text[spa] = Tengo un caballo.
-# tagged = false
-1	Bea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hay,sentado
+# tagged = true
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yuduu	_	NOUN	_	_	_	_	_	Trad=caballo
 4	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -3821,7 +3821,7 @@
 # text[orig] = Bea obe itintu kuä ñe'ë.
 # text[spa] = Tengo dos bueyes negros.
 # tagged = false
-1	Bea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hay,sentado
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	itintu	_	NOUN	_	_	_	_	_	Trad=toro
 4	kuä	_	_	_	_	_	_	_	Trad=negro
@@ -3936,8 +3936,8 @@
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	it	_	NOUN	_	_	_	_	_	Trad=animal
 4	dítuu	_	NOUN	_	_	_	_	_	Trad=orilla
-5	tumin	_	NOUN	_	_	_	_	_	Trad=dinero
-6	techkó	_	_	_	_	_	_	_	_
+5	tumin	_	SCONJ	_	_	_	_	_	Trad=para.que
+6	techkó	_	VERB	_	_	_	_	_	Trad=lleva
 7	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
 8	nukut	_	_	_	_	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
@@ -3951,8 +3951,8 @@
 1	Ká	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	burru	_	NOUN	_	_	_	_	_	Trad=burro
-4	tumin	_	NOUN	_	_	_	_	_	Trad=dinero
-5	techkód	_	_	_	_	_	_	_	_
+4	tumin	_	SCONJ	_	_	_	_	_	Trad=para.que
+5	techkód	_	VERB	_	_	_	_	_	Trad=lleves
 6	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
 7	nukut	_	_	_	_	_	_	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
@@ -3991,7 +3991,7 @@
 1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
 2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 3	soʼön	_	PRON	_	_	_	_	_	Trad=él
-4	tumin	_	NOUN	_	_	_	_	_	Trad=dinero
+4	tumin	_	SCONJ	_	_	_	_	_	Trad=para.que
 5	chika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 6	machetem	_	NOUN	_	_	_	_	_	Trad=machete
 7	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre

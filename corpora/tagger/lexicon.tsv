@@ -1,4 +1,4 @@
- 	Lema	POS	Feats	Significado	Glosa	1485	1226	1392
+ 	Lema	POS	Feats	Significado	Glosa	1497	1249	1403
 a	a	ADV		ya				
 a	a	PART			QST			
 áa		VERB		resuena				
@@ -1313,14 +1313,14 @@ kùchi		VERB		sembrar	?-sembrar-?
 ndod		VERB		llegaste	?-llegar-2SG			
 machetem		NOUN		machete				
 ndo		VERB		había llegado	?-llegar-?			
-tumin		NOUN		dinero				
+tumin		SCONJ		para que				
 Manuel		PROPN		Juan				
 machete		NOUN		machete				
 bakud		NOUN		tu casa	casa-POSS.2SG			
 Juóm		PROPN		Juan				
 silïm		NOUN		niño				
 noʼö		NOUN		maestro				
-niku				viejo				
+niku		ADJ		viejo				
 kutokoʼo		VERB		empezar				
 kunus		VERB		sembrar				
 kune		VERB		quedarse				
@@ -1371,12 +1371,12 @@ temprano		ADV		temprano
 yuudum		NOUN		caballo				
 yudtï				pelo				
 yanam		NOUN		perro				
-yakuy				altos				
-yakuta				alta				
+yakuy		ADJ		altos				
+yakuta		ADJ		alta				
 yakut		VERB		volar				
-yakus				alto				
+yakus		ADJ		alto				
 yákum		NOUN		iglesia				
-yakud				alto				
+yakud		ADJ		alto				
 yàka		VERB		tengo sed				
 tumgoʼos		VERB		me preguntó				
 tumad		VERB		cortar				
@@ -1465,12 +1465,12 @@ dimo		ADV		sólo
 jines		VERB		habla				
 dimos		ADV		sólo				
 chaketa		NOUN		su mamá				
-kúës				flaco				
-kúën				flacos				
-iyún				chaparro				
-iyúʼuu				chaparros				
-iyús				chaparro				
-iyúd				chaparro				
+kúës		ADJ		flaco				
+kúën		ADJ		flacos				
+iyún		ADJ		chaparro				
+iyúʼuu		ADJ		chaparros				
+iyús		ADJ		chaparro				
+iyúd		ADJ		chaparro	chaparro-COP.2SG			
 na		ADV		ya				
 intin		PRON		usted				
 intï		PRON		usted				
@@ -1486,18 +1486,18 @@ nikua				no
 nigua				no				
 diuu		VERB						
 kueʼes		VERB		se fue				
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
+mí		ADV		allá				
+nès		VERB		ordenó	?-ordenar-?			
+neʼeta		VERB		quiere				
+techkód		VERB		lleves				
+techkó		VERB		lleva				
+ta		NOUN	NounType=Clf					
+ninubita		VERB		se parece				
+ninubis		VERB		se parece				
+nandinda		VERB		arregla				
+nano		ADP		en frente de				
+ichad		VERB		tienes frío				
+chitoʼo		VERB		tener gripa				
 								
 								
 								

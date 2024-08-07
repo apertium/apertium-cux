@@ -164,8 +164,9 @@ class Tagger:
 			new_analyses = choose_if_else(analyses, 'papel', 'NOUN', 'VERB')
 		elif form == 'kueta':
 			new_analyses = choose_if_else(analyses, 'cohete', 'NOUN', 'VERB')
-		elif form == 'bea':
-			new_analyses = choose_if_not(analyses, r'sentad[oa]', 'VERB')
+		elif form.lower() == 'bea':
+			new_analyses = choose_if(analyses, r'(tengo|tiene|tienes|tenemos|tienen)', 'VERB')
+			new_analyses = choose_if_not(new_analyses, r'sentad[oa]', 'VERB')
 		elif form == 'iyu':
 			new_analyses = choose_if_not_trad(analyses, 'luna', 'mes')
 		elif form == 'ñoʼö':
@@ -215,6 +216,8 @@ class Tagger:
 			new_analyses = choose_if_not_trad(analyses, 'señora', 'ese')
 		elif form == 'yeabean':
 			new_analyses = choose_if_not_trad(analyses, 'mucho', 'muy')
+		elif form == 'niku':
+			new_analyses = choose_if_not_trad(analyses, 'veinte', 'viejo')
 	
 		if new_analyses == analyses:
 			print('\tremaining:', form, '|', analyses,'|', '|', cux, spa, file=sys.stderr)
