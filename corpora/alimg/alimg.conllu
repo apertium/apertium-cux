@@ -254,6 +254,7 @@
 # text[orig] = 'Uu yaku'uu.
 # text[spa] = Nosotros somos altos.
 # tagged = true
+# note = (inclusivo)
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	yakuʼuu	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -263,6 +264,7 @@
 # text[orig] = 'Uu yaku'uu.
 # text[spa] = Nosotros somos altos.
 # tagged = true
+# note = (exclusivo)
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	yakuʼuu	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -326,6 +328,17 @@
 # text[orig] = 'Uu iyú'uu.
 # text[spa] = Nosotros somos chaparros.
 # tagged = true
+# note = (inclusivo)
+1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	iyúʼuu	_	ADJ	_	_	_	_	_	Trad=chaparros
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = ʼUu iyúʼuu.
+# text[orig] = 'Uu iyú'uu.
+# text[spa] = Nosotros somos chaparros.
+# tagged = true
+# note = (exclusivo)
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	iyúʼuu	_	ADJ	_	_	_	_	_	Trad=chaparros
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -453,6 +466,7 @@
 # text[spa] = Nosotros somos gordos.
 # tagged = true
 # text[lit] = ('Uu= se utiliza en la conversación cuando hablan solo los que están incluidos en el adjetivo)
+# note = (inclusivo)
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	rúʼuu	_	ADJ	_	_	_	_	_	Trad=gordos|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -462,6 +476,7 @@
 # text[orig] = Uu bícha'uu.
 # text[spa] = Nosotros somos gordos.
 # tagged = false
+# note = (exclusivo)
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	bíchaʼuu	_	_	_	_	_	_	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -550,9 +565,10 @@
 # sent_id = alimg:8
 # text = Insú kúën.
 # text[orig] = Insú kúën.
-# text[spa] = Nosotros somos flacos .
+# text[spa] = Nosotros somos flacos.
 # tagged = true
 # text[lit] = (Insú= se utiliza para responder al alguien que no está incluido en el adjetivo)
+# note = (exclusivo)
 1	Insú	_	PRON	_	_	_	_	_	Trad=nosotros
 2	kúën	_	ADJ	_	_	_	_	_	Trad=flacos
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -590,6 +606,7 @@
 # text[orig] = Baku'uu cheatea.
 # text[spa] = Nuestra casa es grande.
 # tagged = true
+# note = (inclusivo)
 1	Bakuʼuu	_	NOUN	_	_	_	_	_	Trad=nuestra.casa
 2	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -607,8 +624,9 @@
 # sent_id = alimg:9
 # text = Yudú ñeʼë cheatea.
 # text[orig] = Yudú ñe'ë cheatea.
-# text[spa] = Mis metates son grndes (no es plural)
+# text[spa] = Mis metates son grndes
 # tagged = true
+# note = (no es plural)
 1	Yudú	_	NOUN	_	_	_	_	_	Trad=metate
 2	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
@@ -617,8 +635,9 @@
 # sent_id = alimg:9
 # text = Yudú ñeʼed cheatea.
 # text[orig] = Yudú ñe'ed cheatea.
-# text[spa] = Tus metates son grandes. (Nl es plural)
+# text[spa] = Tus metates son grandes.
 # tagged = true
+# note = (Nl es plural)
 1	Yudú	_	NOUN	_	_	_	_	_	Trad=metate
 2	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
@@ -3158,9 +3177,9 @@
 # sent_id = alimg:204
 # text = Nichiy insë.
 # text[orig] = Nichiy insë.
-# text[spa] = Los vio
+# text[spa] = Los vio ayer en el mercado.
 # tagged = true
-# note = (a ustedes) ayer en el mercado.
+# note = (a ustedes)
 1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
 2	insë	_	PRON	_	_	_	_	_	Trad=ustedes
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -3168,9 +3187,9 @@
 # sent_id = alimg:204
 # text = Nichiy iñsé.
 # text[orig] = Nichiy iñsé.
-# text[spa] = Los vio a
+# text[spa] = Los vio ayer en el mercado.
 # tagged = true
-# note = (a ellos)  ayer en el mercado.
+# note = (a ellos)
 1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
 2	iñsé	_	PRON	_	_	_	_	_	Trad=ellos
 3	.	.	PUNCT	_	_	_	_	_	_
