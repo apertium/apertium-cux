@@ -139,7 +139,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 54.				La ropa está en el baúl.			
 55.		Ya puse los frijoles (ya los puso a cocer)	Na chinu núnim ni'ö	Los frijoles están en la olla.			
 56.		Ese pájaro está en ese árbol 	Yada kon kanut no ti'ö ko	El pájaro está en ese árbol			
-57.		Me pican los mosquitos 	jo'ó yàaku ú	La mosca está en la pared.			
+57.		Me pican los mosquitos 	Jo'ó yàaku ú	La mosca está en la pared.			
 58.				Los perros están alrededor de la lumbre.			
 59.			¿A tabea yana bea ñe'ed?	¿Cuántos perros tienes?			
 60.			Un bea ama yana ñe'ë	Tengo un perro.			
@@ -147,13 +147,19 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 			Bea ama yana ñe'es	El tiene un perro.			
 			Bea ama yana ñu'uu	Tenemos un perro.			
 			Bea ama yana ñe'en 	Tenemos un perro.			
-			Bea ama yana ñe'en/ Insë bea ama yana ñe'en / bea ama yana ñe'e insë	Ustedes tienen un perro.			
-			Bea ama yana ñe'eñ/ Iñsé bea ama yana ñe'eñ/ bea ama yana ñe'e iñsé	Ellos tienen un perro.			
+			Bea ama yana ñe'en	Ustedes tienen un perro.			
+			Insë bea ama yana ñe'en	Ustedes tienen un perro.			
+			Bea ama yana ñe'e insë	Ustedes tienen un perro.			
+			Bea ama yana ñe'eñ	Ellos tienen un perro.			
+			Iñsé bea ama yana ñe'eñ	Ellos tienen un perro.			
+			Bea ama yana ñe'e iñsé	Ellos tienen un perro.			
 			Un bea obe yana ñe'ë	Tengo dos perros.			
 			Bea obe yana ñe'ed	Tienes dos perros.			
-			Bea obe yana ñe'es/ bea obe yana ñe'es	El tiene dos perros.			
+			Bea obe yana ñe'es	El tiene dos perros.			
+			Bea obe yana ñe'es	El tiene dos perros.			
 			Bea obe yana ñe'en	Tenemos dos perros.	(exclusivo)		
-			Bea obe yana ñu'uu/ Insú bea obe yana ñe'en	Tenemos dos perros.	(inclusivo)		
+			Bea obe yana ñu'uu	Tenemos dos perros.	(inclusivo)		
+			Insú bea obe yana ñe'en	Tenemos dos perros.	(inclusivo)		
 			Insë bea obe yana ñe'en	Ustedes tienen dos perros.			
 			Iñsé bea obe yana ñe'eñ	Ellos tienen dos perros.			
 61.		Cuanto estaba mi caballo (ñe'e indica posición, se puede decir que estaba es igual a tener)	Tochi kane yuudum ñe'e	Tenía un caballo	(pero lo vendí).		
@@ -170,7 +176,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 72.				¿Acaso no tienen cola los perros?			
 73.		Le cortaron la cola a mi perro	Chíy nduk da'a yana ñe'ë	Mi perro no tiene cola.			
 74.			Gua chimba'a ba'a ko	Esa casa no tiene puerta.			
-75.		Ya no tiene mucho cabello	Kutea * duytï Fo	Juan tiene poco pelo.			
+75.		Ya no tiene mucho cabello	Kutea* duytï Fo	Juan tiene poco pelo.			
 			Yeabean ndee duytï Fo	Juan tiene mucho pelo.			
 76.			¿A taka duytï Fo?	¿Cómo es el pelo de Juan?			
 77.			Yudtï Fo kuä	El pelo de Juan es negro.			
@@ -235,7 +241,8 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 				Juan no es el maestro.			
 122.			¿A du'u no'ö?	¿Quién es maestro?			
 123.			¿Du'u no'öm?	¿Quién es el maestro?			
-124.			Juó daya/ Juó daya so'ö	Juan es hijo mío.			
+124.			Juó daya	Juan es hijo mío.			
+			Juó daya so'ö	Juan es hijo mío.			
 125.				¿Qué es Juan?			
 127.			¿A no'ö Juó?	¿Juan es maestro?			
 128.			Daya chë Manuel ú	Yo soy hijo de don Manuel.			

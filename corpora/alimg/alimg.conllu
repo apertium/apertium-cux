@@ -1272,7 +1272,7 @@
 
 # sent_id = alimg:57
 # text = Joʼó yàaku ú.
-# text[orig] = jo'ó yàaku ú.
+# text[orig] = Jo'ó yàaku ú.
 # text[spa] = La mosca está en la pared.
 # tagged = false
 # text[lit] = Me pican los mosquitos
@@ -1351,6 +1351,76 @@
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
+# text = Bea ama yana ñeʼen.
+# text[orig] = Bea ama yana ñe'en.
+# text[spa] = Ustedes tienen un perro.
+# tagged = false
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+3	yana	_	NOUN	_	_	_	_	_	Trad=perro
+4	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:60
+# text = Insë bea ama yana ñeʼen.
+# text[orig] = Insë bea ama yana ñe'en.
+# text[spa] = Ustedes tienen un perro.
+# tagged = false
+1	Insë	_	PRON	_	_	_	_	_	Trad=ustedes
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+4	yana	_	NOUN	_	_	_	_	_	Trad=perro
+5	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:60
+# text = Bea ama yana ñeʼe insë.
+# text[orig] = Bea ama yana ñe'e insë.
+# text[spa] = Ustedes tienen un perro.
+# tagged = true
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+3	yana	_	NOUN	_	_	_	_	_	Trad=perro
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+5	insë	_	PRON	_	_	_	_	_	Trad=ustedes
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:60
+# text = Bea ama yana ñeʼeñ.
+# text[orig] = Bea ama yana ñe'eñ.
+# text[spa] = Ellos tienen un perro.
+# tagged = true
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+3	yana	_	NOUN	_	_	_	_	_	Trad=perro
+4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:60
+# text = Iñsé bea ama yana ñeʼeñ.
+# text[orig] = Iñsé bea ama yana ñe'eñ.
+# text[spa] = Ellos tienen un perro.
+# tagged = true
+1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+4	yana	_	NOUN	_	_	_	_	_	Trad=perro
+5	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:60
+# text = Bea ama yana ñeʼe iñsé.
+# text[orig] = Bea ama yana ñe'e iñsé.
+# text[spa] = Ellos tienen un perro.
+# tagged = true
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+3	yana	_	NOUN	_	_	_	_	_	Trad=perro
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+5	iñsé	_	PRON	_	_	_	_	_	Trad=ellos
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:60
 # text = Un bea obe yana ñeʼë.
 # text[orig] = Un bea obe yana ñe'ë.
 # text[spa] = Tengo dos perros.
@@ -1374,6 +1444,28 @@
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
+# text = Bea obe yana ñeʼes.
+# text[orig] = Bea obe yana ñe'es.
+# text[spa] = El tiene dos perros.
+# tagged = true
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	obe	_	NUM	_	_	_	_	_	Trad=dos
+3	yana	_	NOUN	_	_	_	_	_	Trad=perro
+4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:60
+# text = Bea obe yana ñeʼes.
+# text[orig] = Bea obe yana ñe'es.
+# text[spa] = El tiene dos perros.
+# tagged = true
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	obe	_	NUM	_	_	_	_	_	Trad=dos
+3	yana	_	NOUN	_	_	_	_	_	Trad=perro
+4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:60
 # text = Bea obe yana ñeʼen.
 # text[orig] = Bea obe yana ñe'en.
 # text[spa] = Tenemos dos perros.
@@ -1384,6 +1476,31 @@
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
 4	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
 5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:60
+# text = Bea obe yana ñuʼuu.
+# text[orig] = Bea obe yana ñu'uu.
+# text[spa] = Tenemos dos perros.
+# tagged = true
+# note = (inclusivo)
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	obe	_	NUM	_	_	_	_	_	Trad=dos
+3	yana	_	NOUN	_	_	_	_	_	Trad=perro
+4	ñuʼuu	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:60
+# text = Insú bea obe yana ñeʼen.
+# text[orig] = Insú bea obe yana ñe'en.
+# text[spa] = Tenemos dos perros.
+# tagged = false
+# note = (inclusivo)
+1	Insú	_	PRON	_	_	_	_	_	Trad=nosotros
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	obe	_	NUM	_	_	_	_	_	Trad=dos
+4	yana	_	NOUN	_	_	_	_	_	Trad=perro
+5	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
 # text = Insë bea obe yana ñeʼen.
@@ -2062,6 +2179,25 @@
 2	Duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
 3	noʼöm	_	NOUN	_	_	_	_	_	Trad=maestro
 4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:124
+# text = Juó daya.
+# text[orig] = Juó daya.
+# text[spa] = Juan es hijo mío.
+# tagged = true
+1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
+2	daya	_	NOUN	_	_	_	_	_	Trad=hijo(a)
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:124
+# text = Juó daya soʼö.
+# text[orig] = Juó daya so'ö.
+# text[spa] = Juan es hijo mío.
+# tagged = true
+1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
+2	daya	_	NOUN	_	_	_	_	_	Trad=hijo(a)
+3	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
+4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:127
 # text = ¿A noʼö Juó?
