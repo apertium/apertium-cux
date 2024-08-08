@@ -18,10 +18,13 @@ class Tagger:
 				continue
 			#['géche', '', '', 'ala', '', '\n']
 			row = line.strip('\n').split('\t')
-			token, lema, pos, feats, spa, glosa, _, _, _ = row
-		
+			guessed, token, lema, pos, feats, spa, glosa, _, _, _ = row
+			misc = ''		
 			if pos == '': pos = '_'
 			if lema == '': lema = '_'
+
+			if guessed == 'x':
+				misc = 'Guessed'	
 		
 			if pos == '_' and spa == '' and glosa == '':
 				print('WARNING: Empty token', token, 'in lexicon', file=sys.stderr)
@@ -30,7 +33,7 @@ class Tagger:
 			if token not in lexicon:
 				lexicon[token] = []
 		
-			lexicon[token].append((lema, pos, feats, spa, glosa))
+			lexicon[token].append((lema, pos, feats, spa, glosa, misc))
 			lexicon[token] = list(set(lexicon[token]))
 		return lexicon
 	
@@ -197,6 +200,8 @@ class Tagger:
 			new_analyses = choose_or_remove(analyses, 'brazadas?', 'brazada')
 		elif form == 'dü':
 			new_analyses = choose_or_remove(analyses, 'manteca', 'manteca')
+		elif form == 'kutea':
+			new_analyses = choose_or_remove_list(analyses, 'no hay', 'no hay')
 		elif form == 'dinuu':
 			new_analyses = choose_or_remove(analyses, 'talón', 'talón')
 			if len(new_analyses) > 1:
@@ -210,7 +215,8 @@ class Tagger:
 			if len(new_analyses) > 1:
 				new_analyses = choose_if_else(new_analyses, r'trabaj.*', 'VERB', 'PRON')
 		elif form == 'yada':
-			new_analyses = choose_if_not_trad(analyses, r'pájaros?', 'vestido')
+			new_analyses = choose_or_remove(analyses, 'perro', 'perro')
+			new_analyses = choose_if_not_trad(new_analyses, r'pájaros?', 'vestido')
 		elif form == 'yuduu':
 			new_analyses = choose_if_not_trad(analyses, 'plano', 'caballo')
 		elif form == 'chikuu' or form == 'chikuʼu':

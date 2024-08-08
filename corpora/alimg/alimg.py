@@ -101,6 +101,7 @@ for line in open(sys.argv[1]):
 				ufeat = tagger.add_featval(ufeat, f, v)
 			misc = tagger.add_featval(misc, 'Trad', analyses[0][3].replace(' ', '.'))
 			misc = tagger.add_featval(misc, 'Gloss',  analyses[0][4])
+			misc = tagger.add_featval(misc, 'UPOS',  analyses[0][5]) 
 		elif len(analyses) > 1:
 			ltrads = [] # make sure list of translations is in stable order
 			for a in analyses:

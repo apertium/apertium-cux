@@ -1,1574 +1,1488 @@
- 	Lema	POS	Feats	Significado	Glosa	1528	1279	1433
-a	a	ADV		ya				
-a	a	PART			QST			
-áa		VERB		resuena				
-alberja		NOUN		chícharo				
-ama		NUM	NumType=Card	uno				
-baʼa		NOUN		casa				
-baku		NOUN		casa				
-nbaku		NOUN		casa				
-bakuu		NOUN		cárcel				
-bakú		NOUN		cárcel				
-beâ		NOUN		naranja				
-bea		VERB		hay	?-existir-3SG			
-bea				sentado				
-beaku				elegante				
-beanete		NOUN		limón				
-beanu		NOUN		epazote				
-bedbêe				envidia				
-bede		NOUN		español				
-bedinuu		NOUN		milagro				
-bee		NOUN		oreja				
-bee				ciego				
-bëe		NOUN		orilla				
-biʼi		NOUN		hermano(a)				
-bíchaa				gordo				
-bichñoʼö		NOUN		carpintero				
-biidi		NOUN		pasle				
-bíku		NOUN		fiesta				
-bíni		NOUN		charco				
-bítuu		NOUN		viga				
-boʼo		NOUN		miedo				
-chakun		NOUN		mi mamá				
-chakud		NOUN		tu mamá	mamá-POSS.2SG			
-chaku		NOUN		mi mamá				
-cheʼed		VERB		come				
-chea		DET	PronType=Int	cuál				
-chéa		NOUN		comal				
-chéanu		VERB		gusté	?-gustar-1SG			
-cheanu		VERB		corrió				
-cheanu		NOUN		cuñada				
-cheanú		VERB		sufrí	?-sufrir-1SG			
-cheanuu		VERB	VerbForm=Stat	largo				
-cheatea		VERB	VerbForm=Stat	grande				
-chéatu				sordo				
-chebä				comer,comida				
-chebinu		VERB		cenar				
-cheede		NOUN		carga				
-cheene		NOUN		soplador				
-cheete		NOUN		estómago				
-cheutumañ		VERB	VerbForm=Fin	rodear	?-rodear-3SG.HUM			
-chï				eso				
-chíbat		NOUN		telaraña				
-chibatu		NOUN		chivo				
-chichi		VERB	VerbForm=Fin	se quemó	?-quemarse-?			
-chíchi				apretado				
-chídi		NOUN		garrapata				
-chidúbi		NOUN		cucaracha				
-chiíta		VERB	VerbForm=Fin	creció	?-crecer-?			
-chíka		VERB	VerbForm=Fin	corté	CPL-cortar-1SG			
-chikuʼu		NOUN		abuela				
-chikudaya		NOUN		comadre				
-chindiyaa				asustó				
-chini		VERB	VerbForm=Fin	tronar	?-tronar-?			
-chíní		NOUN		frijolar				
-chìní		NOUN		hígado				
-chinti		NOUN		boca				
-chinyadi				chismoso				
-chita		NOUN		olla				
-chiya		NOUN		lengua				
-chó				aquello				
-chóʼoo		VERB		pasó				
-chunti								
-chúnti		NOUN		grillo				
-clinika	clínica	NOUN		clínica				
-daday		NOUN		su yerno	yerno-POSS.3SG.HUM			
-dada		NOUN		yerno, cuñado				
-daku		NOUN		sobrino				
-dama				igual				
-dankubi		NOUN		llovizna				
-danti				flojera				
-dantu		NOUN		cuello				
-danu				raro				
-dànu		NOUN		sombra				
-daya		NOUN		hijo(a)				
-dayata	daya	NOUN		su.hijo(a)	hijo-POSS.3SG.FEM			
-daybede		NOUN		hijastro(a)				
-daynuni		NOUN		ahijado(a)				
-deabea		NOUN		alumbrado				
-deache		NOUN		resina				
-deachea		NOUN		mugre				
-deakea				despeinado(a)				
-deakea		NOUN		nido				
-dí		PRON	PronType=Prs	tú	2SG			
-dibi		NOUN		estiércol				
-dii		PRON	PronType=Prs	tú	2SG			
-dii				resistente				
-díi		NOUN		caspa				
-díi				tamo				
-dijuku		NOUN		tecolote				
-tecolote		NOUN		tecolote				
-dikúnu		NOUN		nuera				
-dikuoʼoo		NOUN		bebé				
-díkuy		NOUN		pecho				
-díma		NOUN		cáscara				
-dininii		NOUN		cuerno				
-dínu		NOUN		hermano				
-dinuu		NOUN		gorro				
-dinuu		NOUN		talón				
-diñu		NOUN		diente				
-dítdanti		NOUN		correcamino				
-dituu		VERB	VerbForm=Stat	fuerte				
-dunu		NOUN		mi tío				
-dunun		NOUN		mi tío				
-diyan		NOUN		su tío				
-dìya		NOUN		mi tío				
-diya		NOUN		mi tío				
-diydaʼa		NOUN		raíz				
-dóo				hiel				
-dü		NOUN		manteca				
-dü		NOUN		uña				
-dúchi		NOUN		codo				
-dúdi		NOUN		tía				
-dudi		NOUN		tía				
-dúku		VERB		robé				
-düntuu				marca de un golpe				
-dutit		NOUN		huevo				
-dutu		NOUN		nariz				
-duutu		NOUN		tronco				
-eaku				suena				
-eche				punzado				
-gea				subida				
-géche		NOUN		ala				
-gèche				macizo				
-gëe		VERB	VerbForm=Fin	huele	?-oler-?			
-gèète		NOUN		tripa				
-gibii		NOUN		hierbabuena				
-gideabe				está amaneciendo				
-gikuu		NOUN		cuchillo				
-gimbeaku		NOUN		hierba santa				
-ginchéte		NOUN		lodo				
-ginoyaanti		VERB		bostezar				
-gíta		NOUN		dolor				
-gíyeye		NOUN		ceniza				
-giyeyoo				bule (para agua)				
-giyuu		NOUN		carbón				
-giʼï		VERB		gotea				
-gua		PART		no	NEG			
-iba		NOUN		hielo				
-íba		NOUN		hilo				
-icha				frío				
-ícha		NOUN		tipo de quelite				
-ii				pesa				
-íku	íku	ADV		ayer				
-íkùù		NOUN		hormiga				
-íma		NOUN		zorrillo				
-inbíku		NOUN		semana santa				
-santieʼe		NOUN		autoridades				
-intieʼë		NOUN		autoridad				
-intoʼö		NOUN		suegra				
-inuu				caliente				
-ínuu		NOUN		calor				
-inʼö				sueño,soñar				
-iñ		NOUN		gente				
-iña		NOUN		gente				
-iñsoʼö niku		NOUN		suegro				
-iñtoʼö		NOUN		guajolota				
-inu	inu	NUM	NumType=Card	tres				
-íñu		NOUN		estrella				
-it dituu		NOUN		mula				
-it dutu		NOUN		caracol				
-it icha		NOUN		cochinilla				
-itcheanu		NOUN		venado				
-itdaʼaa		NOUN		alacrán				
-itduza		NOUN		puerco espín				
-iti		NOUN		animal				
-itintu		NOUN		toro				
-itjingatu		NOUN		libélula				
-itjoó		NOUN		cadera				
-itkudintaa		NOUN		tijerilla(insecto)				
-itñoʼo		NOUN		insecto palo				
-itñoʼö		NOUN		luciérnaga				
-itsó		NOUN		sapo				
-itsoʼö		NOUN		guajolote				
-iyaa		NOUN		chile				
-iynutii		NOUN		chile piquín				
-iyu		NOUN		mes				
-iyu		NOUN		luna				
-íyu		NOUN		pulga				
-iʼbaa		NOUN		guacamaya				
-íʼku		NOUN		piojo				
-iʼyaa		NOUN		águila				
-iʼyu		NOUN		mecate				
-jààba		NOUN		ingredientes				
-jabnutu		VERB		da vueltas				
-jadi		NOUN		tepache				
-jaʼa		NOUN		cáscara				
-jiba		NOUN		petate				
-jíba		NOUN		sanja				
-jidéaku		NOUN		basura				
-jijobaa		NOUN		sombras de estaciones en la fiesta de semana santa				
-jika		NOUN		camina				
-jikioʼö		NOUN		bosque				
-jíku		NOUN		cerro				
-jíku		NOUN		río				
-jima		NOUN		sal				
-jinákuu		NOUN		reglamento, bastón de mando				
-jingö		NOUN		milpa				
-jingu		VERB		moler				
-jingunoo		VERB		masticar				
-jinìnii		NOUN		araña				
-jinta		VERB		se moja				
-jíntinii		NOUN		estaca para sembrar				
-jintu		VERB		están barbechando				
-jita		VERB	VerbForm=Fin	canta	?-cantar-?			
-jitiaka		NOUN		platanal				
-jiyáka		NOUN		polvo				
-jiyuu		NOUN		carrizo				
-jobe		NOUN		día				
-jóbe		NOUN		nombre				
-jòò		NUM		seis				
-joobe		NOUN		voladero				
-joʼö		VERB		suena				
-jubii		NOUN		lugar arenoso				
-juchi		NOUN		sobrina				
-júku		NOUN		estaca				
-juuchi		NOUN		flama				
-juʼü		NUM		cinco				
-kä		NOUN		zancudo				
-káa		NOUN		filo				
-kaaba				suelto				
-kàba				feo				
-kàchi		NOUN		avispa				
-kadi		NOUN		peso($)				
-kajobe		ADV		anteayer				
-kaaka		NOUN		papel				
-kaka		NOUN		papel				
-káka		NOUN		peine				
-kaka yòò		NOUN		cal				
-kákaa		NOUN		cansancio				
-kambo		NOUN		compadre				
-kane		VERB		está	?-estar-?			
-kaniku				deber (algo pendiente)				
-kaníku				algo colgado				
-känta				delicado, peligroso				
-kantaa		NOUN		guerra				
-kanuñ				está (adentro)				
-jadii		NOUN		tepache				
-karrunti		NOUN		arcoiris				
-káya		VERB	VerbForm=Stat|Number=Plur	pequeñas				
-kéabea		NOUN		mi hermana				
-keabea		NOUN		hermano(a)				
-keadea		NOUN		comezón				
-kiana		NOUN		camisa				
-kinü	kinü	ADV		mañana en la noche				
-koʼo		NOUN		pie				
-kuä				negro				
-kuaa		NOUN		relámpago				
-kuàà		NOUN		derrumbe				
-kuaku				derecho				
-kubdeabea				amanecer				
-kubi		NOUN		lluvia				
-kubnoʼö		NOUN		aguacero				
-kuch-cheanu		NOUN		jabalí				
-kuch-nùni		NOUN		tepexcuintle				
-kuchi		NOUN		marrano				
-kudiana		NOUN		campamocha				
-kudima		NOUN		calzón de manta.				
-kudintaa		NOUN		tijera				
-kudubi		NOUN		cuchara				
-kué				chueco				
-kúë				delgado				
-kuea				blanco				
-kueatea		NOUN		canasto				
-kueatʼichi		NOUN		canasta				
-kuëd		VERB		aprender				
-kuèè				verde				
-kuëe				va a llover				
-kuejobe		NOUN		azul cielo				
-kuejuku				adornar				
-kueten		NOUN		campo				
-kuete		NOUN		campo				
-kuili				renacuajo				
-kuintu				mojado				
-kuiñu		NOUN		comadreja				
-kuiñú				picudo				
-kuíyaa		NOUN		escobilla				
-kukáa		NOUN		molcajete				
-kukubii		NOUN		búho				
-kulanto		NOUN		cilantro				
-kunette		NOUN		cienpies				
-kúnu				blando				
-kunuu				resbaloso				
-kuoʼo				rojo				
-kuöo				amarillo				
-kusanto		NOUN		copal				
-kuu		NOUN		víbora				
-kúu		NOUN		fierro				
-kuuchi		NOUN		algodón				
-kuʼu		NOUN		plato				
-laasi		NOUN		lodo				
-laatu				arado				
-labente		NOUN		duende				
-laka				chachalaca				
-lanti		NOUN		hueso				
-lantikud		NOUN		costilla				
-leabe				aguado				
-leantu		NOUN		lagaña				
-leeko		NOUN		coyote				
-lï		VERB	VerbForm=Stat|Number=Sing	pequeño				
-lii				arrugado				
-lítu		NOUN		saquetón				
-lö		NOUN		hoyo				
-lunchi		NOUN		borrego				
-lunti				redondo				
-lútii				corto				
-luuchi				bonito				
-marceja		NOUN		murciélago				
-mee				nublado				
-meede		NOUN		calceta				
-mï		NOUN		camote				
-mnoo				arriba				
-mogechey		NOUN		axila				
-moo				abajo				
-muʼu		ADV		aquí				
-naama		NOUN		jabón				
-nabeánu				aborto				
-naboʼoo		NOUN		cereza, capulín				
-naíba		NOUN		mercado				
-naídii		NOUN		aguacate				
-naiyaa		NOUN		salsa				
-najaʼa		NOUN		nuez				
-naneachea		VERB		borrar				
-nanta		NOUN		flor				
-nantioö		NOUN		rosa				
-ndá				bueno				
-ndakuu		NOUN		guarache				
-ndee				mucho				
-ndete		NOUN		ejote				
-ndiʼi		NOUN		mosca				
-ndúbi		NOUN		grano				
-në		NOUN		mole				
-ñoʼö	ñoʼo	NOUN		árbol				
-ñoʼo	ñoʼo	NOUN		árbol				
-neatuu		NOUN		tomate				
-neache		NUM	NumType=Card	siete				
-neene		NOUN		guaje				
-niini		NOUN		guaje				
-nibii		NOUN		papa				
-nichama		NUM		once				
-nichi		NUM		díez				
-nichubi		NUM		doce				
-nïi		NOUN		chayote				
-niichi		VERB		ver				
-níitu		NOUN		nopal				
-nínaa				maduro				
-ninchii				cocido				
-nini		NUM	NumType=Card	nueve				
-nínu	nínu	NOUN		maíz				
-nioʼoo		NOUN		suelo				
-nnintubii				descompuesto				
-nóʼo		NOUN		maestro, adobe				
-ntu		NOUN		atole				
-nukñoʼö		NOUN		brasa				
-nukueʼë				todo				
-nukyanti		NOUN		guanábana				
-nukyoo		NOUN		membrillo				
-nuna		NOUN		pitalla				
-nuni		NOUN		agua				
-núni		NOUN		frijol				
-nunñoʼö		NOUN		mar				
-nunti		NOUN		delito				
-nutbee		NOUN		arete				
-nutiukuu		NOUN		semilla				
-nutnoo		NOUN		ojo				
-nutñoo		NOUN		zarzamora				
-nuttoʼo		NOUN		dedo				
-nutyákuu		NOUN		cebolla				
-nuuku		NOUN		chirimoya				
-núuku		NOUN		vara				
-nuutii		NOUN		bolita				
-obe		NUM		dos				
-ráti				rasposo				
-uu	uu	PRON	PronType=Prs	yo	1SG			
-un	uu	PRON	PronType=Prs	yo	1SG			
-ú	uu	PRON	PronType=Prs	yo	1SG			
-tuʼú		NOUN		pollo				
-tuʼu		NOUN		pollo				
-yaʼa		VERB		duele				
-yaʼa		NOUN		dolor				
-yaʼa		VERB		amo	?-amar-?			
-yaʼaa		NOUN		jícara				
-yáʼa				húmedo				
-yââ		NOUN		barranco				
-yàaku		NOUN		mosquito				
-yába		NOUN		rocas planas				
-yába		NOUN		piedra grande				
-yába		NOUN		memela				
-yábaa		NOUN		arador				
-yabi		ADV		anoche				
-yábi		VERB		le hablé				
-yachi		NOUN		masa				
-yada		NOUN		vestido				
-yada		NOUN		pájaro				
-yadi				dulce				
-yadnuni		NOUN		pato				
-yadyeeko		NOUN		codorniz				
-yagii				duele				
-yaka		NOUN		pescado				
-yakaa		NOUN		ocote				
-yaku				alto				
-yáku		NOUN		iglesia				
-yàku				apestoso				
-yama		NOUN		zacate				
-yami		NOUN		humo				
-yàna		NOUN		red				
-yánaa		NOUN		mi perro				
-ñana		NOUN		perro				
-yana		NOUN		perro				
-yat kúiyu		NOUN		sause				
-yata		NOUN		hierba				
-yata		NOUN		paloma				
-yata		NOUN		pichón				
-yáta		NOUN		tlacuache				
-yati		NOUN		chindete				
-yáti				simple				
-yatneachea		NOUN		escoba de vara				
-yeabea				bonito(a)				
-yéabea		NOUN		mariposa				
-yoʼo				culluchi				
-yojinu				contento(a)				
-ñojínu				contento(a)				
-yoko		NOUN		tenate para cargar				
-yuku		NOUN		tenate para cargar				
-yoo				amargo				
-yoo		NOUN		brazada				
-yoo kastila		NOUN		sávila				
-yubi		NOUN		tejón				
-yúbi		NOUN		mapache				
-yuchii		NOUN		puño				
-yuchmee		NOUN		cerebro				
-yudi		NOUN		rata				
-yúdi		NOUN		elote				
-yudii				arrugado				
-yudnoo		NOUN		barba				
-yudu		NOUN		cabello				
-yuduu				plano (lugar)				
-yuduu		NOUN		caballo				
-yúduu		NOUN		caballo				
-yukjaʼa		NOUN		chilacayota				
-yúku		NOUN		lagartija				
-yúkuu		NOUN		calabaza				
-yuna		NOUN		zorro				
-yúni		NOUN		camino				
-yuntu		NOUN		tortilla				
-yúntu		NOUN		tabla				
-yúnuu				tierno				
-yuta		NOUN		carne				
-yuti		NOUN		costra				
-yuudu		NOUN		metate				
-yuuna		NOUN		aire				
-yuuni		NOUN		pasto				
-yuunu		NOUN		cigarro				
-takoon	takoo	PRON	PronType=Prs	ella	3SG.FEM			
-takon	takoo	PRON	PronType=Prs	ella	3SG.FEM			
-takoo	takoo	PRON	PronType=Prs	ella	3SG.FEM			
-sakoon	sakoo	PRON	PronType=Prs	él	3SG.MSC			
-sakon	sakoo	PRON	PronType=Prs	él	3SG.MSC			
-sakó	sakoo	PRON	PronType=Prs	él	3SG.MSC			
-sako	sakoo	PRON	PronType=Prs	él	3SG.MSC			
-sakoo	sakoo	PRON	PronType=Prs	él	3SG.MSC			
-insen	insen	PRON	PronType=Prs	ustedes	2PL			
-mozo		NOUN		mozo				
-nóyota		NOUN		años				
-Kukoo		PROPN		Tepeuxila	LOC			
-Jibakun		PROPN		Cuicatlán	LOC			
-Jibaku		PROPN		Cuicatlán	LOC			
-Nacho	Nacho	PROPN		Nacho				
-María	María	PROPN		María				
-Julio	Julio	PROPN		Julio				
-tumi	tumi	NOUN		dinero				
-acha	acha	NOUN		hacha				
-chida		NOUN		mi papá				
-chidan		NOUN		mi papá				
-chete		NOUN		estómago				
-nutbii		NOUN		frutas				
-santië		NOUN		presidente				
-ñaa		NOUN		vela				
-ñoʼó		NOUN		terreno				
-ñoó		NOUN		lumbre				
-pañu		NOUN		rebozo				
-nunyadi		NOUN		refresco				
-chikuʼu		NOUN		mi abuelita				
-yada		NOUN		perro				
-noʼoo		NOUN		bala				
-betee		NOUN		tamal				
-koon		DET		ese				
-koon		NOUN		señora				
-skuela	skuela	NOUN		escuela				
-tòò		ADV		ahí				
-no	no	ADP		en	LOC			
-nuku	nuku	ADP		con	con			
-chi	chi	SCONJ		que	COMPL			
-tochi	tochi	SCONJ		cuando	cuando			
-ñeʼe	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG			
-ñeʼë	ñeʼe	NOUN	NounType=Relat	de mí	base-POSS.1SG			
-ñëʼed	ñeʼe	NOUN	NounType=Relat	de ti	base-POSS.2SG			
-ñeʼed	ñeʼe	NOUN	NounType=Relat	de ti	base-POSS.2SG			
-ñeʼën	ñeʼe	NOUN	NounType=Relat	de mí	base-POSS.1SG			
-ñeʼeñ	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG.HUM			
-ñëʼeñ	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG.HUM			
-ñeʼëñ	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG.HUM			
-ñëʼes	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG.MSC			
-ñeʼës	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG.MSC			
-ñeeta	ñeʼe	NOUN	NounType=Relat	de ella	base-POSS.3SG.FEM			
-ñëta	ñeʼe	NOUN	NounType=Relat	de ella	base-POSS.3SG.FEM			
-jínyinii		VERB	VerbForm=Fin	sembrar	?-sembrar-?			
-jiinuy		VERB	VerbForm=Fin	siembra	?-sembrar-3SG.HUM			
-jínuñ		VERB	VerbForm=Fin	siembra	?-sembrar-?			
-jínus		VERB	VerbForm=Fin	siembra	?-sembrar-3SG.MSC			
-nichis		VERB	VerbForm=Fin	vio	?-ver-3SG.MSC			
-nichiy		VERB	VerbForm=Fin	vio	?-ver-3SG.HUM			
-nichita		VERB	VerbForm=Fin	vio	?-ver-3SG.FEM			
-jinus		VERB	VerbForm=Fin	usa	?-usar-3SG.MSC			
-nood	kaʼan	VERB	VerbForm=Fin	llegaste	?-?-2SG			
-noʼó	kaʼan	VERB	VerbForm=Fin	voy	?-?-1SG			
-chúʼüu	kaʼan	VERB	VerbForm=Fin	fuimos	CPL-ir-1PL			
-cheʼë	kaʼan	VERB	VerbForm=Fin	fui	CPL-ir-1SG			
-kuʼes	kaʼan	VERB	VerbForm=Fin	fue	PROG-ir-3SG.MSC			
-cheés	kaʼan	VERB	VerbForm=Fin	fue	CPL-ir-3SG.MSC			
-cheʼéy	kaʼan	VERB	VerbForm=Fin	fue	CPL-ir-3SG.HUM			
-kueʼëñ	kaʼan	VERB	VerbForm=Fin	fue	PROG-ir-?			
-cheʼeñ	kaʼan	VERB	VerbForm=Fin	fue	CPL-ir-?			
-kuey	kaʼan	VERB	VerbForm=Fin	fue	PROG-ir-3SG.HUM			
-koʼöd	kaʼan	VERB	VerbForm=Fin	irás	POT-ir-2SG			
-koʼo	kaʼan	VERB	VerbForm=Fin	iré	POT-ir-1SG			
-koʼö	kaʼan	VERB	VerbForm=Fin	iré	POT-ir-1SG			
-cheʼed	kaʼan	VERB	VerbForm=Fin	fuiste	CPL-ir-2SG			
-jeʼëñ	kaʼan	VERB	VerbForm=Fin	va	?-ir-?			
-koʼoñ	kaʼan	VERB	VerbForm=Fin	irá	POT-ir-?			
-jeʼëta	kaʼan	VERB	VerbForm=Fin	van	?-ir-3SG.FEM			
-jeʼen	kaʼan	VERB	VerbForm=Fin	vamos	?-ir-1PL			
-jeʼeñ	kaʼan	VERB	VerbForm=Fin	va	?-ir-?			
-jeʼé	kaʼan	VERB	VerbForm=Fin	voy	?-ir-1SG			
-kueʼeñ	kaʼan	VERB	VerbForm=Fin	fue	?-ir-?			
-kueʼëd	kaʼan	VERB	VerbForm=Fin	vé	?-ir-2SG			
-jee	cheʼe	VERB	VerbForm=Fin	como	?-comer-1SG			
-jeʼet	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG 			
-jeét	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG 			
-jeéta	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.FEM			
-jeéy	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.HUM			
-cheʼet	cheʼe	VERB	VerbForm=Fin	comio	?-comer-3SG.AML			
-cheʼe	cheʼe	VERB	VerbForm=Fin	como	?-comer-1SG			
-cheʼes	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.MSC			
-jeeya	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.HUM			
-cheed	cheʼe	VERB	VerbForm=Fin	come	?-comer-2SG			
-cheeta	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.FEM			
-chuʼuu	cheʼe	VERB	VerbForm=Fin	comemos	?-comer-1PL			
-cheʼey	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.HUM			
-jeʼe	cheʼe	VERB	VerbForm=Fin	estoy.comiendo	?-comer-1SG			
-								
-chuʼuu	cheʼe	VERB	VerbForm=Fin	comemos	?-comer-1PL			
-neʼë		VERB	VerbForm=Fin	quiero	?-querer-1SG			
-nee		VERB	VerbForm=Fin	quería	?-querer-?			
-neʼé		VERB	VerbForm=Fin	quiero	?-querer-1SG			
-neé		VERB	VerbForm=Fin	quiere	?-querer-?			
-neʼe		VERB	VerbForm=Fin	quiere	?-querer-?			
-neʼes		VERB	VerbForm=Fin	quiere	?-querer-3SG.MSC			
-neʼeñ		VERB	VerbForm=Fin	quiere	?-querer-3SG.HUM			
-ñeʼen		VERB	VerbForm=Fin	quiere	?-querer-?			
-nikus		VERB	VerbForm=Fin	vendio	?-vender-3SG.MSC			
-jiniku		VERB	VerbForm=Fin	vendo	?-vender-1SG			
-jinikuy		VERB	VerbForm=Fin	vende	?-vender-3SG.HUM			
-jiníkuy		VERB	VerbForm=Fin	vendio	?-vender-3SG.HUM			
-jinuy		VERB	VerbForm=Fin	pone	?-poner-3SG.HUM			
-jiíy		VERB	VerbForm=Fin	toma	?-tomar-3SG.HUM			
-jiì		VERB	VerbForm=Fin	tomo	?-tomar-1SG			
-kuʼu	kúʼu	VERB	VerbForm=Fin	tomo	POT-tomar-1SG			
-jinoo		VERB	VerbForm=Fin	sale	?-salir-?			
-jiknó		VERB	VerbForm=Fin	salen	?-salir-?			
-jino		VERB	VerbForm=Fin	sale	?-salir-?			
-jinó		VERB	VerbForm=Fin	sale	?-salir-?			
-kano		VERB	VerbForm=Fin	salieron	?-salir-?			
-kanó		VERB	VerbForm=Fin	salí	?-salir-1SG			
-kanoo		VERB	VerbForm=Fin	salió	?-salir-?			
-ted		VERB		dame	?-dar-2SG			
-joʼoy		VERB	VerbForm=Fin	da	?-dar-?			
-chika		VERB	VerbForm=Fin	corté	CPL-cortar-1SG			
-kàkad		VERB	VerbForm=Fin	cortar	POT-cortar-2SG			
-kaaka		VERB	VerbForm=Fin	cortar	POT-cortar-?			
-kua	kua	VERB	VerbForm=Fin	comprar	POT-comprar-1SG			
-kaa	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-1SG			
-kuaa	kua	VERB	VerbForm=Fin	comprar	POT-comprar-1SG			
-káta	kua	VERB	VerbForm=Fin	compró	CPL-comprar-3SG.FEM			
-kaá	kua	VERB	VerbForm=Fin	compré	CPL-comprar-1SG			
-ká	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-1SG			
-kay	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-3SG.HUM			
-kad	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-2SG			
-kuad	kua	VERB	VerbForm=Fin	comprar	POT-comprar-2SG			
-kúad	kua	VERB	VerbForm=Fin	comprar	POT-comprar-2SG			
-jaata	kua	VERB	VerbForm=Fin	compra	PROG-comprar-3SG.FEM			
-koʼoy		VERB	VerbForm=Fin	pegaron	?-pegar-?			
-jinuu		VERB	VerbForm=Fin	pongo	?-poner-1SG			
-jinikuta		VERB	VerbForm=Fin	vende	?-vender-3SG.FEM			
-jitubita		VERB	VerbForm=Fin	ocupa	?-ocupar-3SG.FEM			
-nguas		VERB	VerbForm=Fin	traer	?-traer-3SG.MSC			
-chikata		VERB	VerbForm=Fin	pidió	?-pedir-3SG.FEM			
-chiis		VERB	VerbForm=Fin	puso	?-poner-3SG.MSC			
-chëe		VERB	VerbForm=Fin	aprendí	?-aprender-1SG			
-nanáa		VERB	VerbForm=Fin	hacer	?-hacer-?			
-jintibiy		VERB	VerbForm=Fin	hace	?-hacer-3SG.HUM			
-nindamas		VERB	VerbForm=Fin	juntó	?-juntar-3SG.MSC			
-jinaá		VERB	VerbForm=Fin	preparo	?-preparar-1SG			
-nichi		VERB	VerbForm=Fin	vi	?-ver-1SG			
-jinánuy		VERB	VerbForm=Fin	está lavando	?-lavar-3SG.HUM			
-nánu		VERB	VerbForm=Fin	lavo	?-lavar-1SG			
-chines		VERB	VerbForm=Fin	ayudó	?-ayudar-3SG.MSC			
-jinikus		VERB	VerbForm=Fin	vende	?-vender-3SG.MSC			
-kákud		VERB	VerbForm=Fin	haz	?-hacer-2SG			
-jeé		VERB	VerbForm=Fin	como	?-comer-1SG			
-chee		VERB	VerbForm=Fin	comer	?-comer-1SG			
-nabeanud		VERB	VerbForm=Fin	recoger	?-recoger-2SG			
-kuéd		VERB	VerbForm=Fin	vé	?-ir-2SG			
-kued		VERB	VerbForm=Fin	vé	?-ir-2SG			
-chinoy		VERB	VerbForm=Fin	se cayó	?-caerse-3SG.HUM			
-kuyadud		VERB	VerbForm=Fin	duerme	?-dormir-2SG			
-jitubii		VERB	VerbForm=Fin	ocupo	?-ocupar-1SG			
-níchi		VERB	VerbForm=Fin	vi	?-ver-1SG			
-jitubiy		VERB	VerbForm=Fin	ocupan	?-ocupar-3SG.HUM			
-chinus		VERB	VerbForm=Fin	mató	?-matar-3SG.MSC			
-kuned		VERB	VerbForm=Fin	ayuda	?-ayudar-2SG			
-aa		VERB	VerbForm=Fin	canta	?-cantar-?			
-jitúbiy		VERB	VerbForm=Fin	ocupa	?-ocupar-3SG.HUM			
-joʼód		VERB	VerbForm=Fin	dices	?-decir-2SG			
-katad		VERB	VerbForm=Fin	cantar	?-cantar-2SG			
-kata		VERB	VerbForm=Fin	canta	?-cantar-?			
-kanbakud		VERB	VerbForm=Fin	casarse	?-casarse-2SG			
-kanbaku		VERB	VerbForm=Fin	casarse	?-casarse-1SG			
-kamad		VERB	VerbForm=Fin	leer	?-leer-2SG			
-kakioʼöd		VERB	VerbForm=Fin	quemar	?-quemar-2SG			
-kaneé		VERB	VerbForm=Fin	cargar	?-cargar-?			
-naka		VERB	VerbForm=Fin	encontré	?-encontrar-1SG			
-tanod		VERB	VerbForm=Fin	sácale	?-sacar-2SG			
-kakad		VERB	VerbForm=Fin	corta	POT-cortar-2SG			
-chinót		VERB	VerbForm=Fin	se cayó	?-caerse-3SG.AML			
-guay		VERB	VerbForm=Fin	traer	?-traer-3SG.HUM			
-jinay		VERB	VerbForm=Fin	lleva	?-llevar-?			
-kunud		VERB	VerbForm=Fin	ponle	?-poner-2SG			
-kúʼu	kúʼu	VERB	VerbForm=Fin	tomar	POT-tomar-1SG			
-kánud		VERB	VerbForm=Fin	corre	?-correr-2SG			
-kanú		VERB	VerbForm=Fin	cargar	?-cargar-?			
-kadinu		VERB	VerbForm=Fin	me enteraré	?-enterarse-1SG			
-kadínu		VERB	VerbForm=Fin	almorzar	?-almorzar-1SG			
-jinkuë		VERB	VerbForm=Fin	revuelve	?-revolver-?			
-kachí		VERB	VerbForm=Fin	vomitar	?-vomitar-?			
-káchi		VERB	VerbForm=Fin	hierva	?-hervir-?			
-jindiyaa		VERB	VerbForm=Fin	asusta	?-asusta-?			
-china		VERB	VerbForm=Fin	perdí	?-perder-1SG			
-chiná		VERB	VerbForm=Fin	perdio	?-perder-3SG			
-chiñá		VERB	VerbForm=Fin	se ensució	?-ensuciarse-?			
-jeakuy		VERB	VerbForm=Fin	llorar	?-llorar-3SG.HUM			
-jeakuy		VERB	VerbForm=Fin	tapar	?-tapar-3SG.HUM			
-jeanu		VERB	VerbForm=Fin	correr	?-correr-?			
-jidijü		VERB	VerbForm=Fin	estoy escribiendo	?-escribir-1SG			
-jeakuta		VERB	VerbForm=Fin	está llorando	?-llorar-3SG.FEM			
-jába		VERB	VerbForm=Fin	ladra	?-ladrar-?			
-								
-yeabean		ADV		mucho, muy				
-baʼa		NOUN		casa				
-kó		DET		ese				
-eanu		VERB		gusto	?-gustar-1SG			
-tï		NOUN		cabeza				
-nochi		ADV	AdvType=Rel	donde				
-kat		SCONJ		porque				
-to				mucho				
-too				mucho				
-tii		NOUN		cabeza				
-tii		ADV		dónde				
-ntiñu		NOUN		trabajo				
-yana		NOUN		perro				
-yaa				está				
-yaá				está				
-tuu		NOUN		piedra				
-tikaa		NOUN		mi ropa				
-tika		NOUN		ropa				
-tiaka		NOUN		plátano				
-ñoʼoo		NOUN		tierra, barro				
-ñeé		NOUN		de él	base-POSS.3SG			
-noʼo		NOUN		leña				
-nata		NOUN		maíz				
-it		NOUN		animal				
-dami		NOUN		espalda, caparazón				
-chinta		VERB	VerbForm=Fin	se mojó	?-mojarse-?			
-chiinta		VERB	VerbForm=Fin	se mojaron	?-mojarse-?			
-chinbaʼa		NOUN		puerta	boca#casa			
-biʼi		NOUN		mi hermano				
-toʼo		NOUN		mano				
-nùni		NOUN		agua				
-noy		VERB		vino	?-venir-?			
-nakuu		NOUN		guarache				
-mojoben	mojobe	ADV		hoy				
-mojobe	mojobe	ADV		hoy				
-kuee				chueco				
-kú		NOUN		campana				
-kané		VERB		está	?-estar-?			
-kaba				feo				
-ji		VERB		hace	?-hacer-?			
-diibi		NOUN		estiércol				
-dinuu		NOUN		mi hermano				
-dinuun		NOUN		mi hermano				
-keaben		NOUN		mi hermano				
-chinuú		NOUN		mi hermano				
-chiblaʼa		NOUN		armadillo				
-cheate		VERB	VerbForm=Stat	grande				
-beat		VERB		hay	?-existir-3SG.AML			
-yúdii		NOUN		elote				
-yádi		NOUN		higo				
-toʼö								
-tö				mucho				
-tíkun		NOUN		chapulín				
-tíku		NOUN		chapulín				
-tïi		NOUN		cabeza				
-tiba		NOUN		empanada				
-takabea		VERB		cómo está	cómo#estar			
-soʼö		NOUN		hombre				
-snuu		VERB		tiene	?-tener-?			
-snúni		NOUN		padrino				
-snuni		NOUN		padrino				
-snú		VERB		tengo	?-tener-1SG			
-snu		VERB		tiene				
-sadii		NOUN		mi hermano				
-pö		NOUN		pan				
-nutdúü		NOUN		grilla				
-nutdiku		NOUN		granadas				
-num				todo				
-nukud		NOUN	NounType=Relat	contigo	con-POSS.SG2			
-noos		NOUN		su cara	cara-POSS.3SG.MSC			
-nojobe		NOUN		cielo				
-nó		VERB		lavar				
-nintubii				descompuesto				
-ndeyee		NOUN		durazno				
-nda				muy, mucho				
-naiyaá		NOUN		salsa				
-naa		NOUN		oro				
-mii		ADV		allá				
-maa				noche				
-kuí		VERB		echar	?-echar-?			
-kueta		NOUN		cohete				
-kueta		VERB	VerbForm=Fin	fue	?-ir-3SG.FEM			
-kubii		NOUN		lluvia				
-kántu		NOUN		caldo				
-kanee		VERB	VerbForm=Fin	se quedó	?-quedarse-?			
-kaned		VERB	VerbForm=Fin	estás	?-estar-2SG			
-kanat		VERB	VerbForm=Fin	lleva	?-llevar-3SG.AML			
-job		NOUN		día				
-jobey				se llama				
-jinguy		VERB	VerbForm=Fin	dejar	?-dejar-?			
-jiney		VERB	VerbForm=Fin		?-hablar-3SG.HUM			
-jinee		VERB	VerbForm=Fin	hablo	?-hablar-?			
-jimaa		VERB		anochece				
-jíkuu		NOUN		río				
-jiku		NOUN		río, cerro				
-iñan		NOUN		gente				
-íi		VERB	VerbForm=Fin	echo	?-echar-1SG			
-gë		VERB		hace				
-díta		NOUN		pájaro carpintero				
-dínud		VERB		apretas	?-apretar-2SG			
-dikuoʼoo		NOUN		bebé				
-dijú								
-dijinuy		NOUN		nieto				
-din		PRON	PronType=Prs	tú	2SG			
-dií		PRON	PronType=Prs	tú	2SG			
-dayay		NOUN		su hijo(a)	hijo-POSS.3SG.HUM			
-chúntii		NOUN		grillo				
-chinuñ		VERB	VerbForm=Fin	mató	?-matar-?			
-chineabea		VERB	VerbForm=Fin	me caí	?-caerse-1SG			
-chikuincháakuu		NOUN		virgen				
-chií	kúʼu	VERB	VerbForm=Fin	tomé	CPL-tomar-1SG			
-chiduu		NOUN		sacerdote				
-chiadi		NOUN		azúcar				
-cheé		VERB		comer	?-comer-?			
-chedee		NOUN		carga				
-chéche				duro				
-chebäa				comer				
-adeea		PRON	PronType=Int	qué				
-zangáta		NOUN		lobo				
-yúuni		NOUN		camino				
-yùni		NOUN		camino				
-yuni		NOUN		camino				
-yukuu		NOUN		calabaza				
-yúdu		NOUN		animal				
-yudnooy		NOUN		barba				
-yeabe				mucho, muy				
-yaʼaa		NOUN		jícara				
-yaʼá		VERB		duele	?-doler-?			
-yàta		NOUN		hierba				
-yat								
-yanuʼu				profundo				
-yakun		NOUN		iglesia				
-yadkuöo		NOUN		canario				
-yáda		NOUN		pájaro				
-yàbi		ADV		anoche				
-yaaʼa				duele				
-yaás		VERB		ama	?-amar-3SG.MSC			
-túʼu		NOUN		pollo				
-tumaa		VERB		cortar	?-cortar-?			
-tuma		VERB		cortar	?-cortar-?			
-toʼos		NOUN		su esposa	esposa-POSS.3SG.MSC			
-toʼoo		NOUN		mano				
-töo		NOUN						
-tnoʼo				muertos				
-tíyu		NOUN		tenatillo				
-tiudi		NOUN		ratón				
-tíñ								
-tínu		NOUN		ropa				
-tíntu		NOUN		colibrí				
-tími		NOUN		ombligo				
-tiku		NOUN		ramo				
-tikoo		NOUN		niña				
-tiid		NOUN		tu cabeza	cabeza-POSS.2SG			
-tïd		NOUN		tu cabello	cabello-POSS.2SG			
-tibi		VERB	VerbForm=Fin	fumar	?-fumar-?			
-tiäa		NOUN		chicozapote				
-tatioo				mañana				
-tamoʼo		VERB		abrazar	?-abrazar-?			
-tama				otra				
-takoó		NOUN		esa mujer				
-taka	taka	ADV		cómo				
-tadin		NOUN		niña				
-tadii		NOUN		niña				
-tadï		NOUN		niña				
-taa				verde				
-stebe		NOUN		corazón				
-sópa				grueso(a)				
-snuú		VERB		tiene				
-snii		NOUN		sombrero				
-snï		NOUN		sobrino				
-snet		VERB		están				
-sné		VERB		están				
-sankubi		NOUN		borracho				
-sangáta		NOUN		lobo				
-sakuiti		NOUN		escarabajo				
-sakoó		NOUN		hombre				
-runtíya		NOUN		rodilla				
-renke				flaco				
-raʼa				duro				
-rantiya		NOUN		rodilla				
-ranti		NOUN		ruído				
-ranku				alto				
-rampa				calvo				
-raabu		NOUN		mostaza				
-poʼo				recien nacido				
-ö								
-o								
-ñuʼüu								
-ñu		NOUN		granizo				
-ñóʼoo		NOUN		barro				
-ñoʼön		NOUN		sol				
-ñòon								
-ñöo		NOUN		calor				
-ñóo		NOUN		espina				
-ñonútii		NOUN		arena				
-ñóngukuu		NOUN		barro				
-ñò		NOUN		espina				
-ñëʼét		NOUN	NounType=Relat		base-POSS.3SG.AML			
-ñëʼen		NOUN	NounType=Relat					
-ñeeñ		NOUN	NounType=Relat		base-POSS.3SG.HUM			
-ñeedin								
-ñëd		NOUN	NounType=Relat	de ti	base-POSS.2SG			
-ñe								
-ñaʼa				lejos				
-ñañaa		NOUN		coyote				
-ñaña		NOUN		león				
-ñaat				sucio				
-ña								
-nutyáku		NOUN		cebolla				
-nutoʼo		NOUN		dedo				
-nutñó		NOUN		zarzamora				
-nutnoos		NOUN		su ojo	ojo-POSS.3SG.MSC			
-nunkubi		NOUN		agua de lluvia				
-nùnim		NOUN		agua				
-nun		NOUN		arroyo				
-numiñ								
-núku		NOUN		conmigo	con-POSS.1SG			
-nuko		ADP		con				
-nubnuni		NOUN		lunar				
-nubi		NOUN		grano				
-nubdamauʼu		VERB		reuniremos				
-ntú		NOUN		atole				
-noʼos		VERB		ir	?-ir-3SG.MSC			
-chíika		VERB	VerbForm=Fin	corté	CPL-cortar-1SG			
-nooyos		NOUN		su edad				
-noobe				par				
-nojoobee		NOUN		cielo				
-nod				tienes				
-nobe				par				
-Nóba	Nóba	PROPN		Oaxaca				
-nnioó		ADV		en la lumbre	en#lumbre			
-ninjaʼa				lastimado(a)				
-nínii		VERB		se reventó	?-reventar-?			
-niku								
-niibii		NOUN		papa				
-niï		NOUN		chayote				
-nichid		VERB	VerbForm=Fin	viste	?-ver-2SG			
-nicha				grande				
-nguay		VERB	VerbForm=Fin	traer	?-traer-?			
-neʼëñ		VERB	VerbForm=Fin	quiere				
-neʼéd		VERB	VerbForm=Fin	necesitas				
-neʼed		VERB	VerbForm=Fin	quieres	?-querer-2SG			
-net								
-iñsee		PRON	PronType=Prs	ellos	3PL			
-nenoo								
-neés		VERB	VerbForm=Fin	quiere	?-querer-3SG.MSC			
-nede		NOUN		barranca				
-neatu		NOUN		tomate				
-néabea		NOUN		gallina ciega				
-nduu		NOUN		caña				
-ndoyo		NOUN		año				
-ndó								
-ndios		NOUN		dios				
-ndimi		NOUN		hombro				
-ndeyaa		NOUN		durazno				
-ndeayaa		NOUN		durazno				
-ndéa		NOUN		cacaya				
-ndea								
-ndáy				bueno				
-ndaá				bueno				
-nanuku								
-nanomnod		VERB		llegar primero				
-nankuníbii				grande				
-naneache		VERB		borrar				
-nana		VERB		voy a hacer	?-hacer-?			
-najaá		NOUN		nuez				
-naidii		NOUN		aguacate				
-nadna								
-nabií				pegado				
-nabaku		NOUN		mi casa				
-nabaa								
-naas				bueno				
-naá								
-muu		ADV		aquí				
-moneatea		ADV		semana pasada				
-mogeché		NOUN		axila				
-mnòò				tiene rato				
-mïn								
-míi	míi	ADV		ahí				
-man		ADV		ahora				
-lunch		NOUN		borrego				
-Luis	Luis	PROPN		Luis				
-lantuu								
-lantiku				costilla				
-kúʼuu	kúʼu	VERB		tomar	POT-tomar-?			
-kuʼö	kuʼö	ADV		antenoche				
-kuyadu		VERB		dormir	?-dormir-?			
-kuunód		VERB		tienes pena	?-tener.pena-2SG			
-küu		NOUN		molde para hacer comal				
-kútii		NOUN		sombra				
-kutea				no				
-kuoʼoo								
-kunoo		VERB	VerbForm=Fin	caer	?-caer-?			
-kuni		NOUN		guajolotito				
-kuna		VERB	VerbForm=Fin	masticar	?-masticar-1SG			
-kulantro		NOUN		cilantro				
-kúiyu								
-kuïñu		NOUN		comadreja				
-kuiku				tengo hambre				
-kuid		VERB		echa	?-echar-?			
-kui		VERB		servir	?-servir-?			
-kueʼe		VERB		va	?-ir-?			
-kueatoʼoy		VERB		echar pico	?-echar.pico-?			
-kuchii		NOUN		puerco				
-kuchba		NOUN		patio				
-kubnoʼo		NOUN		aguacero				
-kúbi		NOUN		lluvia				
-kuay		VERB		piscar	?-piscar-3SG.HUM			
-kuäa								
-ku		DET		este				
-koʼos								
-koʼó		VERB		picó	?-picar-?			
-koó		DET		ese				
-koón		DET		ese				
-ko		DET		ese				
-kiuñú				picudo				
-keade								
-keabeay		NOUN		su hermano	hermano-3SG.HUM			
-kayadu		VERB	VerbForm=Fin	dormir	?-dormir-?			
-kataʼa		VERB	VerbForm=Fin	traes	?-traer-?			
-kastila		NOUN		sávila				
-kanuy		VERB		está	?-estar-3SG.HUM			
-kanuu		VERB		está				
-kanuchii								
-käntay				delicados				
-kánta				peligrosas				
-kani				rápido				
-kangùy		VERB		va a dejar				
-kanguu		VERB		moler				
-kanguad		VERB		traer	POT-traer-2SG			
-kanet		VERB		está	?-estar-3SG.AML			
-kaneñ		VERB		está	?-estar-3SG.HUM			
-kánat		VERB	VerbForm=Fin	llevó	?-llevar-3SG.AML			
-kakay		VERB		echar tortilla				
-kachi		NOUN		avispa				
-kabachi				porque				
-kunu		VERB		voy a poner	?-poner-1SG			
-jitií		VERB		se seca	?-secarse-?			
-juú		NUM	NumType=Card	cinco				
-juu		NUM	NumType=Card	cinco				
-jubid								
-joʼó								
-joʼo		VERB		pica	?-picar-?			
-jóbey		NOUN		su nombre	nombre-POSS.3SG.HUM			
-jiʼi		VERB		tomar	?-tomar-?			
-jíyuu		NOUN		carrizo				
-jitnoy		VERB	VerbForm=Fin	hace	?-hacer-3SG.HUM			
-jitbon		VERB		atrapar	?-atrapar-?			
-jitatï								
-jiñöo								
-jinkue		VERB		levanta	?-levantar-?			
-jinkatu								
-Jinguyu	Jinguyu	PROPN		México				
-jinguay		VERB	VerbForm=Fin	va a traer	?-traer-?			
-jinguata		VERB		traer	?-traer-3SG.FEM			
-jineʼe		NOUN		encino				
-jineñ		VERB	VerbForm=Fin	pone	?-poner-?			
-jinenúkuta								
-jinéacheta		VERB	VerbForm=Fin	barre	?-barrer-?			
-jiné								
-jinda								
-jinbinti		VERB		retoñan	?-retoñar-?			
-jínay		VERB		se baña	?-bañarse-?			
-jináy		VERB	VerbForm=Fin	preparan	?-preparar-?			
-jinatnoy		VERB	VerbForm=Fin	está sacando	?-sacar-3SG.HUM			
-jinanus		VERB	VerbForm=Fin	está lavando	?-lavar-3SG.MSC			
-jinanuchi		VERB	VerbForm=Fin	me despierto	?-despertarse-?			
-jikuu		NOUN		río				
-jikney		VERB	VerbForm=Fin	cargan	?-cargar-?			
-jikadi		VERB	VerbForm=Fin	puede	?-poder-?			
-jijéa		VERB	VerbForm=Fin	se tira	?-tirarse-?			
-jììya								
-jiinus								
-jii								
-jigea		VERB	VerbForm=Fin	cae	?-caer-?			
-jidkueakus		VERB		tocar				
-jidis		VERB	VerbForm=Fin	hace	?-hacer-3SG.MSC			
-jidiñ		VERB	VerbForm=Fin	está haciendo	?-hacer-?			
-jidií		VERB	VerbForm=Fin	hacer	?-hacer-?			
-jidí		VERB	VerbForm=Fin	hacer	?-hacer-1SG			
-jidi		VERB	VerbForm=Fin	hace	?-hacer-?			
-jideku								
-jideabe		VERB		amanece	?-amanecer-?			
-jichoó		VERB	VerbForm=Fin	paso	?-pasar-?			
-jichisnee		VERB	VerbForm=Fin	amarro	?-amarrar-?			
-jichiba		VERB	VerbForm=Fin	sirve	?-servir-?			
-jingaku		VERB	VerbForm=Fin	recuerdo	?-recordar-?			
-chinó		VERB	VerbForm=Fin	entró	?-entrar-?			
-chinoo		VERB	VerbForm=Fin	entró	?-entrar-?			
-jí								
-jeʼey		VERB	VerbForm=Fin	comen	?-comer-?			
-jeʼët		VERB	VerbForm=Fin	ir	?-ir-3SG			
-jëʼe		VERB	VerbForm=Fin	voy	?-ir-?			
-jeés								
-jeen								
-jecheé								
-jeas								
-jeanuta								
-jeaas								
-jabnututa		VERB	VerbForm=Fin	da vueltas	?-dar.vueltas-3SG.FEM			
-jabee		NOUN		oreja, oido				
-jabat		VERB	VerbForm=Fin	ladra	?-ladrar-?			
-jáa		ADJ		nuevo				
-jaá								
-já		ADJ		nuevo				
-jaa		ADJ		nuevo				
-kamboo		NOUN		compadre				
-itñeʼë		NOUN		mis animales	animal#base-POSS.1SG			
-iñʼtoʼö		NOUN		guajolota				
-iñuu		NOUN		guajolote				
-iñsen								
-inun								
-ínu		VERB	VerbForm=Fin	mato	?-matar-1SG			
-intii				hay				
-inti				hay				
-inbakuyan								
-ìkut		VERB		pone	?-poner-?			
-ikay		VERB		hace	?-hacer-?			
-ika								
-ibuu								
-ibu								
-góo								
-gijobe								
-genee								
-eñ		VERB		estudiar	?-estudiar-?			
-eatoʼóy		VERB		echa pico				
-eate								
-eanut		VERB	VerbForm=Fin	gusta	?-gustar-3SG			
-eanus		VERB	VerbForm=Fin	gusta	?-gustar-3SG.MSC			
-eanud		VERB	VerbForm=Fin	gustas	?-gustar-2SG			
-duʼu		PRON	PronType=Int	quién				
-duuʼu		PRON	PronType=Int	quién				
-duú		NOUN		uña				
-dut		NOUN		huevo				
-dúnu								
-dúkuu		VERB	VerbForm=Fin	robé	?-robar-?			
-duku		NOUN		ladrón				
-dúdut		NOUN		sus plumas				
-duchii		NOUN		bromas				
-dáaya				tartamuda				
-dnete		NOUN		ejote				
-dnee								
-díyu		NOUN		liana				
-dituuy		VERB	VerbForm=Stat	fuerte				
-dítuu		NOUN		orilla				
-dítu		NOUN		orilla				
-dinu		NOUN		mi hermano				
-dinaá		VERB		hice	?-hacer-?			
-din								
-dimoʼö		ADV		sólo				
-dimoo				sólo, puro				
-dikuoʼo		NOUN		bebé				
-dikunú		NOUN		nuera				
-dikaya		NOUN		niños				
-dikadi		VERB		peso				
-diiyu								
-diis		VERB	VerbForm=Fin	cometió	?-hacer-3SG.MSC			
-diiñu		NOUN		diente				
-diinuu		NOUN		gorro				
-diijuku		NOUN		tecolote				
-did								
-dibyudi		NOUN		mala mujer				
-dibíkuy		VERB		bendecir	?-bendecir-?			
-dibaku		NOUN		cuicateco				
-dii		VERB		hago	?-hacer-?			
-dï		VERB		hago	?-hacer-?			
-dechea		NOUN		mugre				
-deanud		VERB	VerbForm=Fin	sabes	?-saber-SG2			
-deaku		NOUN		basura				
-déa								
-dea								
-dayas		NOUN		su hijo(a)	hijo-POSS.3SG.MSC			
-dayad		NOUN		tu hijo(a)	hijo-POSS.SG2			
-dayaa		NOUN		su hijo(a)				
-damid								
-damí								
-daanu		NOUN		sombra				
-daá								
-chuu		PRON		ésto				
-chóo								
-chiʼiy		VERB		murió	?-morir-3SG.HUM			
-chivatu		NOUN		chivo				
-chivato		NOUN		chivo				
-chitöo								
-cheanun		NOUN		mi cuñada				
-chitod		VERB	VerbForm=Fin	agarraste	?-agarrar-2SG			
-chínu		VERB	VerbForm=Fin	maté	?-matar-1SG			
-chinuy		VERB	VerbForm=Fin	mató	?-matar-3SG.HUM			
-chìnus		VERB	VerbForm=Fin	mató	?-matar-3SG.MSC			
-chinu		VERB	VerbForm=Fin	maté	?-matar-1SG			
-chinod		VERB	VerbForm=Fin	tiraste	?-tirar-2SG			
-chiniiyat		VERB	VerbForm=Fin	asustó	?-asustar-?			
-chíni		NOUN		frijolar				
-chivatun		NOUN		chivo				
-chiní		NOUN		hígado				
-chineñ		VERB		culparon				
-chineabed		VERB		te caíste	?-caerse-2SG			
-chineabay		VERB	VerbForm=Fin	se cayó	?-caerse-?			
-chikudayay		NOUN		su comadre	comadre-POSS.3SG.HUM			
-chikuday		NOUN		comadre				
-chikadi		VERB	VerbForm=Fin	pude	?-poder-1SG			
-chíita		VERB	VerbForm=Fin	creció	?-crecer-?			
-chiíbat		NOUN		telaraña				
-chiibat		NOUN		telaraña				
-chiiba		NOUN		precio				
-chich								
-chiba		NOUN		precio				
-chenet		VERB	VerbForm=Fin	morder	?-morder-?			
-cheéd		VERB	VerbForm=Fin	comes	?-comer-2SG			
-cheebinuy		VERB	VerbForm=Fin	va a cenar	?-cenar-3SG.HUM			
-chebá				comida,comer				
-cheatu		VERB	VerbForm=Fin	quebré	?-quebrar-1SG			
-cheatuy				sordo				
-chéatea		VERB	VerbForm=Stat	grande				
-cháku		NOUN		mi mamá				
-cantu								
-boʼos		NOUN		su miedo	miedo-POSS.3SG.MSC			
-booy								
-bakñoo		NOUN		municipio				
-bokioo		NOUN		municipio				
-biʼin		NOUN		mi hermana				
-binkuinuu				de luto				
-bílu		NOUN		gato				
-bíʼi		NOUN		mi hermano				
-biʼi		NOUN		fruta				
-bií		NOUN		fruta				
-bii		NOUN		fruta				
-bichi		NOUN		gato				
-bichas				está gordo				
-beta		NOUN		su oreja				
-bet								
-bemoñoʼo								
-bèèye		NOUN		nixtamal				
-beeye		NOUN		nixtamal				
-bèèya		NOUN		nixtamal				
-bëeñ								
-beede		NOUN		español				
-bèè		NOUN		orilla				
-bée				malo(a)				
-bedyeno				estar de fiesta				
-bedeanu				conocimiento				
-bed								
-beaye								
-chichëen		NOUN		mi abuelito				
-chichë		NOUN		mi abuelito				
-chichen		NOUN		mi abuelito				
-ñoʼö		NOUN		pueblo				
-ñoʼon		NOUN		pueblo				
-ñoo		NOUN		pueblo				
-ñó		NOUN		pueblo				
-bayaka		NOUN		coscomate				
-bañeʼë		NOUN		mi casa	casa#base-POSS.1SG			
-bakun		NOUN		mi casa				
-baa								
-ay				llama				
-áta		VERB		llora				
-át		VERB		grita				
-at		VERB		grita				
-dikayan		NOUN		niños				
-ñuu		NOUN		mazorca				
-tin		DET		ese				
-ti		DET		ese				
-kon		DET		ese				
-ey		INTJ		sí				
-mun		ADV		aquí				
-kuninun				allá arriba				
-dimá		ADV		pasado mañana				
-dimaan		ADV		pasado mañana				
-ñò		NOUN		espina				
-ndatan		NOUN		mujeres				
-ñú		NOUN		mazorca				
-sadï		NOUN		mi niño				
-saíkuu		NOUN		buitre				
-nì				muerto				
-sangoʼoo		NOUN		arriera				
-nuekueʼen		PRON		todos				
-tös				enojado				
-toó				allí				
-amañ		PRON		alguien				
-chenu		NOUN		cuñada				
-chenun		NOUN		cuñada				
-tutoʼö		NOUN		gallina				
-tusoʼö		NOUN		gallo				
-tú		NOUN		pulgada				
-noʼo		NOUN		leña				
-si		PRON		eso				
-kuí		VERB		echar	?-echar-?			
-chii		VERB		se murió	?-morirse-?			
-ika		VERB		hago	?-hacer-1SG			
-yaʼa		VERB		duele				
-üñ		VERB		raja	?-rajar-?			
-anicha				macizo				
-choʼo		VERB		pasé	?-pasar-1SG			
-kachika		VERB		anda	?-andar-?			
-nantibid		VERB		haz	?-hacer-?			
-neñu		VERB		voy a coser	?-coser-?			
-dinán		VERB		preparan	?-preparar-?			
-chinʼö		VERB	VerbForm=Fin	soñé	?-soñar-1SG			
-eatú		VERB	VerbForm=Fin	golpeé	?-golpear-?			
-eatu		VERB	VerbForm=Fin	estoy levantando	?-levantar-?			
-chitöo		VERB	VerbForm=Fin	se reventó	?-reventarse-?			
-chitee		VERB	VerbForm=Fin	se rompió	?-romperse-?			
-nudii		VERB	VerbForm=Fin	se cerró	?-cerrar-?			
-nanad		VERB	VerbForm=Fin	haz	?-hacer-2SG			
-nankued		VERB	VerbForm=Fin	levanta	?-levantar-2SG			
-amtea				no hay				
-alberga		NOUN		chícharo				
-								
-burru		NOUN		burro				
-kutoʼuu		VERB	VerbForm=Fin	atrapar	?-atrapar-?			
-kuchid		VERB	VerbForm=Fin	ven	?-venir-2SG			
-Jiguyum		PROPN		México				
-Juó		PROPN		Juan				
-comida		NOUN		comida				
-tiʼö		NOUN		árbol				
-per		CCONJ		pero				
-lápiz		NOUN		lápiz				
-noʼod		VERB		vayas	?-ir-2SG			
-iñsë		NOUN		esa gente				
-jinangaku		VERB		extraño	?-extrañar-?			
-jinankués		VERB		levantarse	?-levantar-?			
-jobku		ADV		hoy				
-yudú		NOUN		metate				
-íyaan		NOUN		chile				
-tioʼö		NOUN		árbol				
-sï		NOUN		sombrero				
-sen		DET		estos				
-color		NOUN		color				
-mi		DET		esa				
-o		CCONJ		o				
-kuät				negro				
-kueat				blanco				
-kutu		NOUN		olla				
-min		DET		esta				
-nìnuu				cerca				
-Fom		PROPN		Juan				
-kanes				está	?-estar-?			
-chidad		NOUN		tu papá	papá-POSS.2SG			
-kuetíchi		NOUN		canasta				
-kun		PRON		esto				
-deanu		VERB	VerbForm=Fin	sé	?-saber-SG1			
-dae		PRON		que				
-did		VERB		hacer	?-hacer-?			
-kutum		NOUN		olla				
-kùchi		VERB		sembrar	?-sembrar-?			
-ñeʼes	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG.MSC			
-ndod		VERB		llegaste	?-llegar-2SG			
-machetem		NOUN		machete				
-ndo		VERB		había llegado	?-llegar-?			
-tumin		SCONJ		para que				
-Manuel		PROPN		Juan				
-machete		NOUN		machete				
-bakud		NOUN		tu casa	casa-POSS.2SG			
-Juóm		PROPN		Juan				
-silïm		NOUN		niño				
-noʼö		NOUN		maestro				
-niku		ADJ		viejo				
-kutokoʼo		VERB		empezar				
-kunus		VERB		sembrar				
-kune		VERB		quedarse				
-koʼös		VERB		va				
-kayadus		VERB		estaba durmiendo				
-jiyadus		VERB		duerme				
-jinuku		VERB		vende				
-iñsé		PRON		ellos				
-Fo		PROPN		Juan				
-chimjinu		VERB		me olvidé				
-chichí		VERB		sembrar				
-chitokoʼo		VERB		empecé				
-yunu				joven				
-takó		PRON		ella				
-tabea		PRON		cuánto				
-silï		NOUN		niño				
-ño		ADP		en				
-ñeʼey	ñeʼe	NOUN	NounType=Relat	de ellos	base-POSS.3PL			
-nèè		NOUN		vez				
-ndata		NOUN		mujer				
-Marian		PROPN		María				
-nangakud		VERB		acuérdate				
-nád		VERB		tienes	?-tener-2SG			
-ná		VERB		tiene 				
-insë		PRON		ustedes				
-duytï				pelo				
-dín		PRON		tú				
-màà		NOUN		noche				
-kakued		VERB		enséñame				
-mniñu		ADV		ahora				
-kuin		VERB		acabar				
-kuchis		VERB		vino				
-kuá		VERB		compraré				
-kanu		VERB		está				
-kabiö		ADV		mañana				
-jobed		NOUN		tu nombre				
-chimjinud		VERB		olvidaste				
-cho				esa				
-chimbaʼa		NOUN		puerta				
-chikueta		VERB		enseñó				
-chikadinud		VERB		supiste				
-chid		VERB		echaste				
-bakus		NOUN		su casa				
-Pedro		PROPN		Pedro				
-tonto		ADJ		tonto				
-Eduviges		PROPN		Eduviges				
-temprano		ADV		temprano				
-yuudum		NOUN		caballo				
-yudtï				pelo				
-yanam		NOUN		perro				
-yakuy		ADJ		altos				
-yakuta		ADJ		alta				
-yakut		VERB		volar				
-yakus		ADJ		alto				
-yákum		NOUN		iglesia				
-yakud		ADJ		alto				
-yàka		VERB		tengo sed				
-tumgoʼos		VERB		me preguntó				
-tumad		VERB		cortar				
-tubnéd		VERB		prestaste	?-prestar-2SG			
-toʼod		NOUN		tu mano				
-tò		ADV		ahí				
-komida		NOUN		comida				
-sopa		NOUN		sopa				
-tako		PRON		ella				
-soʼös		NOUN		hombre				
-soʼön		PRON		él				
-sakón		PRON		él				
-obes		NUM		en dos				
-inus		NUM		en tres				
-amas		NUM		en uno				
-ob		NUM		dos				
-nujinu		VERB		tengo prisa				
-noʼös		NOUN		maestro				
-nèta		VERB		ordenó				
-diyadus		VERB		duerme				
-insën		PRON		ustedes				
-insén		PRON		ustedes				
-insé		PRON		ustedes				
-insú		PRON		nosotros				
-noʼöm		NOUN		maestro				
-nòò		NUM		nueve				
-neachea		NUM		siete				
-kùù		NUM		cuatro				
-joo		NUM		seis				
-nini		NUM		ocho				
-nichama		NUM		once				
-niku		NUM		veinte				
-jeku		NUM						
-am		NUM		uno				
-kanós		VERB		salieron				
-in		NUM		tres				
-kutoʼon		VERB		agarren				
-kunoʼos		VERB		se fue				
-tum		SCONJ		para que				
-ndó		VERB		vino	?-venir-?			
-chikadinu		VERB		supe	?-saber-?			
-chimbaʼam		NOUN		puerta				
-nangadí		VERB		cerrar	?-cerrar-?			
-jobeku		ADV		hoy				
-dànti		VERB		tengo flojera				
-kuenó		VERB		tengo pena				
-kuenód		VERB		tienes pena				
-kutea				no hay				
-eatea				grandes				
-daë				qué				
-Jidiba		PROPN		Mixteca				
-ndatata		NOUN		mujer				
-juana	Juana	PROPN		Juana				
-beayee		NOUN		nixtamal				
-jinukuy		VERB		venden				
-kadayuʼuu		VERB		estamos durmiendo				
-jiyaduy		VERB		duerme				
-jiyadu		VERB		duermo				
-nauné		ADV		de nuevo				
-chakuta		NOUN		su mamá				
-jù		INTJ		sí				
-jikata		VERB		pide	?-pedir-3SG.FEM			
-nokuó		ADV		a veces				
-bakuʼuu		NOUN		nuestra casa				
-baʼam		NOUN		casa				
-beajukus				el que está sentado				
-beaka				sí hay				
-biʼid		NOUN		tu hermano				
-bö				en				
-cheá		VERB		se pintó				
-chéam		NOUN		comal				
-chèd		VERB		aprendiste				
-beade		NOUN		español				
-chidata		NOUN		su papá				
-chikueñ		VERB		enseñó				
-chu		PRON		este				
-chineta		PRON		ella				
-damid		VERB		acusó				
-dayan		NOUN		mis hijos				
-denud		VERB		sabes				
-dì		VERB						
-di		VERB						
-dime		ADV		sólo				
-dimod		ADV		sólo				
-dimo		ADV		sólo				
-jines		VERB		habla				
-dimos		ADV		sólo				
-chaketa		NOUN		su mamá				
-kúës		ADJ		flaco				
-kúën		ADJ		flacos				
-iyún		ADJ		chaparro				
-iyúʼuu		ADJ		chaparros				
-iyús		ADJ		chaparro				
-iyúd		ADJ		chaparro	chaparro-COP.2SG			
-na		ADV		ya				
-intin		PRON		usted				
-intï		PRON		usted				
-jeʼed		VERB		estás comiendo				
-jeʼë		VERB		comer				
-diuu		VERB						
-kanut		VERB		está				
-kantu		NOUN		comida				
-tan		ADV		sólo				
-ndininus		VERB		acostumbró				
-ndininu		VERB		acostumbro				
-nikua				no				
-nigua				no				
-diuu		VERB						
-kueʼes		VERB		se fue				
-mí		ADV		allá				
-nès		VERB		ordenó	?-ordenar-?			
-neʼeta		VERB		quiere				
-techkód		VERB		lleves				
-techkó		VERB		lleva				
-ta		NOUN	NounType=Clf					
-ninubita		VERB		se parece				
-ninubis		VERB		se parece				
-nandinda		VERB		arregla				
-nano		ADP		en frente de				
-ichad		VERB		tienes frío				
-chitoʼo		VERB		tener gripa				
-ka		ADV		aún				
-ni		ADV		hasta				
-yakuʼuu		ADJ		altos				
-kanad		VERB		traerías				
-chíd		VERB						
-yaduu				picante				
-yadan		NOUN		su hijo				
-toʼö		PRON		él				
-nichin		VERB		vimos				
-nochid		VERB		viste				
-kúeas		NOUN		brujo				
-kudadus		VERB		va a dormir				
-kuch		ADP		fuera				
-kenés		VERB		estaba				
-kód		VERB		súbete				
-jite		VERB		digo				
-kadinud		VERB		sepas				
-jitenud		VERB		crees				
-jitenu		VERB		creo				
-jite		VERB		digo				
-jinu		VERB		atrasé				
-jined		VERB		sabes				
-jiné		VERB		sé				
-jidijù		VERB		escribir				
-jidid		VERB		hacer				
-jichis		VERB		viene	?-venir-3SG.MSC			
-jeku		NOUN		pohual				
-jea		VERB		me subo				
-íñ		NOUN		familia				
-geá		VERB		subirme				
-dukud		VERB		robar	?-robar-?			
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
+GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1448	1434	1433
+_	a	a	ADV		ya				
+_	a	a	PART			QST			
+_	áa		VERB		resuena				
+_	alberja		NOUN		chícharo				
+_	ama		NUM	NumType=Card	uno				
+_	baʼa		NOUN		casa				
+_	baku		NOUN		casa				
+_	nbaku		NOUN		casa				
+_	bakuu		NOUN		cárcel				
+_	bakú		NOUN		cárcel				
+_	beâ		NOUN		naranja				
+_	bea		VERB		hay	?-existir-3SG			
+_	bea				sentado				
+x	beaku		ADJ		elegante				
+_	beanete		NOUN		limón				
+_	beanu		NOUN		epazote				
+x	bedbêe		NOUN		envidia				
+_	bede		NOUN		español				
+_	bedinuu		NOUN		milagro				
+_	bee		NOUN		oreja				
+x	bee		ADJ		ciego				
+_	bëe		NOUN		orilla				
+_	biʼi		NOUN		hermano(a)				
+x	bíchaa		ADJ		gordo				
+_	bichñoʼö		NOUN		carpintero				
+_	biidi		NOUN		pasle				
+_	bíku		NOUN		fiesta				
+_	bíni		NOUN		charco				
+_	bítuu		NOUN		viga				
+_	boʼo		NOUN		miedo				
+_	chakun		NOUN		mi mamá				
+_	chakud		NOUN		tu mamá	mamá-POSS.2SG			
+_	chaku		NOUN		mi mamá				
+_	cheʼed		VERB		come				
+_	chea		DET	PronType=Int	cuál				
+_	chéa		NOUN		comal				
+_	chéanu		VERB		gusté	?-gustar-1SG			
+_	cheanu		VERB		corrió				
+_	cheanu		NOUN		cuñada				
+_	cheanú		VERB		sufrí	?-sufrir-1SG			
+_	cheanuu		VERB	VerbForm=Stat	largo				
+_	cheatea		VERB	VerbForm=Stat	grande				
+x	chéatu		ADJ		sordo				
+x	chebä		NOUN		comer,comida				
+_	chebinu		VERB		cenar				
+_	cheede		NOUN		carga				
+_	cheene		NOUN		soplador				
+_	cheete		NOUN		estómago				
+_	cheutumañ		VERB	VerbForm=Fin	rodear	?-rodear-3SG.HUM			
+x	chï		DET		eso				
+_	chíbat		NOUN		telaraña				
+_	chibatu		NOUN		chivo				
+_	chichi		VERB	VerbForm=Fin	se quemó	?-quemarse-?			
+x	chíchi		ADJ		apretado				
+_	chídi		NOUN		garrapata				
+_	chidúbi		NOUN		cucaracha				
+_	chiíta		VERB	VerbForm=Fin	creció	?-crecer-?			
+_	chíka		VERB	VerbForm=Fin	corté	CPL-cortar-1SG			
+_	chikuʼu		NOUN		abuela				
+_	chikudaya		NOUN		comadre				
+x	chindiyaa		VERB		asustó				
+_	chini		VERB	VerbForm=Fin	tronar	?-tronar-?			
+_	chíní		NOUN		frijolar				
+_	chìní		NOUN		hígado				
+_	chinti		NOUN		boca				
+x	chinyadi		ADJ		chismoso				
+_	chita		NOUN		olla				
+_	chiya		NOUN		lengua				
+x	chó		DET		aquello				
+_	chóʼoo		VERB		pasó				
+_	chunti								
+_	chúnti		NOUN		grillo				
+_	clinika	clínica	NOUN		clínica				
+_	daday		NOUN		su yerno	yerno-POSS.3SG.HUM			
+_	dada		NOUN		yerno, cuñado				
+_	daku		NOUN		sobrino				
+x	dama		ADJ		igual				
+_	dankubi		NOUN		llovizna				
+x	danti		NOUN		flojera				
+_	dantu		NOUN		cuello				
+x	danu		ADJ		raro				
+_	dànu		NOUN		sombra				
+_	daya		NOUN		hijo(a)				
+_	dayata	daya	NOUN		su.hijo(a)	hijo-POSS.3SG.FEM			
+_	daybede		NOUN		hijastro(a)				
+_	daynuni		NOUN		ahijado(a)				
+_	deabea		NOUN		alumbrado				
+_	deache		NOUN		resina				
+_	deachea		NOUN		mugre				
+x	deakea		ADJ		despeinado(a)				
+_	deakea		NOUN		nido				
+_	dí		PRON	PronType=Prs	tú	2SG			
+_	dibi		NOUN		estiércol				
+_	dii		PRON	PronType=Prs	tú	2SG			
+x	dii		ADJ		resistente				
+_	díi		NOUN		caspa				
+x	díi		NOUN		tamo				
+_	dijuku		NOUN		tecolote				
+_	tecolote		NOUN		tecolote				
+_	dikúnu		NOUN		nuera				
+_	dikuoʼoo		NOUN		bebé				
+_	díkuy		NOUN		pecho				
+_	díma		NOUN		cáscara				
+_	dininii		NOUN		cuerno				
+_	dínu		NOUN		hermano				
+_	dinuu		NOUN		gorro				
+_	dinuu		NOUN		talón				
+_	diñu		NOUN		diente				
+_	dítdanti		NOUN		correcamino				
+_	dituu		VERB	VerbForm=Stat	fuerte				
+_	dunu		NOUN		mi tío				
+_	dunun		NOUN		mi tío				
+_	diyan		NOUN		su tío				
+_	dìya		NOUN		mi tío				
+_	diya		NOUN		mi tío				
+_	diydaʼa		NOUN		raíz				
+_	dóo				hiel				
+_	dü		NOUN		manteca				
+_	dü		NOUN		uña				
+_	dúchi		NOUN		codo				
+_	dúdi		NOUN		tía				
+_	dudi		NOUN		tía				
+_	dúku		VERB		robé				
+x	düntuu		NOUN		marca de un golpe				
+_	dutit		NOUN		huevo				
+_	dutu		NOUN		nariz				
+_	duutu		NOUN		tronco				
+x	eaku		VERB		suena				
+x	eche		ADJ		punzado				
+x	gea		NOUN		subida				
+_	géche		NOUN		ala				
+x	gèche		ADJ		macizo				
+_	gëe		VERB	VerbForm=Fin	huele	?-oler-?			
+_	gèète		NOUN		tripa				
+_	gibii		NOUN		hierbabuena				
+x	gideabe		VERB		está amaneciendo				
+_	gikuu		NOUN		cuchillo				
+_	gimbeaku		NOUN		hierba santa				
+_	ginchéte		NOUN		lodo				
+_	ginoyaanti		VERB		bostezar				
+_	gíta		NOUN		dolor				
+_	gíyeye		NOUN		ceniza				
+x	giyeyoo		NOUN		bule (para agua)				
+_	giyuu		NOUN		carbón				
+_	giʼï		VERB		gotea				
+_	gua		PART		no	NEG			
+_	iba		NOUN		hielo				
+_	íba		NOUN		hilo				
+x	icha		ADJ		frío				
+_	ícha		NOUN		tipo de quelite				
+x	ii		VERB		pesa				
+_	íku	íku	ADV		ayer				
+_	íkùù		NOUN		hormiga				
+_	íma		NOUN		zorrillo				
+_	inbíku		NOUN		semana santa				
+_	santieʼe		NOUN		autoridades				
+_	intieʼë		NOUN		autoridad				
+_	intoʼö		NOUN		suegra				
+x	inuu		ADJ		caliente				
+_	ínuu		NOUN		calor				
+x	inʼö		NOUN		sueño,soñar				
+_	iñ		NOUN		gente				
+_	iña		NOUN		gente				
+_	iñsoʼö niku		NOUN		suegro				
+_	iñtoʼö		NOUN		guajolota				
+_	inu	inu	NUM	NumType=Card	tres				
+_	íñu		NOUN		estrella				
+_	it dituu		NOUN		mula				
+_	it dutu		NOUN		caracol				
+_	it icha		NOUN		cochinilla				
+_	itcheanu		NOUN		venado				
+_	itdaʼaa		NOUN		alacrán				
+_	itduza		NOUN		puerco espín				
+_	iti		NOUN		animal				
+_	itintu		NOUN		toro				
+_	itjingatu		NOUN		libélula				
+_	itjoó		NOUN		cadera				
+_	itkudintaa		NOUN		tijerilla(insecto)				
+_	itñoʼo		NOUN		insecto palo				
+_	itñoʼö		NOUN		luciérnaga				
+_	itsó		NOUN		sapo				
+_	itsoʼö		NOUN		guajolote				
+_	iyaa		NOUN		chile				
+_	iynutii		NOUN		chile piquín				
+_	iyu		NOUN		mes				
+_	iyu		NOUN		luna				
+_	íyu		NOUN		pulga				
+_	iʼbaa		NOUN		guacamaya				
+_	íʼku		NOUN		piojo				
+_	iʼyaa		NOUN		águila				
+_	iʼyu		NOUN		mecate				
+_	jààba		NOUN		ingredientes				
+_	jabnutu		VERB		da vueltas				
+_	jadi		NOUN		tepache				
+_	jaʼa		NOUN		cáscara				
+_	jiba		NOUN		petate				
+_	jíba		NOUN		sanja				
+_	jidéaku		NOUN		basura				
+_	jijobaa		NOUN		sombras de estaciones en la fiesta de semana santa				
+_	jika		NOUN		camina				
+_	jikioʼö		NOUN		bosque				
+_	jíku		NOUN		cerro				
+_	jíku		NOUN		río				
+_	jima		NOUN		sal				
+_	jinákuu		NOUN		reglamento, bastón de mando				
+_	jingö		NOUN		milpa				
+_	jingu		VERB		moler				
+_	jingunoo		VERB		masticar				
+_	jinìnii		NOUN		araña				
+_	jinta		VERB		se moja				
+_	jíntinii		NOUN		estaca para sembrar				
+_	jintu		VERB		están barbechando				
+_	jita		VERB	VerbForm=Fin	canta	?-cantar-?			
+_	jitiaka		NOUN		platanal				
+_	jiyáka		NOUN		polvo				
+_	jiyuu		NOUN		carrizo				
+_	jobe		NOUN		día				
+_	jóbe		NOUN		nombre				
+_	jòò		NUM		seis				
+_	joobe		NOUN		voladero				
+_	joʼö		VERB		suena				
+_	jubii		NOUN		lugar arenoso				
+_	juchi		NOUN		sobrina				
+_	júku		NOUN		estaca				
+_	juuchi		NOUN		flama				
+_	juʼü		NUM		cinco				
+_	kä		NOUN		zancudo				
+_	káa		NOUN		filo				
+x	kaaba		ADJ		suelto				
+x	kàba		ADJ		feo				
+_	kàchi		NOUN		avispa				
+_	kadi		NOUN		peso($)				
+_	kajobe		ADV		anteayer				
+_	kaaka		NOUN		papel				
+_	kaka		NOUN		papel				
+_	káka		NOUN		peine				
+_	kaka yòò		NOUN		cal				
+_	kákaa		NOUN		cansancio				
+_	kambo		NOUN		compadre				
+_	kane		VERB		está	?-estar-?			
+x	kaniku		NOUN		deber (algo pendiente)				
+x	kaníku		NOUN		algo colgado				
+x	känta		ADJ		delicado, peligroso				
+_	kantaa		NOUN		guerra				
+x	kanuñ		VERB		está (adentro)				
+_	jadii		NOUN		tepache				
+_	karrunti		NOUN		arcoiris				
+_	káya		VERB	VerbForm=Stat|Number=Plur	pequeñas				
+_	kéabea		NOUN		mi hermana				
+_	keabea		NOUN		hermano(a)				
+_	keadea		NOUN		comezón				
+_	kiana		NOUN		camisa				
+_	kinü	kinü	ADV		mañana en la noche				
+_	koʼo		NOUN		pie				
+x	kuä		ADJ		negro				
+_	kuaa		NOUN		relámpago				
+_	kuàà		NOUN		derrumbe				
+x	kuaku		ADJ		derecho				
+x	kubdeabea		VERB		amanecer				
+_	kubi		NOUN		lluvia				
+_	kubnoʼö		NOUN		aguacero				
+_	kuch-cheanu		NOUN		jabalí				
+_	kuch-nùni		NOUN		tepexcuintle				
+_	kuchi		NOUN		marrano				
+_	kudiana		NOUN		campamocha				
+_	kudima		NOUN		calzón de manta.				
+_	kudintaa		NOUN		tijera				
+_	kudubi		NOUN		cuchara				
+x	kué		ADJ		chueco				
+x	kúë		ADJ		delgado				
+x	kuea		ADJ		blanco				
+_	kueatea		NOUN		canasto				
+_	kueatʼichi		NOUN		canasta				
+_	kuëd		VERB		aprender				
+x	kuèè		ADJ		verde				
+x	kuëe		VERB		va a llover				
+_	kuejobe		NOUN		azul cielo				
+x	kuejuku		VERB		adornar				
+_	kueten		NOUN		campo				
+_	kuete		NOUN		campo				
+x	kuili		NOUN		renacuajo				
+x	kuintu		ADJ		mojado				
+_	kuiñu		NOUN		comadreja				
+x	kuiñú		ADJ		picudo				
+_	kuíyaa		NOUN		escobilla				
+_	kukáa		NOUN		molcajete				
+_	kukubii		NOUN		búho				
+_	kulanto		NOUN		cilantro				
+_	kunette		NOUN		cienpies				
+x	kúnu		ADJ		blando				
+x	kunuu		ADJ		resbaloso				
+x	kuoʼo		ADJ		rojo				
+x	kuöo		ADJ		amarillo				
+_	kusanto		NOUN		copal				
+_	kuu		NOUN		víbora				
+_	kúu		NOUN		fierro				
+_	kuuchi		NOUN		algodón				
+_	kuʼu		NOUN		plato				
+_	laasi		NOUN		lodo				
+x	laatu		ADJ		arado				
+_	labente		NOUN		duende				
+x	laka		NOUN		chachalaca				
+_	lanti		NOUN		hueso				
+_	lantikud		NOUN		costilla				
+x	leabe		ADJ		aguado				
+_	leantu		NOUN		lagaña				
+_	leeko		NOUN		coyote				
+_	lï		VERB	VerbForm=Stat|Number=Sing	pequeño				
+x	lii		ADJ		arrugado				
+_	lítu		NOUN		saquetón				
+_	lö		NOUN		hoyo				
+_	lunchi		NOUN		borrego				
+x	lunti		ADJ		redondo				
+x	lútii		ADJ		corto				
+x	luuchi		ADJ		bonito				
+_	marceja		NOUN		murciélago				
+x	mee		ADJ		nublado				
+_	meede		NOUN		calceta				
+_	mï		NOUN		camote				
+x	mnoo		ADV		arriba				
+_	mogechey		NOUN		axila				
+x	moo		ADV		abajo				
+_	muʼu		ADV		aquí				
+_	naama		NOUN		jabón				
+x	nabeánu		NOUN		aborto				
+_	naboʼoo		NOUN		cereza, capulín				
+_	naíba		NOUN		mercado				
+_	naídii		NOUN		aguacate				
+_	naiyaa		NOUN		salsa				
+_	najaʼa		NOUN		nuez				
+_	naneachea		VERB		borrar				
+_	nanta		NOUN		flor				
+_	nantioö		NOUN		rosa				
+x	ndá		ADJ		bueno				
+_	ndakuu		NOUN		guarache				
+x	ndee		ADJ		mucho				
+_	ndete		NOUN		ejote				
+_	ndiʼi		NOUN		mosca				
+_	ndúbi		NOUN		grano				
+_	në		NOUN		mole				
+_	ñoʼö	ñoʼo	NOUN		árbol				
+_	ñoʼo	ñoʼo	NOUN		árbol				
+_	neatuu		NOUN		tomate				
+_	neache		NUM	NumType=Card	siete				
+_	neene		NOUN		guaje				
+_	niini		NOUN		guaje				
+_	nibii		NOUN		papa				
+_	nichama		NUM		once				
+_	nichi		NUM		díez				
+_	nichubi		NUM		doce				
+_	nïi		NOUN		chayote				
+_	niichi		VERB		ver				
+_	níitu		NOUN		nopal				
+x	nínaa		ADJ		maduro				
+x	ninchii		ADJ		cocido				
+_	nini		NUM	NumType=Card	nueve				
+_	nínu	nínu	NOUN		maíz				
+_	nioʼoo		NOUN		suelo				
+x	nnintubii		ADJ		descompuesto				
+_	nóʼo		NOUN		maestro, adobe				
+_	ntu		NOUN		atole				
+_	nukñoʼö		NOUN		brasa				
+x	nukueʼë		ADJ		todo				
+_	nukyanti		NOUN		guanábana				
+_	nukyoo		NOUN		membrillo				
+_	nuna		NOUN		pitalla				
+_	nuni		NOUN		agua				
+_	núni		NOUN		frijol				
+_	nunñoʼö		NOUN		mar				
+_	nunti		NOUN		delito				
+_	nutbee		NOUN		arete				
+_	nutiukuu		NOUN		semilla				
+_	nutnoo		NOUN		ojo				
+_	nutñoo		NOUN		zarzamora				
+_	nuttoʼo		NOUN		dedo				
+_	nutyákuu		NOUN		cebolla				
+_	nuuku		NOUN		chirimoya				
+_	núuku		NOUN		vara				
+_	nuutii		NOUN		bolita				
+_	obe		NUM		dos				
+x	ráti		ADJ		rasposo				
+_	uu	uu	PRON	PronType=Prs	yo	1SG			
+_	un	uu	PRON	PronType=Prs	yo	1SG			
+_	ú	uu	PRON	PronType=Prs	yo	1SG			
+_	tuʼú		NOUN		pollo				
+_	tuʼu		NOUN		pollo				
+_	yaʼa		VERB		duele				
+_	yaʼa		NOUN		dolor				
+_	yaʼa		VERB		amo	?-amar-?			
+_	yaʼaa		NOUN		jícara				
+x	yáʼa		ADJ		húmedo				
+_	yââ		NOUN		barranco				
+_	yàaku		NOUN		mosquito				
+_	yába		NOUN		rocas planas				
+_	yába		NOUN		piedra grande				
+_	yába		NOUN		memela				
+_	yábaa		NOUN		arador				
+_	yabi		ADV		anoche				
+_	yábi		VERB		le hablé				
+_	yachi		NOUN		masa				
+_	yada		NOUN		vestido				
+_	yada		NOUN		pájaro				
+x	yadi		ADJ		dulce				
+_	yadnuni		NOUN		pato				
+_	yadyeeko		NOUN		codorniz				
+x	yagii		VERB		duele				
+_	yaka		NOUN		pescado				
+_	yakaa		NOUN		ocote				
+x	yaku		ADJ		alto				
+_	yáku		NOUN		iglesia				
+x	yàku		ADJ		apestoso				
+_	yama		NOUN		zacate				
+_	yami		NOUN		humo				
+_	yàna		NOUN		red				
+_	yánaa		NOUN		mi perro				
+_	ñana		NOUN		perro				
+_	yana		NOUN		perro				
+_	yat kúiyu		NOUN		sause				
+_	yata		NOUN		hierba				
+_	yata		NOUN		paloma				
+_	yata		NOUN		pichón				
+_	yáta		NOUN		tlacuache				
+_	yati		NOUN		chindete				
+x	yáti		ADJ		simple				
+_	yatneachea		NOUN		escoba de vara				
+x	yeabea		ADJ		bonito(a)				
+_	yéabea		NOUN		mariposa				
+x	yoʼo		NOUN		culluchi				
+x	yojinu		ADJ		contento(a)				
+x	ñojínu		ADJ		contento(a)				
+_	yoko		NOUN		tenate para cargar				
+_	yuku		NOUN		tenate para cargar				
+x	yoo		ADJ		amargo				
+_	yoo		NOUN		brazada				
+_	yoo kastila		NOUN		sávila				
+_	yubi		NOUN		tejón				
+_	yúbi		NOUN		mapache				
+_	yuchii		NOUN		puño				
+_	yuchmee		NOUN		cerebro				
+_	yudi		NOUN		rata				
+_	yúdi		NOUN		elote				
+x	yudii		ADJ		arrugado				
+_	yudnoo		NOUN		barba				
+_	yudu		NOUN		cabello				
+x	yuduu		ADJ		plano (lugar)				
+_	yuduu		NOUN		caballo				
+_	yúduu		NOUN		caballo				
+_	yukjaʼa		NOUN		chilacayota				
+_	yúku		NOUN		lagartija				
+_	yúkuu		NOUN		calabaza				
+_	yuna		NOUN		zorro				
+_	yúni		NOUN		camino				
+_	yuntu		NOUN		tortilla				
+_	yúntu		NOUN		tabla				
+x	yúnuu		ADJ		tierno				
+_	yuta		NOUN		carne				
+_	yuti		NOUN		costra				
+_	yuudu		NOUN		metate				
+_	yuuna		NOUN		aire				
+_	yuuni		NOUN		pasto				
+_	yuunu		NOUN		cigarro				
+_	takoon	takoo	PRON	PronType=Prs	ella	3SG.FEM			
+_	takon	takoo	PRON	PronType=Prs	ella	3SG.FEM			
+_	takoo	takoo	PRON	PronType=Prs	ella	3SG.FEM			
+_	sakoon	sakoo	PRON	PronType=Prs	él	3SG.MSC			
+_	sakon	sakoo	PRON	PronType=Prs	él	3SG.MSC			
+_	sakó	sakoo	PRON	PronType=Prs	él	3SG.MSC			
+_	sako	sakoo	PRON	PronType=Prs	él	3SG.MSC			
+_	sakoo	sakoo	PRON	PronType=Prs	él	3SG.MSC			
+_	insen	insen	PRON	PronType=Prs	ustedes	2PL			
+_	mozo		NOUN		mozo				
+_	nóyota		NOUN		años				
+_	Kukoo		PROPN		Tepeuxila	LOC			
+_	Jibakun		PROPN		Cuicatlán	LOC			
+_	Jibaku		PROPN		Cuicatlán	LOC			
+_	Nacho	Nacho	PROPN		Nacho				
+_	María	María	PROPN		María				
+_	Julio	Julio	PROPN		Julio				
+_	tumi	tumi	NOUN		dinero				
+_	acha	acha	NOUN		hacha				
+_	chida		NOUN		mi papá				
+_	chidan		NOUN		mi papá				
+_	chete		NOUN		estómago				
+_	nutbii		NOUN		frutas				
+_	santië		NOUN		presidente				
+_	ñaa		NOUN		vela				
+_	ñoʼó		NOUN		terreno				
+_	ñoó		NOUN		lumbre				
+_	pañu		NOUN		rebozo				
+_	nunyadi		NOUN		refresco				
+_	chikuʼu		NOUN		mi abuelita				
+_	yada		NOUN		perro				
+_	noʼoo		NOUN		bala				
+_	betee		NOUN		tamal				
+_	koon		DET		ese				
+_	koon		NOUN		señora				
+_	skuela	skuela	NOUN		escuela				
+_	tòò		ADV		ahí				
+_	no	no	ADP		en	LOC			
+_	nuku	nuku	ADP		con	con			
+_	chi	chi	SCONJ		que	COMPL			
+_	tochi	tochi	SCONJ		cuando	cuando			
+_	ñeʼe	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG			
+_	ñeʼë	ñeʼe	NOUN	NounType=Relat	de mí	base-POSS.1SG			
+_	ñëʼed	ñeʼe	NOUN	NounType=Relat	de ti	base-POSS.2SG			
+_	ñeʼed	ñeʼe	NOUN	NounType=Relat	de ti	base-POSS.2SG			
+_	ñeʼën	ñeʼe	NOUN	NounType=Relat	de mí	base-POSS.1SG			
+_	ñeʼeñ	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG.HUM			
+_	ñëʼeñ	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG.HUM			
+_	ñeʼëñ	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG.HUM			
+_	ñëʼes	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG.MSC			
+_	ñeʼës	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG.MSC			
+_	ñeeta	ñeʼe	NOUN	NounType=Relat	de ella	base-POSS.3SG.FEM			
+_	ñëta	ñeʼe	NOUN	NounType=Relat	de ella	base-POSS.3SG.FEM			
+_	jínyinii		VERB	VerbForm=Fin	sembrar	?-sembrar-?			
+_	jiinuy		VERB	VerbForm=Fin	siembra	?-sembrar-3SG.HUM			
+_	jínuñ		VERB	VerbForm=Fin	siembra	?-sembrar-?			
+_	jínus		VERB	VerbForm=Fin	siembra	?-sembrar-3SG.MSC			
+_	nichis		VERB	VerbForm=Fin	vio	?-ver-3SG.MSC			
+_	nichiy		VERB	VerbForm=Fin	vio	?-ver-3SG.HUM			
+_	nichita		VERB	VerbForm=Fin	vio	?-ver-3SG.FEM			
+_	jinus		VERB	VerbForm=Fin	usa	?-usar-3SG.MSC			
+_	nood	kaʼan	VERB	VerbForm=Fin	llegaste	?-?-2SG			
+_	noʼó	kaʼan	VERB	VerbForm=Fin	voy	?-?-1SG			
+_	chúʼüu	kaʼan	VERB	VerbForm=Fin	fuimos	CPL-ir-1PL			
+_	cheʼë	kaʼan	VERB	VerbForm=Fin	fui	CPL-ir-1SG			
+_	kuʼes	kaʼan	VERB	VerbForm=Fin	fue	PROG-ir-3SG.MSC			
+_	cheés	kaʼan	VERB	VerbForm=Fin	fue	CPL-ir-3SG.MSC			
+_	cheʼéy	kaʼan	VERB	VerbForm=Fin	fue	CPL-ir-3SG.HUM			
+_	kueʼëñ	kaʼan	VERB	VerbForm=Fin	fue	PROG-ir-?			
+_	cheʼeñ	kaʼan	VERB	VerbForm=Fin	fue	CPL-ir-?			
+_	kuey	kaʼan	VERB	VerbForm=Fin	fue	PROG-ir-3SG.HUM			
+_	koʼöd	kaʼan	VERB	VerbForm=Fin	irás	POT-ir-2SG			
+_	koʼo	kaʼan	VERB	VerbForm=Fin	iré	POT-ir-1SG			
+_	koʼö	kaʼan	VERB	VerbForm=Fin	iré	POT-ir-1SG			
+_	cheʼed	kaʼan	VERB	VerbForm=Fin	fuiste	CPL-ir-2SG			
+_	jeʼëñ	kaʼan	VERB	VerbForm=Fin	va	?-ir-?			
+_	koʼoñ	kaʼan	VERB	VerbForm=Fin	irá	POT-ir-?			
+_	jeʼëta	kaʼan	VERB	VerbForm=Fin	van	?-ir-3SG.FEM			
+_	jeʼen	kaʼan	VERB	VerbForm=Fin	vamos	?-ir-1PL			
+_	jeʼeñ	kaʼan	VERB	VerbForm=Fin	va	?-ir-?			
+_	jeʼé	kaʼan	VERB	VerbForm=Fin	voy	?-ir-1SG			
+_	kueʼeñ	kaʼan	VERB	VerbForm=Fin	fue	?-ir-?			
+_	kueʼëd	kaʼan	VERB	VerbForm=Fin	vé	?-ir-2SG			
+_	jee	cheʼe	VERB	VerbForm=Fin	como	?-comer-1SG			
+_	jeʼet	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG 			
+_	jeét	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG 			
+_	jeéta	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.FEM			
+_	jeéy	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.HUM			
+_	cheʼet	cheʼe	VERB	VerbForm=Fin	comio	?-comer-3SG.AML			
+_	cheʼe	cheʼe	VERB	VerbForm=Fin	como	?-comer-1SG			
+_	cheʼes	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.MSC			
+_	jeeya	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.HUM			
+_	cheed	cheʼe	VERB	VerbForm=Fin	come	?-comer-2SG			
+_	cheeta	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.FEM			
+_	chuʼuu	cheʼe	VERB	VerbForm=Fin	comemos	?-comer-1PL			
+_	cheʼey	cheʼe	VERB	VerbForm=Fin	come	?-comer-3SG.HUM			
+_	jeʼe	cheʼe	VERB	VerbForm=Fin	estoy.comiendo	?-comer-1SG			
+_	chuʼuu	cheʼe	VERB	VerbForm=Fin	comemos	?-comer-1PL			
+_	neʼë		VERB	VerbForm=Fin	quiero	?-querer-1SG			
+_	nee		VERB	VerbForm=Fin	quería	?-querer-?			
+_	neʼé		VERB	VerbForm=Fin	quiero	?-querer-1SG			
+_	neé		VERB	VerbForm=Fin	quiere	?-querer-?			
+_	neʼe		VERB	VerbForm=Fin	quiere	?-querer-?			
+_	neʼes		VERB	VerbForm=Fin	quiere	?-querer-3SG.MSC			
+_	neʼeñ		VERB	VerbForm=Fin	quiere	?-querer-3SG.HUM			
+_	ñeʼen		VERB	VerbForm=Fin	quiere	?-querer-?			
+_	nikus		VERB	VerbForm=Fin	vendio	?-vender-3SG.MSC			
+_	jiniku		VERB	VerbForm=Fin	vendo	?-vender-1SG			
+_	jinikuy		VERB	VerbForm=Fin	vende	?-vender-3SG.HUM			
+_	jiníkuy		VERB	VerbForm=Fin	vendio	?-vender-3SG.HUM			
+_	jinuy		VERB	VerbForm=Fin	pone	?-poner-3SG.HUM			
+_	jiíy		VERB	VerbForm=Fin	toma	?-tomar-3SG.HUM			
+_	jiì		VERB	VerbForm=Fin	tomo	?-tomar-1SG			
+_	kuʼu	kúʼu	VERB	VerbForm=Fin	tomo	POT-tomar-1SG			
+_	jinoo		VERB	VerbForm=Fin	sale	?-salir-?			
+_	jiknó		VERB	VerbForm=Fin	salen	?-salir-?			
+_	jino		VERB	VerbForm=Fin	sale	?-salir-?			
+_	jinó		VERB	VerbForm=Fin	sale	?-salir-?			
+_	kano		VERB	VerbForm=Fin	salieron	?-salir-?			
+_	kanó		VERB	VerbForm=Fin	salí	?-salir-1SG			
+_	kanoo		VERB	VerbForm=Fin	salió	?-salir-?			
+_	ted		VERB		dame	?-dar-2SG			
+_	joʼoy		VERB	VerbForm=Fin	da	?-dar-?			
+_	chika		VERB	VerbForm=Fin	corté	CPL-cortar-1SG			
+_	kàkad		VERB	VerbForm=Fin	cortar	POT-cortar-2SG			
+_	kaaka		VERB	VerbForm=Fin	cortar	POT-cortar-?			
+_	kua	kua	VERB	VerbForm=Fin	comprar	POT-comprar-1SG			
+_	kaa	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-1SG			
+_	kuaa	kua	VERB	VerbForm=Fin	comprar	POT-comprar-1SG			
+_	káta	kua	VERB	VerbForm=Fin	compró	CPL-comprar-3SG.FEM			
+_	kaá	kua	VERB	VerbForm=Fin	compré	CPL-comprar-1SG			
+_	ká	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-1SG			
+_	kay	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-3SG.HUM			
+_	kad	kua	VERB	VerbForm=Fin	comprar	CPL-comprar-2SG			
+_	kuad	kua	VERB	VerbForm=Fin	comprar	POT-comprar-2SG			
+_	kúad	kua	VERB	VerbForm=Fin	comprar	POT-comprar-2SG			
+_	jaata	kua	VERB	VerbForm=Fin	compra	PROG-comprar-3SG.FEM			
+_	koʼoy		VERB	VerbForm=Fin	pegaron	?-pegar-?			
+_	jinuu		VERB	VerbForm=Fin	pongo	?-poner-1SG			
+_	jinikuta		VERB	VerbForm=Fin	vende	?-vender-3SG.FEM			
+_	jitubita		VERB	VerbForm=Fin	ocupa	?-ocupar-3SG.FEM			
+_	nguas		VERB	VerbForm=Fin	traer	?-traer-3SG.MSC			
+_	chikata		VERB	VerbForm=Fin	pidió	?-pedir-3SG.FEM			
+_	chiis		VERB	VerbForm=Fin	puso	?-poner-3SG.MSC			
+_	chëe		VERB	VerbForm=Fin	aprendí	?-aprender-1SG			
+_	nanáa		VERB	VerbForm=Fin	hacer	?-hacer-?			
+_	jintibiy		VERB	VerbForm=Fin	hace	?-hacer-3SG.HUM			
+_	nindamas		VERB	VerbForm=Fin	juntó	?-juntar-3SG.MSC			
+_	jinaá		VERB	VerbForm=Fin	preparo	?-preparar-1SG			
+_	nichi		VERB	VerbForm=Fin	vi	?-ver-1SG			
+_	jinánuy		VERB	VerbForm=Fin	está lavando	?-lavar-3SG.HUM			
+_	nánu		VERB	VerbForm=Fin	lavo	?-lavar-1SG			
+_	chines		VERB	VerbForm=Fin	ayudó	?-ayudar-3SG.MSC			
+_	jinikus		VERB	VerbForm=Fin	vende	?-vender-3SG.MSC			
+_	kákud		VERB	VerbForm=Fin	haz	?-hacer-2SG			
+_	jeé		VERB	VerbForm=Fin	como	?-comer-1SG			
+_	chee		VERB	VerbForm=Fin	comer	?-comer-1SG			
+_	nabeanud		VERB	VerbForm=Fin	recoger	?-recoger-2SG			
+_	kuéd		VERB	VerbForm=Fin	vé	?-ir-2SG			
+_	kued		VERB	VerbForm=Fin	vé	?-ir-2SG			
+_	chinoy		VERB	VerbForm=Fin	se cayó	?-caerse-3SG.HUM			
+_	kuyadud		VERB	VerbForm=Fin	duerme	?-dormir-2SG			
+_	jitubii		VERB	VerbForm=Fin	ocupo	?-ocupar-1SG			
+_	níchi		VERB	VerbForm=Fin	vi	?-ver-1SG			
+_	jitubiy		VERB	VerbForm=Fin	ocupan	?-ocupar-3SG.HUM			
+_	chinus		VERB	VerbForm=Fin	mató	?-matar-3SG.MSC			
+_	kuned		VERB	VerbForm=Fin	ayuda	?-ayudar-2SG			
+_	aa		VERB	VerbForm=Fin	canta	?-cantar-?			
+_	jitúbiy		VERB	VerbForm=Fin	ocupa	?-ocupar-3SG.HUM			
+_	joʼód		VERB	VerbForm=Fin	dices	?-decir-2SG			
+_	katad		VERB	VerbForm=Fin	cantar	?-cantar-2SG			
+_	kata		VERB	VerbForm=Fin	canta	?-cantar-?			
+_	kanbakud		VERB	VerbForm=Fin	casarse	?-casarse-2SG			
+_	kanbaku		VERB	VerbForm=Fin	casarse	?-casarse-1SG			
+_	kamad		VERB	VerbForm=Fin	leer	?-leer-2SG			
+_	kakioʼöd		VERB	VerbForm=Fin	quemar	?-quemar-2SG			
+_	kaneé		VERB	VerbForm=Fin	cargar	?-cargar-?			
+_	naka		VERB	VerbForm=Fin	encontré	?-encontrar-1SG			
+_	tanod		VERB	VerbForm=Fin	sácale	?-sacar-2SG			
+_	kakad		VERB	VerbForm=Fin	corta	POT-cortar-2SG			
+_	chinót		VERB	VerbForm=Fin	se cayó	?-caerse-3SG.AML			
+_	guay		VERB	VerbForm=Fin	traer	?-traer-3SG.HUM			
+_	jinay		VERB	VerbForm=Fin	lleva	?-llevar-?			
+_	kunud		VERB	VerbForm=Fin	ponle	?-poner-2SG			
+_	kúʼu	kúʼu	VERB	VerbForm=Fin	tomar	POT-tomar-1SG			
+_	kánud		VERB	VerbForm=Fin	corre	?-correr-2SG			
+_	kanú		VERB	VerbForm=Fin	cargar	?-cargar-?			
+_	kadinu		VERB	VerbForm=Fin	me enteraré	?-enterarse-1SG			
+_	kadínu		VERB	VerbForm=Fin	almorzar	?-almorzar-1SG			
+_	jinkuë		VERB	VerbForm=Fin	revuelve	?-revolver-?			
+_	kachí		VERB	VerbForm=Fin	vomitar	?-vomitar-?			
+_	káchi		VERB	VerbForm=Fin	hierva	?-hervir-?			
+_	jindiyaa		VERB	VerbForm=Fin	asusta	?-asusta-?			
+_	china		VERB	VerbForm=Fin	perdí	?-perder-1SG			
+_	chiná		VERB	VerbForm=Fin	perdio	?-perder-3SG			
+_	chiñá		VERB	VerbForm=Fin	se ensució	?-ensuciarse-?			
+_	jeakuy		VERB	VerbForm=Fin	llorar	?-llorar-3SG.HUM			
+_	jeakuy		VERB	VerbForm=Fin	tapar	?-tapar-3SG.HUM			
+_	jeanu		VERB	VerbForm=Fin	correr	?-correr-?			
+_	jidijü		VERB	VerbForm=Fin	estoy escribiendo	?-escribir-1SG			
+_	jeakuta		VERB	VerbForm=Fin	está llorando	?-llorar-3SG.FEM			
+_	jába		VERB	VerbForm=Fin	ladra	?-ladrar-?			
+_	yeabean		ADV		mucho, muy				
+_	baʼa		NOUN		casa				
+_	kó		DET		ese				
+_	eanu		VERB		gusto	?-gustar-1SG			
+_	tï		NOUN		cabeza				
+_	nochi		ADV	AdvType=Rel	donde				
+_	kat		SCONJ		porque				
+x	to		ADJ		mucho				
+x	too		ADJ		mucho				
+_	tii		NOUN		cabeza				
+_	tii		ADV		dónde				
+_	ntiñu		NOUN		trabajo				
+_	yana		NOUN		perro				
+x	yaa		VERB		está				
+x	yaá		VERB		está				
+_	tuu		NOUN		piedra				
+_	tikaa		NOUN		mi ropa				
+_	tika		NOUN		ropa				
+_	tiaka		NOUN		plátano				
+_	ñoʼoo		NOUN		tierra, barro				
+_	ñeé		NOUN		de él	base-POSS.3SG			
+_	noʼo		NOUN		leña				
+_	nata		NOUN		maíz				
+_	it		NOUN		animal				
+_	dami		NOUN		espalda, caparazón				
+_	chinta		VERB	VerbForm=Fin	se mojó	?-mojarse-?			
+_	chiinta		VERB	VerbForm=Fin	se mojaron	?-mojarse-?			
+_	chinbaʼa		NOUN		puerta	boca#casa			
+_	biʼi		NOUN		mi hermano				
+_	toʼo		NOUN		mano				
+_	nùni		NOUN		agua				
+_	noy		VERB		vino	?-venir-?			
+_	nakuu		NOUN		guarache				
+_	mojoben	mojobe	ADV		hoy				
+_	mojobe	mojobe	ADV		hoy				
+x	kuee		ADJ		chueco				
+_	kú		NOUN		campana				
+_	kané		VERB		está	?-estar-?			
+x	kaba		ADJ		feo				
+_	ji		VERB		hace	?-hacer-?			
+_	diibi		NOUN		estiércol				
+_	dinuu		NOUN		mi hermano				
+_	dinuun		NOUN		mi hermano				
+_	keaben		NOUN		mi hermano				
+_	chinuú		NOUN		mi hermano				
+_	chiblaʼa		NOUN		armadillo				
+_	cheate		VERB	VerbForm=Stat	grande				
+_	beat		VERB		hay	?-existir-3SG.AML			
+_	yúdii		NOUN		elote				
+_	yádi		NOUN		higo				
+x	tö		ADJ		mucho				
+_	tíkun		NOUN		chapulín				
+_	tíku		NOUN		chapulín				
+_	tïi		NOUN		cabeza				
+_	tiba		NOUN		empanada				
+_	takabea		VERB		cómo está	cómo#estar			
+_	soʼö		NOUN		hombre				
+_	snuu		VERB		tiene	?-tener-?			
+_	snúni		NOUN		padrino				
+_	snuni		NOUN		padrino				
+_	snú		VERB		tengo	?-tener-1SG			
+_	snu		VERB		tiene				
+_	sadii		NOUN		mi hermano				
+_	pö		NOUN		pan				
+_	nutdúü		NOUN		grilla				
+_	nutdiku		NOUN		granadas				
+x	num		ADJ		todo				
+_	nukud		NOUN	NounType=Relat	contigo	con-POSS.SG2			
+_	noos		NOUN		su cara	cara-POSS.3SG.MSC			
+_	nojobe		NOUN		cielo				
+_	nó		VERB		lavar				
+x	nintubii		ADJ		descompuesto				
+_	ndeyee		NOUN		durazno				
+x	nda		ADV		muy				
+_	naiyaá		NOUN		salsa				
+_	naa		NOUN		oro				
+_	mii		ADV		allá				
+_	maa		NOUN		noche				
+_	kuí		VERB		echar	?-echar-?			
+_	kueta		NOUN		cohete				
+_	kueta		VERB	VerbForm=Fin	fue	?-ir-3SG.FEM			
+_	kubii		NOUN		lluvia				
+_	kántu		NOUN		caldo				
+_	kanee		VERB	VerbForm=Fin	se quedó	?-quedarse-?			
+_	kaned		VERB	VerbForm=Fin	estás	?-estar-2SG			
+_	kanat		VERB	VerbForm=Fin	lleva	?-llevar-3SG.AML			
+_	job		NOUN		día				
+x	jobey		NOUN		se llama				
+_	jinguy		VERB	VerbForm=Fin	dejar	?-dejar-?			
+_	jiney		VERB	VerbForm=Fin		?-hablar-3SG.HUM			
+_	jinee		VERB	VerbForm=Fin	hablo	?-hablar-?			
+_	jimaa		VERB		anochece				
+_	jíkuu		NOUN		río				
+_	jiku		NOUN		río, cerro				
+_	iñan		NOUN		gente				
+_	íi		VERB	VerbForm=Fin	echo	?-echar-1SG			
+_	gë		VERB		hace				
+_	díta		NOUN		pájaro carpintero				
+_	dínud		VERB		apretas	?-apretar-2SG			
+_	dikuoʼoo		NOUN		bebé				
+_	dijinuy		NOUN		nieto				
+_	din		PRON	PronType=Prs	tú	2SG			
+_	dií		PRON	PronType=Prs	tú	2SG			
+_	dayay		NOUN		su hijo(a)	hijo-POSS.3SG.HUM			
+_	chúntii		NOUN		grillo				
+_	chinuñ		VERB	VerbForm=Fin	mató	?-matar-?			
+_	chineabea		VERB	VerbForm=Fin	me caí	?-caerse-1SG			
+_	chikuincháakuu		NOUN		virgen				
+_	chií	kúʼu	VERB	VerbForm=Fin	tomé	CPL-tomar-1SG			
+_	chiduu		NOUN		sacerdote				
+_	chiadi		NOUN		azúcar				
+_	cheé		VERB		comer	?-comer-?			
+_	chedee		NOUN		carga				
+x	chéche		ADJ		duro				
+x	chebäa		VERB		comer				
+_	adeea		PRON	PronType=Int	qué				
+_	zangáta		NOUN		lobo				
+_	yúuni		NOUN		camino				
+_	yùni		NOUN		camino				
+_	yuni		NOUN		camino				
+_	yukuu		NOUN		calabaza				
+_	yúdu		NOUN		animal				
+_	yudnooy		NOUN		barba				
+x	yeabe		ADV		muy				
+_	yaʼaa		NOUN		jícara				
+_	yaʼá		VERB		duele	?-doler-?			
+_	yàta		NOUN		hierba				
+x	yanuʼu		ADJ		profundo				
+_	yakun		NOUN		iglesia				
+_	yadkuöo		NOUN		canario				
+_	yáda		NOUN		pájaro				
+_	yàbi		ADV		anoche				
+x	yaaʼa		VERB		duele				
+_	yaás		VERB		ama	?-amar-3SG.MSC			
+_	túʼu		NOUN		pollo				
+_	tumaa		VERB		cortar	?-cortar-?			
+_	tuma		VERB		cortar	?-cortar-?			
+_	toʼos		NOUN		su esposa	esposa-POSS.3SG.MSC			
+_	toʼoo		NOUN		mano				
+_	töo		NOUN						
+_	tíyu		NOUN		tenatillo				
+_	tiudi		NOUN		ratón				
+_	tínu		NOUN		ropa				
+_	tíntu		NOUN		colibrí				
+_	tími		NOUN		ombligo				
+_	tiku		NOUN		ramo				
+_	tikoo		NOUN		niña				
+_	tiid		NOUN		tu cabeza	cabeza-POSS.2SG			
+_	tïd		NOUN		tu cabello	cabello-POSS.2SG			
+_	tibi		VERB	VerbForm=Fin	fumar	?-fumar-?			
+_	tiäa		NOUN		chicozapote				
+x	tatioo		ADV		mañana				
+_	tamoʼo		VERB		abrazar	?-abrazar-?			
+x	tama		ADJ		otra				
+_	takoó		NOUN		esa mujer				
+_	taka	taka	ADV		cómo				
+_	tadin		NOUN		niña				
+_	tadii		NOUN		niña				
+_	tadï		NOUN		niña				
+x	taa		ADJ		verde				
+_	stebe		NOUN		corazón				
+x	sópa		ADJ		grueso(a)				
+_	snuú		VERB		tiene				
+_	snii		NOUN		sombrero				
+_	snï		NOUN		sobrino				
+_	snet		VERB		están				
+_	sné		VERB		están				
+_	sankubi		NOUN		borracho				
+_	sangáta		NOUN		lobo				
+_	sakuiti		NOUN		escarabajo				
+_	sakoó		NOUN		hombre				
+_	runtíya		NOUN		rodilla				
+x	renke		ADJ		flaco				
+x	raʼa		ADJ		duro				
+_	rantiya		NOUN		rodilla				
+_	ranti		NOUN		ruído				
+x	ranku		ADJ		alto				
+x	rampa		ADJ		calvo				
+_	raabu		NOUN		mostaza				
+x	poʼo		ADJ		recien nacido				
+_	ñu		NOUN		granizo				
+_	ñóʼoo		NOUN		barro				
+_	ñoʼön		NOUN		sol				
+_	ñöo		NOUN		calor				
+_	ñóo		NOUN		espina				
+_	ñonútii		NOUN		arena				
+_	ñóngukuu		NOUN		barro				
+_	ñò		NOUN		espina				
+_	ñëʼét		NOUN	NounType=Relat		base-POSS.3SG.AML			
+_	ñëʼen		NOUN	NounType=Relat					
+_	ñeeñ		NOUN	NounType=Relat		base-POSS.3SG.HUM			
+_	ñëd		NOUN	NounType=Relat	de ti	base-POSS.2SG			
+x	ñaʼa		ADJ		lejos				
+_	ñañaa		NOUN		coyote				
+_	ñaña		NOUN		león				
+x	ñaat		ADJ		sucio				
+_	nutyáku		NOUN		cebolla				
+_	nutoʼo		NOUN		dedo				
+_	nutñó		NOUN		zarzamora				
+_	nutnoos		NOUN		su ojo	ojo-POSS.3SG.MSC			
+_	nunkubi		NOUN		agua de lluvia				
+_	nùnim		NOUN		agua				
+_	nun		NOUN		arroyo				
+_	núku		NOUN		conmigo	con-POSS.1SG			
+_	nuko		ADP		con				
+_	nubnuni		NOUN		lunar				
+_	nubi		NOUN		grano				
+_	nubdamauʼu		VERB		reuniremos				
+_	ntú		NOUN		atole				
+_	noʼos		VERB		ir	?-ir-3SG.MSC			
+_	chíika		VERB	VerbForm=Fin	corté	CPL-cortar-1SG			
+_	nooyos		NOUN		su edad				
+x	noobe		NOUN		par				
+_	nojoobee		NOUN		cielo				
+x	nod		VERB		tienes				
+x	nobe		NOUN		par				
+_	Nóba	Nóba	PROPN		Oaxaca				
+_	nnioó		ADV		en la lumbre	en#lumbre			
+x	ninjaʼa		ADJ		lastimado(a)				
+_	nínii		VERB		se reventó	?-reventar-?			
+_	niibii		NOUN		papa				
+_	niï		NOUN		chayote				
+_	nichid		VERB	VerbForm=Fin	viste	?-ver-2SG			
+x	nicha		ADJ		grande				
+_	nguay		VERB	VerbForm=Fin	traer	?-traer-?			
+_	neʼëñ		VERB	VerbForm=Fin	quiere				
+_	neʼéd		VERB	VerbForm=Fin	necesitas				
+_	neʼed		VERB	VerbForm=Fin	quieres	?-querer-2SG			
+_	iñsee		PRON	PronType=Prs	ellos	3PL			
+_	neés		VERB	VerbForm=Fin	quiere	?-querer-3SG.MSC			
+_	nede		NOUN		barranca				
+_	neatu		NOUN		tomate				
+_	néabea		NOUN		gallina ciega				
+_	nduu		NOUN		caña				
+_	ndoyo		NOUN		año				
+_	ndios		NOUN		dios				
+_	ndimi		NOUN		hombro				
+_	ndeyaa		NOUN		durazno				
+_	ndeayaa		NOUN		durazno				
+_	ndéa		NOUN		cacaya				
+x	ndáy		ADJ		bueno				
+x	ndaá		ADJ		bueno				
+_	nanomnod		VERB		llegar primero				
+x	nankuníbii		ADJ		grande				
+_	naneache		VERB		borrar				
+_	nana		VERB		voy a hacer	?-hacer-?			
+_	najaá		NOUN		nuez				
+_	naidii		NOUN		aguacate				
+x	nabií		ADJ		pegado				
+_	nabaku		NOUN		mi casa				
+x	naas		ADJ		bueno				
+_	muu		ADV		aquí				
+_	moneatea		ADV		semana pasada				
+_	mogeché		NOUN		axila				
+_	mnòò				tiene rato				
+_	míi	míi	ADV		ahí				
+_	man		ADV		ahora				
+_	lunch		NOUN		borrego				
+_	Luis	Luis	PROPN		Luis				
+x	lantiku		NOUN		costilla				
+_	kúʼuu	kúʼu	VERB		tomar	POT-tomar-?			
+_	kuʼö	kuʼö	ADV		antenoche				
+_	kuyadu		VERB		dormir	?-dormir-?			
+_	kuunód		VERB		tienes pena	?-tener.pena-2SG			
+_	küu		NOUN		molde para hacer comal				
+_	kútii		NOUN		sombra				
+_	kunoo		VERB	VerbForm=Fin	caer	?-caer-?			
+_	kuni		NOUN		guajolotito				
+_	kuna		VERB	VerbForm=Fin	masticar	?-masticar-1SG			
+_	kulantro		NOUN		cilantro				
+_	kuïñu		NOUN		comadreja				
+x	kuiku		VERB		tengo hambre				
+_	kuid		VERB		echa	?-echar-?			
+_	kui		VERB		servir	?-servir-?			
+_	kueʼe		VERB		va	?-ir-?			
+_	kueatoʼoy		VERB		echar pico	?-echar.pico-?			
+_	kuchii		NOUN		puerco				
+_	kuchba		NOUN		patio				
+_	kubnoʼo		NOUN		aguacero				
+_	kúbi		NOUN		lluvia				
+_	kuay		VERB		piscar	?-piscar-3SG.HUM			
+_	ku		DET		este				
+_	koʼó		VERB		picó	?-picar-?			
+_	koó		DET		ese				
+_	koón		DET		ese				
+_	ko		DET		ese				
+x	kiuñú		ADJ		picudo				
+_	keabeay		NOUN		su hermano	hermano-3SG.HUM			
+_	kayadu		VERB	VerbForm=Fin	dormir	?-dormir-?			
+_	kataʼa		VERB	VerbForm=Fin	traes	?-traer-?			
+_	kastila		NOUN		sávila				
+_	kanuy		VERB		está	?-estar-3SG.HUM			
+_	kanuu		VERB		está				
+x	käntay		ADJ		delicados				
+x	kánta		ADJ		peligrosas				
+x	kani		ADJ		rápido				
+_	kangùy		VERB		va a dejar				
+_	kanguu		VERB		moler				
+_	kanguad		VERB		traer	POT-traer-2SG			
+_	kanet		VERB		está	?-estar-3SG.AML			
+_	kaneñ		VERB		está	?-estar-3SG.HUM			
+_	kánat		VERB	VerbForm=Fin	llevó	?-llevar-3SG.AML			
+_	kakay		VERB		echar tortilla				
+_	kachi		NOUN		avispa				
+x	kabachi		SCONJ		porque				
+_	kunu		VERB		voy a poner	?-poner-1SG			
+_	jitií		VERB		se seca	?-secarse-?			
+_	juú		NUM	NumType=Card	cinco				
+_	juu		NUM	NumType=Card	cinco				
+_	joʼo		VERB		pica	?-picar-?			
+_	jóbey		NOUN		su nombre	nombre-POSS.3SG.HUM			
+_	jiʼi		VERB		tomar	?-tomar-?			
+_	jíyuu		NOUN		carrizo				
+_	jitnoy		VERB	VerbForm=Fin	hace	?-hacer-3SG.HUM			
+_	jitbon		VERB		atrapar	?-atrapar-?			
+_	jinkue		VERB		levanta	?-levantar-?			
+_	Jinguyu	Jinguyu	PROPN		México				
+_	jinguay		VERB	VerbForm=Fin	va a traer	?-traer-?			
+_	jinguata		VERB		traer	?-traer-3SG.FEM			
+_	jineʼe		NOUN		encino				
+_	jineñ		VERB	VerbForm=Fin	pone	?-poner-?			
+_	jinéacheta		VERB	VerbForm=Fin	barre	?-barrer-?			
+_	jinbinti		VERB		retoñan	?-retoñar-?			
+_	jínay		VERB		se baña	?-bañarse-?			
+_	jináy		VERB	VerbForm=Fin	preparan	?-preparar-?			
+_	jinatnoy		VERB	VerbForm=Fin	está sacando	?-sacar-3SG.HUM			
+_	jinanus		VERB	VerbForm=Fin	está lavando	?-lavar-3SG.MSC			
+_	jinanuchi		VERB	VerbForm=Fin	me despierto	?-despertarse-?			
+_	jikuu		NOUN		río				
+_	jikney		VERB	VerbForm=Fin	cargan	?-cargar-?			
+_	jikadi		VERB	VerbForm=Fin	puede	?-poder-?			
+_	jijéa		VERB	VerbForm=Fin	se tira	?-tirarse-?			
+_	jigea		VERB	VerbForm=Fin	cae	?-caer-?			
+_	jidkueakus		VERB		tocar				
+_	jidis		VERB	VerbForm=Fin	hace	?-hacer-3SG.MSC			
+_	jidiñ		VERB	VerbForm=Fin	está haciendo	?-hacer-?			
+_	jidií		VERB	VerbForm=Fin	hacer	?-hacer-?			
+_	jidí		VERB	VerbForm=Fin	hacer	?-hacer-1SG			
+_	jidi		VERB	VerbForm=Fin	hace	?-hacer-?			
+_	jideabe		VERB		amanece	?-amanecer-?			
+_	jichoó		VERB	VerbForm=Fin	paso	?-pasar-?			
+_	jichisnee		VERB	VerbForm=Fin	amarro	?-amarrar-?			
+_	jichiba		VERB	VerbForm=Fin	sirve	?-servir-?			
+_	jingaku		VERB	VerbForm=Fin	recuerdo	?-recordar-?			
+_	chinó		VERB	VerbForm=Fin	entró	?-entrar-?			
+_	chinoo		VERB	VerbForm=Fin	entró	?-entrar-?			
+_	jeʼey		VERB	VerbForm=Fin	comen	?-comer-?			
+_	jeʼët		VERB	VerbForm=Fin	ir	?-ir-3SG			
+_	jëʼe		VERB	VerbForm=Fin	voy	?-ir-?			
+_	jabnututa		VERB	VerbForm=Fin	da vueltas	?-dar.vueltas-3SG.FEM			
+_	jabee		NOUN		oreja, oido				
+_	jabat		VERB	VerbForm=Fin	ladra	?-ladrar-?			
+x	jáa		ADJ		nuevo				
+x	já		ADJ		nuevo				
+x	jaa		ADJ		nuevo				
+_	kamboo		NOUN		compadre				
+_	itñeʼë		NOUN		mis animales	animal#base-POSS.1SG			
+_	iñʼtoʼö		NOUN		guajolota				
+_	iñuu		NOUN		guajolote				
+_	ínu		VERB	VerbForm=Fin	mato	?-matar-1SG			
+_	intii				hay				
+_	inti				hay				
+_	ìkut		VERB		pone	?-poner-?			
+_	ikay		VERB		hace	?-hacer-?			
+_	eñ		VERB		estudiar	?-estudiar-?			
+_	eatoʼóy		VERB		echa pico				
+_	eanut		VERB	VerbForm=Fin	gusta	?-gustar-3SG			
+_	eanus		VERB	VerbForm=Fin	gusta	?-gustar-3SG.MSC			
+_	eanud		VERB	VerbForm=Fin	gustas	?-gustar-2SG			
+_	duʼu		PRON	PronType=Int	quién				
+_	duuʼu		PRON	PronType=Int	quién				
+_	duú		NOUN		uña				
+_	dut		NOUN		huevo				
+_	dúkuu		VERB	VerbForm=Fin	robé	?-robar-?			
+_	duku		NOUN		ladrón				
+_	dúdut		NOUN		sus plumas				
+_	duchii		NOUN		bromas				
+x	dáaya		ADJ		tartamuda				
+_	dnete		NOUN		ejote				
+_	díyu		NOUN		liana				
+_	dituuy		VERB	VerbForm=Stat	fuerte				
+_	dítuu		NOUN		orilla				
+_	dítu		NOUN		orilla				
+_	dinu		NOUN		mi hermano				
+_	dinaá		VERB		hice	?-hacer-?			
+_	dimoʼö		ADV		sólo				
+x	dimoo		ADJ		sólo, puro				
+_	dikuoʼo		NOUN		bebé				
+_	dikunú		NOUN		nuera				
+_	dikaya		NOUN		niños				
+_	dikadi		VERB		peso				
+_	diis		VERB	VerbForm=Fin	cometió	?-hacer-3SG.MSC			
+_	diiñu		NOUN		diente				
+_	diinuu		NOUN		gorro				
+_	diijuku		NOUN		tecolote				
+_	did		VERB		haces	?-hacer-2SG			
+_	dibyudi		NOUN		mala mujer				
+_	dibíkuy		VERB		bendecir	?-bendecir-?			
+_	dibaku		NOUN		cuicateco				
+_	dii		VERB		hago	?-hacer-?			
+_	dï		VERB		hago	?-hacer-?			
+_	dechea		NOUN		mugre				
+_	deanud		VERB	VerbForm=Fin	sabes	?-saber-SG2			
+_	deaku		NOUN		basura				
+_	dayas		NOUN		su hijo(a)	hijo-POSS.3SG.MSC			
+_	dayad		NOUN		tu hijo(a)	hijo-POSS.SG2			
+_	dayaa		NOUN		su hijo(a)				
+_	daanu		NOUN		sombra				
+_	chuu		PRON		ésto				
+_	chiʼiy		VERB		murió	?-morir-3SG.HUM			
+_	chivatu		NOUN		chivo				
+_	chivato		NOUN		chivo				
+_	cheanun		NOUN		mi cuñada				
+_	chitod		VERB	VerbForm=Fin	agarraste	?-agarrar-2SG			
+_	chínu		VERB	VerbForm=Fin	maté	?-matar-1SG			
+_	chinuy		VERB	VerbForm=Fin	mató	?-matar-3SG.HUM			
+_	chìnus		VERB	VerbForm=Fin	mató	?-matar-3SG.MSC			
+_	chinu		VERB	VerbForm=Fin	maté	?-matar-1SG			
+_	chinod		VERB	VerbForm=Fin	tiraste	?-tirar-2SG			
+_	chiniiyat		VERB	VerbForm=Fin	asustó	?-asustar-?			
+_	chíni		NOUN		frijolar				
+_	chivatun		NOUN		chivo				
+_	chiní		NOUN		hígado				
+_	chineñ		VERB		culparon				
+_	chineabed		VERB		te caíste	?-caerse-2SG			
+_	chineabay		VERB	VerbForm=Fin	se cayó	?-caerse-?			
+_	chikudayay		NOUN		su comadre	comadre-POSS.3SG.HUM			
+_	chikuday		NOUN		comadre				
+_	chikadi		VERB	VerbForm=Fin	pude	?-poder-1SG			
+_	chíita		VERB	VerbForm=Fin	creció	?-crecer-?			
+_	chiíbat		NOUN		telaraña				
+_	chiibat		NOUN		telaraña				
+_	chiiba		NOUN		precio				
+_	chiba		NOUN		precio				
+_	chenet		VERB	VerbForm=Fin	morder	?-morder-?			
+_	cheéd		VERB	VerbForm=Fin	comes	?-comer-2SG			
+_	cheebinuy		VERB	VerbForm=Fin	va a cenar	?-cenar-3SG.HUM			
+x	chebá		NOUN		comida,comer				
+_	cheatu		VERB	VerbForm=Fin	quebré	?-quebrar-1SG			
+x	cheatuy		ADJ		sordo				
+_	chéatea		VERB	VerbForm=Stat	grande				
+_	cháku		NOUN		mi mamá				
+_	boʼos		NOUN		su miedo	miedo-POSS.3SG.MSC			
+_	bakñoo		NOUN		municipio				
+_	bokioo		NOUN		municipio				
+_	biʼin		NOUN		mi hermana				
+_	binkuinuu				de luto				
+_	bílu		NOUN		gato				
+_	bíʼi		NOUN		mi hermano				
+_	biʼi		NOUN		fruta				
+_	bií		NOUN		fruta				
+_	bii		NOUN		fruta				
+_	bichi		NOUN		gato				
+x	bichas		ADJ		está gordo				
+_	beta		NOUN		su oreja				
+_	bèèye		NOUN		nixtamal				
+_	beeye		NOUN		nixtamal				
+_	bèèya		NOUN		nixtamal				
+_	beede		NOUN		español				
+_	bèè		NOUN		orilla				
+x	bée		ADJ		malo(a)				
+x	bedyeno		ADJ		estar de fiesta				
+x	bedeanu		NOUN		conocimiento				
+_	chichëen		NOUN		mi abuelito				
+_	chichë		NOUN		mi abuelito				
+_	chichen		NOUN		mi abuelito				
+_	ñoʼö		NOUN		pueblo				
+_	ñoʼon		NOUN		pueblo				
+_	ñoo		NOUN		pueblo				
+_	ñó		NOUN		pueblo				
+_	bayaka		NOUN		coscomate				
+_	bañeʼë		NOUN		mi casa	casa#base-POSS.1SG			
+_	bakun		NOUN		mi casa				
+x	ay		VERB		llama				
+_	áta		VERB		llora				
+_	át		VERB		grita				
+_	at		VERB		grita				
+_	dikayan		NOUN		niños				
+_	ñuu		NOUN		mazorca				
+_	tin		DET		ese				
+_	ti		DET		ese				
+_	kon		DET		ese				
+_	ey		INTJ		sí				
+_	mun		ADV		aquí				
+x	kuninun		ADV		allá arriba				
+_	dimá		ADV		pasado mañana				
+_	dimaan		ADV		pasado mañana				
+_	ñò		NOUN		espina				
+_	ndatan		NOUN		mujeres				
+_	ñú		NOUN		mazorca				
+_	sadï		NOUN		mi niño				
+_	saíkuu		NOUN		buitre				
+x	nì		ADJ		muerto				
+_	sangoʼoo		NOUN		arriera				
+_	nuekueʼen		PRON		todos				
+x	tös		ADJ		enojado				
+x	toó		ADV		allí				
+_	amañ		PRON		alguien				
+_	chenu		NOUN		cuñada				
+_	chenun		NOUN		cuñada				
+_	tutoʼö		NOUN		gallina				
+_	tusoʼö		NOUN		gallo				
+_	tú		NOUN		pulgada				
+_	noʼo		NOUN		leña				
+_	si		PRON		eso				
+_	kuí		VERB		echar	?-echar-?			
+_	chii		VERB		se murió	?-morirse-?			
+_	ika		VERB		hago	?-hacer-1SG			
+_	yaʼa		VERB		duele				
+_	üñ		VERB		raja	?-rajar-?			
+x	anicha		ADJ		macizo				
+_	choʼo		VERB		pasé	?-pasar-1SG			
+_	kachika		VERB		anda	?-andar-?			
+_	nantibid		VERB		haz	?-hacer-?			
+_	neñu		VERB		voy a coser	?-coser-?			
+_	dinán		VERB		preparan	?-preparar-?			
+_	chinʼö		VERB	VerbForm=Fin	soñé	?-soñar-1SG			
+_	eatú		VERB	VerbForm=Fin	golpeé	?-golpear-?			
+_	eatu		VERB	VerbForm=Fin	estoy levantando	?-levantar-?			
+_	chitöo		VERB	VerbForm=Fin	se reventó	?-reventarse-?			
+_	chitee		VERB	VerbForm=Fin	se rompió	?-romperse-?			
+_	nudii		VERB	VerbForm=Fin	se cerró	?-cerrar-?			
+_	nanad		VERB	VerbForm=Fin	haz	?-hacer-2SG			
+_	nankued		VERB	VerbForm=Fin	levanta	?-levantar-2SG			
+_	amtea				no hay				
+_	alberga		NOUN		chícharo				
+_	burru		NOUN		burro				
+_	kutoʼuu		VERB	VerbForm=Fin	atrapar	?-atrapar-?			
+_	kuchid		VERB	VerbForm=Fin	ven	?-venir-2SG			
+_	Jiguyum		PROPN		México				
+_	Juó		PROPN		Juan				
+_	comida		NOUN		comida				
+_	tiʼö		NOUN		árbol				
+_	per		CCONJ		pero				
+_	lápiz		NOUN		lápiz				
+_	noʼod		VERB		vayas	?-ir-2SG			
+_	iñsë		NOUN		esa gente				
+_	jinangaku		VERB		extraño	?-extrañar-?			
+_	jinankués		VERB		levantarse	?-levantar-?			
+_	jobku		ADV		hoy				
+_	yudú		NOUN		metate				
+_	íyaan		NOUN		chile				
+_	tioʼö		NOUN		árbol				
+_	sï		NOUN		sombrero				
+_	sen		DET		estos				
+_	color		NOUN		color				
+_	mi		DET		esa				
+_	o		CCONJ		o				
+x	kuät		ADJ		negro				
+x	kueat		ADJ		blanco				
+_	kutu		NOUN		olla				
+_	min		DET		esta				
+x	nìnuu		ADJ		cerca				
+_	Fom		PROPN		Juan				
+x	kanes		VERB		está	?-estar-?			
+_	chidad		NOUN		tu papá	papá-POSS.2SG			
+_	kuetíchi		NOUN		canasta				
+_	kun		PRON		esto				
+_	deanu		VERB	VerbForm=Fin	sé	?-saber-SG1			
+_	dae		PRON		que				
+_	did		VERB		hacer	?-hacer-?			
+_	kutum		NOUN		olla				
+_	kùchi		VERB		sembrar	?-sembrar-?			
+_	ñeʼes	ñeʼe	NOUN	NounType=Relat	de él	base-POSS.3SG.MSC			
+_	ndod		VERB		llegaste	?-llegar-2SG			
+_	machetem		NOUN		machete				
+_	ndo		VERB		había llegado	?-llegar-?			
+_	tumin		SCONJ		para que				
+_	Manuel		PROPN		Juan				
+_	machete		NOUN		machete				
+_	bakud		NOUN		tu casa	casa-POSS.2SG			
+_	Juóm		PROPN		Juan				
+_	silïm		NOUN		niño				
+_	noʼö		NOUN		maestro				
+_	niku		ADJ		viejo				
+_	kutokoʼo		VERB		empezar				
+_	kunus		VERB		sembrar				
+_	kune		VERB		quedarse				
+_	koʼös		VERB		va				
+_	kayadus		VERB		estaba durmiendo				
+_	jiyadus		VERB		duerme				
+_	jinuku		VERB		vende				
+_	iñsé		PRON		ellos				
+_	Fo		PROPN		Juan				
+_	chimjinu		VERB		me olvidé				
+_	chichí		VERB		sembrar				
+_	chitokoʼo		VERB		empecé				
+x	yunu		ADJ		joven				
+_	takó		PRON		ella				
+_	tabea		PRON		cuánto				
+_	silï		NOUN		niño				
+_	ño		ADP		en				
+_	ñeʼey	ñeʼe	NOUN	NounType=Relat	de ellos	base-POSS.3PL			
+_	nèè		NOUN		vez				
+_	ndata		NOUN		mujer				
+_	Marian		PROPN		María				
+_	nangakud		VERB		acuérdate				
+_	nád		VERB		tienes	?-tener-2SG			
+_	ná		VERB		tiene 				
+_	insë		PRON		ustedes				
+x	duytï		NOUN		pelo				
+_	dín		PRON		tú				
+_	màà		NOUN		noche				
+_	kakued		VERB		enséñame				
+_	mniñu		ADV		ahora				
+_	kuin		VERB		acabar				
+_	kuchis		VERB		vino				
+_	kuá		VERB		compraré				
+_	kanu		VERB		está				
+_	kabiö		ADV		mañana				
+_	jobed		NOUN		tu nombre				
+_	chimjinud		VERB		olvidaste				
+x	cho		DET		esa				
+_	chimbaʼa		NOUN		puerta				
+_	chikueta		VERB		enseñó				
+_	chikadinud		VERB		supiste				
+_	chid		VERB		echaste				
+_	bakus		NOUN		su casa				
+_	Pedro		PROPN		Pedro				
+_	tonto		ADJ		tonto				
+_	Eduviges		PROPN		Eduviges				
+_	temprano		ADV		temprano				
+_	yuudum		NOUN		caballo				
+x	yudtï		NOUN		pelo				
+_	yanam		NOUN		perro				
+_	yakuy		ADJ		altos				
+_	yakuta		ADJ		alta				
+_	yakut		VERB		volar				
+_	yakus		ADJ		alto				
+_	yákum		NOUN		iglesia				
+_	yakud		ADJ		alto				
+_	yàka		VERB		tengo sed				
+_	tumgoʼos		VERB		me preguntó				
+_	tumad		VERB		cortar				
+_	tubnéd		VERB		prestaste	?-prestar-2SG			
+_	toʼod		NOUN		tu mano				
+_	tò		ADV		ahí				
+_	komida		NOUN		comida				
+_	sopa		NOUN		sopa				
+_	tako		PRON		ella				
+_	soʼös		NOUN		hombre				
+_	soʼön		PRON		él				
+_	sakón		PRON		él				
+_	obes		NUM		en dos				
+_	inus		NUM		en tres				
+_	amas		NUM		en uno				
+_	ob		NUM		dos				
+_	nujinu		VERB		tengo prisa				
+_	noʼös		NOUN		maestro				
+_	nèta		VERB		ordenó				
+_	diyadus		VERB		duerme				
+_	insën		PRON		ustedes				
+_	insén		PRON		ustedes				
+_	insé		PRON		ustedes				
+_	insú		PRON		nosotros				
+_	noʼöm		NOUN		maestro				
+_	nòò		NUM		nueve				
+_	neachea		NUM		siete				
+_	kùù		NUM		cuatro				
+_	joo		NUM		seis				
+_	nini		NUM		ocho				
+_	nichama		NUM		once				
+_	niku		NUM		veinte				
+_	am		NUM		uno				
+_	kanós		VERB		salieron				
+_	in		NUM		tres				
+_	kutoʼon		VERB		agarren				
+_	kunoʼos		VERB		se fue				
+_	tum		SCONJ		para que				
+_	ndó		VERB		vino	?-venir-?			
+_	chikadinu		VERB		supe	?-saber-?			
+_	chimbaʼam		NOUN		puerta				
+_	nangadí		VERB		cerrar	?-cerrar-?			
+_	jobeku		ADV		hoy				
+_	dànti		VERB		tengo flojera				
+_	kuenó		VERB		tengo pena				
+_	kuenód		VERB		tienes pena				
+_	kutea				no hay				
+x	eatea		ADJ		grandes				
+x	daë		PRON		qué				
+_	Jidiba		PROPN		Mixteca				
+_	ndatata		NOUN		mujer				
+_	juana	Juana	PROPN		Juana				
+_	beayee		NOUN		nixtamal				
+_	jinukuy		VERB		venden				
+_	kadayuʼuu		VERB		estamos durmiendo				
+_	jiyaduy		VERB		duerme				
+_	jiyadu		VERB		duermo				
+_	nauné		ADV		de nuevo				
+_	chakuta		NOUN		su mamá				
+_	jù		INTJ		sí				
+_	jikata		VERB		pide	?-pedir-3SG.FEM			
+_	nokuó		ADV		a veces				
+_	bakuʼuu		NOUN		nuestra casa				
+_	baʼam		NOUN		casa				
+_	beajukus				el que está sentado				
+_	beaka				sí hay				
+_	biʼid		NOUN		tu hermano				
+x	bö		ADP		en				
+_	cheá		VERB		se pintó				
+_	chéam		NOUN		comal				
+_	chèd		VERB		aprendiste				
+_	beade		NOUN		español				
+_	chidata		NOUN		su papá				
+_	chikueñ		VERB		enseñó				
+_	chu		PRON		este				
+_	chineta		PRON		ella				
+_	damid		VERB		acusó				
+_	dayan		NOUN		mis hijos				
+_	denud		VERB		sabes				
+_	dì		VERB						
+_	di		VERB						
+_	dime		ADV		sólo				
+_	dimod		ADV		sólo				
+_	dimo		ADV		sólo				
+_	jines		VERB		habla				
+_	dimos		ADV		sólo				
+_	chaketa		NOUN		su mamá				
+_	kúës		ADJ		flaco				
+_	kúën		ADJ		flacos				
+_	iyún		ADJ		chaparro				
+_	iyúʼuu		ADJ		chaparros				
+_	iyús		ADJ		chaparro				
+_	iyúd		ADJ		chaparro	chaparro-COP.2SG			
+_	na		ADV		ya				
+_	intin		PRON		usted				
+_	intï		PRON		usted				
+_	jeʼed		VERB		estás comiendo				
+_	jeʼë		VERB		comer				
+_	diuu		VERB						
+_	kanut		VERB		está				
+_	kantu		NOUN		comida				
+_	tan		ADV		sólo				
+_	ndininus		VERB		acostumbró				
+_	ndininu		VERB		acostumbro				
+_	nikua				no				
+_	nigua				no				
+_	diuu		VERB						
+_	kueʼes		VERB		se fue				
+_	mí		ADV		allá				
+_	nès		VERB		ordenó	?-ordenar-?			
+_	neʼeta		VERB		quiere				
+_	techkód		VERB		lleves				
+_	techkó		VERB		lleva				
+_	ta		NOUN	NounType=Clf					
+_	ninubita		VERB		se parece				
+_	ninubis		VERB		se parece				
+_	nandinda		VERB		arregla				
+_	nano		ADP		en frente de				
+_	ichad		VERB		tienes frío				
+_	chitoʼo		VERB		tener gripa				
+_	ka		ADV		aún				
+_	ni		ADV		hasta				
+_	yakuʼuu		ADJ		altos				
+_	kanad		VERB		traerías	?-traer-2SG			
+_	chíd		VERB						
+x	yaduu		ADJ		picante				
+_	yadan		NOUN		su hijo				
+_	toʼö		PRON		él				
+_	nichin		VERB		vimos				
+_	nochid		VERB		viste				
+_	kúeas		NOUN		brujo				
+_	kudadus		VERB		va a dormir				
+_	kuch		ADP		fuera				
+_	kenés		VERB		estaba				
+_	kód		VERB		súbete	?-subirse-2SG			
+_	jite		VERB		digo	?-decir-1SG			
+_	kadinud		VERB		sepas	?-saber-2SG			
+_	jitenud		VERB		crees	?-creer-2SG			
+_	jitenu		VERB		creo	?-creer-1SG			
+_	jinu		VERB		atrasé	?-atrasarse-1SG			
+_	jined		VERB		sabes	?-saber-2SG			
+_	jiné		VERB		sé	?-saber-1SG			
+_	jidijù		VERB		escribir				
+_	jidid		VERB		hacer				
+_	jichis		VERB		viene	?-venir-3SG.MSC			
+_	jeku		NOUN		pohual				
+_	jea		VERB		me subo	?-subirse-1SG			
+_	íñ		NOUN		familia				
+_	geá		VERB		subirme	?-subirse-1SG			
+_	dukud		VERB		robar	?-robar-?			
+_	diuu		VERB						
+x	díni		ADJ		salado				
+_	kub		VERB		va a ser				
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
