@@ -2,6 +2,8 @@
 # text = Baʼa kun cheatea.
 # text[orig] = Ba'a kun cheatea.
 # text[spa] = Esta casa es grande.
+# alimg = Esta casa es grande.
+# hash = 8622ba90abcb7a1503a3dd16dd152dc1
 # tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -12,6 +14,8 @@
 # text = Baʼa kun gua cheatea.
 # text[orig] = Ba'a kun gua cheatea.
 # text[spa] = Esta casa no es grande.
+# alimg = Esta casa no es grande.
+# hash = 95e521f19a8143a6fd91cf66f4cba094
 # tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -23,6 +27,8 @@
 # text = Baʼa kun lï.
 # text[orig] = Ba'a kun lï.
 # text[spa] = Esta casa es chica.
+# alimg = Esta casa es chica.
+# hash = b8a76201c6603771ca4e303b6b27f8c6
 # tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -33,6 +39,8 @@
 # text = Baʼa kun gua lï.
 # text[orig] = ba'a kun gua lï.
 # text[spa] = Esta casa no es chica.
+# alimg = Esta casa no es chica.
+# hash = f563cdbf811f8da475cfdc72b1f8438a
 # tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -44,6 +52,8 @@
 # text = Baʼa kun já.
 # text[orig] = Ba'a kun já.
 # text[spa] = Esta casa es nueva.
+# alimg = Esta casa es nueva.
+# hash = 5bb60079db9d28da8f16fa8632221a01
 # tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -54,6 +64,8 @@
 # text = Baʼa kun gua já.
 # text[orig] = Ba'a kun gua já.
 # text[spa] = Esta casa no es nueva
+# alimg = Esta casa no es nueva
+# hash = 10eb76e0ef8384df9b1555f7449c2c5b
 # tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -65,6 +77,8 @@
 # text = Baʼa kun niku.
 # text[orig] = Ba'a kun niku.
 # text[spa] = Esta casa es vieja.
+# alimg = Esta casa es vieja.
+# hash = 1d42b0fe59040967320411346efb74c6
 # tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -75,6 +89,8 @@
 # text = Baʼa kun gua niku.
 # text[orig] = Ba'a kun gua niku.
 # text[spa] = Esta casa no es vieja.
+# alimg = Esta casa no es vieja.
+# hash = 2cff7769401d01d5882e17f43b4ae678
 # tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -86,6 +102,8 @@
 # text = Baʼa kun kuea.
 # text[orig] = Ba'a kun kuea.
 # text[spa] = Esta casa es blanca.
+# alimg = Esta casa es blanca.
+# hash = 78cb866b9d9e341b133ab541c9cbf611
 # tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -96,6 +114,8 @@
 # text = Baʼa kun gua kuea.
 # text[orig] = Ba'a kun gua kuea.
 # text[spa] = Esta casa no es blanca.
+# alimg = Esta casa no es blanca.
+# hash = d2856179e7296fbc356833b34dfe8011
 # tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -107,6 +127,8 @@
 # text = ¿A taka baʼa mi?
 # text[orig] = ¿A taka ba'a mi?
 # text[spa] = ¿Cómo es esa casa?
+# alimg = ¿Cómo es esa casa?
+# hash = d4c6e46e9317c1a64f81d021493f051d
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -119,6 +141,8 @@
 # text = ¿A cheatea baʼa mi?
 # text[orig] = ¿A cheatea ba'a mi?
 # text[spa] = ¿Qué tan grande es esa casa?
+# alimg = ¿Qué tan grande es esa casa?
+# hash = 63c6c9d8263baba05a1823623229037b
 # tagged = true
 # text[lit] = ¿Es grande esa casa?
 1	¿	¿	PUNCT	_	_	_	_	_	_
@@ -132,6 +156,8 @@
 # text = ¿A já baʼa mi?
 # text[orig] = ¿A já ba'a mi?
 # text[spa] = ¿Es nueva esa casa?
+# alimg = ¿Es nueva esa casa?
+# hash = ffcd91bc07bba0534b6f279b68584d63
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -144,6 +170,8 @@
 # text = Tika, já.
 # text[orig] = Tika, já.
 # text[spa] = Sí, es nueva.
+# alimg = Sí, es nueva.
+# hash = e5424780d419c07c25c0dab0aab94066
 # tagged = true
 1	Tika	_	NOUN	_	_	_	_	_	Trad=ropa
 2	,	,	PUNCT	_	_	_	_	_	_
@@ -154,6 +182,8 @@
 # text = Jú, já.
 # text[orig] = Jú, já.
 # text[spa] = Sí, es nueva.
+# alimg = Sí, es nueva.
+# hash = e5424780d419c07c25c0dab0aab94066
 # tagged = true
 1	Jú	_	INTJ	_	_	_	_	_	Trad=sí|UPOS=Guessed
 2	,	,	PUNCT	_	_	_	_	_	_
@@ -164,6 +194,8 @@
 # text = Gua, gua já.
 # text[orig] = Gua, gua já.
 # text[spa] = No, no es nueva.
+# alimg = No, no es nueva.
+# hash = 2a82060a521099560c5f12858eb7260d
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	,	,	PUNCT	_	_	_	_	_	_
@@ -175,6 +207,8 @@
 # text = Tika.
 # text[orig] = Tika.
 # text[spa] = Sí.
+# alimg = Sí.
+# hash = 0f10e1d666dabd0eb970aa255dfd37ec
 # tagged = true
 1	Tika	_	NOUN	_	_	_	_	_	Trad=ropa
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -183,6 +217,8 @@
 # text = Jú.
 # text[orig] = Jú.
 # text[spa] = Sí.
+# alimg = Sí.
+# hash = 0f10e1d666dabd0eb970aa255dfd37ec
 # tagged = true
 1	Jú	_	INTJ	_	_	_	_	_	Trad=sí|UPOS=Guessed
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -191,6 +227,8 @@
 # text = Gua.
 # text[orig] = Gua.
 # text[spa] = No.
+# alimg = No.
+# hash = fbd39fe0ecd01afaf01ea1957ef4a57c
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -199,6 +237,8 @@
 # text = Un yaku.
 # text[orig] = Un yaku.
 # text[spa] = Yo soy alto.
+# alimg = Yo soy alto.
+# hash = 9ae3b74d9771833417664618cfb4e245
 # tagged = true
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	yaku	_	ADJ	_	_	_	_	_	Trad=alto|UPOS=Guessed
@@ -208,6 +248,8 @@
 # text = Ú yaku.
 # text[orig] = Ú yaku.
 # text[spa] = Yo soy alto.
+# alimg = Yo soy alto.
+# hash = 9ae3b74d9771833417664618cfb4e245
 # tagged = true
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	yaku	_	ADJ	_	_	_	_	_	Trad=alto|UPOS=Guessed
@@ -217,6 +259,8 @@
 # text = Dín yakud.
 # text[orig] = Dín yakud.
 # text[spa] = Tú eres alto.
+# alimg = Tú eres alto.
+# hash = 5feb2af1e0e0a60e476630ad5bff49c1
 # tagged = true
 1	Dín	_	PRON	_	_	_	_	_	Trad=tú
 2	yakud	_	ADJ	_	_	_	_	_	Trad=alto
@@ -226,6 +270,8 @@
 # text = Intin yakun.
 # text[orig] = Intin yakun.
 # text[spa] = Usted es alto.
+# alimg = Usted es alto.
+# hash = 8c953edd635fda2dd694be434658f1f1
 # tagged = true
 1	Intin	_	PRON	_	_	_	_	_	Trad=usted
 2	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
@@ -235,6 +281,8 @@
 # text = Sakó yakus.
 # text[orig] = Sakó yakus.
 # text[spa] = El es alto.
+# alimg = El es alto.
+# hash = 739653010477fd0eef4759b9cddf1327
 # tagged = true
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
 2	yakus	_	ADJ	_	_	_	_	_	Trad=alto
@@ -244,6 +292,8 @@
 # text = Takó yakuta.
 # text[orig] = Takó yakuta.
 # text[spa] = Ella es alta.
+# alimg = Ella es alta.
+# hash = a77c4e3e77565ad8b120cd0ed755db82
 # tagged = true
 1	Takó	_	PRON	_	_	_	_	_	Trad=ella
 2	yakuta	_	ADJ	_	_	_	_	_	Trad=alta
@@ -253,8 +303,10 @@
 # text = ʼUu yakuʼuu.
 # text[orig] = 'Uu yaku'uu.
 # text[spa] = Nosotros somos altos.
+# alimg = Nosotros somos altos. (exclusivo)
+# hash = 6f538a3266e47dad3d208228ae4246ce
 # tagged = true
-# note = (inclusivo)
+# note = (exclusivo)
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	yakuʼuu	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -263,8 +315,10 @@
 # text = ʼUu yakuʼuu.
 # text[orig] = 'Uu yaku'uu.
 # text[spa] = Nosotros somos altos.
+# alimg = Nosotros somos altos. (inclusivo)
+# hash = 3ccf2174ce723cf1668ae4ef0cf0a9f3
 # tagged = true
-# note = (exclusivo)
+# note = (inclusivo)
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	yakuʼuu	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -273,6 +327,8 @@
 # text = Insën yakun.
 # text[orig] = Insën yakun.
 # text[spa] = Ustedes son altos
+# alimg = Ustedes son altos
+# hash = ef5901be6e814f9550ab24350279da0a
 # tagged = true
 1	Insën	_	PRON	_	_	_	_	_	Trad=ustedes
 2	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
@@ -282,6 +338,8 @@
 # text = Iñsé yakuy.
 # text[orig] = Iñsé yakuy.
 # text[spa] = Ellos son altos.
+# alimg = Ellos son altos.
+# hash = bfed9e86fab7ae248f0373a04e90f5c9
 # tagged = true
 1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
 2	yakuy	_	ADJ	_	_	_	_	_	Trad=altos
@@ -291,6 +349,8 @@
 # text = Ú iyú.
 # text[orig] = Ú iyú.
 # text[spa] = Yo soy chaparro.
+# alimg = Yo soy chaparro.
+# hash = f183cc43b6fea7810834b8de06559435
 # tagged = true
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	iyú	_	ADJ	_	_	_	_	_	Trad=chaparro|UPOS=Guessed
@@ -300,6 +360,8 @@
 # text = Un iyú.
 # text[orig] = Un iyú.
 # text[spa] = Yo soy chaparro.
+# alimg = Yo soy chaparro.
+# hash = f183cc43b6fea7810834b8de06559435
 # tagged = true
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	iyú	_	ADJ	_	_	_	_	_	Trad=chaparro|UPOS=Guessed
@@ -309,6 +371,8 @@
 # text = Dín iyúd.
 # text[orig] = Dín iyúd.
 # text[spa] = Tú eres chaparro.
+# alimg = Tú eres chaparro.
+# hash = 52af73d1ce9f11acb962c07a900b1d9d
 # tagged = true
 1	Dín	_	PRON	_	_	_	_	_	Trad=tú
 2	iyúd	_	ADJ	_	_	_	_	_	Trad=chaparro|Gloss=chaparro-COP.2SG
@@ -318,6 +382,8 @@
 # text = Sakó iyús.
 # text[orig] = Sakó iyús.
 # text[spa] = El es chaparro.
+# alimg = El es chaparro.
+# hash = d8056b3131e2c136755c34ee192474db
 # tagged = true
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
 2	iyús	_	ADJ	_	_	_	_	_	Trad=chaparro
@@ -327,8 +393,10 @@
 # text = ʼUu iyúʼuu.
 # text[orig] = 'Uu iyú'uu.
 # text[spa] = Nosotros somos chaparros.
+# alimg = Nosotros somos chaparros. (exclusivo)
+# hash = d20b957911d9f4c4707e8f3366846de2
 # tagged = true
-# note = (inclusivo)
+# note = (exclusivo)
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	iyúʼuu	_	ADJ	_	_	_	_	_	Trad=chaparros
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -337,8 +405,10 @@
 # text = ʼUu iyúʼuu.
 # text[orig] = 'Uu iyú'uu.
 # text[spa] = Nosotros somos chaparros.
+# alimg = Nosotros somos chaparros. (inclusivo)
+# hash = 12433c622084e647799038b825cbb134
 # tagged = true
-# note = (exclusivo)
+# note = (inclusivo)
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	iyúʼuu	_	ADJ	_	_	_	_	_	Trad=chaparros
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -347,6 +417,8 @@
 # text = Insën iyún.
 # text[orig] = Insën iyún.
 # text[spa] = Ustedes son chaparros.
+# alimg = Ustedes son chaparros.
+# hash = 58da16966c73641eff913f71db40f832
 # tagged = true
 1	Insën	_	PRON	_	_	_	_	_	Trad=ustedes
 2	iyún	_	ADJ	_	_	_	_	_	Trad=chaparro
@@ -356,6 +428,8 @@
 # text = Iñsé iyún.
 # text[orig] = Iñsé iyún.
 # text[spa] = Ellos son chaparros.
+# alimg = Ellos son chaparros.
+# hash = d8afae21beffa4a0adc656d517fd7637
 # tagged = true
 1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
 2	iyún	_	ADJ	_	_	_	_	_	Trad=chaparro
@@ -365,6 +439,8 @@
 # text = Un rúʼu.
 # text[orig] = Un rú'u.
 # text[spa] = Yo soy gordo.
+# alimg = Yo soy gordo.
+# hash = 5a583ba92ab8226183c755bb33ad9817
 # tagged = false
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	rúʼu	_	_	_	_	_	_	_	_
@@ -374,6 +450,8 @@
 # text = Ú rúʼu.
 # text[orig] = Ú rú'u.
 # text[spa] = Yo soy gordo.
+# alimg = Yo soy gordo.
+# hash = 5a583ba92ab8226183c755bb33ad9817
 # tagged = false
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	rúʼu	_	_	_	_	_	_	_	_
@@ -383,6 +461,8 @@
 # text = Un bícha.
 # text[orig] = Un bícha.
 # text[spa] = Yo soy gordo.
+# alimg = Yo soy gordo.
+# hash = 5a583ba92ab8226183c755bb33ad9817
 # tagged = false
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	bícha	_	_	_	_	_	_	_	_
@@ -392,6 +472,8 @@
 # text = Ú bícha.
 # text[orig] = Ú bícha.
 # text[spa] = Yo soy gordo.
+# alimg = Yo soy gordo.
+# hash = 5a583ba92ab8226183c755bb33ad9817
 # tagged = false
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	bícha	_	_	_	_	_	_	_	_
@@ -401,6 +483,8 @@
 # text = Din rúʼu.
 # text[orig] = Din rú'u.
 # text[spa] = Tú eres gordo
+# alimg = Tú eres gordo
+# hash = 58d0b3c957a3b5f1bcda9ba968add650
 # tagged = false
 1	Din	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 2	rúʼu	_	_	_	_	_	_	_	_
@@ -410,6 +494,8 @@
 # text = Dí bíchad.
 # text[orig] = Dí bíchad.
 # text[spa] = Tú eres gordo
+# alimg = Tú eres gordo
+# hash = 58d0b3c957a3b5f1bcda9ba968add650
 # tagged = false
 1	Dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 2	bíchad	_	_	_	_	_	_	_	_
@@ -419,6 +505,8 @@
 # text = Din bíchad.
 # text[orig] = Din bíchad.
 # text[spa] = Tú eres gordo
+# alimg = Tú eres gordo
+# hash = 58d0b3c957a3b5f1bcda9ba968add650
 # tagged = false
 1	Din	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 2	bíchad	_	_	_	_	_	_	_	_
@@ -428,6 +516,8 @@
 # text = Sakó rúʼus.
 # text[orig] = Sakó rú'us.
 # text[spa] = El es gordo
+# alimg = El es gordo
+# hash = 69b5edfb2c0ef707d87d74efa14316f4
 # tagged = false
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
 2	rúʼus	_	_	_	_	_	_	_	_
@@ -437,6 +527,8 @@
 # text = Sakón rúʼus.
 # text[orig] = Sakón rú'us.
 # text[spa] = El es gordo
+# alimg = El es gordo
+# hash = 69b5edfb2c0ef707d87d74efa14316f4
 # tagged = false
 1	Sakón	_	PRON	_	_	_	_	_	Trad=él
 2	rúʼus	_	_	_	_	_	_	_	_
@@ -446,6 +538,8 @@
 # text = Sakó bíchas.
 # text[orig] = Sakó bíchas.
 # text[spa] = El es gordo
+# alimg = El es gordo
+# hash = 69b5edfb2c0ef707d87d74efa14316f4
 # tagged = false
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
 2	bíchas	_	_	_	_	_	_	_	_
@@ -455,6 +549,8 @@
 # text = Sakón bíchas.
 # text[orig] = Sakón bíchas.
 # text[spa] = El es gordo
+# alimg = El es gordo
+# hash = 69b5edfb2c0ef707d87d74efa14316f4
 # tagged = false
 1	Sakón	_	PRON	_	_	_	_	_	Trad=él
 2	bíchas	_	_	_	_	_	_	_	_
@@ -464,9 +560,11 @@
 # text = ʼUu rúʼuu.
 # text[orig] = 'Uu rú'uu.
 # text[spa] = Nosotros somos gordos.
+# alimg = Nosotros somos gordos. (exclusivo)
+# hash = cf3b122ff2a36ef8a8ff7455b91b827e
 # tagged = true
 # text[lit] = ('Uu= se utiliza en la conversación cuando hablan solo los que están incluidos en el adjetivo)
-# note = (inclusivo)
+# note = (exclusivo)
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	rúʼuu	_	ADJ	_	_	_	_	_	Trad=gordos|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -475,8 +573,10 @@
 # text = Uu bíchaʼuu.
 # text[orig] = Uu bícha'uu.
 # text[spa] = Nosotros somos gordos.
+# alimg = Nosotros somos gordos. (inclusivo)
+# hash = bbf0f1028f341037c19d008aec6174a5
 # tagged = false
-# note = (exclusivo)
+# note = (inclusivo)
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	bíchaʼuu	_	_	_	_	_	_	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -485,6 +585,8 @@
 # text = Insën rúʼun.
 # text[orig] = Insën rú'un.
 # text[spa] = Ustedes son gordos.
+# alimg = Ustedes son gordos.
+# hash = 51b63e7506a9b1ef8e9bdafd9b272eb1
 # tagged = false
 1	Insën	_	PRON	_	_	_	_	_	Trad=ustedes
 2	rúʼun	_	_	_	_	_	_	_	_
@@ -494,6 +596,8 @@
 # text = Insën bíchan.
 # text[orig] = Insën bíchan.
 # text[spa] = Ustedes son gordos.
+# alimg = Ustedes son gordos.
+# hash = 51b63e7506a9b1ef8e9bdafd9b272eb1
 # tagged = false
 1	Insën	_	PRON	_	_	_	_	_	Trad=ustedes
 2	bíchan	_	_	_	_	_	_	_	_
@@ -503,6 +607,8 @@
 # text = Iñsén rúʼun.
 # text[orig] = Iñsén rú'un.
 # text[spa] = Ellos son gordos.
+# alimg = Ellos son gordos.
+# hash = 58555b1c64c18b37bffe8ad9dfe9622f
 # tagged = false
 1	Iñsén	_	_	_	_	_	_	_	_
 2	rúʼun	_	_	_	_	_	_	_	_
@@ -512,6 +618,8 @@
 # text = Iñsén bíchan.
 # text[orig] = Iñsén bíchan.
 # text[spa] = Ellos son gordos.
+# alimg = Ellos son gordos.
+# hash = 58555b1c64c18b37bffe8ad9dfe9622f
 # tagged = false
 1	Iñsén	_	_	_	_	_	_	_	_
 2	bíchan	_	_	_	_	_	_	_	_
@@ -521,6 +629,8 @@
 # text = Un kúë.
 # text[orig] = Un kúë.
 # text[spa] = Yo soy flaco.
+# alimg = Yo soy flaco.
+# hash = f21b2188a350e1edecd825cbcc9ea770
 # tagged = true
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	kúë	_	ADJ	_	_	_	_	_	Trad=delgado|UPOS=Guessed
@@ -530,6 +640,8 @@
 # text = Ú kúë.
 # text[orig] = Ú kúë.
 # text[spa] = Yo soy flaco.
+# alimg = Yo soy flaco.
+# hash = f21b2188a350e1edecd825cbcc9ea770
 # tagged = true
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	kúë	_	ADJ	_	_	_	_	_	Trad=delgado|UPOS=Guessed
@@ -538,7 +650,9 @@
 # sent_id = alimg:8
 # text = Dí kúëd.
 # text[orig] = Dí kúëd.
-# text[spa] = Tu eres flaco
+# text[spa] = Tu eres flaco.
+# alimg = Tu eres flaco.
+# hash = 4bd6304b4f3de2a35c8187163ce9b47f
 # tagged = false
 1	Dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 2	kúëd	_	_	_	_	_	_	_	_
@@ -547,7 +661,9 @@
 # sent_id = alimg:8
 # text = Dín kúëd.
 # text[orig] = Dín kúëd.
-# text[spa] = Tu eres flaco
+# text[spa] = Tu eres flaco.
+# alimg = Tu eres flaco.
+# hash = 4bd6304b4f3de2a35c8187163ce9b47f
 # tagged = false
 1	Dín	_	PRON	_	_	_	_	_	Trad=tú
 2	kúëd	_	_	_	_	_	_	_	_
@@ -557,6 +673,8 @@
 # text = Sakó kúës.
 # text[orig] = Sakó kúës.
 # text[spa] = El es flaco.
+# alimg = El es flaco.
+# hash = 5904fa94b94e851de702a58143135339
 # tagged = true
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
 2	kúës	_	ADJ	_	_	_	_	_	Trad=flaco
@@ -566,9 +684,11 @@
 # text = Insú kúën.
 # text[orig] = Insú kúën.
 # text[spa] = Nosotros somos flacos.
+# alimg = Nosotros somos flacos. (inclusivo)
+# hash = d248e8344dd2f1ccb79aa8bece8502fa
 # tagged = true
 # text[lit] = (Insú= se utiliza para responder al alguien que no está incluido en el adjetivo)
-# note = (exclusivo)
+# note = (inclusivo)
 1	Insú	_	PRON	_	_	_	_	_	Trad=nosotros
 2	kúën	_	ADJ	_	_	_	_	_	Trad=flacos
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -577,6 +697,8 @@
 # text = Bakun cheatea.
 # text[orig] = Bakun cheatea.
 # text[spa] = Mi casa es grande.
+# alimg = Mi casa es grande.
+# hash = 16828c2b46a0be56d065e3022b9a017c
 # tagged = true
 1	Bakun	_	NOUN	_	_	_	_	_	Trad=mi.casa
 2	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
@@ -586,6 +708,8 @@
 # text = Bakud cheatea.
 # text[orig] = Bakud cheatea.
 # text[spa] = Tu casa es grande.
+# alimg = Tu casa es grande.
+# hash = 8d892b24032628981b0e915a6b7240d6
 # tagged = true
 1	Bakud	_	NOUN	_	_	_	_	_	Trad=tu.casa|Gloss=casa-POSS.2SG
 2	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
@@ -595,6 +719,8 @@
 # text = Baku sakón cheatea.
 # text[orig] = Baku sakón cheatea.
 # text[spa] = La casa de él es grande.
+# alimg = La casa de él es grande.
+# hash = c43f7f396cdbb3ecc9af7ca8688fdb9e
 # tagged = true
 1	Baku	_	NOUN	_	_	_	_	_	Trad=casa
 2	sakón	_	PRON	_	_	_	_	_	Trad=él
@@ -605,8 +731,10 @@
 # text = Bakuʼuu cheatea.
 # text[orig] = Baku'uu cheatea.
 # text[spa] = Nuestra casa es grande.
+# alimg = Nuestra casa es grande. (exclusivo)
+# hash = 4e67428f1cccc896a06d274416b64b90
 # tagged = true
-# note = (inclusivo)
+# note = (exclusivo)
 1	Bakuʼuu	_	NOUN	_	_	_	_	_	Trad=nuestra.casa
 2	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 3	.	.	PUNCT	_	_	_	_	_	_
@@ -615,6 +743,8 @@
 # text = Baku insén cheatea.
 # text[orig] = Baku insén cheatea.
 # text[spa] = La casa de ustedes es grande.
+# alimg = La casa de ustedes es grande.
+# hash = bac2823b51decdf01300f24ea47fe21e
 # tagged = true
 1	Baku	_	NOUN	_	_	_	_	_	Trad=casa
 2	insén	_	PRON	_	_	_	_	_	Trad=ustedes
@@ -624,9 +754,11 @@
 # sent_id = alimg:9
 # text = Yudú ñeʼë cheatea.
 # text[orig] = Yudú ñe'ë cheatea.
-# text[spa] = Mis metates son grndes
+# text[spa] = Mis metates son grandes.
+# alimg = Mis metates son grandes.
+# hash = 66ef2970378dafb9a6b03fa1c4272e40
 # tagged = true
-# note = (no es plural)
+# text[lit] = (no es plural)
 1	Yudú	_	NOUN	_	_	_	_	_	Trad=metate
 2	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
@@ -636,8 +768,10 @@
 # text = Yudú ñeʼed cheatea.
 # text[orig] = Yudú ñe'ed cheatea.
 # text[spa] = Tus metates son grandes.
+# alimg = Tus metates son grandes.
+# hash = 20dd70ee698b5f9cd737b1706e65e210
 # tagged = true
-# note = (Nl es plural)
+# text[lit] = (no es plural)
 1	Yudú	_	NOUN	_	_	_	_	_	Trad=metate
 2	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
@@ -647,6 +781,8 @@
 # text = Íyaan kuoʼo.
 # text[orig] = Íyaan kuo'o.
 # text[spa] = El chile es rojo.
+# alimg = El chile es rojo.
+# hash = 2ba848a2d4448efee156403733a69830
 # tagged = true
 1	Íyaan	_	NOUN	_	_	_	_	_	Trad=chile
 2	kuoʼo	_	ADJ	_	_	_	_	_	Trad=rojo|UPOS=Guessed
@@ -656,6 +792,8 @@
 # text = Íyaam na kuoʼo.
 # text[orig] = Íyaam na kuo'o.
 # text[spa] = Los chiles ya están rojos.
+# alimg = Los chiles ya están rojos.
+# hash = 4836e5b97051ac510c38c189428449ab
 # tagged = true
 1	Íyaam	_	NOUN	_	Typo=Yes	_	_	_	Trad=chile
 2	na	_	ADV	_	_	_	_	_	Trad=ya
@@ -666,6 +804,8 @@
 # text = Íyaam nikua kuoʼo.
 # text[orig] = Íyaam nikua kuo'o.
 # text[spa] = Los chiles todavía no están rojos.
+# alimg = Los chiles todavía no están rojos.
+# hash = be601e9dc95103783906dc48868c1251
 # tagged = false
 1	Íyaam	_	NOUN	_	Typo=Yes	_	_	_	Trad=chile
 2	nikua	_	_	_	_	_	_	_	Trad=no
@@ -676,6 +816,8 @@
 # text = Tioʼö kun cheatea.
 # text[orig] = Tio'ö kun cheatea.
 # text[spa] = El árbol es grande.
+# alimg = El árbol es grande.
+# hash = 18b9d4e80c4489bc7837931d94dc926b
 # tagged = true
 # text[lit] = Este árbol es grande
 1	Tioʼö	_	NOUN	_	_	_	_	_	Trad=árbol
@@ -687,6 +829,8 @@
 # text = Tioʼö kun kub cheatea.
 # text[orig] = Tio'ö kun kub cheatea.
 # text[spa] = El árbol va a ser grande.
+# alimg = El árbol va a ser grande.
+# hash = 1b3e3154170215b062883db95a690061
 # tagged = true
 # text[lit] = Este árbol va a ser grande
 1	Tioʼö	_	NOUN	_	_	_	_	_	Trad=árbol
@@ -699,6 +843,8 @@
 # text = Tioʼö kun na cheatea.
 # text[orig] = Tio'ö kun na cheatea.
 # text[spa] = Ese árbol ya era grande
+# alimg = Ese árbol ya era grande (cuando vinimos aquí).
+# hash = 09d693317eb38945b8936932b3213be0
 # tagged = true
 # text[lit] = Este árbol ya es grande
 # note = (cuando vinimos aquí).
@@ -712,6 +858,8 @@
 # text = Tioʼö min na chi cheatea.
 # text[orig] = Tio'ö min na chi cheatea.
 # text[spa] = Ese árbol se volvió grande.
+# alimg = Ese árbol se volvió grande.
+# hash = ee56e27efbfafbc427d07088a59691bd
 # tagged = true
 1	Tioʼö	_	NOUN	_	_	_	_	_	Trad=árbol
 2	min	_	DET	_	_	_	_	_	Trad=esta
@@ -724,6 +872,8 @@
 # text = Sï kun dama nuku ñeʼed.
 # text[orig] = Sï kun dama nuku ñe'ed.
 # text[spa] = Este sombrero es igual al tuyo.
+# alimg = Este sombrero es igual al tuyo.
+# hash = 6d224d3a597d9c4a5e7675eb55812b51
 # tagged = true
 1	Sï	_	NOUN	_	_	_	_	_	Trad=sombrero
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -736,6 +886,8 @@
 # text = Sï kun gua dama kunu ñeʼed.
 # text[orig] = Sï kun gua dama kunu ñe'ed.
 # text[spa] = Este sombrero no es igual al tuyo.
+# alimg = Este sombrero no es igual al tuyo.
+# hash = ea183a5be0b7f3ffbc519c7a07642969
 # tagged = true
 1	Sï	_	NOUN	_	_	_	_	_	Trad=sombrero
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -749,6 +901,8 @@
 # text = Sï sen gua dama.
 # text[orig] = Sï sen gua dama.
 # text[spa] = Estos sombreros son diferentes.
+# alimg = Estos sombreros son diferentes.
+# hash = aee32a87cbf3e5e00a92cc239f660883
 # tagged = true
 # text[lit] = Estos sombreros no son iguales
 1	Sï	_	NOUN	_	_	_	_	_	Trad=sombrero
@@ -761,6 +915,8 @@
 # text = ¿Dae color yada mi?
 # text[orig] = ¿Dae color yada mi?
 # text[spa] = ¿De qué color es esa falda?
+# alimg = ¿De qué color es esa falda?
+# hash = d25d7ba1ab3b25fc6e0436be6113a63e
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Dae	_	PRON	_	_	_	_	_	Trad=que
@@ -773,6 +929,8 @@
 # text = Yada min kuea nuku kuä.
 # text[orig] = Yada min kuea nuku kuä.
 # text[spa] = Esa falda es blanca y negra.
+# alimg = Esa falda es blanca y negra.
+# hash = b8053e7ee172376dedb8457ba585dec7
 # tagged = true
 1	Yada	_	NOUN	_	_	_	_	_	Trad=vestido
 2	min	_	DET	_	_	_	_	_	Trad=esta
@@ -785,6 +943,8 @@
 # text = ¿yúduu ñeʼed a kuät o kueat?
 # text[orig] = ¿yúduu ñe'ed a kuät o kueat?
 # text[spa] = ¿Tu caballo es negro o blanco?
+# alimg = ¿Tu caballo es negro o blanco?
+# hash = 2cdac03ae4a406a51a0ea37b0eb1a2cd
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	yúduu	_	NOUN	_	_	_	_	_	Trad=caballo
@@ -799,6 +959,8 @@
 # text = Inuu comida.
 # text[orig] = Inuu comida.
 # text[spa] = La comida está caliente.
+# alimg = La comida está caliente.
+# hash = c2c0caab55278aa811cd851074a8d29b
 # tagged = true
 1	Inuu	_	ADJ	_	_	_	_	_	Trad=caliente|UPOS=Guessed
 2	comida	_	NOUN	_	_	_	_	_	Trad=comida
@@ -808,6 +970,8 @@
 # text = Icha comida.
 # text[orig] = Icha comida.
 # text[spa] = La comida está fría.
+# alimg = La comida está fría.
+# hash = 44686dbffc30e81475b2a585169a79d3
 # tagged = true
 1	Icha	_	ADJ	_	_	_	_	_	Trad=frío|UPOS=Guessed
 2	comida	_	NOUN	_	_	_	_	_	Trad=comida
@@ -817,6 +981,8 @@
 # text = Yeabean icha nuni.
 # text[orig] = yeabean icha nuni.
 # text[spa] = El agua está muy fría.
+# alimg = El agua está muy fría.
+# hash = 0190995a2e91f6cbfc7af215ba9518c1
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	icha	_	ADJ	_	_	_	_	_	Trad=frío|UPOS=Guessed
@@ -827,6 +993,8 @@
 # text = Kutu min ñá.
 # text[orig] = Kutu min ñá.
 # text[spa] = Esa olla está sucia.
+# alimg = Esa olla está sucia.
+# hash = c343c06d9431b3c4cd8bae1be6dd10dc
 # tagged = true
 1	Kutu	_	NOUN	_	_	_	_	_	Trad=olla
 2	min	_	DET	_	_	_	_	_	Trad=esta
@@ -837,6 +1005,8 @@
 # text = Kutu min gua ñá.
 # text[orig] = kutu min gua ñá.
 # text[spa] = Esa olla no está sucia
+# alimg = Esa olla no está sucia
+# hash = fe79c3d39268ac2426d84c3a5fc37e71
 # tagged = true
 1	Kutu	_	NOUN	_	_	_	_	_	Trad=olla
 2	min	_	DET	_	_	_	_	_	Trad=esta
@@ -848,6 +1018,8 @@
 # text = Kutu min deabea.
 # text[orig] = kutu min deabea.
 # text[spa] = Esa olla está limpia.
+# alimg = Esa olla está limpia.
+# hash = b2dfcc1b6aedd69162d59e1ad47b27db
 # tagged = true
 1	Kutu	_	NOUN	_	_	_	_	_	Trad=olla
 2	min	_	DET	_	_	_	_	_	Trad=esta
@@ -858,6 +1030,8 @@
 # text = Kutu min gua deabea.
 # text[orig] = kutu min gua deabea.
 # text[spa] = Esa olla no está limpia.
+# alimg = Esa olla no está limpia.
+# hash = b958f92c87601f48844b9ca565395325
 # tagged = true
 1	Kutu	_	NOUN	_	_	_	_	_	Trad=olla
 2	min	_	DET	_	_	_	_	_	Trad=esta
@@ -869,6 +1043,8 @@
 # text = Ñoo min nìnuu nuku muʼu.
 # text[orig] = Ñoo min nìnuu nuku mu'u.
 # text[spa] = El pueblo está cerca de aquí.
+# alimg = El pueblo está cerca de aquí.
+# hash = 8525a27c02fdfb3c7f2fb4fbd72b51a5
 # tagged = true
 # text[lit] = ese pueblo está cerca de aquí
 1	Ñoo	_	NOUN	_	_	_	_	_	Trad=pueblo
@@ -882,6 +1058,8 @@
 # text = Ñoo min ñaʼa nuku muʼu.
 # text[orig] = Ñoo min ña'a nuku mu'u.
 # text[spa] = El pueblo está lejos de aquí.
+# alimg = El pueblo está lejos de aquí.
+# hash = e72ed7614bd1eb9eb1d230dddf9079c0
 # tagged = true
 # text[lit] = Ese pueblo está lejos de aquí
 1	Ñoo	_	NOUN	_	_	_	_	_	Trad=pueblo
@@ -895,6 +1073,8 @@
 # text = ¿A ñaʼa ñoom?
 # text[orig] = ¿A ña'a ñoom?
 # text[spa] = ¿Está lejos el pueblo?
+# alimg = ¿Está lejos el pueblo?
+# hash = 724d2f4c41f1244d29c476d44b0fb9f4
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -906,6 +1086,8 @@
 # text = Fom kanes Jibaku.
 # text[orig] = Fom kanes Jibaku.
 # text[spa] = Juan está ahora en Huamantla.
+# alimg = Juan está ahora en Huamantla.
+# hash = fa8c559eca5c43f3264347c46cb0331b
 # tagged = true
 # text[lit] = Juan está en Cuicatlán
 1	Fom	_	PROPN	_	_	_	_	_	Trad=Juan
@@ -917,6 +1099,8 @@
 # text = ¿A ti kane Fom mniñu?
 # text[orig] = ¿A ti kane Fom mniñu?
 # text[spa] = ¿Dónde está Juan ahora?
+# alimg = ¿Dónde está Juan ahora?
+# hash = ee254916ea5b9d00a492d9aaac5944b8
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -930,6 +1114,8 @@
 # text = ¿A kanés Jibaku?
 # text[orig] = ¿A kanés Jibaku?
 # text[spa] = ¿Ahora está en Huamantla?
+# alimg = ¿Ahora está en Huamantla?
+# hash = 333117980b44916c4ac786a2a8db5637
 # tagged = true
 # text[lit] = ¿Esta en Cuicatlán?
 1	¿	¿	PUNCT	_	_	_	_	_	_
@@ -942,6 +1128,8 @@
 # text = ¿A iku chi kenés Jibaku?
 # text[orig] = ¿A iku chi kenés Jibaku?
 # text[spa] = Ayer Juan estuvo en Huamantla?
+# alimg = Ayer Juan estuvo en Huamantla?
+# hash = de695ad58a82b4d1533919cc1d0ce2c5
 # tagged = true
 # text[lit] = ¿Ayer estaba en Cuicatlán? (sujeto masculino)
 1	¿	¿	PUNCT	_	_	_	_	_	_
@@ -956,6 +1144,8 @@
 # text = ¿A ti kane chidad?
 # text[orig] = ¿A ti kane chidad?
 # text[spa] = ¿Dónde está tu papá?
+# alimg = ¿Dónde está tu papá?
+# hash = bb41e14b824235e687a6db327d3a47c7
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -968,6 +1158,8 @@
 # text = ¿A kanu chidad baʼa?
 # text[orig] = ¿A kanu chidad ba'a?
 # text[spa] = ¿Tu papá está en la casa?
+# alimg = ¿Tu papá está en la casa?
+# hash = 23b85ffe4efa35d43c51b1ac083772dc
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -980,6 +1172,8 @@
 # text = ¿A gua kanu chidad baʼa?
 # text[orig] = ¿A gua kanu chidad ba'a?
 # text[spa] = ¿Tu papá no está en la casa?
+# alimg = ¿Tu papá no está en la casa?
+# hash = 5a7ce0e2701c9be735b650329e120df7
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -993,6 +1187,8 @@
 # text = Kanu chida baʼa.
 # text[orig] = Kanu chida ba'a.
 # text[spa] = Mi papá está en la casa.
+# alimg = Mi papá está en la casa.
+# hash = 6df134716b1e1f384b252e4f1396bd9c
 # tagged = true
 1	Kanu	_	VERB	_	_	_	_	_	Trad=está
 2	chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
@@ -1003,6 +1199,8 @@
 # text = Chidan guay baʼa.
 # text[orig] = Chidan guay ba'a.
 # text[spa] = Mi papá no está en la casa.
+# alimg = Mi papá no está en la casa.
+# hash = 01ae1fd8c1b0e8868242d6376c0ffa64
 # tagged = true
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	guay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=traer|Gloss=?-traer-3SG.HUM
@@ -1013,6 +1211,8 @@
 # text = Kanu kuedama chida baʼa.
 # text[orig] = Kanu kuedama chida ba'a.
 # text[spa] = Mi papá siempre está en la casa.
+# alimg = Mi papá siempre está en la casa.
+# hash = 8a2c1f692c0334dfa42b49bc0a374aba
 # tagged = true
 1	Kanu	_	VERB	_	_	_	_	_	Trad=está
 2	kuedama	_	ADV	_	_	_	_	_	Trad=siempre|UPOS=Guessed
@@ -1024,6 +1224,8 @@
 # text = Chidan kanuñ bö jingö.
 # text[orig] = Chidan kanuñ bö jingö.
 # text[spa] = Mi papá está en la milpa.
+# alimg = Mi papá está en la milpa.
+# hash = fb02c6c57cced997b2e02f297e4fdb85
 # tagged = true
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	kanuñ	_	VERB	_	_	_	_	_	Trad=está.(adentro)|UPOS=Guessed
@@ -1035,6 +1237,8 @@
 # text = Chida kaneñ no nʼiba.
 # text[orig] = Chida kaneñ no n'iba.
 # text[spa] = Mi papá está en el mercado.
+# alimg = Mi papá está en el mercado.
+# hash = 3d8d31a64792735a699403c03bcc2b40
 # tagged = true
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3SG.HUM
@@ -1046,6 +1250,8 @@
 # text = Chida kueʼeñ chin jíku.
 # text[orig] = Chida kue'eñ chin jíku.
 # text[spa] = Mi papá está en el río.
+# alimg = Mi papá está en el río.
+# hash = 8618f401f161430d4c5cdf9498e637f1
 # tagged = false
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	kueʼeñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=?-ir-?
@@ -1057,6 +1263,8 @@
 # text = Chidan kaneñ nuku kambo ñeʼeñ.
 # text[orig] = Chidan kaneñ nuku kambo ñe'eñ.
 # text[spa] = Mi papá está con Don Manuel.
+# alimg = Mi papá está con Don Manuel.
+# hash = 5be7550c6a8c8c551be1f134486ecb82
 # tagged = true
 # text[lit] = Mi papá está con su compadre
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
@@ -1070,6 +1278,8 @@
 # text = ¿Nuku duʼu kane chidad?
 # text[orig] = ¿Nuku du'u kane chidad?
 # text[spa] = ¿Con quién está tu papá?
+# alimg = ¿Con quién está tu papá?
+# hash = 72fd044d24d50a5eb003abac0f7afc23
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
@@ -1082,6 +1292,8 @@
 # text = ¿A kanú chidad?
 # text[orig] = ¿A kanú chidad?
 # text[spa] = ¿Está tu papá?
+# alimg = ¿Está tu papá? (dicho fuera de la casa)
+# hash = 902c2389930d0dcd9e5940752cc7b9df
 # tagged = true
 # note = (dicho fuera de la casa)
 1	¿	¿	PUNCT	_	_	_	_	_	_
@@ -1094,6 +1306,8 @@
 # text = ¿A ti kane kutum?
 # text[orig] = ¿A ti kane kutum?
 # text[spa] = ¿Dónde está la olla?
+# alimg = ¿Dónde está la olla?
+# hash = 356596374a2409f68f190291ec11ed84
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -1106,6 +1320,8 @@
 # text = ¿A ti kane machetem?
 # text[orig] = ¿A ti kane machetem?
 # text[spa] = ¿Dónde está el machete?
+# alimg = ¿Dónde está el machete?
+# hash = e9b68bf3ebde9bd43f8c580932bbf395
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -1118,6 +1334,8 @@
 # text = Kutum kane nioo.
 # text[orig] = Kutum kane nioo.
 # text[spa] = La olla está en el suelo.
+# alimg = La olla está en el suelo.
+# hash = 65ca206485be5a245d7accccfb7d1274
 # tagged = true
 1	Kutum	_	NOUN	_	_	_	_	_	Trad=olla
 2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
@@ -1128,6 +1346,8 @@
 # text = Machetem kane nioo.
 # text[orig] = Machetem kane nioo.
 # text[spa] = El machete está en el suelo.
+# alimg = El machete está en el suelo.
+# hash = e18bfedb58f2a76fd76f470dd5333626
 # tagged = true
 1	Machetem	_	NOUN	_	_	_	_	_	Trad=machete
 2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
@@ -1138,6 +1358,8 @@
 # text = Kutum kane ku koʼo baʼa mi.
 # text[orig] = Kutum kane ku ko'o ba'a mi.
 # text[spa] = La olla está en ese rincón.
+# alimg = La olla está en ese rincón.
+# hash = 159a575f4b66d2266c1338c21784ca8b
 # tagged = true
 1	Kutum	_	NOUN	_	_	_	_	_	Trad=olla
 2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
@@ -1151,6 +1373,8 @@
 # text = Machetem kane ku koʼo baʼa mi.
 # text[orig] = Machetem kane ku ko'o ba'a mi.
 # text[spa] = El machete está en ese rincón.
+# alimg = El machete está en ese rincón.
+# hash = 06e406cffe9889f01046e1a988050ab1
 # tagged = true
 1	Machetem	_	NOUN	_	_	_	_	_	Trad=machete
 2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
@@ -1164,6 +1388,8 @@
 # text = Kutum kane nuku chéam.
 # text[orig] = Kutum kane nuku chéam.
 # text[spa] = La olla está junto al comal.
+# alimg = La olla está junto al comal.
+# hash = b51f249685d0c8c066057acb68a09aea
 # tagged = true
 # text[lit] = La olla está con el comal
 1	Kutum	_	NOUN	_	_	_	_	_	Trad=olla
@@ -1176,6 +1402,8 @@
 # text = ¿A ti kane yanam.
 # text[orig] = ¿A ti kane yanam.
 # text[spa] = ¿Dónde está el perro?
+# alimg = ¿Dónde está el perro?
+# hash = abc5f7a7d5d3101baf4cc978c0fbde93
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -1188,6 +1416,8 @@
 # text = Kane kuch baʼa.
 # text[orig] = Kane kuch ba'a.
 # text[spa] = Está fuera de la casa.
+# alimg = Está fuera de la casa.
+# hash = d21c66d0d771fa909f3dea7d779405f6
 # tagged = true
 1	Kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 2	kuch	_	ADP	_	_	_	_	_	Trad=fuera
@@ -1198,6 +1428,8 @@
 # text = Kane chete baʼa.
 # text[orig] = Kane chete ba'a.
 # text[spa] = Está dentro de la casa.
+# alimg = Está dentro de la casa.
+# hash = a0f97205eb70db854dfa7271a3c89fdc
 # tagged = true
 1	Kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 2	chete	_	NOUN	_	_	_	_	_	Trad=estómago
@@ -1208,6 +1440,8 @@
 # text = ¿A ti kane yákum?
 # text[orig] = ¿A ti kane yákum?
 # text[spa] = ¿Dónde está la iglesia?
+# alimg = ¿Dónde está la iglesia?
+# hash = dffb83b5dc2ba032b7e6afd427f03aec
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -1220,6 +1454,8 @@
 # text = ¿A ti kane nʼíba?
 # text[orig] = ¿A ti kane n'íba?
 # text[spa] = ¿Dónde está el mercado?
+# alimg = ¿Dónde está el mercado?
+# hash = 7559bf838bedc858e1b5cca46ee4953e
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -1232,6 +1468,8 @@
 # text = ¿A ti kane bakud?
 # text[orig] = ¿A ti kane bakud?
 # text[spa] = ¿Dónde está tu casa?
+# alimg = ¿Dónde está tu casa?
+# hash = 2668fc78074997ee24a5d7e77e806854
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -1244,6 +1482,8 @@
 # text = Yáku kane nano baʼa mi.
 # text[orig] = Yáku kane nano ba'a mi.
 # text[spa] = La iglesia está enfrente de aquella casa.
+# alimg = La iglesia está enfrente de aquella casa.
+# hash = 72a1ecfbe8da5839038558af1505c5fb
 # tagged = true
 1	Yáku	_	NOUN	_	_	_	_	_	Trad=iglesia
 2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
@@ -1256,6 +1496,8 @@
 # text = Ku laka kane yáku.
 # text[orig] = Ku laka kane yáku.
 # text[spa] = La iglesia está más adelante.
+# alimg = La iglesia está más adelante.
+# hash = 9fc44e865e5b1019522519993efa3ae9
 # tagged = true
 # text[lit] = Por allá está la iglesia
 1	Ku	_	DET	_	_	_	_	_	Trad=este
@@ -1268,6 +1510,8 @@
 # text = ¿A ti kane.
 # text[orig] = ¿A ti kane.
 # text[spa] = ¿Dónde está el corral de las chivas?
+# alimg = ¿Dónde está el corral de las chivas?
+# hash = 397383cb0ea57eca801c42204e7648d5
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -1279,6 +1523,8 @@
 # text = Na chinu núnim niʼö.
 # text[orig] = Na chinu núnim ni'ö.
 # text[spa] = Los frijoles están en la olla.
+# alimg = Los frijoles están en la olla.
+# hash = b5cf382b2e2605a7273873d85e73a8ec
 # tagged = true
 # text[lit] = Ya puse los frijoles (ya los puso a cocer)
 1	Na	_	ADV	_	_	_	_	_	Trad=ya
@@ -1291,6 +1537,8 @@
 # text = Yada kon kanut no tiʼö ko.
 # text[orig] = Yada kon kanut no ti'ö ko.
 # text[spa] = El pájaro está en ese árbol
+# alimg = El pájaro está en ese árbol
+# hash = 69e3cc1f5eba2e0ec7f0b93e0c40e6f4
 # tagged = true
 # text[lit] = Ese pájaro está en ese árbol
 1	Yada	_	NOUN	_	_	_	_	_	Trad=pájaro
@@ -1305,6 +1553,8 @@
 # text = Joʼó yàaku ú.
 # text[orig] = Jo'ó yàaku ú.
 # text[spa] = La mosca está en la pared.
+# alimg = La mosca está en la pared.
+# hash = 0aaedf3bf9c2d17a6fa20be88c0022cd
 # tagged = false
 # text[lit] = Me pican los mosquitos
 1	Joʼó	_	_	_	_	_	_	_	_
@@ -1316,6 +1566,8 @@
 # text = ¿A tabea yana bea ñeʼed?
 # text[orig] = ¿A tabea yana bea ñe'ed?
 # text[spa] = ¿Cuántos perros tienes?
+# alimg = ¿Cuántos perros tienes?
+# hash = 577feeb45aad202af5c9bf6b70dc2e7a
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -1329,6 +1581,8 @@
 # text = Un bea ama yana ñeʼë.
 # text[orig] = Un bea ama yana ñe'ë.
 # text[spa] = Tengo un perro.
+# alimg = Tengo un perro.
+# hash = 5f1704770986fc9d4e0bf97c5149c7ef
 # tagged = true
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -1341,6 +1595,8 @@
 # text = Bea ama yana ñeʼed.
 # text[orig] = Bea ama yana ñe'ed.
 # text[spa] = Tienes un perro.
+# alimg = Tienes un perro.
+# hash = 14d6402a19d14fb134c2852e6644183c
 # tagged = true
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -1352,6 +1608,8 @@
 # text = Bea ama yana ñeʼes.
 # text[orig] = Bea ama yana ñe'es.
 # text[spa] = El tiene un perro.
+# alimg = El tiene un perro.
+# hash = 99cff0a5814b0c2233e44105c7bb8e85
 # tagged = true
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -1363,7 +1621,10 @@
 # text = Bea ama yana ñuʼuu.
 # text[orig] = Bea ama yana ñu'uu.
 # text[spa] = Tenemos un perro.
+# alimg = Tenemos un perro. (exclusivo)
+# hash = 8fadcfe5f2a08784653003c84bb412b3
 # tagged = true
+# note = (exclusivo)
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -1374,7 +1635,10 @@
 # text = Bea ama yana ñeʼen.
 # text[orig] = Bea ama yana ñe'en.
 # text[spa] = Tenemos un perro.
+# alimg = Tenemos un perro. (inclusivo)
+# hash = 74c0acd67df11f5af3540832e312e141
 # tagged = false
+# note = (inclusivo)
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -1385,6 +1649,8 @@
 # text = Bea ama yana ñeʼen.
 # text[orig] = Bea ama yana ñe'en.
 # text[spa] = Ustedes tienen un perro.
+# alimg = Ustedes tienen un perro.
+# hash = e993b5c971b7065c1b19819e691446cc
 # tagged = false
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -1396,6 +1662,8 @@
 # text = Insë bea ama yana ñeʼen.
 # text[orig] = Insë bea ama yana ñe'en.
 # text[spa] = Ustedes tienen un perro.
+# alimg = Ustedes tienen un perro.
+# hash = e993b5c971b7065c1b19819e691446cc
 # tagged = false
 1	Insë	_	PRON	_	_	_	_	_	Trad=ustedes
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -1408,6 +1676,8 @@
 # text = Bea ama yana ñeʼe insë.
 # text[orig] = Bea ama yana ñe'e insë.
 # text[spa] = Ustedes tienen un perro.
+# alimg = Ustedes tienen un perro.
+# hash = e993b5c971b7065c1b19819e691446cc
 # tagged = true
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -1420,6 +1690,8 @@
 # text = Bea ama yana ñeʼeñ.
 # text[orig] = Bea ama yana ñe'eñ.
 # text[spa] = Ellos tienen un perro.
+# alimg = Ellos tienen un perro.
+# hash = c28b437e735a53872adfe23fd809254f
 # tagged = true
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -1431,6 +1703,8 @@
 # text = Iñsé bea ama yana ñeʼeñ.
 # text[orig] = Iñsé bea ama yana ñe'eñ.
 # text[spa] = Ellos tienen un perro.
+# alimg = Ellos tienen un perro.
+# hash = c28b437e735a53872adfe23fd809254f
 # tagged = true
 1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -1443,6 +1717,8 @@
 # text = Bea ama yana ñeʼe iñsé.
 # text[orig] = Bea ama yana ñe'e iñsé.
 # text[spa] = Ellos tienen un perro.
+# alimg = Ellos tienen un perro.
+# hash = c28b437e735a53872adfe23fd809254f
 # tagged = true
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -1455,6 +1731,8 @@
 # text = Un bea obe yana ñeʼë.
 # text[orig] = Un bea obe yana ñe'ë.
 # text[spa] = Tengo dos perros.
+# alimg = Tengo dos perros.
+# hash = 1dcc544c053d2e42e1ef1025d7083f72
 # tagged = true
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -1467,6 +1745,8 @@
 # text = Bea obe yana ñeʼed.
 # text[orig] = Bea obe yana ñe'ed.
 # text[spa] = Tienes dos perros.
+# alimg = Tienes dos perros.
+# hash = b4679846cabefbc7c5f336614051a315
 # tagged = true
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
@@ -1478,6 +1758,8 @@
 # text = Bea obe yana ñeʼes.
 # text[orig] = Bea obe yana ñe'es.
 # text[spa] = El tiene dos perros.
+# alimg = El tiene dos perros.
+# hash = a96b9995a69db1b2624b9856f6c3b058
 # tagged = true
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
@@ -1489,6 +1771,8 @@
 # text = Bea obe yana ñeʼes.
 # text[orig] = Bea obe yana ñe'es.
 # text[spa] = El tiene dos perros.
+# alimg = El tiene dos perros.
+# hash = a96b9995a69db1b2624b9856f6c3b058
 # tagged = true
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
@@ -1500,6 +1784,8 @@
 # text = Bea obe yana ñeʼen.
 # text[orig] = Bea obe yana ñe'en.
 # text[spa] = Tenemos dos perros.
+# alimg = Tenemos dos perros. (exclusivo)
+# hash = 7d7f302408e12860b6cfe6cc9536603d
 # tagged = false
 # note = (exclusivo)
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -1512,6 +1798,8 @@
 # text = Bea obe yana ñuʼuu.
 # text[orig] = Bea obe yana ñu'uu.
 # text[spa] = Tenemos dos perros.
+# alimg = Tenemos dos perros. (inclusivo)
+# hash = 96266e518a3740e6e24d46f13f60f057
 # tagged = true
 # note = (inclusivo)
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -1524,6 +1812,8 @@
 # text = Insú bea obe yana ñeʼen.
 # text[orig] = Insú bea obe yana ñe'en.
 # text[spa] = Tenemos dos perros.
+# alimg = Tenemos dos perros. (inclusivo)
+# hash = 96266e518a3740e6e24d46f13f60f057
 # tagged = false
 # note = (inclusivo)
 1	Insú	_	PRON	_	_	_	_	_	Trad=nosotros
@@ -1537,6 +1827,8 @@
 # text = Insë bea obe yana ñeʼen.
 # text[orig] = Insë bea obe yana ñe'en.
 # text[spa] = Ustedes tienen dos perros.
+# alimg = Ustedes tienen dos perros.
+# hash = 329035d13855bb963bca6cc90037b18a
 # tagged = false
 1	Insë	_	PRON	_	_	_	_	_	Trad=ustedes
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -1549,6 +1841,8 @@
 # text = Iñsé bea obe yana ñeʼeñ.
 # text[orig] = Iñsé bea obe yana ñe'eñ.
 # text[spa] = Ellos tienen dos perros.
+# alimg = Ellos tienen dos perros.
+# hash = 71c827b21f806f814ac3b0d6c14cfc35
 # tagged = true
 1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -1561,6 +1855,8 @@
 # text = Tochi kane yuudum ñeʼe.
 # text[orig] = Tochi kane yuudum ñe'e.
 # text[spa] = Tenía un caballo
+# alimg = Tenía un caballo (pero lo vendí).
+# hash = 9a00aa190becf585e7cf08bb27d9342b
 # tagged = true
 # text[lit] = Cuanto estaba mi caballo (ñe'e indica posición, se puede decir que estaba es igual a tener)
 # note = (pero lo vendí).
@@ -1574,6 +1870,8 @@
 # text = Gua yana ñeʼë.
 # text[orig] = Gua yana ñe'ë.
 # text[spa] = No tengo perro.
+# alimg = No tengo perro.
+# hash = f56f6fc479593e659386bfe9808856a3
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -1584,6 +1882,8 @@
 # text = Gua ni ama kadi ñeʼë.
 # text[orig] = Gua ni ama kadi ñe'ë.
 # text[spa] = No tengo ninguna moneda.
+# alimg = No tengo ninguna moneda.
+# hash = 70c95a2dbbfd32f8ab8f5222b27f3383
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	ni	_	ADV	_	_	_	_	_	Trad=hasta
@@ -1596,6 +1896,8 @@
 # text = Gua nuni chi kuʼú.
 # text[orig] = Gua nuni chi ku'ú.
 # text[spa] = Tengo agua para tomar.
+# alimg = Tengo agua para tomar.
+# hash = b6a7efced253c14dcf4d17405ec4d80b
 # tagged = false
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	nuni	_	NOUN	_	_	_	_	_	Trad=agua
@@ -1607,6 +1909,8 @@
 # text = ¿Dae nád tò?
 # text[orig] = ¿Dae nád tò?
 # text[spa] = ¿Qué tienes ahí?
+# alimg = ¿Qué tienes ahí? (señalando el bolsillo o un costal)
+# hash = f026eceb23759e264081909964cf4e5c
 # tagged = true
 # note = (señalando el bolsillo o un costal)
 1	¿	¿	PUNCT	_	_	_	_	_	_
@@ -1619,6 +1923,8 @@
 # text = Duʼu ná machetem?
 # text[orig] = Du'u ná machetem?
 # text[spa] = ¿Quién tiene el machete?
+# alimg = ¿Quién tiene el machete?
+# hash = 01989992160aa9bf39f850bc940d5f83
 # tagged = true
 1	Duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
 2	ná	_	VERB	_	_	_	_	_	Trad=tiene.
@@ -1629,6 +1935,8 @@
 # text = ¿A bea nduk daʼa yana?
 # text[orig] = ¿A bea nduk da'a yana?
 # text[spa] = ¿Tienen cola los perros?
+# alimg = ¿Tienen cola los perros?
+# hash = cfb091c1a4ed58c7d0fbf993da38b34b
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -1642,6 +1950,8 @@
 # text = Chíy nduk daʼa yana ñeʼë.
 # text[orig] = Chíy nduk da'a yana ñe'ë.
 # text[spa] = Mi perro no tiene cola.
+# alimg = Mi perro no tiene cola.
+# hash = 9d32586d14976004a2636eee9c3dd0c2
 # tagged = false
 # text[lit] = Le cortaron la cola a mi perro
 1	Chíy	_	_	_	_	_	_	_	_
@@ -1655,6 +1965,8 @@
 # text = Gua chimbaʼa baʼa ko.
 # text[orig] = Gua chimba'a ba'a ko.
 # text[spa] = Esa casa no tiene puerta.
+# alimg = Esa casa no tiene puerta.
+# hash = 22ee4d502866a2bb8bc24bdf68c6a232
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	chimbaʼa	_	NOUN	_	_	_	_	_	Trad=puerta
@@ -1666,6 +1978,8 @@
 # text = Yeabean ndee duytï Fo.
 # text[orig] = Yeabean ndee duytï Fo.
 # text[spa] = Juan tiene mucho pelo.
+# alimg = Juan tiene mucho pelo.
+# hash = 0c7a32940067112cc1889b262f9ba890
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	ndee	_	ADJ	_	_	_	_	_	Trad=mucho|UPOS=Guessed
@@ -1677,6 +1991,8 @@
 # text = ¿A taka duytï Fo?
 # text[orig] = ¿A taka duytï Fo?
 # text[spa] = ¿Cómo es el pelo de Juan?
+# alimg = ¿Cómo es el pelo de Juan?
+# hash = 219aa2ff70a79375b25445a4161d1d92
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -1689,6 +2005,8 @@
 # text = Yudtï Fo kuä.
 # text[orig] = Yudtï Fo kuä.
 # text[spa] = El pelo de Juan es negro.
+# alimg = El pelo de Juan es negro.
+# hash = 6137b918383ab4680b3b6f243fd4263b
 # tagged = true
 1	Yudtï	_	NOUN	_	_	_	_	_	Trad=pelo|UPOS=Guessed
 2	Fo	_	PROPN	_	_	_	_	_	Trad=Juan
@@ -1699,6 +2017,8 @@
 # text = Ndá machete chi tubnéd ú.
 # text[orig] = Ndá machete chi tubnéd ú.
 # text[spa] = Tengo el machete que me prestaste.
+# alimg = Tengo el machete que me prestaste.
+# hash = 5c915232bdd273422815ec2894a0d544
 # tagged = true
 1	Ndá	_	ADJ	_	_	_	_	_	Trad=bueno|UPOS=Guessed
 2	machete	_	NOUN	_	_	_	_	_	Trad=machete
@@ -1711,6 +2031,8 @@
 # text = Kane ka machete chi ted ñeʼë.
 # text[orig] = Kane ka machete chi ted ñe'ë.
 # text[spa] = Todavía tengo el machete que me regalaste.
+# alimg = Todavía tengo el machete que me regalaste.
+# hash = e34dee348613c77f8bd76d4461e249e7
 # tagged = true
 # text[lit] = traducción literal: está aún el machete que me diste para mi
 1	Kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
@@ -1725,6 +2047,8 @@
 # text = No baʼa kane ama machete chi gua ñeʼë.
 # text[orig] = No ba'a kane ama machete chi gua ñe'ë.
 # text[spa] = En casa tengo un machete que no es mío.
+# alimg = En casa tengo un machete que no es mío.
+# hash = 8dbd69d299932af8b4a94c2c84106975
 # tagged = true
 1	No	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 2	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -1740,6 +2064,8 @@
 # text = Cheá tika.
 # text[orig] = Cheá tika.
 # text[spa] = Esta camisa tiene manchas.
+# alimg = Esta camisa tiene manchas.
+# hash = 020819fb83c5812ad73015a051f7dd2d
 # tagged = true
 # text[lit] = Se pintó en mi ropa
 1	Cheá	_	VERB	_	_	_	_	_	Trad=se.pintó
@@ -1750,6 +2076,8 @@
 # text = Gua chid jima ñeʼe komida.
 # text[orig] = Gua chid jima ñe'e komida.
 # text[spa] = La comida tiene sal.
+# alimg = La comida tiene sal.
+# hash = 76146fc52b07193506291fffb2be12a9
 # tagged = true
 # text[lit] = No le echaste sal a la comida
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
@@ -1763,6 +2091,8 @@
 # text = ¿A chid jima ñeʼe kantu?
 # text[orig] = ¿A chid jima ñe'e kantu?
 # text[spa] = La comida no tiene sal.
+# alimg = La comida no tiene sal.
+# hash = 015e5fe3ce19bf243060dddd800323aa
 # tagged = true
 # text[lit] = ¿Le echaste sal a la comida?
 1	¿	¿	PUNCT	_	_	_	_	_	_
@@ -1777,6 +2107,8 @@
 # text = Díni comida.
 # text[orig] = Díni comida.
 # text[spa] = La comida está salada.
+# alimg = La comida está salada.
+# hash = d416445ba8381c61d2019b0f6bae395b
 # tagged = true
 1	Díni	_	ADJ	_	_	_	_	_	Trad=salado|UPOS=Guessed
 2	comida	_	NOUN	_	_	_	_	_	Trad=comida
@@ -1786,6 +2118,8 @@
 # text = Yaduu sopa.
 # text[orig] = Yaduu sopa.
 # text[spa] = La sopa tiene chile.
+# alimg = La sopa tiene chile.
+# hash = 771e5dee554680fa09dd45ce5589f544
 # tagged = true
 # text[lit] = Esta picante la comida
 1	Yaduu	_	ADJ	_	_	_	_	_	Trad=picante|UPOS=Guessed
@@ -1796,6 +2130,8 @@
 # text = Snú nuni kutu.
 # text[orig] = Snú nuni kutu.
 # text[spa] = La olla tiene agua.
+# alimg = La olla tiene agua.
+# hash = 1b7a87f52950547f72bd98cffb195ddc
 # tagged = true
 # text[lit] = Hay agua en la olla
 1	Snú	_	VERB	_	_	_	_	_	Trad=tengo|Gloss=?-tener-1SG
@@ -1807,6 +2143,8 @@
 # text = Gua snú nuni kutu.
 # text[orig] = Gua snú nuni kutu.
 # text[spa] = La olla no tiene agua.
+# alimg = La olla no tiene agua.
+# hash = fd2fd478669f33841047f5d01ec46361
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	snú	_	VERB	_	_	_	_	_	Trad=tengo|Gloss=?-tener-1SG
@@ -1818,6 +2156,8 @@
 # text = Bea obe soʼö biʼi.
 # text[orig] = Bea obe so'ö bi'i.
 # text[spa] = Tengo dos hermanos.
+# alimg = Tengo dos hermanos.
+# hash = a23d4bc48952db7f52dba6628100d7bc
 # tagged = false
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
@@ -1829,6 +2169,8 @@
 # text = ¿A tabea biʼid bea?
 # text[orig] = ¿A tabea bi'id bea?
 # text[spa] = ¿Cuántos hermanos tienes?
+# alimg = ¿Cuántos hermanos tienes?
+# hash = 87191450e2917ca0694640da790e0cec
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -1841,6 +2183,8 @@
 # text = Chitoʼo inuu ú.
 # text[orig] = Chito'o inuu ú.
 # text[spa] = Tengo gripa.
+# alimg = Tengo gripa.
+# hash = c3d502651c3508ff9d82fe1e33624c12
 # tagged = true
 1	Chitoʼo	_	VERB	_	_	_	_	_	Trad=tener.gripa
 2	inuu	_	ADJ	_	_	_	_	_	Trad=caliente|UPOS=Guessed
@@ -1851,6 +2195,8 @@
 # text = Chitoʼo inuu ú.
 # text[orig] = Chito'o inuu ú.
 # text[spa] = Tuve gripa.
+# alimg = Tuve gripa.
+# hash = be32893d5c75aff825a2250d6698418d
 # tagged = true
 1	Chitoʼo	_	VERB	_	_	_	_	_	Trad=tener.gripa
 2	inuu	_	ADJ	_	_	_	_	_	Trad=caliente|UPOS=Guessed
@@ -1861,6 +2207,8 @@
 # text = ¿A ichad?
 # text[orig] = ¿A ichad?
 # text[spa] = ¿Tienes frío?
+# alimg = ¿Tienes frío?
+# hash = 9065412edf58ccf299c1e04cbd6d8989
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -1871,6 +2219,8 @@
 # text = Tika.
 # text[orig] = Tika.
 # text[spa] = Sí.
+# alimg = Sí.
+# hash = 0f10e1d666dabd0eb970aa255dfd37ec
 # tagged = true
 1	Tika	_	NOUN	_	_	_	_	_	Trad=ropa
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -1879,6 +2229,8 @@
 # text = Gua.
 # text[orig] = Gua.
 # text[spa] = No.
+# alimg = No.
+# hash = fbd39fe0ecd01afaf01ea1957ef4a57c
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -1887,6 +2239,8 @@
 # text = Yaʼa tï.
 # text[orig] = Ya'a tï.
 # text[spa] = Tengo dolor de cabeza.
+# alimg = Tengo dolor de cabeza.
+# hash = 0dca2aae8d9b3c9201b3a5291ae57728
 # tagged = true
 1	Yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
 2	tï	_	NOUN	_	_	_	_	_	Trad=cabeza
@@ -1896,6 +2250,8 @@
 # text = Nujinu.
 # text[orig] = Nujinu.
 # text[spa] = Tengo prisa.
+# alimg = Tengo prisa.
+# hash = 07cfc43c3b74fe35505442f552b7b286
 # tagged = true
 1	Nujinu	_	VERB	_	_	_	_	_	Trad=tengo.prisa
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -1904,6 +2260,8 @@
 # text = Kuiku.
 # text[orig] = Kuiku.
 # text[spa] = Tengo hambre.
+# alimg = Tengo hambre.
+# hash = 55667b85ce7d91b08e439e7184de9dd8
 # tagged = true
 1	Kuiku	_	VERB	_	_	_	_	_	Trad=tengo.hambre|UPOS=Guessed
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -1912,6 +2270,8 @@
 # text = Yàka.
 # text[orig] = Yàka.
 # text[spa] = Tengo sed.
+# alimg = Tengo sed.
+# hash = 52c12280683fbd8f30954083103bc838
 # tagged = true
 1	Yàka	_	VERB	_	_	_	_	_	Trad=tengo.sed
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -1920,6 +2280,8 @@
 # text = Ne kuyadu.
 # text[orig] = Ne kuyadu.
 # text[spa] = Tengo sueño.
+# alimg = Tengo sueño.
+# hash = 8a316070c58b7971abb8c57c63e4cb61
 # tagged = false
 # text[lit] = Quiero dormir
 1	Ne	_	_	_	_	_	_	_	_
@@ -1930,6 +2292,8 @@
 # text = Dànti.
 # text[orig] = Dànti.
 # text[spa] = Tengo flojera.
+# alimg = Tengo flojera.
+# hash = e863221274513e437e1a312ea4a4a8a8
 # tagged = true
 1	Dànti	_	VERB	_	_	_	_	_	Trad=tengo.flojera
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -1938,6 +2302,8 @@
 # text = Bea ntiñu ñeʼë.
 # text[orig] = Bea ntiñu ñe'ë.
 # text[spa] = Tengo trabajo.
+# alimg = Tengo trabajo.
+# hash = 19d849f113b81500a00837d5fb3528ed
 # tagged = true
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
@@ -1948,6 +2314,8 @@
 # text = Kuenó.
 # text[orig] = Kuenó.
 # text[spa] = Tengo pena.
+# alimg = Tengo pena.
+# hash = cafc7d4d8e6968092bdce1683dbbcc87
 # tagged = true
 1	Kuenó	_	VERB	_	_	_	_	_	Trad=tengo.pena
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -1956,6 +2324,8 @@
 # text = Gua kuenód.
 # text[orig] = Gua kuenód.
 # text[spa] = Soy penoso.
+# alimg = Soy penoso.
+# hash = 08dc152f37854c9cf30163587a63bc6f
 # tagged = true
 # text[lit] = No tengas pena
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
@@ -1965,7 +2335,9 @@
 # sent_id = alimg:102
 # text = Snú núni no kutum.
 # text[orig] = Snú núni no kutum.
-# text[spa] = En la olla  hay frijoles.
+# text[spa] = En la olla hay frijoles.
+# alimg = En la olla hay frijoles.
+# hash = 36ea17ca2dec6418d6e83d107d4fc210
 # tagged = true
 1	Snú	_	VERB	_	_	_	_	_	Trad=tengo|Gloss=?-tener-1SG
 2	núni	_	NOUN	_	_	_	_	_	Trad=frijol
@@ -1977,6 +2349,8 @@
 # text = Snú nuni no kutum.
 # text[orig] = Snú nuni no kutum.
 # text[spa] = En la olla hay agua.
+# alimg = En la olla hay agua.
+# hash = 3d50aad5d34c3db68181b7741266ccb2
 # tagged = true
 1	Snú	_	VERB	_	_	_	_	_	Trad=tengo|Gloss=?-tener-1SG
 2	nuni	_	NOUN	_	_	_	_	_	Trad=agua
@@ -1988,6 +2362,8 @@
 # text = Kutea núni no kutum.
 # text[orig] = Kutea núni no kutum.
 # text[spa] = En la olla no hay frijoles.
+# alimg = En la olla no hay frijoles.
+# hash = 0e49f28f2d508ce3ebd1edf31c04a687
 # tagged = false
 1	Kutea	_	_	_	_	_	_	_	Trad=no.hay
 2	núni	_	NOUN	_	_	_	_	_	Trad=frijol
@@ -1999,6 +2375,8 @@
 # text = Kutea nuni no kutum.
 # text[orig] = Kutea nuni no kutum.
 # text[spa] = En la olla no hay agua.
+# alimg = En la olla no hay agua.
+# hash = b4f64c19a5e2c7055b9c907ba048c959
 # tagged = false
 1	Kutea	_	_	_	_	_	_	_	Trad=no.hay
 2	nuni	_	NOUN	_	_	_	_	_	Trad=agua
@@ -2010,6 +2388,8 @@
 # text = ¿A snú núni no kutum?
 # text[orig] = ¿A snú núni no kutum?
 # text[spa] = ¿Hay frijoles en la olla?
+# alimg = ¿Hay frijoles en la olla?
+# hash = 054afe4d66c420c4ede832f4be124552
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -2023,6 +2403,8 @@
 # text = ¿A kutea núni no kutum?
 # text[orig] = ¿A kutea núni no kutum?
 # text[spa] = ¿No hay frijoles en la olla?
+# alimg = ¿No hay frijoles en la olla?
+# hash = 6112e8f4e354bb654926cf6df52e77bd
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -2036,6 +2418,8 @@
 # text = Beaka.
 # text[orig] = Beaka.
 # text[spa] = Si hay.
+# alimg = Si hay.
+# hash = 76167dad2b70f9342f72c122897e9d5b
 # tagged = false
 # text[lit] = Todavía hay
 1	Beaka	_	_	_	_	_	_	_	Trad=sí.hay
@@ -2045,6 +2429,8 @@
 # text = Gua, kutea.
 # text[orig] = Gua, kutea.
 # text[spa] = No, no hay.
+# alimg = No, no hay.
+# hash = b26ef7c8dc5d6c84efc7d964b0db6bd5
 # tagged = false
 # text[lit] = No, ya no hay
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
@@ -2056,6 +2442,8 @@
 # text = ¿A bea itcheanu kuete?
 # text[orig] = ¿A bea itcheanu kuete?
 # text[spa] = ¿En el monte no hay venados?
+# alimg = ¿En el monte no hay venados?
+# hash = 69409befa792d92137889f20ab4481a7
 # tagged = true
 # text[lit] = ¿Hay venados en el campo?
 1	¿	¿	PUNCT	_	_	_	_	_	_
@@ -2069,6 +2457,8 @@
 # text = No baʼa bea iña.
 # text[orig] = No ba'a bea iña.
 # text[spa] = En la casa hay gente.
+# alimg = En la casa hay gente.
+# hash = b3df9f43b1bf4f020bde2265bc3a3b05
 # tagged = true
 1	No	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 2	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -2080,6 +2470,8 @@
 # text = No baʼa gua iña.
 # text[orig] = No ba'a gua iña.
 # text[spa] = En la casa no hay gente.
+# alimg = En la casa no hay gente.
+# hash = b617cd69e418e1e0c67d49ba8b226757
 # tagged = true
 1	No	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 2	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -2091,6 +2483,8 @@
 # text = Muʼu bea kùù yuntu.
 # text[orig] = Mu'u bea kùù yuntu.
 # text[spa] = Aquí hay cuatro tortillas.
+# alimg = Aquí hay cuatro tortillas.
+# hash = 7a475d55381c3a5dacafaa732e010a4d
 # tagged = true
 1	Muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -2102,6 +2496,8 @@
 # text = Muʼu bea yuntu.
 # text[orig] = Mu'u bea yuntu.
 # text[spa] = Aquí hay una tortilla.
+# alimg = Aquí hay una tortilla.
+# hash = 58e3f90f2c798b1553bbd691572a187f
 # tagged = true
 1	Muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -2112,6 +2508,8 @@
 # text = Muʼu bea nuni.
 # text[orig] = Mu'u bea nuni.
 # text[spa] = Aquí hay agua.
+# alimg = Aquí hay agua.
+# hash = 51a840ac2ebd25feb18d506cdf263577
 # tagged = true
 1	Muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -2122,6 +2520,8 @@
 # text = Gua nuni.
 # text[orig] = Gua nuni.
 # text[spa] = Aquí no hay agua.
+# alimg = Aquí no hay agua.
+# hash = 5ac16ea75c7cbac95cb7f1ff931715f2
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	nuni	_	NOUN	_	_	_	_	_	Trad=agua
@@ -2131,6 +2531,8 @@
 # text = Mí bea tiʼö.
 # text[orig] = Mí bea ti'ö.
 # text[spa] = Allá hay árboles.
+# alimg = Allá hay árboles.
+# hash = 23bbc6d07479051a1acdc6d52d135f44
 # tagged = true
 1	Mí	_	ADV	_	_	_	_	_	Trad=allá
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -2141,6 +2543,8 @@
 # text = Ño baku bea nʼíba.
 # text[orig] = Ño baku bea n'íba.
 # text[spa] = En mi pueblo hay mercado.
+# alimg = En mi pueblo hay mercado.
+# hash = ec3fcf051f4e349b230e56de0d001ab3
 # tagged = true
 1	Ño	_	ADP	_	_	_	_	_	Trad=en
 2	baku	_	NOUN	_	_	_	_	_	Trad=casa
@@ -2152,6 +2556,8 @@
 # text = Ño kon bea baʼa eatea.
 # text[orig] = Ño kon bea ba'a eatea.
 # text[spa] = En ese pueblo hay casas grandes.
+# alimg = En ese pueblo hay casas grandes.
+# hash = ab6ed7c919b79cfd0e304fb9b46605c0
 # tagged = true
 1	Ño	_	ADP	_	_	_	_	_	Trad=en
 2	kon	_	DET	_	_	_	_	_	Trad=ese
@@ -2164,6 +2570,8 @@
 # text = ¿Daë yada chó?
 # text[orig] = ¿Daë yada chó?
 # text[spa] = ¿Qué pájaro es ese?
+# alimg = ¿Qué pájaro es ese?
+# hash = 5245def9e408d9491d45550615a8dc08
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Daë	_	PRON	_	_	_	_	_	Trad=qué|UPOS=Guessed
@@ -2175,6 +2583,8 @@
 # text = Juó noʼös.
 # text[orig] = Juó no'ös.
 # text[spa] = Juan es maestro.
+# alimg = Juan es maestro.
+# hash = b1f9032e95d9b0ddc98786af6d2c1b7d
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	noʼös	_	NOUN	_	_	_	_	_	Trad=maestro
@@ -2184,6 +2594,8 @@
 # text = Juó gua noʼös.
 # text[orig] = Juó gua no'ös.
 # text[spa] = Juan no es maestro.
+# alimg = Juan no es maestro.
+# hash = 56e41876a0bc6b41ac7d0043ff064248
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
@@ -2194,6 +2606,8 @@
 # text = ¿A duʼu noʼö?
 # text[orig] = ¿A du'u no'ö?
 # text[spa] = ¿Quién es maestro?
+# alimg = ¿Quién es maestro?
+# hash = ba43a7817a6fbf973498a469babcd2f1
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -2205,6 +2619,8 @@
 # text = ¿Duʼu noʼöm?
 # text[orig] = ¿Du'u no'öm?
 # text[spa] = ¿Quién es el maestro?
+# alimg = ¿Quién es el maestro?
+# hash = f6b490491f5563fb7354f075d29abc37
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
@@ -2215,6 +2631,8 @@
 # text = Juó daya.
 # text[orig] = Juó daya.
 # text[spa] = Juan es hijo mío.
+# alimg = Juan es hijo mío.
+# hash = 9561bba9a7952b36d2a3f3564e48181c
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	daya	_	NOUN	_	_	_	_	_	Trad=hijo(a)
@@ -2224,6 +2642,8 @@
 # text = Juó daya soʼö.
 # text[orig] = Juó daya so'ö.
 # text[spa] = Juan es hijo mío.
+# alimg = Juan es hijo mío.
+# hash = 9561bba9a7952b36d2a3f3564e48181c
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	daya	_	NOUN	_	_	_	_	_	Trad=hijo(a)
@@ -2234,6 +2654,8 @@
 # text = ¿A noʼö Juó?
 # text[orig] = ¿A no'ö Juó?
 # text[spa] = ¿Juan es maestro?
+# alimg = ¿Juan es maestro?
+# hash = baa919f2f7c441b7cb8ac562999623bf
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -2245,6 +2667,8 @@
 # text = Daya chë Manuel ú.
 # text[orig] = Daya chë Manuel ú.
 # text[spa] = Yo soy hijo de don Manuel.
+# alimg = Yo soy hijo de don Manuel.
+# hash = 1b00ec540ad60288944a02d21774a154
 # tagged = true
 1	Daya	_	NOUN	_	_	_	_	_	Trad=hijo(a)
 2	chë	_	NOUN	_	_	_	_	_	Trad=señor
@@ -2256,6 +2680,8 @@
 # text = Gua daya chë Manuel ú.
 # text[orig] = Gua daya chë Manuel ú.
 # text[spa] = Yo no soy hijo de don Manuel.
+# alimg = Yo no soy hijo de don Manuel.
+# hash = 2bd03fe1e12be22f05426619ae03efea
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	daya	_	NOUN	_	_	_	_	_	Trad=hijo(a)
@@ -2268,6 +2694,8 @@
 # text = Juó kúeas.
 # text[orig] = Juó kúeas.
 # text[spa] = Juan es brujo.
+# alimg = Juan es brujo.
+# hash = c315439459777589bc2d81edac009b7f
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	kúeas	_	NOUN	_	_	_	_	_	Trad=brujo
@@ -2277,6 +2705,8 @@
 # text = Kuetíchi kon ñeʼë.
 # text[orig] = Kuetíchi kon ñe'ë.
 # text[spa] = Esa canasta es mía.
+# alimg = Esa canasta es mía.
+# hash = 4a1e504babd29f79b43b09b090ac3937
 # tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
@@ -2287,6 +2717,8 @@
 # text = Kuetíchi kon ñeʼed.
 # text[orig] = Kuetíchi kon ñe'ed.
 # text[spa] = Esa canasta es tuya.
+# alimg = Esa canasta es tuya.
+# hash = 3145c83f71cb1cd88bbc3f9861fefb09
 # tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
@@ -2297,6 +2729,8 @@
 # text = Kuetíchi kon ñeʼes.
 # text[orig] = Kuetíchi kon ñe'es.
 # text[spa] = Esa canasta es de él
+# alimg = Esa canasta es de él
+# hash = eb0e31c78368b19a9f320e2b67694476
 # tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
@@ -2307,6 +2741,8 @@
 # text = Kuetíchi kon gua ñeʼed.
 # text[orig] = Kuetíchi kon gua ñe'ed.
 # text[spa] = Esa canasta no es tuya.
+# alimg = Esa canasta no es tuya.
+# hash = 84cf98d6594651c297bbc52ef7148429
 # tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
@@ -2318,6 +2754,8 @@
 # text = Kuetíchi kon gua ñeʼes.
 # text[orig] = Kuetíchi kon gua ñe'es.
 # text[spa] = Esa canasta no es de él.
+# alimg = Esa canasta no es de él.
+# hash = 0c872b59cd984abcc9c07573b05283bb
 # tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
@@ -2329,6 +2767,8 @@
 # text = Kuetíchi kon gua ñeʼen.
 # text[orig] = Kuetíchi kon gua ñe'en.
 # text[spa] = Esa canasta no es nuestra.
+# alimg = Esa canasta no es nuestra. (exclusivo)
+# hash = 7769e59f55eadfe4a09303d5b9b4d6d7
 # tagged = false
 # note = (exclusivo)
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
@@ -2340,8 +2780,11 @@
 # sent_id = alimg:131
 # text = Kuetíchi kun gua ñeʼen.
 # text[orig] = Kuetíchi kun gua ñe'en.
-# text[spa] = Esta canasta no es nuestra.
+# text[spa] = Esa canasta no es nuestra.
+# alimg = Esa canasta no es nuestra. (inclusivo)
+# hash = d45bfb58fb337351bb6cf7d70e49b5b8
 # tagged = false
+# text[lit] = Esta canasta no es nuestra.
 # note = (inclusivo)
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -2353,6 +2796,8 @@
 # text = Kuetíchi kon gua ñeʼën.
 # text[orig] = Kuetíchi kon gua ñe'ën.
 # text[spa] = Esa canasta no es de ustedes
+# alimg = Esa canasta no es de ustedes
+# hash = 7149df8f0a523bd16079f912218cc4eb
 # tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
@@ -2364,6 +2809,8 @@
 # text = Kuetíchi kon ñeʼen.
 # text[orig] = Kuetíchi kon ñe'en.
 # text[spa] = Esa canasta es nuestra.
+# alimg = Esa canasta es nuestra. (exclusivo)
+# hash = 5864f76f18c53bfe4586d3b06e1ff467
 # tagged = false
 # note = (exclusivo)
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
@@ -2375,6 +2822,8 @@
 # text = Kuetíchi kon ñeʼën.
 # text[orig] = Kuetíchi kon ñe'ën.
 # text[spa] = Esa canasta es de ustedes.
+# alimg = Esa canasta es de ustedes.
+# hash = 783335b7bf932f84b80a924e5998965b
 # tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
@@ -2385,6 +2834,8 @@
 # text = Kuetíchi kon ñeʼey.
 # text[orig] = Kuetíchi kon ñe'ey.
 # text[spa] = Esa canasta es de ellos.
+# alimg = Esa canasta es de ellos.
+# hash = 6a22ef9798729902cccb0b115781b8f1
 # tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
@@ -2395,6 +2846,8 @@
 # text = Kuetíchi kon gua ñeʼë.
 # text[orig] = Kuetíchi kon gua ñe'ë.
 # text[spa] = Esa canasta no es mía.
+# alimg = Esa canasta no es mía.
+# hash = 421a169fe8422a421e7bbf73c6169a8b
 # tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
@@ -2406,6 +2859,8 @@
 # text = Kuetíchi kon gua ñeʼey.
 # text[orig] = Kuetíchi kon gua ñe'ey.
 # text[spa] = Esa canasta no es de ellos.
+# alimg = Esa canasta no es de ellos.
+# hash = e49545e1f58902aedb87af2fb6fc5ceb
 # tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
@@ -2417,6 +2872,8 @@
 # text = ¿Ñeʼe duʼu kuetíchi ko?
 # text[orig] = ¿Ñe'e du'u kuetíchi ko?
 # text[spa] = ¿De quién es esa canasta?
+# alimg = ¿De quién es esa canasta?
+# hash = 5e57a5c07f6637a03d0d5ca4712bbcaa
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -2429,6 +2886,8 @@
 # text = ¿A ñeʼed kuetíchi ko?
 # text[orig] = ¿A ñe'ed kuetíchi ko?
 # text[spa] = ¿Es tuya esa canasta?
+# alimg = ¿Es tuya esa canasta?
+# hash = d71bb6cfade2535d6b9326636fe81fe1
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	ADV	_	_	_	_	_	Trad=ya
@@ -2441,6 +2900,8 @@
 # text = ¿A gua ñeʼed kuetíchi ko?
 # text[orig] = ¿A gua ñe'ed kuetíchi ko?
 # text[spa] = ¿No es tuya esa canasta?
+# alimg = ¿No es tuya esa canasta?
+# hash = 5629a0305203225ef8e02c7bc93c5230
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	ADV	_	_	_	_	_	Trad=ya
@@ -2454,6 +2915,8 @@
 # text = Chu yuni.
 # text[orig] = Chu yuni.
 # text[spa] = Este es el camino
+# alimg = Este es el camino (que va al pueblo)
+# hash = b94001d1172377fb3a6b69b1f496c41b
 # tagged = true
 # note = (que va al pueblo)
 1	Chu	_	PRON	_	_	_	_	_	Trad=este
@@ -2464,6 +2927,8 @@
 # text = Juó ñeʼe Jidiba soʼö.
 # text[orig] = Juó ñe'e Jidiba so'ö.
 # text[spa] = Juan es de Huamantla.
+# alimg = Juan es de Huamantla.
+# hash = 31e7b9a78e6aabc8a2fb3a0f13df5770
 # tagged = true
 # text[lit] = Juan es de la Mixteca
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
@@ -2476,6 +2941,8 @@
 # text = ¿Ñeʼe ti Juó?
 # text[orig] = ¿Ñe'e ti Juó?
 # text[spa] = ¿De dónde es Juan?
+# alimg = ¿De dónde es Juan?
+# hash = 79323f7a7815d2df739427c9c69c7546
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -2487,6 +2954,8 @@
 # text = ¿Ñeʼe ti dí?
 # text[orig] = ¿Ñe'e ti dí?
 # text[spa] = ¿De dónde eres?
+# alimg = ¿De dónde eres?
+# hash = b7d6a78fffaa1f6ce479c1f21a67d897
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -2498,6 +2967,8 @@
 # text = Juó ama soʼö nda.
 # text[orig] = Juó ama so'ö nda.
 # text[spa] = Juan es un hombre bueno.
+# alimg = Juan es un hombre bueno.
+# hash = bb8ddb1f62aa59a350dd90bb4aae74be
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -2509,6 +2980,8 @@
 # text = ¿A dae kubi Juó?
 # text[orig] = ¿A dae kubi Juó?
 # text[spa] = ¿Qué va a ser Juan?
+# alimg = ¿Qué va a ser Juan?
+# hash = 8a221fe1fe7e488adc383d51e220797f
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -2521,6 +2994,8 @@
 # text = Juó soʼös.
 # text[orig] = Juó so'ös.
 # text[spa] = Juan es hombre.
+# alimg = Juan es hombre.
+# hash = a0a144a62dfa1ed8025d57e10ec5f1ba
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	soʼös	_	NOUN	_	_	_	_	_	Trad=hombre
@@ -2530,6 +3005,8 @@
 # text = Ta Marian ndatata.
 # text[orig] = Ta Marian ndatata.
 # text[spa] = María es mujer.
+# alimg = María es mujer.
+# hash = 0889cc10d2f5818f1215a4758cb69f61
 # tagged = false
 1	Ta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,señora
 2	Marian	_	PROPN	_	_	_	_	_	Trad=María
@@ -2540,6 +3017,8 @@
 # text = Ú soʼö ú.
 # text[orig] = Ú so'ö ú.
 # text[spa] = Yo soy hombre.
+# alimg = Yo soy hombre.
+# hash = 8114faddb7fce9d813d9134cf45e2299
 # tagged = true
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
@@ -2550,6 +3029,8 @@
 # text = Ú ndata ú.
 # text[orig] = Ú ndata ú.
 # text[spa] = Yo soy mujer.
+# alimg = Yo soy mujer.
+# hash = c1b77b7d2b13bc55107e21d452a8e9e4
 # tagged = true
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	ndata	_	NOUN	_	_	_	_	_	Trad=mujer
@@ -2560,6 +3041,8 @@
 # text = ¿Dae comida cho?
 # text[orig] = ¿Dae comida cho?
 # text[spa] = ¿Qué es esa comida?
+# alimg = ¿Qué es esa comida?
+# hash = c9f3c67dcd0c63329032a44bafe83138
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Dae	_	PRON	_	_	_	_	_	Trad=que
@@ -2571,6 +3054,8 @@
 # text = Comida kun yuta kuchi.
 # text[orig] = Comida kun yuta kuchi.
 # text[spa] = Esta comida es carne de puerco.
+# alimg = Esta comida es carne de puerco.
+# hash = 74567bf2b1d7e8d548ca178219136a19
 # tagged = true
 1	Comida	_	NOUN	_	_	_	_	_	Trad=comida
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -2582,6 +3067,8 @@
 # text = Ún yunu.
 # text[orig] = Ún yunu.
 # text[spa] = Yo soy el más joven.
+# alimg = Yo soy el más joven.
+# hash = 02acad743dc3520e25454e5fe6d0046f
 # tagged = true
 # text[lit] = Yo soy joven
 1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -2592,6 +3079,8 @@
 # text = Ún kutea yunu.
 # text[orig] = Ún kutea yunu.
 # text[spa] = Yo no soy el más joven.
+# alimg = Yo no soy el más joven.
+# hash = 205a1cb3174dae5224340e1bcd5bda84
 # tagged = false
 # text[lit] = Yo ya no soy joven
 1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -2603,6 +3092,8 @@
 # text = Juó beajukus.
 # text[orig] = Juó beajukus.
 # text[spa] = Juan es el que está sentado.
+# alimg = Juan es el que está sentado. (Contestación a: ¿Cuál es Juan?)
+# hash = 7719ffa5f8a21244f9639a978ad8de3c
 # tagged = false
 # note = (Contestación a:  ¿Cuál es Juan?)
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
@@ -2613,6 +3104,8 @@
 # text = Eduviges chi jobe ndata.
 # text[orig] = Eduviges chi jobe ndata.
 # text[spa] = Eduviges es nombre de mujer.
+# alimg = Eduviges es nombre de mujer.
+# hash = d1fdaab12239111997690d6fdc7994be
 # tagged = true
 1	Eduviges	_	PROPN	_	_	_	_	_	Trad=Eduviges
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -2624,6 +3117,8 @@
 # text = ¿Dae cho?
 # text[orig] = ¿Dae cho?
 # text[spa] = ¿Qué es eso?
+# alimg = ¿Qué es eso? (señalando algo que no se alcanza a distinguir)
+# hash = 6fb0b35a56b5e770700b31c0594a92ef
 # tagged = true
 # note = (señalando algo que no se alcanza a distinguir)
 1	¿	¿	PUNCT	_	_	_	_	_	_
@@ -2635,6 +3130,8 @@
 # text = Ta juana ninubita chakuta.
 # text[orig] = Ta juana ninubita chakuta.
 # text[spa] = Juana se parece a su madre.
+# alimg = Juana se parece a su madre.
+# hash = fc1bc6a4ce33983b283f173081690c80
 # tagged = false
 1	Ta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,señora
 2	juana	Juana	PROPN	_	_	_	_	_	Trad=Juana
@@ -2646,6 +3143,8 @@
 # text = Yadan ninubis intï.
 # text[orig] = Yadan ninubis intï.
 # text[spa] = Usted y su hijo se parecen mucho.
+# alimg = Usted y su hijo se parecen mucho.
+# hash = 6d91e2987b2629de1be814d98c153f47
 # tagged = true
 # text[lit] = Su hijo se parece a usted
 1	Yadan	_	NOUN	_	_	_	_	_	Trad=su.hijo
@@ -2657,6 +3156,8 @@
 # text = Juó a niku injobes.
 # text[orig] = Juó a niku injobes.
 # text[spa] = Juan parece viejo.
+# alimg = Juan parece viejo.
+# hash = 0ef6f4ed1f86b665fbe575764a89bb9d
 # tagged = false
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	a	a	PART	_	_	_	_	_	Gloss=QST
@@ -2668,6 +3169,8 @@
 # text = ¿A taka jobed?
 # text[orig] = ¿A taka jobed?
 # text[spa] = ¿Cómo te llamas?
+# alimg = ¿Cómo te llamas?
+# hash = b5a266a1e5af837a040b3db81c72d67b
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -2679,6 +3182,8 @@
 # text = Ún jobe Pedro.
 # text[orig] = Ún jobe Pedro.
 # text[spa] = Me llamo Pedro.
+# alimg = Me llamo Pedro.
+# hash = 9b36b7986f1ff31b4ff84c0f25245371
 # tagged = true
 1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	jobe	_	NOUN	_	_	_	_	_	Trad=día
@@ -2689,6 +3194,8 @@
 # text = Icha.
 # text[orig] = Icha.
 # text[spa] = Hace calor.
+# alimg = Hace calor.
+# hash = 269c1c735810636de86cf32850407afb
 # tagged = true
 1	Icha	_	ADJ	_	_	_	_	_	Trad=frío|UPOS=Guessed
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -2697,6 +3204,8 @@
 # text = Ínuu.
 # text[orig] = Ínuu.
 # text[spa] = Hace frío.
+# alimg = Hace frío.
+# hash = cf9859839ec0b5a56efdfce1e38e7dcb
 # tagged = true
 1	Ínuu	_	NOUN	_	_	_	_	_	Trad=calor
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -2705,6 +3214,8 @@
 # text = Jeanu yuna.
 # text[orig] = Jeanu yuna.
 # text[spa] = Hace viento.
+# alimg = Hace viento.
+# hash = ea474de282ef36aff573e3747a09b2ce
 # tagged = true
 # text[lit] = T.l:Corre viento
 1	Jeanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=correr|Gloss=?-correr-?
@@ -2715,6 +3226,8 @@
 # text = Jè kubi.
 # text[orig] = Jè kubi.
 # text[spa] = Está lloviendo.
+# alimg = Está lloviendo.
+# hash = a29a44b8b75fbd6b37d444bd0fb55652
 # tagged = false
 1	Jè	_	_	_	_	_	_	_	_
 2	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
@@ -2724,6 +3237,8 @@
 # text = Kuè kubi.
 # text[orig] = Kuè kubi.
 # text[spa] = Va a llover.
+# alimg = Va a llover.
+# hash = 306f51a108261ae31d9d023e84b0c056
 # tagged = false
 1	Kuè	_	_	_	_	_	_	_	_
 2	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
@@ -2733,6 +3248,8 @@
 # text = ¿Nuku dae jidiñ yuntu?
 # text[orig] = ¿Nuku dae jidiñ yuntu?
 # text[spa] = ¿Con qué se hacen las tortillas?
+# alimg = ¿Con qué se hacen las tortillas?
+# hash = 705a78fd849722981cd643c24f2036f2
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
@@ -2745,6 +3262,8 @@
 # text = Nuku beayee jidiñ yuntu.
 # text[orig] = Nuku beayee jidiñ yuntu.
 # text[spa] = Las tortillas se hacen con nixtamal.
+# alimg = Las tortillas se hacen con nixtamal.
+# hash = 750d96dede14179990c7484340bfe51e
 # tagged = true
 1	Nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 2	beayee	_	NOUN	_	_	_	_	_	Trad=nixtamal
@@ -2756,6 +3275,8 @@
 # text = ¿A taka kadi koʼö ñoo bakud?
 # text[orig] = ¿A taka kadi ko'ö ñoo bakud?
 # text[spa] = ¿Cómo se va a tu pueblo?
+# alimg = ¿Cómo se va a tu pueblo?
+# hash = 74813c3fb36f199da249031434aa6b5c
 # tagged = true
 # text[lit] = ¿Cómo puedo ir a tu pueblo?
 1	¿	¿	PUNCT	_	_	_	_	_	_
@@ -2771,6 +3292,8 @@
 # text = ¿A ti jinukuy chiadi?
 # text[orig] = ¿A ti jinukuy chiadi?
 # text[spa] = ¿Dónde venden azucar?
+# alimg = ¿Dónde venden azucar?
+# hash = ceeb2d346514b65201c1f109d672641c
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -2783,6 +3306,8 @@
 # text = Mi ndenó jinikuy.
 # text[orig] = Mi ndenó jinikuy.
 # text[spa] = Ahí venden muchas cosas.
+# alimg = Ahí venden muchas cosas.
+# hash = 5f756f79b625c21cd64633277ebfe9de
 # tagged = false
 1	Mi	_	DET	_	_	_	_	_	Trad=esa
 2	ndenó	_	_	_	_	_	_	_	_
@@ -2793,6 +3318,8 @@
 # text = Juó koʼos chis tonto ú.
 # text[orig] = Juó ko'os chis tonto ú.
 # text[spa] = Juan me llamó tonto.
+# alimg = Juan me llamó tonto.
+# hash = e4ad69f176faa3729ddb5a0eeefdce5c
 # tagged = false
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	koʼos	_	_	_	_	_	_	_	_
@@ -2805,6 +3332,8 @@
 # text = Kayadu.
 # text[orig] = Kayadu.
 # text[spa] = Estoy durmiendo.
+# alimg = Estoy durmiendo.
+# hash = f70ca02cf5d3678ef7a888e64131c767
 # tagged = true
 1	Kayadu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dormir|Gloss=?-dormir-?
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -2813,6 +3342,8 @@
 # text = Kadayuʼuu.
 # text[orig] = Kadayu'uu.
 # text[spa] = Estamos durmiendo
+# alimg = Estamos durmiendo (exclusivo)
+# hash = 6bf53407ad16c61211ac373594e6eb6c
 # tagged = true
 # note = (exclusivo)
 1	Kadayuʼuu	_	VERB	_	_	_	_	_	Trad=estamos.durmiendo
@@ -2822,6 +3353,8 @@
 # text = Lï jiyaduy.
 # text[orig] = Lï jiyaduy.
 # text[spa] = Duerme poco.
+# alimg = Duerme poco.
+# hash = 88ff1468ebc09056b1d2b105b3c41695
 # tagged = true
 1	Lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
 2	jiyaduy	_	VERB	_	_	_	_	_	Trad=duerme
@@ -2831,6 +3364,8 @@
 # text = Jiyadu jobe.
 # text[orig] = Jiyadu jobe.
 # text[spa] = Duerme de día.
+# alimg = Duerme de día.
+# hash = 4114413b1990f0958add812ee2bbd4e8
 # tagged = true
 # text[lit] = De día yo duermo
 1	Jiyadu	_	VERB	_	_	_	_	_	Trad=duermo
@@ -2841,6 +3376,8 @@
 # text = Yeabean jiyadus chi jobe.
 # text[orig] = Yeabean jiyadus chi jobe.
 # text[spa] = Duerme mucho de día.
+# alimg = Duerme mucho de día.
+# hash = bbb364f35d8bfd2a86bf683d1f139dbc
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme
@@ -2852,6 +3389,8 @@
 # text = Yeabean jiyadus chi màà.
 # text[orig] = Yeabean jiyadus chi màà.
 # text[spa] = Duerme mucho de noche.
+# alimg = Duerme mucho de noche.
+# hash = f37077b3ad0e59455053a61283897f06
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme
@@ -2863,6 +3402,8 @@
 # text = Gua jiyadus chi jobe.
 # text[orig] = Gua jiyadus chi jobe.
 # text[spa] = No duerme de día.
+# alimg = No duerme de día.
+# hash = 4ab797e67b456f3142b4a3b14237e871
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme
@@ -2874,6 +3415,8 @@
 # text = Gua diyadus chi màà.
 # text[orig] = Gua diyadus chi màà.
 # text[spa] = No duerme de noche.
+# alimg = No duerme de noche.
+# hash = be1e57a9d5e177274e8e6487075bfa82
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	diyadus	_	VERB	_	_	_	_	_	Trad=duerme
@@ -2885,6 +3428,8 @@
 # text = Kayadu silïm.
 # text[orig] = Kayadu silïm.
 # text[spa] = El niño se durmió.
+# alimg = El niño se durmió.
+# hash = b236ef3d07ac3e419fb7a5243a9d1e11
 # tagged = true
 1	Kayadu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dormir|Gloss=?-dormir-?
 2	silïm	_	NOUN	_	_	_	_	_	Trad=niño
@@ -2894,6 +3439,8 @@
 # text = Kayadu silïm.
 # text[orig] = Kayadu silïm.
 # text[spa] = El niño se está durmiendo.
+# alimg = El niño se está durmiendo.
+# hash = fed8285494aa11bba455e5999aa46ddb
 # tagged = true
 1	Kayadu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dormir|Gloss=?-dormir-?
 2	silïm	_	NOUN	_	_	_	_	_	Trad=niño
@@ -2903,6 +3450,8 @@
 # text = Koʼö kuyadu silï.
 # text[orig] = Ko'ö kuyadu silï.
 # text[spa] = El niño se ve a dormir.
+# alimg = El niño se ve a dormir.
+# hash = f3ed0ebd253588ca2ce4b26269706c30
 # tagged = true
 1	Koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
 2	kuyadu	_	VERB	_	_	_	_	_	Trad=dormir|Gloss=?-dormir-?
@@ -2913,6 +3462,8 @@
 # text = Nauné kayadu silïm.
 # text[orig] = Nauné kayadu silïm.
 # text[spa] = El niño se durmió de nuevo.
+# alimg = El niño se durmió de nuevo.
+# hash = 9d19861e4ad64283a2dc2f05f9714e6d
 # tagged = true
 1	Nauné	_	ADV	_	_	_	_	_	Trad=de.nuevo
 2	kayadu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dormir|Gloss=?-dormir-?
@@ -2923,6 +3474,8 @@
 # text = Gua yeabea kayadu silï yabi.
 # text[orig] = Gua yeabea kayadu silï yabi.
 # text[spa] = El niño no durmió bien anodche.
+# alimg = El niño no durmió bien anodche.
+# hash = 3a7c70b61265532a28f0261970d3bf8a
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	yeabea	_	ADJ	_	_	_	_	_	Trad=bonito(a)|UPOS=Guessed
@@ -2935,6 +3488,8 @@
 # text = Tatlin gua kayaku silí no camión mi.
 # text[orig] = Tatlin gua kayaku silí no camión mi.
 # text[spa] = El niño casi se durmió en el camión.
+# alimg = El niño casi se durmió en el camión.
+# hash = 1317db2f68ba13a34967a268d112c414
 # tagged = true
 1	Tatlin	_	ADV	_	_	_	_	_	Trad=casi|UPOS=Guessed
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
@@ -2949,6 +3504,8 @@
 # text = Tako chikata yuntu ú chi cheʼe chakuta.
 # text[orig] = Tako chikata yuntu ú chi che'e chakuta.
 # text[spa] = Ella me pidió tortilas para su madre.
+# alimg = Ella me pidió tortilas para su madre.
+# hash = ea952f840646bf7848939f2672110697
 # tagged = true
 # text[lit] = Ella me pidió tortillas para que comiera su mamá
 1	Tako	_	PRON	_	_	_	_	_	Trad=ella
@@ -2964,6 +3521,8 @@
 # text = ¿A chikata yuntu dí?
 # text[orig] = ¿A chikata yuntu dí?
 # text[spa] = ¿Ella te pidió tortillas?
+# alimg = ¿Ella te pidió tortillas?
+# hash = 39a0867e92b9d84c6e22aeee90dea252
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -2976,6 +3535,8 @@
 # text = Jù, chikata yuntu ú.
 # text[orig] = Jù, chikata yuntu ú.
 # text[spa] = Sí ella me pidió tortillas.
+# alimg = Sí ella me pidió tortillas.
+# hash = 8203328db8dc17bcddd37ae4e3849f12
 # tagged = true
 1	Jù	_	INTJ	_	_	_	_	_	Trad=sí
 2	,	,	PUNCT	_	_	_	_	_	_
@@ -2988,6 +3549,8 @@
 # text = ¿A duʼu chika yuntu dí?
 # text[orig] = ¿A du'u chika yuntu dí?
 # text[spa] = ¿Quién te pidió tortillas?
+# alimg = ¿Quién te pidió tortillas?
+# hash = bce61e76c1e305a2de158de36e682407
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -3001,6 +3564,8 @@
 # text = ¿A dae chikata dí?
 # text[orig] = ¿A dae chikata dí?
 # text[spa] = ¿Qué te pidió ella?
+# alimg = ¿Qué te pidió ella?
+# hash = 8d24c07536f5db10c4821f831785db57
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -3013,6 +3578,8 @@
 # text = Gua chikata yuntu ú.
 # text[orig] = Gua chikata yuntu ú.
 # text[spa] = Ella no me pidió tortillas.
+# alimg = Ella no me pidió tortillas.
+# hash = 5401068d7a32930fa28edb23dec09978
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3SG.FEM
@@ -3024,6 +3591,8 @@
 # text = Nokuó jikata yuntu ú.
 # text[orig] = Nokuó jikata yuntu ú.
 # text[spa] = Ella a veces me pide tortillas.
+# alimg = Ella a veces me pide tortillas.
+# hash = 2534ba58aa6c01a2d4ee409483deb7a8
 # tagged = true
 1	Nokuó	_	ADV	_	_	_	_	_	Trad=a.veces
 2	jikata	_	VERB	_	_	_	_	_	Trad=pide|Gloss=?-pedir-3SG.FEM
@@ -3035,6 +3604,8 @@
 # text = Takó chikueta ú.
 # text[orig] = Takó chikueta ú.
 # text[spa] = Ella me enseñó esta canción.
+# alimg = Ella me enseñó esta canción.
+# hash = c5babe180361ca19b5926cc0f7a227ea
 # tagged = true
 # text[lit] = Ella me enseñó
 1	Takó	_	PRON	_	_	_	_	_	Trad=ella
@@ -3046,6 +3617,8 @@
 # text = Taka chikueta ú a taka jiduchiy ñoʼo jindeʼe.
 # text[orig] = Taka chikueta ú a taka jiduchiy ño'o jinde'e.
 # text[spa] = Ella me explicó el juego.
+# alimg = Ella me explicó el juego.
+# hash = c391d120bc719a654b16792048feb4c8
 # tagged = false
 # text[lit] = Ella me enseñó como se juega el trompo
 1	Taka	taka	ADV	_	_	_	_	_	Trad=cómo
@@ -3062,6 +3635,8 @@
 # text = Nichi dí iku.
 # text[orig] = Nichi dí iku.
 # text[spa] = Te vi ayer en el mercado.
+# alimg = Te vi ayer en el mercado.
+# hash = 9749736d92d3a7f55e618bfe1431c398
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
@@ -3072,6 +3647,8 @@
 # text = Nichi soʼö iku nʼiba.
 # text[orig] = Nichi so'ö iku n'iba.
 # text[spa] = Lo vi ayer en el mercado.
+# alimg = Lo vi ayer en el mercado.
+# hash = 26d9152b000196345bbfa400ac24fbc5
 # tagged = true
 # text[lit] = sujeto masculino
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
@@ -3084,6 +3661,8 @@
 # text = Nichi insë iku no nʼiba.
 # text[orig] = Nichi insë iku no n'iba.
 # text[spa] = Los vi a ustedes ayer en el mercado.
+# alimg = Los vi a ustedes ayer en el mercado.
+# hash = 920d1dccf91ebe180665e5ac6887a71d
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	insë	_	PRON	_	_	_	_	_	Trad=ustedes
@@ -3096,6 +3675,8 @@
 # text = Nichi iñsé iku no nʼiba.
 # text[orig] = Nichi iñsé iku no n'iba.
 # text[spa] = Los vi a ellos ayer en el mercado.
+# alimg = Los vi a ellos ayer en el mercado.
+# hash = 40e86acf8f5919e1b8cb1be4a49a1e77
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	iñsé	_	PRON	_	_	_	_	_	Trad=ellos
@@ -3108,6 +3689,8 @@
 # text = A nichid ú iku nʼiba.
 # text[orig] = A nichid ú iku n'iba.
 # text[spa] = Me viste ayer en el mercado.
+# alimg = Me viste ayer en el mercado.
+# hash = 296d292389535fae4237cbd434ce1d60
 # tagged = true
 1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
@@ -3120,6 +3703,8 @@
 # text = A nichid toʼö iku nʼiba.
 # text[orig] = A nichid to'ö iku n'iba.
 # text[spa] = Lo viste ayer en el mercado.
+# alimg = Lo viste ayer en el mercado.
+# hash = 836c39088265b1e754a4194630d6ea58
 # tagged = true
 1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
@@ -3132,6 +3717,8 @@
 # text = Nichid insú iku no nʼiba.
 # text[orig] = Nichid insú iku no n'iba.
 # text[spa] = Nos viste ayer en el mercado.
+# alimg = Nos viste ayer en el mercado.
+# hash = 0b43973ca7f6b70ec3ec3ad43feeffc9
 # tagged = true
 1	Nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
 2	insú	_	PRON	_	_	_	_	_	Trad=nosotros
@@ -3144,6 +3731,8 @@
 # text = Nichis ú iku nʼiba.
 # text[orig] = Nichis ú iku n'iba.
 # text[spa] = Me vio ayer en el mercado
+# alimg = Me vio ayer en el mercado
+# hash = 8e703950d0ca9e33498c18fe36e96fe7
 # tagged = true
 1	Nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.MSC
 2	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -3155,6 +3744,8 @@
 # text = Nichis dí iku nʼiba.
 # text[orig] = Nichis dí iku n'iba.
 # text[spa] = Te vio ayer en el mercado.
+# alimg = Te vio ayer en el mercado.
+# hash = 7b9dc918311f26a6cd22ab5d558ba222
 # tagged = true
 1	Nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.MSC
 2	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
@@ -3166,6 +3757,8 @@
 # text = Nichiy ʼuu iku no nʼiba.
 # text[orig] = Nichiy 'uu iku no n'iba.
 # text[spa] = Nos vio ayer en el mercado.
+# alimg = Nos vio ayer en el mercado.
+# hash = 353ecfe9728e64c174d522bfd68e1816
 # tagged = true
 1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
 2	ʼuu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -3178,6 +3771,8 @@
 # text = Nichiy insë.
 # text[orig] = Nichiy insë.
 # text[spa] = Los vio ayer en el mercado.
+# alimg = Los vio (a ustedes) ayer en el mercado.
+# hash = 4d16dd57f78f104b2fef34eb530d56d0
 # tagged = true
 # note = (a ustedes)
 1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
@@ -3188,6 +3783,8 @@
 # text = Nichiy iñsé.
 # text[orig] = Nichiy iñsé.
 # text[spa] = Los vio ayer en el mercado.
+# alimg = Los vio (a ellos) ayer en el mercado.
+# hash = a5f04a01c300022d7cf30534ce5bc106
 # tagged = true
 # note = (a ellos)
 1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
@@ -3198,6 +3795,8 @@
 # text = Nichin dí iku nʼiba.
 # text[orig] = Nichin dí iku n'iba.
 # text[spa] = Te vimos ayer en el mercado.
+# alimg = Te vimos ayer en el mercado.
+# hash = 51949beb27ec2464e58bb6e21581107c
 # tagged = true
 1	Nichin	_	VERB	_	_	_	_	_	Trad=vimos
 2	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
@@ -3209,6 +3808,8 @@
 # text = ¿A nichi ú iku nʼiba?
 # text[orig] = ¿A nichi ú iku n'iba?
 # text[spa] = ¿Me viste ayer en el mercado?
+# alimg = ¿Me viste ayer en el mercado?
+# hash = 0576ccc619a42df9f97bba34dc407ae2
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -3222,6 +3823,8 @@
 # text = ¿A duʼu nichid iku nʼiba?
 # text[orig] = ¿A du'u nichid iku n'iba?
 # text[spa] = ¿A quién viste ayer en el mercado?
+# alimg = ¿A quién viste ayer en el mercado?
+# hash = 25833eb354e5967c44010f9b4ee6edb0
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -3235,6 +3838,8 @@
 # text = ¿A dae nochid iku nʼiba?
 # text[orig] = ¿A dae nochid iku n'iba?
 # text[spa] = ¿Qué viste ayer en el mercado?
+# alimg = ¿Qué viste ayer en el mercado?
+# hash = d1e75c5132b935b7d7e5222e66d3ce9c
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -3248,7 +3853,10 @@
 # text = ¿A ti nichid ú?
 # text[orig] = ¿A ti nichid ú?
 # text[spa] = ¿Dónde me viste?
+# alimg = ¿Dónde y cuando me viste?
+# hash = a2f30709776c7922cf17b00b71172aaa
 # tagged = true
+# text[lit] = ¿Dónde me viste?
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
@@ -3260,6 +3868,8 @@
 # text = Kuá ama snï ñeʼes.
 # text[orig] = Kuá ama snï ñe'es.
 # text[spa] = Me pidió que le comprara un sombrero.
+# alimg = Me pidió que le comprara un sombrero. (para él)
+# hash = aab9eeec3ba51af1bda3497e9515648f
 # tagged = true
 # text[lit] = Compraré un sombrero para ella
 # note = (para él)
@@ -3273,6 +3883,8 @@
 # text = Kuá ama snï ñeʼe chidata.
 # text[orig] = Kuá ama snï ñe'e chidata.
 # text[spa] = Me pidió que le comprara un sombrero para su padre.
+# alimg = Me pidió que le comprara un sombrero para su padre.
+# hash = b64d0b255959061d95411f6922145200
 # tagged = true
 # text[lit] = Compraré un sombrero para su papá
 1	Kuá	_	VERB	_	_	_	_	_	Trad=compraré
@@ -3286,6 +3898,8 @@
 # text = Nès dí chi koʼöd Jibaku.
 # text[orig] = Nès dí chi ko'öd Jibaku.
 # text[spa] = El ordenó que fueras a Huamantla.
+# alimg = El ordenó que fueras a Huamantla.
+# hash = 05955acaad94eac3e3e2bed31c1bc63a
 # tagged = true
 # text[lit] = Te prfeno qué fueras a Cuicatlán
 1	Nès	_	VERB	_	_	_	_	_	Trad=ordenó|Gloss=?-ordenar-?
@@ -3299,6 +3913,8 @@
 # text = Nèta dí chi koʼöd Jibaku.
 # text[orig] = Nèta dí chi ko'öd Jibaku.
 # text[spa] = El te ordenó ir a Huamantla.
+# alimg = El te ordenó ir a Huamantla.
+# hash = f0101877ad7b9d3a787b0e55fb1f4838
 # tagged = true
 1	Nèta	_	VERB	_	_	_	_	_	Trad=ordenó
 2	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
@@ -3311,6 +3927,8 @@
 # text = Chineta damid chi dí dukud chi ñeʼeta.
 # text[orig] = Chineta damid chi dí dukud chi ñe'eta.
 # text[spa] = Ella te acusó de haberle robado.
+# alimg = Ella te acusó de haberle robado.
+# hash = 9972d9feeeb8bc5c3fc59b75ed6eeca1
 # tagged = false
 1	Chineta	_	PRON	_	_	_	_	_	Trad=ella
 2	damid	_	VERB	_	_	_	_	_	Trad=acusó
@@ -3325,6 +3943,8 @@
 # text = ¿Dae jikadi jidid?
 # text[orig] = ¿Dae jikadi jidid?
 # text[spa] = ¿Qué sabes hacer?
+# alimg = ¿Qué sabes hacer?
+# hash = b08a6af721e119147bd6b01f04a0f923
 # tagged = true
 # text[lit] = ¿Qué puedes hacer?
 1	¿	¿	PUNCT	_	_	_	_	_	_
@@ -3337,6 +3957,8 @@
 # text = Un guadbea jikadi jidi.
 # text[orig] = Un guadbea jikadi jidi.
 # text[spa] = Yo no sé hacer nada.
+# alimg = Yo no sé hacer nada.
+# hash = d5840ae70ca693023f8b60ed6341cb35
 # tagged = false
 # text[lit] = No puedo hacer nada
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -3349,6 +3971,8 @@
 # text = Gua deanu.
 # text[orig] = Gua deanu.
 # text[spa] = Yo no sé nada.
+# alimg = Yo no sé nada.
+# hash = f4be4162d4632890058fabfe83f153f9
 # tagged = true
 # text[lit] = No sé
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
@@ -3359,6 +3983,8 @@
 # text = Juó dimo beade jines.
 # text[orig] = Juó dimo beade jines.
 # text[spa] = Juan sólo sabe hablar español.
+# alimg = Juan sólo sabe hablar español.
+# hash = 69abdf28b3850d48ee290c3035551a5e
 # tagged = true
 # text[lit] = Juan solo habla español
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
@@ -3371,6 +3997,8 @@
 # text = ¿A jined beade?
 # text[orig] = ¿A jined beade?
 # text[spa] = ¿Sabes español?
+# alimg = ¿Sabes español?
+# hash = 57c0662a3791f3521151916ae1285edf
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -3382,6 +4010,8 @@
 # text = Jiné beade.
 # text[orig] = Jiné beade.
 # text[spa] = Sé español.
+# alimg = Sé español.
+# hash = 16c4d17c2ce41ec64387d02f55840864
 # tagged = true
 1	Jiné	_	VERB	_	_	_	_	_	Trad=sé|Gloss=?-saber-1SG
 2	beade	_	NOUN	_	_	_	_	_	Trad=español
@@ -3391,6 +4021,8 @@
 # text = ¿A chikadinud chi a ndo?
 # text[orig] = ¿A chikadinud chi a ndo?
 # text[spa] = ¿Cuándo supiste que yo había llegado?
+# alimg = ¿Cuándo supiste que yo había llegado?
+# hash = 2ac66ed00b1e0b9103356745d849b841
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -3404,6 +4036,8 @@
 # text = ¿A taka chikadinud chi a ndo?
 # text[orig] = ¿A taka chikadinud chi a ndo?
 # text[spa] = ¿Cómo supiste que yo había llegado?
+# alimg = ¿Cómo supiste que yo había llegado?
+# hash = eed57ecc7cb4362d353707b5b3a76640
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -3418,6 +4052,8 @@
 # text = Jite chi kadinud.
 # text[orig] = Jite chi kadinud.
 # text[spa] = Te lo digo para que lo sepas.
+# alimg = Te lo digo para que lo sepas.
+# hash = be0a908d12f93c05d5ac6849276a75ed
 # tagged = true
 # text[lit] = tl:te doy para que sepas, pero hace referencia a la frase
 1	Jite	_	VERB	_	_	_	_	_	Trad=digo|Gloss=?-decir-1SG
@@ -3429,6 +4065,8 @@
 # text = ¿A chèd beade?
 # text[orig] = ¿A chèd beade?
 # text[spa] = ¿Aprendiste español?
+# alimg = ¿Aprendiste español?
+# hash = a99d00b88f7f21069eab83f43d2cafe5
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -3440,6 +4078,8 @@
 # text = Chikuʼu gua chikueñ ú c.
 # text[orig] = Chiku'u gua chikueñ ú c.
 # text[spa] = Mi abuela no me enseñó a cantar.
+# alimg = Mi abuela no me enseñó a cantar.
+# hash = 6fc30dde187e60268d58a0273645ad6e
 # tagged = false
 1	Chikuʼu	_	NOUN	_	_	_	_	_	Trad=mi.abuelita
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
@@ -3452,6 +4092,8 @@
 # text = Kakued ú yuni.
 # text[orig] = Kakued ú yuni.
 # text[spa] = ¡Enséñame el camino!
+# alimg = ¡Enséñame el camino!
+# hash = bd6390e0630e490d673ada19f3f07439
 # tagged = true
 1	Kakued	_	VERB	_	_	_	_	_	Trad=enséñame
 2	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -3462,6 +4104,8 @@
 # text = Kakued ú dae nád toʼod.
 # text[orig] = Kakued ú dae nád to'od.
 # text[spa] = ¡Enséñame que tienes en la mano!
+# alimg = ¡Enséñame que tienes en la mano!
+# hash = a4337b7e8f4a8e40bae86404cde91091
 # tagged = true
 1	Kakued	_	VERB	_	_	_	_	_	Trad=enséñame
 2	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -3474,6 +4118,8 @@
 # text = Nichi ndee iti yuni.
 # text[orig] = Nichi ndee iti yuni.
 # text[spa] = Vi muchos animales en el camino.
+# alimg = Vi muchos animales en el camino.
+# hash = 1644dcc5a2217910122b719703ed1cdc
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	ndee	_	ADJ	_	_	_	_	_	Trad=mucho|UPOS=Guessed
@@ -3485,6 +4131,8 @@
 # text = Nichi dae chi no baʼa ko.
 # text[orig] = Nichi dae chi no ba'a ko.
 # text[spa] = Vi lo que pasó en esa casa.
+# alimg = Vi lo que pasó en esa casa.
+# hash = 36f9c9c33b118d7abb383c8ea6fd6321
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	dae	_	PRON	_	_	_	_	_	Trad=que
@@ -3498,6 +4146,8 @@
 # text = Nichi chi dimod jeʼed yuntu.
 # text[orig] = Nichi chi dimod je'ed yuntu.
 # text[spa] = Vi que estabas comiendo solo.
+# alimg = Vi que estabas comiendo solo.
+# hash = 196ffb0fa319ebddf66a071eeb5a4f28
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -3510,6 +4160,8 @@
 # text = Neʼe yuntu.
 # text[orig] = Ne'e yuntu.
 # text[spa] = Quiero tortillas.
+# alimg = Quiero tortillas.
+# hash = 21ceffb8c7a32d924e61b7d9526c2967
 # tagged = true
 1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 2	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
@@ -3519,6 +4171,8 @@
 # text = Neʼe koʼö nʼiba.
 # text[orig] = Ne'e ko'ö n'iba.
 # text[spa] = Quiero ir temprano al mercado.
+# alimg = Quiero ir temprano al mercado.
+# hash = 7d9209874f1239e967cb605e6d019084
 # tagged = true
 1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 2	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
@@ -3529,6 +4183,8 @@
 # text = ¿A dae neʼe did?
 # text[orig] = ¿A dae ne'e did?
 # text[spa] = ¿Qué quieres hacer?
+# alimg = ¿Qué quieres hacer?
+# hash = 55800f4cdc2b5e8382da49ecc9ad0d06
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -3541,6 +4197,8 @@
 # text = Neʼë kune muʼu.
 # text[orig] = Ne'ë kune mu'u.
 # text[spa] = Quiero quedarme aquí.
+# alimg = Quiero quedarme aquí.
+# hash = 8bfe2b0bb01102a70c9ee629792b0ebe
 # tagged = true
 1	Neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 2	kune	_	VERB	_	_	_	_	_	Trad=quedarse
@@ -3551,6 +4209,8 @@
 # text = Neʼë chi kuned muʼu.
 # text[orig] = Ne'ë chi kuned mu'u.
 # text[spa] = Quiero que te quedes aquí.
+# alimg = Quiero que te quedes aquí.
+# hash = 4d7fb4facb8802e7683df12eb0e4a63e
 # tagged = true
 1	Neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -3562,6 +4222,8 @@
 # text = Gua neʼë chi kuned dimod muʼu.
 # text[orig] = Gua ne'ë chi kuned dimod mu'u.
 # text[spa] = No quiero que te quedes solo aquí.
+# alimg = No quiero que te quedes solo aquí.
+# hash = 6e2d0c942f32fddc4a11a1892d4a1d70
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
@@ -3575,6 +4237,8 @@
 # text = Juó neʼes chi kune bakus.
 # text[orig] = Juó ne'es chi kune bakus.
 # text[spa] = Juan quería que me quedara en su casa.
+# alimg = Juan quería que me quedara en su casa.
+# hash = 022b865699e06c07d6472dfdcd5815c6
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	neʼes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3SG.MSC
@@ -3587,6 +4251,8 @@
 # text = Juó gua neʼes chi kune.
 # text[orig] = Juó gua ne'es chi kune.
 # text[spa] = Juan no quería que yo me quedara.
+# alimg = Juan no quería que yo me quedara.
+# hash = 044d1a0a4bf528aa1a3f73f1072176d9
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
@@ -3599,6 +4265,8 @@
 # text = Koʼöd chíd ú chi kanad ama bíʼi.
 # text[orig] = Ko'öd chíd ú chi kanad ama bí'i.
 # text[spa] = Me prometiste una manzana.
+# alimg = Me prometiste una manzana.
+# hash = 1efb5dc6563150591ab420170fb8e0ec
 # tagged = true
 # text[lit] = Me dijiste que traerias una fruta
 1	Koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
@@ -3614,6 +4282,8 @@
 # text = Koʼöd chíd ú chi kanad ama bíʼi cheʼe.
 # text[orig] = Ko'öd chíd ú chi kanad ama bí'i che'e.
 # text[spa] = Me prometiste que me ibas a dar una manzana.
+# alimg = Me prometiste que me ibas a dar una manzana.
+# hash = bdfd34e7e989811da97ba8826df81f16
 # tagged = true
 # text[lit] = Me dijiste que traerias una fruta para que yo comiera
 1	Koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
@@ -3630,6 +4300,8 @@
 # text = ¿A jitenud Ndios?
 # text[orig] = ¿A jitenud Ndios?
 # text[spa] = ¿Crees en Dios?
+# alimg = ¿Crees en Dios?
+# hash = c7edf41c1fcc52cb0c8c8411192ad929
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -3641,6 +4313,8 @@
 # text = Nigua kueʼes nuku Juó.
 # text[orig] = Nigua kue'es nuku Juó.
 # text[spa] = Creo que él se fue con Juan.
+# alimg = Creo que él se fue con Juan.
+# hash = caa2bd6d4d3c81999375ba29994dcc54
 # tagged = false
 1	Nigua	_	_	_	_	_	_	_	Trad=no
 2	kueʼes	_	VERB	_	_	_	_	_	Trad=se.fue
@@ -3652,6 +4326,8 @@
 # text = Nigua ni gua ndos.
 # text[orig] = Nigua ni gua ndos.
 # text[spa] = Dudo que venga Juan.
+# alimg = Dudo que venga Juan.
+# hash = 604e32887306ea23d03a2305a6e71e23
 # tagged = false
 1	Nigua	_	_	_	_	_	_	_	Trad=no
 2	ni	_	ADV	_	_	_	_	_	Trad=hasta
@@ -3663,6 +4339,8 @@
 # text = Gua jitenu ñeʼes.
 # text[orig] = Gua jitenu ñe'es.
 # text[spa] = Dudo de su promesa.
+# alimg = Dudo de su promesa.
+# hash = a3a66d849809943b519894af1c625ab3
 # tagged = true
 # text[lit] = No le creo
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
@@ -3674,6 +4352,8 @@
 # text = ¿A denud duʼu gua ndo?
 # text[orig] = ¿A denud du'u gua ndo?
 # text[spa] = ¿Sabes quién no viene?
+# alimg = ¿Sabes quién no viene?
+# hash = 4734bfc40c30b854f325b800bd5fb5af
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -3687,6 +4367,8 @@
 # text = Gua deanu duʼu ndo.
 # text[orig] = Gua deanu du'u ndo.
 # text[spa] = No sé quién vino.
+# alimg = No sé quién vino.
+# hash = 02f02ac3438ffd473999d6ab1b2c1493
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
@@ -3698,6 +4380,8 @@
 # text = Gua deanu a ti koʼös.
 # text[orig] = Gua deanu a ti ko'ös.
 # text[spa] = No sé a dónde va.
+# alimg = No sé a dónde va.
+# hash = f334d69f663cc62fa5bef66813c6a6f3
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
@@ -3710,6 +4394,8 @@
 # text = Gua deanu ku ti kuchis.
 # text[orig] = Gua deanu ku ti kuchis.
 # text[spa] = No sé por qué vino.
+# alimg = No sé por qué vino.
+# hash = e43a688943251db7391ae50c0f44823f
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
@@ -3722,6 +4408,8 @@
 # text = Gua deanu ñeʼe ti kuchis.
 # text[orig] = Gua deanu ñe'e ti kuchis.
 # text[spa] = No sé de dónde vino.
+# alimg = No sé de dónde vino.
+# hash = 18491bebaa80e3c1e0ccca3fdefb6ddd
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
@@ -3734,6 +4422,8 @@
 # text = Gua deanu a taka nandinda chimbaʼa.
 # text[orig] = Gua deanu a taka nandinda chimba'a.
 # text[spa] = No sé cómo arreglar la puerta.
+# alimg = No sé cómo arreglar la puerta.
+# hash = 106ffb816ecb9e8f3c6e98b086a851d8
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
@@ -3747,6 +4437,8 @@
 # text = Gua deanu dae jinuku Juó.
 # text[orig] = Gua deanu dae jinuku Juó.
 # text[spa] = No sé qué vende Juan.
+# alimg = No sé qué vende Juan.
+# hash = 5488f2bfb733d725b18643c64251f0e4
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
@@ -3759,6 +4451,8 @@
 # text = Gua deanu chi kuchid.
 # text[orig] = Gua deanu chi kuchid.
 # text[spa] = No sabía que venías.
+# alimg = No sabía que venías.
+# hash = b4e91b487219d606486a87427dc8a107
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
@@ -3770,6 +4464,8 @@
 # text = Gua chikadinu duʼu ndó.
 # text[orig] = Gua chikadinu du'u ndó.
 # text[spa] = No supe quién vino.
+# alimg = No supe quién vino.
+# hash = d60f111665371aceb58b453316889bcb
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	chikadinu	_	VERB	_	_	_	_	_	Trad=supe|Gloss=?-saber-?
@@ -3781,6 +4477,8 @@
 # text = Chimjinu nangadí chimbaʼam.
 # text[orig] = Chimjinu nangadí chimba'am.
 # text[spa] = Me olvidé de cerrar la puerta.
+# alimg = Me olvidé de cerrar la puerta.
+# hash = 88a0fbdd2e48b4bedb6972fdf791f145
 # tagged = true
 1	Chimjinu	_	VERB	_	_	_	_	_	Trad=me.olvidé
 2	nangadí	_	VERB	_	_	_	_	_	Trad=cerrar|Gloss=?-cerrar-?
@@ -3791,6 +4489,8 @@
 # text = Chimjinu chi ndod jobeku.
 # text[orig] = Chimjinu chi ndod jobeku.
 # text[spa] = Me olvidé de que llegabas hoy.
+# alimg = Me olvidé de que llegabas hoy.
+# hash = 71572897b549eff18a8b7a4c59c121d9
 # tagged = true
 1	Chimjinu	_	VERB	_	_	_	_	_	Trad=me.olvidé
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -3802,6 +4502,8 @@
 # text = Chimjinu chi a taka jobed.
 # text[orig] = Chimjinu chi a taka jobed.
 # text[spa] = Me olvidé de tu nombre.
+# alimg = Me olvidé de tu nombre.
+# hash = b408d991a6cd0467df21978ef14409de
 # tagged = true
 1	Chimjinu	_	VERB	_	_	_	_	_	Trad=me.olvidé
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -3814,6 +4516,8 @@
 # text = ¿Dae chimjinud?
 # text[orig] = ¿Dae chimjinud?
 # text[spa] = ¿Qué olvidaste?
+# alimg = ¿Qué olvidaste?
+# hash = 7040e492f32fd6fd20c24bb7c4a693af
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Dae	_	PRON	_	_	_	_	_	Trad=que
@@ -3824,6 +4528,8 @@
 # text = Yeabean jinuku yaku yada ko.
 # text[orig] = Yeabean jinuku yaku yada ko.
 # text[spa] = Ese pájaro puede volar mucho.
+# alimg = Ese pájaro puede volar mucho.
+# hash = 40a416821d3cbbc399860199a0c6199d
 # tagged = true
 # text[lit] = Vuela muy alto ese pájaro
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
@@ -3837,6 +4543,8 @@
 # text = Yada kon gua jikadi jinuku yakut.
 # text[orig] = Yada kon gua jikadi jinuku yakut.
 # text[spa] = Ese pájaro  no puede volar.
+# alimg = Ese pájaro no puede volar.
+# hash = e2714f3311fc6dc21d2686e2c28695f6
 # tagged = true
 1	Yada	_	NOUN	_	_	_	_	_	Trad=pájaro
 2	kon	_	DET	_	_	_	_	_	Trad=ese
@@ -3850,6 +4558,8 @@
 # text = Gua jikadi jea tiʼö.
 # text[orig] = Gua jikadi jea ti'ö.
 # text[spa] = No puedo subirme al árbol.
+# alimg = No puedo subirme al árbol.
+# hash = 33e0057aee2d59274d20954b0419ad97
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
@@ -3861,6 +4571,8 @@
 # text = Kadi choʼod chinjíku tochi dùbii nuni.
 # text[orig] = Kadi cho'od chinjíku tochi dùbii nuni.
 # text[spa] = Vas a poder cruzar el río cuando tenga poca agua.
+# alimg = Vas a poder cruzar el río cuando tenga poca agua.
+# hash = 4642d918d082e7a47ce6a4e212488591
 # tagged = false
 1	Kadi	_	NOUN	_	_	_	_	_	Trad=peso($)
 2	choʼod	_	_	_	_	_	_	_	_
@@ -3874,6 +4586,8 @@
 # text = Jikadi jidijù per gua lápiz ñoʼö.
 # text[orig] = Jikadi jidijù per gua lápiz ño'ö.
 # text[spa] = Sé escribir, pero no puedo porque no tengo lápiz.
+# alimg = Sé escribir, pero no puedo porque no tengo lápiz.
+# hash = 1e19c83535a8f7647cc342408385db51
 # tagged = true
 1	Jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
 2	jidijù	_	VERB	_	_	_	_	_	Trad=escribir
@@ -3887,6 +4601,8 @@
 # text = Neʼë kó tiʼö ko, per gua jikadi geá.
 # text[orig] = Ne'ë kó ti'ö ko, per gua jikadi geá.
 # text[spa] = Quiero subirme a ese árbol pero no puedo.
+# alimg = Quiero subirme a ese árbol pero no puedo.
+# hash = 7ff0d2365c6daed9ed465c5d71240b0a
 # tagged = true
 1	Neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 2	kó	_	DET	_	_	_	_	_	Trad=ese
@@ -3903,6 +4619,8 @@
 # text = Kadi kó tiʼö ko, per gua neʼe.
 # text[orig] = Kadi kó ti'ö ko, per gua ne'e.
 # text[spa] = Puedo subirme a ese árbol, pero no quiero.
+# alimg = Puedo subirme a ese árbol, pero no quiero.
+# hash = 1f9e6d31ac7ce39a76dd5cab6e474e56
 # tagged = true
 1	Kadi	_	NOUN	_	_	_	_	_	Trad=peso($)
 2	kó	_	DET	_	_	_	_	_	Trad=ese
@@ -3918,6 +4636,8 @@
 # text = Neʼe chi koʼö di ntiñu.
 # text[orig] = Ne'e chi ko'ö di ntiñu.
 # text[spa] = Tengo que trabajar.
+# alimg = Tengo que trabajar.
+# hash = 5229cc9b4c6c883af4630944ab29a927
 # tagged = true
 # text[lit] = Es necesario que vaya a trabajar
 1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
@@ -3931,6 +4651,8 @@
 # text = Iku yeaben dí ntiñu.
 # text[orig] = Iku yeaben dí ntiñu.
 # text[spa] = Ayer tuve que trabajar mucho.
+# alimg = Ayer tuve que trabajar mucho.
+# hash = 7eddff04698295110b24f4db202075ef
 # tagged = true
 1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 2	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
@@ -3942,6 +4664,8 @@
 # text = Neʼe chi koʼöd did ntiñu.
 # text[orig] = Ne'e chi ko'öd did ntiñu.
 # text[spa] = Tienes que trabajar.
+# alimg = Tienes que trabajar.
+# hash = 9b45ed42eb12f6c50095dd44f2bbc202
 # tagged = false
 1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -3954,6 +4678,8 @@
 # text = Neʼe chi koʼö kakiö jideaku.
 # text[orig] = Ne'e chi ko'ö kakiö jideaku.
 # text[spa] = Hay que quemar la basura.
+# alimg = Hay que quemar la basura.
+# hash = 4b18bb1eadb9601c6721b3003d6bbd68
 # tagged = true
 1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -3966,6 +4692,8 @@
 # text = Gua eanu chi noʼod.
 # text[orig] = Gua eanu chi no'od.
 # text[spa] = No me gusta que te vayas.
+# alimg = No me gusta que te vayas.
+# hash = 30244a6ba0a1c44f7d05c528542b04e1
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	eanu	_	VERB	_	_	_	_	_	Trad=gusto|Gloss=?-gustar-1SG
@@ -3977,6 +4705,8 @@
 # text = Nangakud chi neʼe chi kuʼuu diuu ntiñu.
 # text[orig] = Nangakud chi ne'e chi ku'uu diuu ntiñu.
 # text[spa] = Acuérdate de que tenemos que trabajar.
+# alimg = Acuérdate de que tenemos que trabajar.
+# hash = 75893c909cdb81367bb13630c3d0f7ed
 # tagged = false
 1	Nangakud	_	VERB	_	_	_	_	_	Trad=acuérdate
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -3991,6 +4721,8 @@
 # text = Gua eanu iñsë.
 # text[orig] = Gua eanu iñsë.
 # text[spa] = No me gusta esa gente.
+# alimg = No me gusta esa gente.
+# hash = abd8ad0a179f1a3898c709c81ffef83e
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	eanu	_	VERB	_	_	_	_	_	Trad=gusto|Gloss=?-gustar-1SG
@@ -4001,6 +4733,8 @@
 # text = Gua eanu comida ku.
 # text[orig] = Gua eanu comida ku.
 # text[spa] = No me gusta esta comida.
+# alimg = No me gusta esa comida.
+# hash = 6bcbcd0b626c8d1da631643125e79f47
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	eanu	_	VERB	_	_	_	_	_	Trad=gusto|Gloss=?-gustar-1SG
@@ -4012,6 +4746,8 @@
 # text = Nangakud neachead baʼa.
 # text[orig] = Nangakud neachead ba'a.
 # text[spa] = Acuérdate de barrer la casa.
+# alimg = Acuérdate de barrer la casa.
+# hash = 953a86a8051e4eb27e00e7e48dbb2913
 # tagged = true
 1	Nangakud	_	VERB	_	_	_	_	_	Trad=acuérdate
 2	neachead	_	VERB	_	_	_	_	_	Trad=barrer
@@ -4022,6 +4758,8 @@
 # text = Tumgoʼos dae neʼe.
 # text[orig] = Tumgo'os dae ne'e.
 # text[spa] = Me preguntó qué quería yo.
+# alimg = Me preguntó qué quería yo.
+# hash = 61bb5faf6576440324175481963aeeb3
 # tagged = true
 # text[lit] = sujeto masculino
 1	Tumgoʼos	_	VERB	_	_	_	_	_	Trad=me.preguntó
@@ -4033,7 +4771,10 @@
 # text = Jinangaku íñ ñeʼe.
 # text[orig] = Jinangaku íñ ñe'e.
 # text[spa] = Extraño a mi familia.
+# alimg = Siempre pienso en mi familia.
+# hash = 484a6ecf47c6b6d899544d7e192106a6
 # tagged = true
+# text[lit] = Extraño a mi familia.
 1	Jinangaku	_	VERB	_	_	_	_	_	Trad=extraño|Gloss=?-extrañar-?
 2	íñ	_	NOUN	_	_	_	_	_	Trad=familia
 3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -4043,6 +4784,8 @@
 # text = Gua deanu chea neʼeta.
 # text[orig] = Gua deanu chea ne'eta.
 # text[spa] = No sé cuál quere.
+# alimg = No sé cuál quere.
+# hash = 487ee58656470838625a9e0bac8bd9d6
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
@@ -4054,6 +4797,8 @@
 # text = Nikua ndininu comida ñeʼe muʼu.
 # text[orig] = Nikua ndininu comida ñe'e mu'u.
 # text[spa] = No me acostumbro a la comida de aquí.
+# alimg = No me acostumbro a la comida de aquí.
+# hash = c623d3e2d5f0c641cd0f3338f0aeee7f
 # tagged = false
 1	Nikua	_	_	_	_	_	_	_	Trad=no
 2	ndininu	_	VERB	_	_	_	_	_	Trad=acostumbro
@@ -4066,6 +4811,8 @@
 # text = Ndininus chi temprano jinankués.
 # text[orig] = Ndininus chi temprano jinankués.
 # text[spa] = Lo acostumbró a levantarse temprano.
+# alimg = Lo acostumbró a levantarse temprano.
+# hash = a4cac0abc7841ccf732017174d63a4c7
 # tagged = true
 1	Ndininus	_	VERB	_	_	_	_	_	Trad=acostumbró
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -4077,6 +4824,8 @@
 # text = Jobku kutokoʼo kùchi.
 # text[orig] = Jobku kutoko'o kùchi.
 # text[spa] = Hoy empiezo a sembrar.
+# alimg = Hoy empiezo a sembrar.
+# hash = 1cac0b5e302b0d979d56852a2cc76f4b
 # tagged = true
 1	Jobku	_	ADV	_	_	_	_	_	Trad=hoy
 2	kutokoʼo	_	VERB	_	_	_	_	_	Trad=empezar
@@ -4087,6 +4836,8 @@
 # text = Iku chitokoʼo chichí.
 # text[orig] = Iku chitoko'o chichí.
 # text[spa] = Ayer empecé a sembrar.
+# alimg = Ayer empecé a sembrar.
+# hash = 012b9a66a13decdf28b7cb7a078d3d6e
 # tagged = true
 1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 2	chitokoʼo	_	VERB	_	_	_	_	_	Trad=empecé
@@ -4097,6 +4848,8 @@
 # text = Kabiö kutokoʼo kùchi.
 # text[orig] = kabiö kutoko'o kùchi.
 # text[spa] = Mañana voy a empezar a sembrar.
+# alimg = Mañana voy a empezar a sembrar.
+# hash = 339e06311a53e2420b300494143b5a6a
 # tagged = true
 1	Kabiö	_	ADV	_	_	_	_	_	Trad=mañana
 2	kutokoʼo	_	VERB	_	_	_	_	_	Trad=empezar
@@ -4107,7 +4860,10 @@
 # text = Jobku kutokoʼo biku.
 # text[orig] = Jobku kutoko'o biku.
 # text[spa] = Hoy empieza la fiesta.
+# alimg = Hoy empieza la fiesta en el pueblo.
+# hash = 9fca4a31361ff3396744dd12bb3ad877
 # tagged = true
+# text[lit] = Hoy empieza la fiesta.
 1	Jobku	_	ADV	_	_	_	_	_	Trad=hoy
 2	kutokoʼo	_	VERB	_	_	_	_	_	Trad=empezar
 3	biku	_	NOUN	_	Typo=Yes	_	_	_	Trad=fiesta
@@ -4117,6 +4873,8 @@
 # text = Jobku kuin kùchi.
 # text[orig] = Jobku kuin kùchi.
 # text[spa] = Hoy acabo de sembrar.
+# alimg = Hoy acabo de sembrar.
+# hash = 557fc94c68404e0ac2e42864ff52c30f
 # tagged = true
 1	Jobku	_	ADV	_	_	_	_	_	Trad=hoy
 2	kuin	_	VERB	_	_	_	_	_	Trad=acabar
@@ -4127,6 +4885,8 @@
 # text = Iku chinu chichí.
 # text[orig] = Iku chinu chichí.
 # text[spa] = Ayer acabé de sembrar.
+# alimg = Ayer acabé de sembrar.
+# hash = 42ac1df1de69bb20f1b43f402376a769
 # tagged = true
 1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 2	chinu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=maté|Gloss=?-matar-1SG
@@ -4137,6 +4897,8 @@
 # text = Kabiö kuin kùchi.
 # text[orig] = Kabiö kuin kùchi.
 # text[spa] = Mañana voy a acabar de sembrar.
+# alimg = Mañana voy a acabar de sembrar.
+# hash = a6764495a9e98601ee920d97eecc1b83
 # tagged = true
 1	Kabiö	_	ADV	_	_	_	_	_	Trad=mañana
 2	kuin	_	VERB	_	_	_	_	_	Trad=acabar
@@ -4147,6 +4909,8 @@
 # text = Jobku kùchi ka.
 # text[orig] = Jobku kùchi ka.
 # text[spa] = Hoy voy a seguir sembrando.
+# alimg = Hoy voy a seguir sembrando.
+# hash = eaad7aa30e305eef60da49d52cd0dc6a
 # tagged = true
 1	Jobku	_	ADV	_	_	_	_	_	Trad=hoy
 2	kùchi	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
@@ -4157,6 +4921,8 @@
 # text = Iku chichí ka.
 # text[orig] = Iku chichí ka.
 # text[spa] = Ayer seguí sembrando.
+# alimg = Ayer seguí sembrando.
+# hash = fe2258577fada439535dae89fc316f93
 # tagged = true
 1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 2	chichí	_	VERB	_	_	_	_	_	Trad=sembrar
@@ -4167,6 +4933,8 @@
 # text = Cheʼë nichi soʼö no bakus.
 # text[orig] = Che'ë nichi so'ö no bakus.
 # text[spa] = Fui a verlo a su casa.
+# alimg = Fui a verlo a su casa.
+# hash = ad97545e8ea364445c8966d9d372f09b
 # tagged = true
 1	Cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
 2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
@@ -4179,7 +4947,10 @@
 # text = ¿A neʼéd ama née Jiguyum?
 # text[orig] = ¿A ne'éd ama née Jiguyum?
 # text[spa] = ¿Has ido alguna vez a México?
+# alimg = ¿Has ido alguna vez a Huamantla?
+# hash = 6785cb4cf104fe5afe18a26dad52d904
 # tagged = true
+# text[lit] = ¿Has ido alguna vez a México?
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	neʼéd	_	VERB	_	VerbForm=Fin	_	_	_	Trad=necesitas
@@ -4192,6 +4963,8 @@
 # text = ¿Takue chi gua cheʼë insé?
 # text[orig] = ¿Takue chi gua che'ë insé?
 # text[spa] = Por qué no fueron ustedes?
+# alimg = Por qué no fueron ustedes?
+# hash = dd35612b0a3b5dfa0b5659b5ce17f2e7
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Takue	_	_	_	_	_	_	_	_
@@ -4205,6 +4978,8 @@
 # text = Job jobe jichis ñeʼe yuduu.
 # text[orig] = Job jobe jichis ñe'e yuduu.
 # text[spa] = Viene todos los días por los caballos.
+# alimg = Viene todos los días por los caballos.
+# hash = 6ce2d019d2cbde1e73021aa6e80c1a97
 # tagged = true
 1	Job	_	NOUN	_	_	_	_	_	Trad=día
 2	jobe	_	NOUN	_	_	_	_	_	Trad=día
@@ -4217,7 +4992,10 @@
 # text = Kód tumad naídii.
 # text[orig] = Kód tumad naídii.
 # text[spa] = Súbete a cortar ese aguacate.
+# alimg = Súbete a bajar ese aguacate.
+# hash = 7af3ed6c7089d7f2ae3c1ab58f6f3213
 # tagged = true
+# text[lit] = Súbete a cortar ese aguacate.
 1	Kód	_	VERB	_	_	_	_	_	Trad=súbete|Gloss=?-subirse-2SG
 2	tumad	_	VERB	_	_	_	_	_	Trad=cortar
 3	naídii	_	NOUN	_	_	_	_	_	Trad=aguacate
@@ -4227,6 +5005,8 @@
 # text = Kuchid kuned ú.
 # text[orig] = Kuchid kuned ú.
 # text[spa] = Ven a ayudarme.
+# alimg = Ven a ayudarme.
+# hash = 7c95cb0aa827b98ed80fc1ff791b6da4
 # tagged = true
 1	Kuchid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ven|Gloss=?-venir-2SG
 2	kuned	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ayuda|Gloss=?-ayudar-2SG
@@ -4237,7 +5017,10 @@
 # text = Kuchid kuned ú chi kutoʼuu burru.
 # text[orig] = Kuchid kuned ú chi kuto'uu burru.
 # text[spa] = Ven a ayudarme a atrapar al burro.
+# alimg = Ven a ayudarme a cargar el burro.
+# hash = 3909566a623f883bb5e11bdd9b341adb
 # tagged = true
+# text[lit] = Ven a ayudarme a atrapar al burro.
 1	Kuchid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ven|Gloss=?-venir-2SG
 2	kuned	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ayuda|Gloss=?-ayudar-2SG
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -4250,6 +5033,8 @@
 # text = Dayan kaneñ kunenoñ baʼam.
 # text[orig] = Dayan kaneñ kunenoñ ba'am.
 # text[spa] = Mis hijos se quedaron a cuidar la casa.
+# alimg = Mis hijos se quedaron a cuidar la casa.
+# hash = f49d56d0e2c04376eb0f132c6abafd0e
 # tagged = true
 1	Dayan	_	NOUN	_	_	_	_	_	Trad=mis.hijos
 2	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3SG.HUM
@@ -4261,6 +5046,8 @@
 # text = !Ted botella chi snú nuni ú!
 # text[orig] = !Ted botella chi snú nuni ú!
 # text[spa] = ¡Dame la botella que tiene agua!
+# alimg = ¡Dame la botella que tiene agua!
+# hash = 25417f5dc2b1c6a85b5493a1ef4924ea
 # tagged = true
 1	!	!	PUNCT	_	_	_	_	_	_
 2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
@@ -4275,7 +5062,10 @@
 # text = ¡Ted ama botella ñeʼe nuni ú!
 # text[orig] = ¡Ted ama botella ñe'e nuni ú!
 # text[spa] = ¡Dame una botella de agua!
+# alimg = ¡Dame una botella que tenga agua!
+# hash = bf2608edcadc8793502b298bce8c770d
 # tagged = true
+# text[lit] = ¡Dame una botella de agua!
 1	¡	¡	PUNCT	_	_	_	_	_	_
 2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -4289,6 +5079,8 @@
 # text = ¡Ted kaja nochi jinabad kerillo ú!
 # text[orig] = ¡Ted kaja nochi jinabad kerillo ú!
 # text[spa] = ¡Dame la caja donde guardas los cerillos!
+# alimg = ¡Dame la caja donde guardas los cerillos!
+# hash = bfc99c6b7c538ab95d62fb2293a5d090
 # tagged = true
 1	¡	¡	PUNCT	_	_	_	_	_	_
 2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
@@ -4303,6 +5095,8 @@
 # text = ¡Ted gikuu nuku chi íkad yuta ú!
 # text[orig] = ¡Ted gikuu nuku chi íkad yuta ú!
 # text[spa] = ¡Dame el cuchillo con que cortas la carne!
+# alimg = ¡Dame el cuchillo con que cortas la carne!
+# hash = 0d62ec9f9f6cb2614e8179b7f6d3f5ba
 # tagged = true
 1	¡	¡	PUNCT	_	_	_	_	_	_
 2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
@@ -4318,6 +5112,8 @@
 # text = Gua jinichí chë nuku chi ndod.
 # text[orig] = Gua jinichí chë nuku chi ndod.
 # text[spa] = No conozco al señor con el que viniste.
+# alimg = No conozco al señor con el que viniste.
+# hash = 79d15f88c4c185186a66d1ef4f405504
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	jinichí	_	VERB	_	_	_	_	_	Trad=conozco|Gloss=?-conocer-1SG
@@ -4331,6 +5127,8 @@
 # text = Nichi chë.
 # text[orig] = Nichi chë.
 # text[spa] = Vi al señor al que le vendiste las gallinas.
+# alimg = Vi al señor al que le vendiste las gallinas.
+# hash = 22919c126289958dd238ba584206b305
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	chë	_	NOUN	_	_	_	_	_	Trad=señor
@@ -4340,6 +5138,8 @@
 # text = Ama.
 # text[orig] = Ama.
 # text[spa] = uno
+# alimg = uno
+# hash = 1eaa8bb195869a23f081acbb5bf08527
 # tagged = true
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -4348,6 +5148,8 @@
 # text = Obe.
 # text[orig] = Obe.
 # text[spa] = dos
+# alimg = dos
+# hash = 0196f6c4f97df3f48d570c23e46501ae
 # tagged = true
 1	Obe	_	NUM	_	_	_	_	_	Trad=dos
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -4356,6 +5158,8 @@
 # text = Inu.
 # text[orig] = Inu.
 # text[spa] = tres
+# alimg = tres
+# hash = 1798c7d9bd5a5d637ead47154f0d36e3
 # tagged = true
 1	Inu	inu	NUM	_	NumType=Card	_	_	_	Trad=tres
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -4364,6 +5168,8 @@
 # text = Kùù.
 # text[orig] = Kùù.
 # text[spa] = cuatro
+# alimg = cuatro
+# hash = 2b556258d4e0a9fe879765d2b76dd039
 # tagged = true
 1	Kùù	_	NUM	_	_	_	_	_	Trad=cuatro
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -4372,6 +5178,8 @@
 # text = Juʼu.
 # text[orig] = Ju'u.
 # text[spa] = cinco
+# alimg = cinco
+# hash = 64e38e70efb84f926568d0522a105c33
 # tagged = true
 1	Juʼu	_	NUM	_	Typo=Yes	_	_	_	Trad=cinco
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -4380,6 +5188,8 @@
 # text = Joo.
 # text[orig] = Joo.
 # text[spa] = seis
+# alimg = seis
+# hash = 73e8e81b99c35fc5df48dfe1856c6d21
 # tagged = true
 1	Joo	_	NUM	_	_	_	_	_	Trad=seis
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -4388,6 +5198,8 @@
 # text = Neachea.
 # text[orig] = Neachea.
 # text[spa] = siete
+# alimg = siete
+# hash = f5368e0c8f91f6ad519e6518350d47c3
 # tagged = true
 1	Neachea	_	NUM	_	_	_	_	_	Trad=siete
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -4396,6 +5208,8 @@
 # text = Nini.
 # text[orig] = Nini.
 # text[spa] = ocho
+# alimg = ocho
+# hash = c312b0fa2f862eff7f034743c485fd9a
 # tagged = false
 1	Nini	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=nueve,ocho
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -4404,6 +5218,8 @@
 # text = Nòò.
 # text[orig] = Nòò.
 # text[spa] = nueve
+# alimg = nueve
+# hash = 002f93898b52417e1afcff1124c33fa3
 # tagged = true
 1	Nòò	_	NUM	_	_	_	_	_	Trad=nueve
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -4412,6 +5228,8 @@
 # text = Nichi.
 # text[orig] = Nichi.
 # text[spa] = diez
+# alimg = diez
+# hash = 18fba322fcb94c3bd4cb379a20988e18
 # tagged = true
 1	Nichi	_	NUM	_	_	_	_	_	Trad=díez
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -4420,6 +5238,8 @@
 # text = Nichama.
 # text[orig] = Nichama.
 # text[spa] = once
+# alimg = once
+# hash = e2eff6c2dafd909df8508f891b385d88
 # tagged = true
 1	Nichama	_	NUM	_	_	_	_	_	Trad=once
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -4428,6 +5248,8 @@
 # text = Niku.
 # text[orig] = Niku.
 # text[spa] = veinte
+# alimg = veinte
+# hash = 5fe99f8f903685fc6eeb80a2eecacb0c
 # tagged = true
 1	Niku	_	NUM	_	_	_	_	_	Trad=veinte
 2	.	.	PUNCT	_	_	_	_	_	_
@@ -4436,6 +5258,8 @@
 # text = Juʼu jeku.
 # text[orig] = Ju'u jeku.
 # text[spa] = cien
+# alimg = cien
+# hash = 871b115082eb9f9bcd9467cb1e7c3434
 # tagged = true
 1	Juʼu	_	NUM	_	Typo=Yes	_	_	_	Trad=cinco
 2	jeku	_	NOUN	_	_	_	_	_	Trad=pohual
@@ -4445,6 +5269,8 @@
 # text = Bea ama yuduu ñeʼë.
 # text[orig] = Bea ama yuduu ñe'ë.
 # text[spa] = Tengo un caballo.
+# alimg = Tengo un caballo.
+# hash = f55de0acc4ee99f51f5c20a1733893ce
 # tagged = true
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -4456,6 +5282,8 @@
 # text = Bea obe itintu kuä ñeʼë.
 # text[orig] = Bea obe itintu kuä ñe'ë.
 # text[spa] = Tengo dos bueyes negros.
+# alimg = Tengo dos bueyes negros.
+# hash = 1a33c90c8e72706a9973b0c94df14b57
 # tagged = true
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
@@ -4468,6 +5296,8 @@
 # text = A cheʼë ama nèè bakud.
 # text[orig] = A che'ë ama nèè bakud.
 # text[spa] = Fui a tu casa una vez.
+# alimg = Fui a tu casa una vez.
+# hash = 715f65f7bcb0147409b7465812d1257b
 # tagged = true
 1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
@@ -4480,6 +5310,8 @@
 # text = A cheʼë obe nèè bakud.
 # text[orig] = A che'ë obe nèè bakud.
 # text[spa] = Fui a tu casa dos veces
+# alimg = Fui a tu casa dos veces
+# hash = fc18c3eac5d3c9655f0e6000dd342d28
 # tagged = true
 1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
@@ -4492,6 +5324,8 @@
 # text = Am amas kanós ñeʼe no baʼa.
 # text[orig] = Am amas kanós ñe'e no ba'a.
 # text[spa] = Los hombres salieron de la casa uno por uno.
+# alimg = Los hombres salieron de la casa uno por uno.
+# hash = fae75349684a5cab02eff147e13a68c3
 # tagged = true
 1	Am	_	NUM	_	_	_	_	_	Trad=uno
 2	amas	_	NUM	_	_	_	_	_	Trad=en.uno
@@ -4505,6 +5339,8 @@
 # text = Ob obes kanós ñeʼe no baʼa.
 # text[orig] = Ob obes kanós ñe'e no ba'a.
 # text[spa] = Los hombres salieron de la casa de dos en dos.
+# alimg = Los hombres salieron de la casa de dos en dos.
+# hash = efd8fe8e508557349f8999f1a1c55097
 # tagged = true
 1	Ob	_	NUM	_	_	_	_	_	Trad=dos
 2	obes	_	NUM	_	_	_	_	_	Trad=en.dos
@@ -4518,6 +5354,8 @@
 # text = In inus kanós ñeʼe no baʼa.
 # text[orig] = In inus kanós ñe'e no ba'a.
 # text[spa] = Los hombres salieron de la casa de tres en tres.
+# alimg = Los hombres salieron de la casa de tres en tres.
+# hash = 5c10ef3f72f5616bad0bc2dfb0d71f4d
 # tagged = true
 1	In	_	NUM	_	_	_	_	_	Trad=tres
 2	inus	_	NUM	_	_	_	_	_	Trad=en.tres
@@ -4531,6 +5369,8 @@
 # text = Kutoʼon ama tuu.
 # text[orig] = Kuto'on ama tuu.
 # text[spa] = ¡Agarren una piedra cada uno!
+# alimg = ¡Agarren una piedra cada uno!
+# hash = 42f17f585ad62a5396c8c0146e29b785
 # tagged = true
 1	Kutoʼon	_	VERB	_	_	_	_	_	Trad=agarren
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -4541,6 +5381,8 @@
 # text = Juóm kunoʼos tum gua nichid soʼö.
 # text[orig] = Juóm kuno'os tum gua nichid so'ö.
 # text[spa] = Juan se fue para que no lo vieras.
+# alimg = Juan se fue para que no lo vieras.
+# hash = cfc1e5bf167f821362ea9056e3ef1681
 # tagged = true
 1	Juóm	_	PROPN	_	_	_	_	_	Trad=Juan
 2	kunoʼos	_	VERB	_	_	_	_	_	Trad=se.fue
@@ -4554,6 +5396,8 @@
 # text = Ndó Juó tum nichid soʼö.
 # text[orig] = Ndó Juó tum nichid so'ö.
 # text[spa] = Juan vino para que lo vieras.
+# alimg = Juan vino para que lo vieras.
+# hash = 7c165bb04e140424992a9cad41a70e6a
 # tagged = true
 1	Ndó	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
 2	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
@@ -4566,6 +5410,8 @@
 # text = Ká ama it dítuu tumin techkó noʼo nukut.
 # text[orig] = Ká ama it dítuu tumin techkó no'o nukut.
 # text[spa] = Compré la carreta para llevar la leña.
+# alimg = Compré la carreta para llevar la leña.
+# hash = c3f114cdaafb8b869663cb81fca10f70
 # tagged = false
 # text[lit] = Compre una mula para acarrear leña
 1	Ká	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-1SG
@@ -4582,6 +5428,8 @@
 # text = Ká ama burru tumin techkód noʼo nukut.
 # text[orig] = Ká ama burru tumin techkód no'o nukut.
 # text[spa] = Compré la carreta para que lleves la leña.
+# alimg = Compré la carreta para que lleves la leña.
+# hash = a694874c6fd230463a0ed0ff8130bbb3
 # tagged = false
 # text[lit] = Compre un burro para que acarres leña
 1	Ká	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-1SG
@@ -4597,6 +5445,8 @@
 # text = Koʼö a ndar gea kubi.
 # text[orig] = Ko'ö a ndar gea kubi.
 # text[spa] = Voy a ir aunque está lloviendo.
+# alimg = Voy a ir aunque está lloviendo.
+# hash = b5fb72cc43549ba8736f4af0c0018e60
 # tagged = false
 1	Koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
 2	a	a	PART	_	_	_	_	_	Gloss=QST
@@ -4609,6 +5459,8 @@
 # text = Nichi koʼöd tum nub kanid.
 # text[orig] = Nichi ko'öd tum nub kanid.
 # text[spa] = Si vas a ir apúrate.
+# alimg = Si vas a ir apúrate.
+# hash = f6cb8bc5eaf318f4dc39cb1167591a9a
 # tagged = false
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
@@ -4621,6 +5473,8 @@
 # text = Nichi nichi soʼö tum kaka machetem soʼö.
 # text[orig] = Nichi nichi so'ö tum kaka machetem so'ö.
 # text[spa] = Si lo veo le pido el machete.
+# alimg = Si lo veo le pido el machete.
+# hash = febc96593f1ae8742ddd10f2872ea6de
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
@@ -4635,6 +5489,8 @@
 # text = Nichi nichi soʼön tumin chika machetem soʼö.
 # text[orig] = Nichi nichi so'ön tumin chika machetem so'ö.
 # text[spa] = Si lo hubera visto le habría pedido el machete.
+# alimg = Si lo hubera visto le habría pedido el machete.
+# hash = 2fa86e12ea7af2a94b0dfdf79177e879
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
@@ -4649,6 +5505,8 @@
 # text = Nigua noʼö ti gua jidí ntiñu.
 # text[orig] = Nigua no'ö ti gua jidí ntiñu.
 # text[spa] = Me voy porque no estoy trabajando.
+# alimg = Me voy porque no estoy trabajando.
+# hash = f6dd1dfee8d36c9741da92a224eb7c6d
 # tagged = false
 # text[lit] = Creo que me voy a ir porque no estoy trabajando
 1	Nigua	_	_	_	_	_	_	_	Trad=no
@@ -4663,6 +5521,8 @@
 # text = Gua koʼös dimos ti böʼos.
 # text[orig] = Gua ko'ös dimos ti bö'os.
 # text[spa] = No va solo porque tiene miedo.
+# alimg = No va solo porque tiene miedo.
+# hash = 6ac74ad5d570b96bd67bcbd2979ee9cf
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	koʼös	_	VERB	_	_	_	_	_	Trad=va
@@ -4675,6 +5535,8 @@
 # text = Juó kayadus tochi ndod.
 # text[orig] = Juó kayadus tochi ndod.
 # text[spa] = Juan estaba durmiendo cuando llegaste.
+# alimg = Juan estaba durmiendo cuando llegaste.
+# hash = ea2173e8d7ab324d598196757266a940
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo
@@ -4686,6 +5548,8 @@
 # text = Juó kayadus ni tochi ndod.
 # text[orig] = Juó kayadus ni tochi ndod.
 # text[spa] = Juan estuvo durmiendo hasta que llegaste.
+# alimg = Juan estuvo durmiendo hasta que llegaste.
+# hash = 78ba02b6e53b9ce6f43ef9a960742306
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo
@@ -4698,6 +5562,8 @@
 # text = Juó kudadus tochi ndod.
 # text[orig] = Juó kudadus tochi ndod.
 # text[spa] = Juan va a dormir cuando llegues.
+# alimg = Juan va a dormir cuando llegues.
+# hash = 84c5adb44c3bbdc59ec876bcd496aa18
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	kudadus	_	VERB	_	_	_	_	_	Trad=va.a.dormir
@@ -4709,6 +5575,8 @@
 # text = Juó kayadus ni tochi ndod.
 # text[orig] = Juó kayadus ni tochi ndod.
 # text[spa] = Juan va a dormir hasta que llegues.
+# alimg = Juan va a dormir hasta que llegues. (Después se va a levantar)
+# hash = 826cbb669696c27c340253410345788e
 # tagged = true
 # note = (Después se va a levantar)
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
@@ -4722,6 +5590,8 @@
 # text = Dí kuned ti jeʼe yuntu.
 # text[orig] = Dí kuned ti je'e yuntu.
 # text[spa] = No me molestes cuando estoy comiendo.
+# alimg = No me molestes cuando estoy comiendo.
+# hash = c2cb31cb21ca0d5c9207e81580e47c93
 # tagged = true
 # text[lit] = Quédate quieto porque estoy comiendo
 1	Dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
@@ -4735,7 +5605,10 @@
 # text = Juó koʼös kunus nata.
 # text[orig] = Juó ko'ös kunus nata.
 # text[spa] = Juan va a sembrar maiz
+# alimg = Juan va a sembrar chile y yo también.
+# hash = c5a462e9d832cf8a09dc30477db0ff5b
 # tagged = true
+# text[lit] = Juan va a sembrar maiz
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	koʼös	_	VERB	_	_	_	_	_	Trad=va
 3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar
@@ -4746,7 +5619,10 @@
 # text = Juó koʼö kunus nata, un gua.
 # text[orig] = Juó ko'ö kunus nata, un gua.
 # text[spa] = Juan va a sembrar maíz pero yo no.
+# alimg = Juan va a sembrar chile pero yo no.
+# hash = 2ea99b6a8c4e75bf6d41a9bdb3f3b4e0
 # tagged = true
+# text[lit] = Juan va a sembrar maíz pero yo no.
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
 3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar
@@ -4760,6 +5636,8 @@
 # text = Juó gua kunus, un kunú.
 # text[orig] = Juó gua kunus, un kunú.
 # text[spa] = Juan no va a sembrar, pero yo sí.
+# alimg = Juan no va a sembrar, pero yo sí.
+# hash = a66b85b9c0b399a1f26801d3c8256962
 # tagged = false
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
@@ -4773,6 +5651,8 @@
 # text = Guad bea neʼë.
 # text[orig] = Guad bea ne'ë.
 # text[spa] = No quiero nada
+# alimg = No quiero nada de eso.
+# hash = 4559920429028f73e181f4ba8e88ee97
 # tagged = false
 1	Guad	_	_	_	_	_	_	_	_
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
@@ -4783,6 +5663,8 @@
 # text = ¿A neʼed ama dea ñeʼë chu?
 # text[orig] = ¿A ne'ed ama dea ñe'ë chu?
 # text[spa] = ¿Quiere algo de esto?
+# alimg = ¿Quiere algo de esto?
+# hash = bddb2afea199774e0991818931b4eded
 # tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -4797,6 +5679,8 @@
 # text = Gua jikadi jika dime.
 # text[orig] = Gua jikadi jika dime.
 # text[spa] = No puedo caminar solo.
+# alimg = No puedo caminar solo.
+# hash = 38c9531cec1415297ac297e543091345
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
@@ -4808,6 +5692,8 @@
 # text = A tan kabiö chi kadi dì ntiñu.
 # text[orig] = A tan kabiö chi kadi dì ntiñu.
 # text[spa] = Ya sólo puedo trabajar en la mañana.
+# alimg = Ya sólo puedo trabajar en la mañana.
+# hash = d9c62c7027b6a3d9790cf093b38563ff
 # tagged = true
 1	A	a	ADV	_	_	_	_	_	Trad=ya
 2	tan	_	ADV	_	_	_	_	_	Trad=sólo
@@ -4822,6 +5708,8 @@
 # text = Chi jinu ñeʼë ntiñu.
 # text[orig] = Chi jinu ñe'ë ntiñu.
 # text[spa] = Ahora es tarde para ir a trabajar.
+# alimg = Ahora es tarde para ir a trabajar.
+# hash = c2d6bac04176b4c6e842747dc561dad6
 # tagged = true
 # text[lit] = Me atrase con el trabajo
 1	Chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -4834,6 +5722,8 @@
 # text = Yata kun ndá jeʼë.
 # text[orig] = Yata kun ndá je'ë.
 # text[spa] = Esta planta es buena para comer.
+# alimg = Esta planta es buena para comer.
+# hash = e48488eee6ad552daac043b55ee4f8cd
 # tagged = true
 1	Yata	_	NOUN	_	_	_	_	_	Trad=paloma
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -4845,6 +5735,8 @@
 # text = Yata kun ndá ñeʼe káa mi.
 # text[orig] = Yata kun ndá ñe'e káa mi.
 # text[spa] = Esta planta es buena para esa enfermedad.
+# alimg = Esta planta es buena para esa enfermedad.
+# hash = 85c71c805a9f93324848ca8c985a476c
 # tagged = true
 1	Yata	_	NOUN	_	_	_	_	_	Trad=paloma
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -4858,6 +5750,8 @@
 # text = Yata kun gua ndá ñeʼe káa mi.
 # text[orig] = Yata kun gua ndá ñe’e káa mi.
 # text[spa] = Esta planta es mala para esa enfermedad.
+# alimg = Esta planta es mala para esa enfermedad.
+# hash = 1e3b85289b3803fe81bacfb46407424c
 # tagged = true
 1	Yata	_	NOUN	_	_	_	_	_	Trad=paloma
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
@@ -4872,6 +5766,8 @@
 # text = Juó kanii jikás.
 # text[orig] = Juó kanii jikás.
 # text[spa] = Juan es rápido para caminar.
+# alimg = Juan es rápido para caminar.
+# hash = 26dfa6dc165e1a3dd8a9ae050cd6e399
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	kanii	_	ADJ	_	_	_	_	_	Trad=rápido|UPOS=Guessed
@@ -4882,6 +5778,8 @@
 # text = Yeabean chéche ñeʼe chi kùchi.
 # text[orig] = Yeabean chéche ñe'e chi kùchi.
 # text[spa] = Esta tierra es demasiado dura para sembrar.
+# alimg = Esta tierra es demasiado dura para sembrar.
+# hash = a881c08c03cba7ebac03bd12e837ebbe
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	chéche	_	ADJ	_	_	_	_	_	Trad=duro|UPOS=Guessed
@@ -4894,6 +5792,8 @@
 # text = Mniñu a kutea jinichiʼuu it cheanu.
 # text[orig] = Mniñu a kutea jinichi'uu it cheanu.
 # text[spa] = Ahora es raro ver venados en el monte.
+# alimg = Ahora es raro ver venados en el monte.
+# hash = b5b8695390d3b5da7b8206425d9eebbc
 # tagged = false
 1	Mniñu	_	ADV	_	_	_	_	_	Trad=ahora
 2	a	a	PART	_	_	_	_	_	Gloss=QST
@@ -4907,6 +5807,8 @@
 # text = Nigua mniñu a chis.
 # text[orig] = Nigua mniñu a chis.
 # text[spa] = Puede que venga pronto.
+# alimg = Puede que venga pronto.
+# hash = f8b52d6b486f3256d35119007188a1d8
 # tagged = false
 1	Nigua	_	_	_	_	_	_	_	Trad=no
 2	mniñu	_	ADV	_	_	_	_	_	Trad=ahora
@@ -4918,6 +5820,8 @@
 # text = Lï ka ten ú.
 # text[orig] = lï ka ten ú.
 # text[spa] = No deme menos.
+# alimg = (Quiero un kilo de....) No deme menos.
+# hash = 8bb74fcb326ccfa7e65dc9ee10f5b9ab
 # tagged = true
 # note = (Quiero un kilo de....)
 1	Lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
@@ -4930,6 +5834,8 @@
 # text = ¿A ndee neʼed?
 # text[orig] = ¿A ndee ne'ed?
 # text[spa] = ¿Quiere mucho?
+# alimg = ¿Quiere mucho?
+# hash = e99d1bfece2e4f58c894ac48359df04e
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -4941,6 +5847,8 @@
 # text = Gua, lïn ten ú.
 # text[orig] = Gua, lïn ten ú.
 # text[spa] = No, deme poco.
+# alimg = No, deme poco.
+# hash = 401342ed259a41afeab6ba94789c6632
 # tagged = false
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	,	,	PUNCT	_	_	_	_	_	_

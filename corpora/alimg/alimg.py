@@ -1,4 +1,4 @@
-import sys, re, os, inspect
+import sys, re, os, inspect, hashlib
 
 
 
@@ -60,6 +60,7 @@ for line in open(sys.argv[1]):
 	lit = row[2].strip()
 	spa = row[4].strip()
 	nota = row[5].strip()
+	alimg_orig = row[6].strip()
 
 	if cux[-1] not in '.?!':
 		cux = cux + '.'
@@ -143,6 +144,8 @@ for line in open(sys.argv[1]):
 	print('# text = %s' % (cux))
 	print('# text[orig] = %s' % (orig_cux))
 	print('# text[spa] = %s' % (spa))
+	print('# alimg = %s' % (alimg_orig))
+	print('# hash = %s' % (hashlib.md5(alimg_orig.strip().encode('utf-8')).hexdigest()))
 	print('# tagged = %s' % (str(fully_tagged).lower()))
 	if lit != '':
 		print('# text[lit] = %s' % (lit))
