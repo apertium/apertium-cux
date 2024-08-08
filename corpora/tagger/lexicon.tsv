@@ -1,4 +1,4 @@
-GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1464	1450	1449
+GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1470	1456	1455
 _	a	a	ADV		ya				
 _	a	a	PART			QST			
 _	áa		VERB		resuena				
@@ -1462,12 +1462,12 @@ _	kayaku		VERB		durmió
 x	rúʼuu		ADJ		gordos				
 _	ñuʼuu		NOUN	NounType=Relat	de nosotros				
 _	ñeʼen		NOUN	NounType=Relat	de nosotros				
-									
-									
-									
-									
-									
-									
+_	böʼos		NOUN		miedo				
+_	jikás		VERB		caminar				
+x	kanii		ADJ		rápido				
+_	kunenoñ		VERB		cuidar				
+x	kuedama		ADV		siempre				
+_	neachead		VERB		barrer				
 									
 									
 									

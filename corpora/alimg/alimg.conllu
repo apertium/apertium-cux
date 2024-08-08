@@ -811,9 +811,9 @@
 # text = Kanu kuedama chida baʼa.
 # text[orig] = Kanu kuedama chida ba'a.
 # text[spa] = Mi papá siempre está en la casa.
-# tagged = false
+# tagged = true
 1	Kanu	_	VERB	_	_	_	_	_	Trad=está
-2	kuedama	_	_	_	_	_	_	_	_
+2	kuedama	_	ADV	_	_	_	_	_	Trad=siempre|UPOS=Guessed
 3	chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 4	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3674,9 +3674,9 @@
 # text = Nangakud neachead baʼa.
 # text[orig] = Nangakud neachead ba'a.
 # text[spa] = Acuérdate de barrer la casa.
-# tagged = false
+# tagged = true
 1	Nangakud	_	VERB	_	_	_	_	_	Trad=acuérdate
-2	neachead	_	_	_	_	_	_	_	_
+2	neachead	_	VERB	_	_	_	_	_	Trad=barrer
 3	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3912,10 +3912,10 @@
 # text = Dayan kaneñ kunenoñ baʼam.
 # text[orig] = Dayan kaneñ kunenoñ ba'am.
 # text[spa] = Mis hijos se quedaron a cuidar la casa.
-# tagged = false
+# tagged = true
 1	Dayan	_	NOUN	_	_	_	_	_	Trad=mis.hijos
 2	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3SG.HUM
-3	kunenoñ	_	_	_	_	_	_	_	_
+3	kunenoñ	_	VERB	_	_	_	_	_	Trad=cuidar
 4	baʼam	_	NOUN	_	_	_	_	_	Trad=casa
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4325,12 +4325,12 @@
 # text = Gua koʼös dimos ti böʼos.
 # text[orig] = Gua ko'ös dimos ti bö'os.
 # text[spa] = No va solo porque tiene miedo.
-# tagged = false
+# tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	koʼös	_	VERB	_	_	_	_	_	Trad=va
 3	dimos	_	ADV	_	_	_	_	_	Trad=sólo
 4	ti	_	DET	_	_	_	_	_	Trad=ese
-5	böʼos	_	_	_	_	_	_	_	_
+5	böʼos	_	NOUN	_	_	_	_	_	Trad=miedo
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:565
@@ -4534,10 +4534,10 @@
 # text = Juó kanii jikás.
 # text[orig] = Juó kanii jikás.
 # text[spa] = Juan es rápido para caminar.
-# tagged = false
+# tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	kanii	_	_	_	_	_	_	_	_
-3	jikás	_	_	_	_	_	_	_	_
+2	kanii	_	ADJ	_	_	_	_	_	Trad=rápido|UPOS=Guessed
+3	jikás	_	VERB	_	_	_	_	_	Trad=caminar
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:587
