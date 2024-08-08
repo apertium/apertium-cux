@@ -337,6 +337,105 @@
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
+# text = Un rúʼu.
+# text[orig] = Un rú'u.
+# text[spa] = Yo soy gordo.
+# tagged = false
+1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	rúʼu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Ú rúʼu.
+# text[orig] = Ú rú'u.
+# text[spa] = Yo soy gordo.
+# tagged = false
+1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	rúʼu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Un bícha.
+# text[orig] = Un bícha.
+# text[spa] = Yo soy gordo.
+# tagged = false
+1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	bícha	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Ú bícha.
+# text[orig] = Ú bícha.
+# text[spa] = Yo soy gordo.
+# tagged = false
+1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	bícha	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Din rúʼu.
+# text[orig] = Din rú'u.
+# text[spa] = Tú eres gordo
+# tagged = false
+1	Din	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
+2	rúʼu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Dí bíchad.
+# text[orig] = Dí bíchad.
+# text[spa] = Tú eres gordo
+# tagged = false
+1	Dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
+2	bíchad	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Din bíchad.
+# text[orig] = Din bíchad.
+# text[spa] = Tú eres gordo
+# tagged = false
+1	Din	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
+2	bíchad	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Sakó rúʼus.
+# text[orig] = Sakó rú'us.
+# text[spa] = El es gordo
+# tagged = false
+1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+2	rúʼus	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Sakón rúʼus.
+# text[orig] = Sakón rú'us.
+# text[spa] = El es gordo
+# tagged = false
+1	Sakón	_	PRON	_	_	_	_	_	Trad=él
+2	rúʼus	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Sakó bíchas.
+# text[orig] = Sakó bíchas.
+# text[spa] = El es gordo
+# tagged = false
+1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+2	bíchas	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Sakón bíchas.
+# text[orig] = Sakón bíchas.
+# text[spa] = El es gordo
+# tagged = false
+1	Sakón	_	PRON	_	_	_	_	_	Trad=él
+2	bíchas	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
 # text = ʼUu rúʼuu.
 # text[orig] = 'Uu rú'uu.
 # text[spa] = Nosotros somos gordos.
@@ -353,6 +452,78 @@
 # tagged = false
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	bíchaʼuu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Insën rúʼun.
+# text[orig] = Insën rú'un.
+# text[spa] = Ustedes son gordos.
+# tagged = false
+1	Insën	_	PRON	_	_	_	_	_	Trad=ustedes
+2	rúʼun	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Insën bíchan.
+# text[orig] = Insën bíchan.
+# text[spa] = Ustedes son gordos.
+# tagged = false
+1	Insën	_	PRON	_	_	_	_	_	Trad=ustedes
+2	bíchan	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Iñsén rúʼun.
+# text[orig] = Iñsén rú'un.
+# text[spa] = Ellos son gordos.
+# tagged = false
+1	Iñsén	_	_	_	_	_	_	_	_
+2	rúʼun	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Iñsén bíchan.
+# text[orig] = Iñsén bíchan.
+# text[spa] = Ellos son gordos.
+# tagged = false
+1	Iñsén	_	_	_	_	_	_	_	_
+2	bíchan	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Un kúë.
+# text[orig] = Un kúë.
+# text[spa] = Yo soy flaco.
+# tagged = true
+1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	kúë	_	ADJ	_	_	_	_	_	Trad=delgado|UPOS=Guessed
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Ú kúë.
+# text[orig] = Ú kúë.
+# text[spa] = Yo soy flaco.
+# tagged = true
+1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	kúë	_	ADJ	_	_	_	_	_	Trad=delgado|UPOS=Guessed
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Dí kúëd.
+# text[orig] = Dí kúëd.
+# text[spa] = Tu eres flaco
+# tagged = false
+1	Dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
+2	kúëd	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Dín kúëd.
+# text[orig] = Dín kúëd.
+# text[spa] = Tu eres flaco
+# tagged = false
+1	Dín	_	PRON	_	_	_	_	_	Trad=tú
+2	kúëd	_	_	_	_	_	_	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
