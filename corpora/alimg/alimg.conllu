@@ -214,28 +214,40 @@
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
-# text = Dín yakud, intin yakun.
-# text[orig] = Dín yakud, intin yakun.
-# text[spa] = Tú eres alto.  Usted es alto.
+# text = Dín yakud.
+# text[orig] = Dín yakud.
+# text[spa] = Tú eres alto.
 # tagged = true
 1	Dín	_	PRON	_	_	_	_	_	Trad=tú
 2	yakud	_	ADJ	_	_	_	_	_	Trad=alto
-3	,	,	PUNCT	_	_	_	_	_	_
-4	intin	_	PRON	_	_	_	_	_	Trad=usted
-5	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
-6	.	.	PUNCT	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
-# text = Sakó yakus. Takó yakuta.
-# text[orig] = Sakó yakus. Takó yakuta.
-# text[spa] = El es alto.  Ella es alta.
+# text = Intin yakun.
+# text[orig] = Intin yakun.
+# text[spa] = Usted es alto.
+# tagged = true
+1	Intin	_	PRON	_	_	_	_	_	Trad=usted
+2	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Sakó yakus.
+# text[orig] = Sakó yakus.
+# text[spa] = El es alto.
 # tagged = true
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
 2	yakus	_	ADJ	_	_	_	_	_	Trad=alto
 3	.	.	PUNCT	_	_	_	_	_	_
-4	Takó	_	PRON	_	_	_	_	_	Trad=ella
-5	yakuta	_	ADJ	_	_	_	_	_	Trad=alta
-6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Takó yakuta.
+# text[orig] = Takó yakuta.
+# text[spa] = Ella es alta.
+# tagged = true
+1	Takó	_	PRON	_	_	_	_	_	Trad=ella
+2	yakuta	_	ADJ	_	_	_	_	_	Trad=alta
+3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
 # text = ʼUu yakuʼuu.
