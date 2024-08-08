@@ -1077,12 +1077,12 @@
 # text = Na chinu núnim niʼö.
 # text[orig] = Na chinu núnim ni'ö.
 # text[spa] = Los frijoles están en la olla.
-# tagged = false
+# tagged = true
 # text[lit] = Ya puse los frijoles (ya los puso a cocer)
 1	Na	_	ADV	_	_	_	_	_	Trad=ya
 2	chinu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=maté|Gloss=?-matar-1SG
-3	núnim	_	_	_	_	_	_	_	_
-4	niʼö	_	_	_	_	_	_	_	_
+3	núnim	_	NOUN	_	_	_	_	_	Trad=frijol
+4	niʼö	_	NOUN	_	_	_	_	_	Trad=en.la.olla
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:56
@@ -3616,12 +3616,12 @@
 # text = Neʼe chi koʼö kakiö jideaku.
 # text[orig] = Ne'e chi ko'ö kakiö jideaku.
 # text[spa] = Hay que quemar la basura.
-# tagged = false
+# tagged = true
 1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
-4	kakiö	_	_	_	_	_	_	_	_
-5	jideaku	_	_	_	_	_	_	_	_
+4	kakiö	_	NOUN	_	_	_	_	_	Trad=basura
+5	jideaku	_	VERB	_	_	_	_	_	Trad=quemar
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:280
@@ -3841,12 +3841,12 @@
 # text = ¿A neʼéd ama née Jiguyum?
 # text[orig] = ¿A ne'éd ama née Jiguyum?
 # text[spa] = ¿Has ido alguna vez a México?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	neʼéd	_	VERB	_	VerbForm=Fin	_	_	_	Trad=necesitas
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-5	née	_	_	_	_	_	_	_	_
+5	née	_	NOUN	_	_	_	_	_	Trad=vez
 6	Jiguyum	_	PROPN	_	_	_	_	_	Trad=México
 7	?	?	PUNCT	_	_	_	_	_	_
 
@@ -3951,13 +3951,13 @@
 # text = ¡Ted kaja nochi jinabad kerillo ú!
 # text[orig] = ¡Ted kaja nochi jinabad kerillo ú!
 # text[spa] = ¡Dame la caja donde guardas los cerillos!
-# tagged = false
+# tagged = true
 1	¡	¡	PUNCT	_	_	_	_	_	_
 2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
-3	kaja	_	_	_	_	_	_	_	_
+3	kaja	_	NOUN	_	_	_	_	_	Trad=caja
 4	nochi	_	ADV	_	AdvType=Rel	_	_	_	Trad=donde
-5	jinabad	_	_	_	_	_	_	_	_
-6	kerillo	_	_	_	_	_	_	_	_
+5	jinabad	_	VERB	_	_	_	_	_	Trad=guardas|Gloss=?-guardar-2SG
+6	kerillo	_	NOUN	_	_	_	_	_	Trad=cerillo
 7	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 8	!	!	PUNCT	_	_	_	_	_	_
 
@@ -3965,13 +3965,13 @@
 # text = ¡Ted gikuu nuku chi íkad yuta ú!
 # text[orig] = ¡Ted gikuu nuku chi íkad yuta ú!
 # text[spa] = ¡Dame el cuchillo con que cortas la carne!
-# tagged = false
+# tagged = true
 1	¡	¡	PUNCT	_	_	_	_	_	_
 2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
 3	gikuu	_	NOUN	_	_	_	_	_	Trad=cuchillo
 4	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-6	íkad	_	_	_	_	_	_	_	_
+6	íkad	_	VERB	_	_	_	_	_	Trad=cortas|Gloss=?-cortar-2SG
 7	yuta	_	NOUN	_	_	_	_	_	Trad=carne
 8	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 9	!	!	PUNCT	_	_	_	_	_	_
