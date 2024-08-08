@@ -1,4 +1,4 @@
-GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1448	1434	1433
+GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1464	1450	1449
 _	a	a	ADV		ya				
 _	a	a	PART			QST			
 _	áa		VERB		resuena				
@@ -1446,22 +1446,22 @@ _	dukud		VERB		robar	?-robar-?
 _	diuu		VERB						
 x	díni		ADJ		salado				
 _	kub		VERB		va a ser				
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
+_	camión		NOUN		camión				
+_	botella		NOUN		botella				
+_	jinichí		VERB		conozco	?-conocer-1SG			
+_	chë		NOUN		señor				
+x	iyú		ADJ		chaparro				
+_	ta		NOUN		señora				
+x	ñá		ADJ		sucio				
+x	ten		ADJ		menos				
+x	nioo		ADV		en el suelo				
+x	jú		INTJ		sí				
+x	tatlin		ADV		casi				
+_	silí		NOUN		niño				
+_	kayaku		VERB		durmió				
+x	rúʼuu		ADJ		gordos				
+_	ñuʼuu		NOUN	NounType=Relat	de nosotros				
+_	ñeʼen		NOUN	NounType=Relat	de nosotros				
 									
 									
 									

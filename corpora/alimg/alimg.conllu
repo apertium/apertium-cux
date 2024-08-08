@@ -154,8 +154,8 @@
 # text = Jú, já.
 # text[orig] = Jú, já.
 # text[spa] = Sí, es nueva.
-# tagged = false
-1	Jú	_	_	_	_	_	_	_	_
+# tagged = true
+1	Jú	_	INTJ	_	_	_	_	_	Trad=sí|UPOS=Guessed
 2	,	,	PUNCT	_	_	_	_	_	_
 3	já	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -183,8 +183,8 @@
 # text = Jú.
 # text[orig] = Jú.
 # text[spa] = Sí.
-# tagged = false
-1	Jú	_	_	_	_	_	_	_	_
+# tagged = true
+1	Jú	_	INTJ	_	_	_	_	_	Trad=sí|UPOS=Guessed
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:7
@@ -277,18 +277,18 @@
 # text = Ú iyú.
 # text[orig] = Ú iyú.
 # text[spa] = Yo soy chaparro.
-# tagged = false
+# tagged = true
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	iyú	_	_	_	_	_	_	_	_
+2	iyú	_	ADJ	_	_	_	_	_	Trad=chaparro|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
 # text = Un iyú.
 # text[orig] = Un iyú.
 # text[spa] = Yo soy chaparro.
-# tagged = false
+# tagged = true
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	iyú	_	_	_	_	_	_	_	_
+2	iyú	_	ADJ	_	_	_	_	_	Trad=chaparro|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -340,10 +340,10 @@
 # text = ʼUu rúʼuu.
 # text[orig] = 'Uu rú'uu.
 # text[spa] = Nosotros somos gordos.
-# tagged = false
+# tagged = true
 # text[lit] = ('Uu= se utiliza en la conversación cuando hablan solo los que están incluidos en el adjetivo)
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	rúʼuu	_	_	_	_	_	_	_	_
+2	rúʼuu	_	ADJ	_	_	_	_	_	Trad=gordos|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -625,21 +625,21 @@
 # text = Kutu min ñá.
 # text[orig] = Kutu min ñá.
 # text[spa] = Esa olla está sucia.
-# tagged = false
+# tagged = true
 1	Kutu	_	NOUN	_	_	_	_	_	Trad=olla
 2	min	_	DET	_	_	_	_	_	Trad=esta
-3	ñá	_	_	_	_	_	_	_	_
+3	ñá	_	ADJ	_	_	_	_	_	Trad=sucio|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:27
 # text = Kutu min gua ñá.
 # text[orig] = kutu min gua ñá.
 # text[spa] = Esa olla no está sucia
-# tagged = false
+# tagged = true
 1	Kutu	_	NOUN	_	_	_	_	_	Trad=olla
 2	min	_	DET	_	_	_	_	_	Trad=esta
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	ñá	_	_	_	_	_	_	_	_
+4	ñá	_	ADJ	_	_	_	_	_	Trad=sucio|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:27
@@ -916,20 +916,20 @@
 # text = Kutum kane nioo.
 # text[orig] = Kutum kane nioo.
 # text[spa] = La olla está en el suelo.
-# tagged = false
+# tagged = true
 1	Kutum	_	NOUN	_	_	_	_	_	Trad=olla
 2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
-3	nioo	_	_	_	_	_	_	_	_
+3	nioo	_	ADV	_	_	_	_	_	Trad=en.el.suelo|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:45
 # text = Machetem kane nioo.
 # text[orig] = Machetem kane nioo.
 # text[spa] = El machete está en el suelo.
-# tagged = false
+# tagged = true
 1	Machetem	_	NOUN	_	_	_	_	_	Trad=machete
 2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
-3	nioo	_	_	_	_	_	_	_	_
+3	nioo	_	ADV	_	_	_	_	_	Trad=en.el.suelo|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:45
@@ -1161,22 +1161,22 @@
 # text = Bea ama yana ñuʼuu.
 # text[orig] = Bea ama yana ñu'uu.
 # text[spa] = Tenemos un perro.
-# tagged = false
+# tagged = true
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
-4	ñuʼuu	_	_	_	_	_	_	_	_
+4	ñuʼuu	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
 # text = Bea ama yana ñeʼen.
 # text[orig] = Bea ama yana ñe'en.
 # text[spa] = Tenemos un perro.
-# tagged = true
+# tagged = false
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
-4	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
+4	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1206,24 +1206,24 @@
 # text = Bea obe yana ñeʼen.
 # text[orig] = Bea obe yana ñe'en.
 # text[spa] = Tenemos dos perros.
-# tagged = true
+# tagged = false
 # note = (exclusivo)
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
-4	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
+4	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
 # text = Insë bea obe yana ñeʼen.
 # text[orig] = Insë bea obe yana ñe'en.
 # text[spa] = Ustedes tienen dos perros.
-# tagged = true
+# tagged = false
 1	Insë	_	PRON	_	_	_	_	_	Trad=ustedes
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
-5	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
+5	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1907,9 +1907,9 @@
 # text = Daya chë Manuel ú.
 # text[orig] = Daya chë Manuel ú.
 # text[spa] = Yo soy hijo de don Manuel.
-# tagged = false
+# tagged = true
 1	Daya	_	NOUN	_	_	_	_	_	Trad=hijo(a)
-2	chë	_	_	_	_	_	_	_	_
+2	chë	_	NOUN	_	_	_	_	_	Trad=señor
 3	Manuel	_	PROPN	_	_	_	_	_	Trad=Juan
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -1918,10 +1918,10 @@
 # text = Gua daya chë Manuel ú.
 # text[orig] = Gua daya chë Manuel ú.
 # text[spa] = Yo no soy hijo de don Manuel.
-# tagged = false
+# tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	daya	_	NOUN	_	_	_	_	_	Trad=hijo(a)
-3	chë	_	_	_	_	_	_	_	_
+3	chë	_	NOUN	_	_	_	_	_	Trad=señor
 4	Manuel	_	PROPN	_	_	_	_	_	Trad=Juan
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -1991,24 +1991,24 @@
 # text = Kuetíchi kon gua ñeʼen.
 # text[orig] = Kuetíchi kon gua ñe'en.
 # text[spa] = Esa canasta no es nuestra.
-# tagged = true
+# tagged = false
 # note = (exclusivo)
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
+4	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:131
 # text = Kuetíchi kun gua ñeʼen.
 # text[orig] = Kuetíchi kun gua ñe'en.
 # text[spa] = Esta canasta no es nuestra.
-# tagged = true
+# tagged = false
 # note = (inclusivo)
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
+4	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:131
@@ -2026,11 +2026,11 @@
 # text = Kuetíchi kon ñeʼen.
 # text[orig] = Kuetíchi kon ñe'en.
 # text[spa] = Esa canasta es nuestra.
-# tagged = true
+# tagged = false
 # note = (exclusivo)
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
-3	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
+3	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:131
@@ -2192,8 +2192,8 @@
 # text = Ta Marian ndatata.
 # text[orig] = Ta Marian ndatata.
 # text[spa] = María es mujer.
-# tagged = true
-1	Ta	_	NOUN	_	NounType=Clf	_	_	_	_
+# tagged = false
+1	Ta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,señora
 2	Marian	_	PROPN	_	_	_	_	_	Trad=María
 3	ndatata	_	NOUN	_	_	_	_	_	Trad=mujer
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2297,8 +2297,8 @@
 # text = Ta juana ninubita chakuta.
 # text[orig] = Ta juana ninubita chakuta.
 # text[spa] = Juana se parece a su madre.
-# tagged = true
-1	Ta	_	NOUN	_	NounType=Clf	_	_	_	_
+# tagged = false
+1	Ta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,señora
 2	juana	Juana	PROPN	_	_	_	_	_	Trad=Juana
 3	ninubita	_	VERB	_	_	_	_	_	Trad=se.parece
 4	chakuta	_	NOUN	_	_	_	_	_	Trad=su.mamá
@@ -2597,13 +2597,13 @@
 # text = Tatlin gua kayaku silí no camión mi.
 # text[orig] = Tatlin gua kayaku silí no camión mi.
 # text[spa] = El niño casi se durmió en el camión.
-# tagged = false
-1	Tatlin	_	_	_	_	_	_	_	_
+# tagged = true
+1	Tatlin	_	ADV	_	_	_	_	_	Trad=casi|UPOS=Guessed
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-3	kayaku	_	_	_	_	_	_	_	_
-4	silí	_	_	_	_	_	_	_	_
+3	kayaku	_	VERB	_	_	_	_	_	Trad=durmió
+4	silí	_	NOUN	_	_	_	_	_	Trad=niño
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
-6	camión	_	_	_	_	_	_	_	_
+6	camión	_	NOUN	_	_	_	_	_	Trad=camión
 7	mi	_	DET	_	_	_	_	_	Trad=esa
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3923,10 +3923,10 @@
 # text = !Ted botella chi snú nuni ú!
 # text[orig] = !Ted botella chi snú nuni ú!
 # text[spa] = ¡Dame la botella que tiene agua!
-# tagged = false
+# tagged = true
 1	!	!	PUNCT	_	_	_	_	_	_
 2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
-3	botella	_	_	_	_	_	_	_	_
+3	botella	_	NOUN	_	_	_	_	_	Trad=botella
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	snú	_	VERB	_	_	_	_	_	Trad=tengo|Gloss=?-tener-1SG
 6	nuni	_	NOUN	_	_	_	_	_	Trad=agua
@@ -3937,11 +3937,11 @@
 # text = ¡Ted ama botella ñeʼe nuni ú!
 # text[orig] = ¡Ted ama botella ñe'e nuni ú!
 # text[spa] = ¡Dame una botella de agua!
-# tagged = false
+# tagged = true
 1	¡	¡	PUNCT	_	_	_	_	_	_
 2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-4	botella	_	_	_	_	_	_	_	_
+4	botella	_	NOUN	_	_	_	_	_	Trad=botella
 5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 6	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 7	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -3980,10 +3980,10 @@
 # text = Gua jinichí chë nuku chi ndod.
 # text[orig] = Gua jinichí chë nuku chi ndod.
 # text[spa] = No conozco al señor con el que viniste.
-# tagged = false
+# tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	jinichí	_	_	_	_	_	_	_	_
-3	chë	_	_	_	_	_	_	_	_
+2	jinichí	_	VERB	_	_	_	_	_	Trad=conozco|Gloss=?-conocer-1SG
+3	chë	_	NOUN	_	_	_	_	_	Trad=señor
 4	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 6	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
@@ -3993,9 +3993,9 @@
 # text = Nichi chë.
 # text[orig] = Nichi chë.
 # text[spa] = Vi al señor al que le vendiste las gallinas.
-# tagged = false
+# tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
-2	chë	_	_	_	_	_	_	_	_
+2	chë	_	NOUN	_	_	_	_	_	Trad=señor
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:546
@@ -4580,11 +4580,11 @@
 # text = Lï ka ten ú.
 # text[orig] = lï ka ten ú.
 # text[spa] = No deme menos.
-# tagged = false
+# tagged = true
 # note = (Quiero un kilo de....)
 1	Lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
 2	ka	_	ADV	_	_	_	_	_	Trad=aún
-3	ten	_	_	_	_	_	_	_	_
+3	ten	_	ADJ	_	_	_	_	_	Trad=menos|UPOS=Guessed
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4607,7 +4607,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	,	,	PUNCT	_	_	_	_	_	_
 3	lïn	_	_	_	_	_	_	_	_
-4	ten	_	_	_	_	_	_	_	_
+4	ten	_	ADJ	_	_	_	_	_	Trad=menos|UPOS=Guessed
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
