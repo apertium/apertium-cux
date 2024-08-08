@@ -30,14 +30,35 @@
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:1c
-# text = Baʼa kun Gua lï.
-# text[orig] = ba'a kun Gua lï.
+# text = Baʼa kun gua lï.
+# text[orig] = ba'a kun gua lï.
 # text[spa] = Esta casa no es chica.
 # tagged = true
 1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
-3	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
+3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:1d
+# text = Baʼa kun já.
+# text[orig] = Ba'a kun já.
+# text[spa] = Esta casa es nueva.
+# tagged = true
+1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
+3	já	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:1e
+# text = Baʼa kun gua já.
+# text[orig] = Ba'a kun gua já.
+# text[spa] = Esta casa no es nueva
+# tagged = true
+1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+2	kun	_	PRON	_	_	_	_	_	Trad=esto
+3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
+4	já	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:1f
@@ -119,7 +140,54 @@
 5	mi	_	DET	_	_	_	_	_	Trad=esa
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:5
+# text = Tika, já.
+# text[orig] = Tika, já.
+# text[spa] = Sí, es nueva.
+# tagged = true
+1	Tika	_	NOUN	_	_	_	_	_	Trad=ropa
+2	,	,	PUNCT	_	_	_	_	_	_
+3	já	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:5
+# text = Jú, já.
+# text[orig] = Jú, já.
+# text[spa] = Sí, es nueva.
+# tagged = false
+1	Jú	_	_	_	_	_	_	_	_
+2	,	,	PUNCT	_	_	_	_	_	_
+3	já	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:6
+# text = Gua, gua já.
+# text[orig] = Gua, gua já.
+# text[spa] = No, no es nueva.
+# tagged = true
+1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
+2	,	,	PUNCT	_	_	_	_	_	_
+3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
+4	já	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:7
+# text = Tika.
+# text[orig] = Tika.
+# text[spa] = Sí.
+# tagged = true
+1	Tika	_	NOUN	_	_	_	_	_	Trad=ropa
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:7
+# text = Jú.
+# text[orig] = Jú.
+# text[spa] = Sí.
+# tagged = false
+1	Jú	_	_	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:7
 # text = Gua.
 # text[orig] = Gua.
 # text[spa] = No.
@@ -127,7 +195,25 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:8
+# text = Un yaku.
+# text[orig] = Un yaku.
+# text[spa] = Yo soy alto.
+# tagged = true
+1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	yaku	_	ADJ	_	_	_	_	_	Trad=alto|UPOS=Guessed
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Ú yaku.
+# text[orig] = Ú yaku.
+# text[spa] = Yo soy alto.
+# tagged = true
+1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	yaku	_	ADJ	_	_	_	_	_	Trad=alto|UPOS=Guessed
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
 # text = Dín yakud, intin yakun.
 # text[orig] = Dín yakud, intin yakun.
 # text[spa] = Tú eres alto.  Usted es alto.
@@ -139,7 +225,7 @@
 5	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:8
 # text = Sakó yakus. Takó yakuta.
 # text[orig] = Sakó yakus. Takó yakuta.
 # text[spa] = El es alto.  Ella es alta.
@@ -151,7 +237,7 @@
 5	yakuta	_	ADJ	_	_	_	_	_	Trad=alta
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:8
 # text = ʼUu yakuʼuu.
 # text[orig] = 'Uu yaku'uu.
 # text[spa] = Nosotros somos altos.
@@ -160,7 +246,7 @@
 2	yakuʼuu	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:8
 # text = ʼUu yakuʼuu.
 # text[orig] = 'Uu yaku'uu.
 # text[spa] = Nosotros somos altos.
@@ -169,7 +255,7 @@
 2	yakuʼuu	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:8
 # text = Insën yakun.
 # text[orig] = Insën yakun.
 # text[spa] = Ustedes son altos
@@ -178,7 +264,7 @@
 2	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:8
 # text = Iñsé yakuy.
 # text[orig] = Iñsé yakuy.
 # text[spa] = Ellos son altos.
@@ -187,7 +273,25 @@
 2	yakuy	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:8
+# text = Ú iyú.
+# text[orig] = Ú iyú.
+# text[spa] = Yo soy chaparro.
+# tagged = false
+1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	iyú	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Un iyú.
+# text[orig] = Un iyú.
+# text[spa] = Yo soy chaparro.
+# tagged = false
+1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	iyú	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
 # text = Dín iyúd.
 # text[orig] = Dín iyúd.
 # text[spa] = Tú eres chaparro.
@@ -196,7 +300,7 @@
 2	iyúd	_	ADJ	_	_	_	_	_	Trad=chaparro|Gloss=chaparro-COP.2SG
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:8
 # text = Sakó iyús.
 # text[orig] = Sakó iyús.
 # text[spa] = El es chaparro.
@@ -205,7 +309,7 @@
 2	iyús	_	ADJ	_	_	_	_	_	Trad=chaparro
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:8
 # text = ʼUu iyúʼuu.
 # text[orig] = 'Uu iyú'uu.
 # text[spa] = Nosotros somos chaparros.
@@ -214,7 +318,16 @@
 2	iyúʼuu	_	ADJ	_	_	_	_	_	Trad=chaparros
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:8
+# text = Insën iyún.
+# text[orig] = Insën iyún.
+# text[spa] = Ustedes son chaparros.
+# tagged = true
+1	Insën	_	PRON	_	_	_	_	_	Trad=ustedes
+2	iyún	_	ADJ	_	_	_	_	_	Trad=chaparro
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
 # text = Iñsé iyún.
 # text[orig] = Iñsé iyún.
 # text[spa] = Ellos son chaparros.
@@ -223,7 +336,26 @@
 2	iyún	_	ADJ	_	_	_	_	_	Trad=chaparro
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:8
+# text = ʼUu rúʼuu.
+# text[orig] = 'Uu rú'uu.
+# text[spa] = Nosotros somos gordos.
+# tagged = false
+# text[lit] = ('Uu= se utiliza en la conversación cuando hablan solo los que están incluidos en el adjetivo)
+1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	rúʼuu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
+# text = Uu bíchaʼuu.
+# text[orig] = Uu bícha'uu.
+# text[spa] = Nosotros somos gordos.
+# tagged = false
+1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+2	bíchaʼuu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:8
 # text = Sakó kúës.
 # text[orig] = Sakó kúës.
 # text[spa] = El es flaco.
@@ -232,7 +364,7 @@
 2	kúës	_	ADJ	_	_	_	_	_	Trad=flaco
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:8
 # text = Insú kúën.
 # text[orig] = Insú kúën.
 # text[spa] = Nosotros somos flacos .
@@ -435,6 +567,18 @@
 5	mi	_	DET	_	_	_	_	_	Trad=esa
 6	?	?	PUNCT	_	_	_	_	_	_
 
+# sent_id = alimg:21
+# text = Yada min kuea nuku kuä.
+# text[orig] = Yada min kuea nuku kuä.
+# text[spa] = Esa falda es blanca y negra.
+# tagged = true
+1	Yada	_	NOUN	_	_	_	_	_	Trad=vestido
+2	min	_	DET	_	_	_	_	_	Trad=esta
+3	kuea	_	ADJ	_	_	_	_	_	Trad=blanco|UPOS=Guessed
+4	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
+5	kuä	_	ADJ	_	_	_	_	_	Trad=negro|UPOS=Guessed
+6	.	.	PUNCT	_	_	_	_	_	_
+
 # sent_id = alimg:22
 # text = ¿yúduu ñeʼed a kuät o kueat?
 # text[orig] = ¿yúduu ñe'ed a kuät o kueat?
@@ -477,7 +621,28 @@
 3	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:26
+# sent_id = alimg:27
+# text = Kutu min ñá.
+# text[orig] = Kutu min ñá.
+# text[spa] = Esa olla está sucia.
+# tagged = false
+1	Kutu	_	NOUN	_	_	_	_	_	Trad=olla
+2	min	_	DET	_	_	_	_	_	Trad=esta
+3	ñá	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:27
+# text = Kutu min gua ñá.
+# text[orig] = kutu min gua ñá.
+# text[spa] = Esa olla no está sucia
+# tagged = false
+1	Kutu	_	NOUN	_	_	_	_	_	Trad=olla
+2	min	_	DET	_	_	_	_	_	Trad=esta
+3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
+4	ñá	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:27
 # text = Kutu min deabea.
 # text[orig] = kutu min deabea.
 # text[spa] = Esa olla está limpia.
@@ -487,7 +652,7 @@
 3	deabea	_	NOUN	_	_	_	_	_	Trad=alumbrado
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:26
+# sent_id = alimg:27
 # text = Kutu min gua deabea.
 # text[orig] = kutu min gua deabea.
 # text[spa] = Esa olla no está limpia.
@@ -675,6 +840,17 @@
 4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
+# sent_id = alimg:40
+# text = Chida kueʼeñ chin jíku.
+# text[orig] = Chida kue'eñ chin jíku.
+# text[spa] = Mi papá está en el río.
+# tagged = false
+1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
+2	kueʼeñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=?-ir-?
+3	chin	_	_	_	_	_	_	_	_
+4	jíku	_	NOUN	_	_	_	_	_	Trad=río
+5	.	.	PUNCT	_	_	_	_	_	_
+
 # sent_id = alimg:41
 # text = Chidan kaneñ nuku kambo ñeʼeñ.
 # text[orig] = Chidan kaneñ nuku kambo ñe'eñ.
@@ -736,7 +912,27 @@
 5	machetem	_	NOUN	_	_	_	_	_	Trad=machete
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:44
+# sent_id = alimg:45
+# text = Kutum kane nioo.
+# text[orig] = Kutum kane nioo.
+# text[spa] = La olla está en el suelo.
+# tagged = false
+1	Kutum	_	NOUN	_	_	_	_	_	Trad=olla
+2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
+3	nioo	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:45
+# text = Machetem kane nioo.
+# text[orig] = Machetem kane nioo.
+# text[spa] = El machete está en el suelo.
+# tagged = false
+1	Machetem	_	NOUN	_	_	_	_	_	Trad=machete
+2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
+3	nioo	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:45
 # text = Kutum kane ku koʼo baʼa mi.
 # text[orig] = Kutum kane ku ko'o ba'a mi.
 # text[spa] = La olla está en ese rincón.
@@ -749,7 +945,7 @@
 6	mi	_	DET	_	_	_	_	_	Trad=esa
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:44
+# sent_id = alimg:45
 # text = Machetem kane ku koʼo baʼa mi.
 # text[orig] = Machetem kane ku ko'o ba'a mi.
 # text[spa] = El machete está en ese rincón.
@@ -904,12 +1100,12 @@
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:57
-# text = Joʼo yàaku ú.
-# text[orig] = jo'o yàaku ú.
+# text = Joʼó yàaku ú.
+# text[orig] = jo'ó yàaku ú.
 # text[spa] = La mosca está en la pared.
-# tagged = true
+# tagged = false
 # text[lit] = Me pican los mosquitos
-1	Joʼo	_	VERB	_	_	_	_	_	Trad=pica|Gloss=?-picar-?
+1	Joʼó	_	_	_	_	_	_	_	_
 2	yàaku	_	NOUN	_	_	_	_	_	Trad=mosquito
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1656,7 +1852,16 @@
 4	chó	_	DET	_	_	_	_	_	Trad=aquello|UPOS=Guessed
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:119
+# sent_id = alimg:120
+# text = Juó noʼös.
+# text[orig] = Juó no'ös.
+# text[spa] = Juan es maestro.
+# tagged = true
+1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
+2	noʼös	_	NOUN	_	_	_	_	_	Trad=maestro
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:120
 # text = Juó gua noʼös.
 # text[orig] = Juó gua no'ös.
 # text[spa] = Juan no es maestro.
@@ -2089,14 +2294,14 @@
 4	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:164
-# text = Ta juana ninubita chaqueta.
-# text[orig] = Ta juana ninubita chaqueta.
+# text = Ta juana ninubita chakuta.
+# text[orig] = Ta juana ninubita chakuta.
 # text[spa] = Juana se parece a su madre.
 # tagged = true
 1	Ta	_	NOUN	_	NounType=Clf	_	_	_	_
 2	juana	Juana	PROPN	_	_	_	_	_	Trad=Juana
 3	ninubita	_	VERB	_	_	_	_	_	Trad=se.parece
-4	chaqueta	_	NOUN	_	Typo=Yes	_	_	_	Trad=su.mamá
+4	chakuta	_	NOUN	_	_	_	_	_	Trad=su.mamá
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:165
@@ -2387,6 +2592,20 @@
 4	silï	_	NOUN	_	_	_	_	_	Trad=niño
 5	yabi	_	ADV	_	_	_	_	_	Trad=anoche
 6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:189
+# text = Tatlin gua kayaku silí no camión mi.
+# text[orig] = Tatlin gua kayaku silí no camión mi.
+# text[spa] = El niño casi se durmió en el camión.
+# tagged = false
+1	Tatlin	_	_	_	_	_	_	_	_
+2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
+3	kayaku	_	_	_	_	_	_	_	_
+4	silí	_	_	_	_	_	_	_	_
+5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
+6	camión	_	_	_	_	_	_	_	_
+7	mi	_	DET	_	_	_	_	_	Trad=esa
+8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:193
 # text = Tako chikata yuntu ú chi cheʼe chakuta.
@@ -3700,6 +3919,85 @@
 4	baʼam	_	NOUN	_	_	_	_	_	Trad=casa
 5	.	.	PUNCT	_	_	_	_	_	_
 
+# sent_id = alimg:502
+# text = !Ted botella chi snú nuni ú!
+# text[orig] = !Ted botella chi snú nuni ú!
+# text[spa] = ¡Dame la botella que tiene agua!
+# tagged = false
+1	!	!	PUNCT	_	_	_	_	_	_
+2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+3	botella	_	_	_	_	_	_	_	_
+4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
+5	snú	_	VERB	_	_	_	_	_	Trad=tengo|Gloss=?-tener-1SG
+6	nuni	_	NOUN	_	_	_	_	_	Trad=agua
+7	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+8	!	!	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:503
+# text = ¡Ted ama botella ñeʼe nuni ú!
+# text[orig] = ¡Ted ama botella ñe'e nuni ú!
+# text[spa] = ¡Dame una botella de agua!
+# tagged = false
+1	¡	¡	PUNCT	_	_	_	_	_	_
+2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+4	botella	_	_	_	_	_	_	_	_
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+6	nuni	_	NOUN	_	_	_	_	_	Trad=agua
+7	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+8	!	!	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:504
+# text = ¡Ted kaja nochi jinabad kerillo ú!
+# text[orig] = ¡Ted kaja nochi jinabad kerillo ú!
+# text[spa] = ¡Dame la caja donde guardas los cerillos!
+# tagged = false
+1	¡	¡	PUNCT	_	_	_	_	_	_
+2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+3	kaja	_	_	_	_	_	_	_	_
+4	nochi	_	ADV	_	AdvType=Rel	_	_	_	Trad=donde
+5	jinabad	_	_	_	_	_	_	_	_
+6	kerillo	_	_	_	_	_	_	_	_
+7	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+8	!	!	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:505
+# text = ¡Ted gikuu nuku chi íkad yuta ú!
+# text[orig] = ¡Ted gikuu nuku chi íkad yuta ú!
+# text[spa] = ¡Dame el cuchillo con que cortas la carne!
+# tagged = false
+1	¡	¡	PUNCT	_	_	_	_	_	_
+2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+3	gikuu	_	NOUN	_	_	_	_	_	Trad=cuchillo
+4	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
+5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
+6	íkad	_	_	_	_	_	_	_	_
+7	yuta	_	NOUN	_	_	_	_	_	Trad=carne
+8	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+9	!	!	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:506
+# text = Gua jinichí chë nuku chi ndod.
+# text[orig] = Gua jinichí chë nuku chi ndod.
+# text[spa] = No conozco al señor con el que viniste.
+# tagged = false
+1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
+2	jinichí	_	_	_	_	_	_	_	_
+3	chë	_	_	_	_	_	_	_	_
+4	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
+5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
+6	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:507
+# text = Nichi chë.
+# text[orig] = Nichi chë.
+# text[spa] = Vi al señor al que le vendiste las gallinas.
+# tagged = false
+1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
+2	chë	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
 # sent_id = alimg:546
 # text = Ama.
 # text[orig] = Ama.
@@ -3967,6 +4265,18 @@
 3	ndar	_	_	_	_	_	_	_	_
 4	gea	_	NOUN	_	_	_	_	_	Trad=subida|UPOS=Guessed
 5	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = alimg:559
+# text = Nichi koʼöd tum nub kanid.
+# text[orig] = Nichi ko'öd tum nub kanid.
+# text[spa] = Si vas a ir apúrate.
+# tagged = false
+1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
+2	koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
+3	tum	_	SCONJ	_	_	_	_	_	Trad=para.que
+4	nub	_	_	_	_	_	_	_	_
+5	kanid	_	_	_	_	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:560

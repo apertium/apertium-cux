@@ -2,9 +2,9 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 1.			Ba'a kun cheatea	Esta casa es grande.			
 			Ba'a kun gua cheatea	Esta casa no es grande.	a		
 			Ba'a kun lï	Esta casa es chica.	b		
-			ba'a kun Gua lï	Esta casa no es chica.	c		
-			Ba'a kun já*	Esta casa es nueva.	d		
-			Ba'a kun gua já*	Esta casa no es nueva	e		
+			ba'a kun gua lï	Esta casa no es chica.	c		
+			Ba'a kun já	Esta casa es nueva.	d		
+			Ba'a kun gua já	Esta casa no es nueva	e		
 			Ba'a kun niku	Esta casa es vieja.	f		
 			Ba'a kun gua niku	Esta casa no es vieja.	g		
 			Ba'a kun kuea	Esta casa es blanca.	h		
@@ -12,29 +12,32 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 2.			¿A taka ba'a mi?	¿Cómo es esa casa?			
 3.		¿Es grande esa casa?	¿A cheatea ba'a mi?	¿Qué tan grande es esa casa?			
 4.			¿A já ba'a mi?	¿Es nueva esa casa?			
-5.			tika, já/ jú, já*	Sí, es nueva.			
-6.			gua, gua já*	No, no es nueva.			
-7.			Tika/Jú	Sí.  			
+5.			Tika, já	Sí, es nueva.			
+			Jú, já	Sí, es nueva.			
+6.			Gua, gua já	No, no es nueva.			
+7.			Tika	Sí.  			
+			Jú	Sí.  			
 			Gua	No.			
-8.			Un yaku/ Ú yaku	Yo soy alto.			
+8.			Un yaku	Yo soy alto.			
+			Ú yaku	Yo soy alto.			
 			Dín yakud, intin yakun	Tú eres alto.  Usted es alto.			
 			Sakó yakus. Takó yakuta	El es alto.  Ella es alta.			
-			  'Uu yaku'uu	Nosotros somos altos.			
+			 'Uu yaku'uu	Nosotros somos altos.			
 			 'Uu yaku'uu	Nosotros somos altos.			
 			Insën yakun	Ustedes son altos			
 			Iñsé yakuy	Ellos son altos.			
-			Ú iyú*/ Un iyú*	Yo soy chaparro.			
+			Ú iyú	Yo soy chaparro.			
+			Un iyú	Yo soy chaparro.			
 			Dín iyúd	Tú eres chaparro.			
 			Sakó iyús	El es chaparro.			
 			 'Uu iyú'uu	Nosotros somos chaparros.			
-				Nosotros somos chaparros.			
-			Insën iyún*	Ustedes son chaparros.			
+			Insën iyún	Ustedes son chaparros.			
 			Iñsé iyún 	Ellos son chaparros.			
 			Un rú'u/ ú rú'u)( Un bícha/ Ú bícha	Yo soy gordo.			
-			Dí rú'u*/ din rú'u*)( Dí bíchad/Din bíchad	Tú eres gordo			
+			Dí rú'u*/ din rú'u)( Dí bíchad/Din bíchad	Tú eres gordo			
 			Sakó rú'us/ Sakón rú'us)( Sakó bíchas/ Sakón bíchas)	El es gordo			
-		('Uu= se utiliza en la conversación cuando hablan solo los que están incluidos en el adjetivo) 	 'Uu rú'uu/ 'Uu bícha'uu	Nosotros somos gordos.			
-				Nosostros somos gordos.			
+		('Uu= se utiliza en la conversación cuando hablan solo los que están incluidos en el adjetivo) 	 'Uu rú'uu	Nosotros somos gordos.			
+			Uu bícha'uu	Nosotros somos gordos.			
 			Insën rú'un/ Insën bíchan	Ustedes son gordos.			
 			Iñsén rú'un/ iñsén bíchan	Ellos son gordos.			
 			Un kúë/ Ú kúë	Yo soy flaco.			
@@ -67,7 +70,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 			Sï kun gua dama kunu ñe'ed 	Este sombrero no es igual al tuyo.			
 19.		Estos sombreros no son iguales	Sï sen gua dama	Estos sombreros son diferentes.			
 20.			¿Dae color yada mi?	¿De qué color es esa falda?			
-21.			Yada min kuea* nuku kuä 	Esa falda es blanca y negra.			
+21.			Yada min kuea nuku kuä 	Esa falda es blanca y negra.			
 22.			¿yúduu ñe'ed a kuät o kueat?	¿Tu caballo es negro o blanco?			
 23.				Mi caaballo no es niegro ni blanco, es bayo.			
 24.		¿está rico el caldo?	¿A nda je'é kantu*?	¿Cómo está la comida?			
@@ -76,8 +79,8 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 26.			yeabean icha nuni	El agua está muy fría.			
 				El agua está bastante fría.			
 				El agua está demasiado fría.			
-27.			Kutu min ñá*	Esa olla está sucia.			
-			kutu min gua ñá*	Esa olla no está sucia			
+27.			Kutu min ñá	Esa olla está sucia.			
+			kutu min gua ñá	Esa olla no está sucia			
 			kutu min deabea	Esa olla está limpia.			
 			kutu min gua deabea	Esa olla no está limpia.			
 28.		ese pueblo está cerca de aquí 	Ñoo min nìnuu nuku mu'u	El pueblo está cerca de aquí.			
@@ -97,14 +100,14 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 39.			Kanu kuedama chida ba'a	Mi papá siempre está en la casa.			
 40.			Chidan kanuñ bö jingö	Mi papá está en la milpa.			
 			Chida kaneñ no n'iba 	Mi papá está en el mercado.			
-			Chida kue'eñ chin jíku*	Mi papá está en el río.			
+			Chida kue'eñ chin jíku	Mi papá está en el río.			
 41.		Mi papá está con su compadre	Chidan kaneñ nuku kambo ñe'eñ	Mi papá está con Don Manuel.			
 42.			¿Nuku du'u kane chidad?	¿Con quién está tu papá?			
 43.			¿A kanú chidad?	¿Está tu papá?	(dicho fuera de la casa)		
 44.			¿A ti kane kutum?	¿Dónde está la olla?			
 			¿A ti kane machetem?	¿Dónde está el machete?			
-45.			Kutum kane nioo*	La olla está en el suelo.			
-			Machetem kane nioo*	El machete está en el suelo.			
+45.			Kutum kane nioo	La olla está en el suelo.			
+			Machetem kane nioo	El machete está en el suelo.			
 			Kutum kane ku ko'o ba'a mi	La olla está en ese rincón.			
 			Machetem kane ku ko'o ba'a mi	El machete está en ese rincón.			
 46.		La olla está con el comal	Kutum kane nuku chéam 	La olla está junto al comal.			
@@ -123,7 +126,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 54.				La ropa está en el baúl.			
 55.		Ya puse los frijoles (ya los puso a cocer)	Na chinu núnim ni'ö	Los frijoles están en la olla.			
 56.		Ese pájaro está en ese árbol 	Yada kon kanut no ti'ö ko	El pájaro está en ese árbol			
-57.		Me pican los mosquitos 	jo'o yàaku ú	La mosca está en la pared.			
+57.		Me pican los mosquitos 	jo'ó yàaku ú	La mosca está en la pared.			
 58.				Los perros están alrededor de la lumbre.			
 59.			¿A tabea yana bea ñe'ed?	¿Cuántos perros tienes?			
 60.			Un bea ama yana ñe'ë	Tengo un perro.			
@@ -213,7 +216,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 118.				Ese pájaro es un zanate.			
 118.				Ese pájaro no es un zanate.			
 119.			¿Daë yada chó?	¿Qué pájaro es ese?			
-120.			Juó no'ös*	Juan es maestro.			
+120.			Juó no'ös	Juan es maestro.			
 			Juó gua no'ös	Juan no es maestro.			
 121.				Juan es el maestro.			
 				Juan no es el maestro.			
@@ -276,7 +279,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 161.				Es un perro.			
 162.				El año que viene mi hijo ya va a ser hombre.			
 163.				Juana se parece a María.			
-164.			Ta juana ninubita chaqueta	Juana se parece a su madre.			
+164.			Ta juana ninubita chakuta 	Juana se parece a su madre.			
 165.		Su hijo se parece a usted	Yadan ninubis intï	Usted y su hijo se parecen mucho.			
 166.			Juó a niku injobes	Juan parece viejo.			
 167.				Juan parece maestro.			
@@ -315,7 +318,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 186.			Ko'ö kuyadu silï	El niño se ve a dormir.			
 187.		 	Nauné kayadu silïm	El niño se durmió de nuevo.			
 188.			Gua yeabea kayadu silï yabi	El niño no durmió bien anodche.			
-189.				El niño casi se durmió en el camión.			
+189.			Tatlin gua kayaku silí no camión mi	El niño casi se durmió en el camión.			
 190.				El pez muerto está flotando en el agua.			
 191.				La madera flota en el agua.			
 192.				Ella siempre me pide tortillas.			
@@ -705,12 +708,12 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 499.				El hombre salió de la casa en la que mató al perro.			
 500.				Encontré el machete donde lo dejaste.			
 501.				Vine en camión desde donde nos separamos.			
-502.				¡Dame la botella que tiene agua!			
-503.				¡Dame una botella que tenga agua!			
-504.				¡Dame la caja donde guardas los cerillos!			
-505.				¡Dame el cuchillo con que cortas la carne!			
-506.				No conozco al señor con el que viniste.			
-507.				Vi al señor al que le vendiste las gallinas.			
+502.			!Ted botella chi snú nuni ú!	¡Dame la botella que tiene agua!			
+503.			¡Ted ama botella ñe'e nuni ú!	¡Dame una botella de agua!			
+504.			¡Ted kaja nochi jinabad kerillo ú!	¡Dame la caja donde guardas los cerillos!			
+505.			¡Ted gikuu nuku chi íkad yuta ú!	¡Dame el cuchillo con que cortas la carne!			
+506.			Gua jinichí chë nuku chi ndod 	No conozco al señor con el que viniste.			
+507.			Nichi chë 	Vi al señor al que le vendiste las gallinas.			
 508.				Este el el señor que vimos sembrando.	(El que sembraba era el señor)		
 509.				El es viejo.			
 510.				El es el más viejo.			
@@ -787,7 +790,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL
 556.		Compre un burro para que acarres leña	Ká ama burru tumin techkód no'o nukut	Compré la carreta para que lleves la leña.			
 557.			Ko'ö a ndar gea kubi	Voy a ir aunque está lloviendo.			
 558.				Voy a ir aunque llueva.			
-559.			Nichi ko'öd tum nub kanid***	Si vas a ir apúrate.			
+559.			Nichi ko'öd tum nub kanid	Si vas a ir apúrate.			
 560.			Nichi nichi so'ö tum kaka machetem so'ö	Si lo veo le pido el machete.			
 561.				Si lo viera le pediría el machete.			
 562.			Nichi nichi so'ön tumin chika machetem so'ö	Si lo hubera visto le habría pedido el machete.			
