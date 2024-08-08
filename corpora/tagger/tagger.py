@@ -145,6 +145,13 @@ class Tagger:
 				new_analyses = [i for i in analyses if i[3] != trad]
 	
 			return new_analyses
+
+		foundProp = False
+		for analysis in analyses:
+			if analysis[1] == 'PROPN':
+				foundProp = True
+		if not foundProp:	
+			form = form.lower()
 	
 		if form.lower() == 'a': 
 			new_analyses = choose_or_remove(analyses, 'ya', 'ya')

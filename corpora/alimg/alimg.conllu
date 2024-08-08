@@ -155,18 +155,18 @@
 # text = ʼUu yakuʼuu.
 # text[orig] = 'Uu yaku'uu.
 # text[spa] = Nosotros somos altos.
-# tagged = false
+# tagged = true
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	yakuʼuu	_	_	_	_	_	_	_	_
+2	yakuʼuu	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:4
 # text = ʼUu yakuʼuu.
 # text[orig] = 'Uu yaku'uu.
 # text[spa] = Nosotros somos altos.
-# tagged = false
+# tagged = true
 1	ʼUu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	yakuʼuu	_	_	_	_	_	_	_	_
+2	yakuʼuu	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:4
@@ -575,13 +575,13 @@
 # text = ¿A iku chi kenés Jibaku?
 # text[orig] = ¿A iku chi kenés Jibaku?
 # text[spa] = Ayer Juan estuvo en Huamantla?
-# tagged = false
+# tagged = true
 # text[lit] = ¿Ayer estaba en Cuicatlán? (sujeto masculino)
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	kenés	_	_	_	_	_	_	_	_
+5	kenés	_	VERB	_	_	_	_	_	Trad=estaba
 6	Jibaku	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
 7	?	?	PUNCT	_	_	_	_	_	_
 
@@ -790,9 +790,9 @@
 # text = Kane kuch baʼa.
 # text[orig] = Kane kuch ba'a.
 # text[spa] = Está fuera de la casa.
-# tagged = false
+# tagged = true
 1	Kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
-2	kuch	_	_	_	_	_	_	_	_
+2	kuch	_	ADP	_	_	_	_	_	Trad=fuera
 3	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -895,7 +895,7 @@
 # text[spa] = El pájaro está en ese árbol
 # tagged = false
 # text[lit] = Ese pájaro está en ese árbol
-1	Yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=perro,pájaro,vestido
+1	Yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=perro,pájaro
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	kanut	_	VERB	_	_	_	_	_	Trad=está
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -1069,9 +1069,9 @@
 # text = Gua ni ama kadi ñeʼë.
 # text[orig] = Gua ni ama kadi ñe'ë.
 # text[spa] = No tengo ninguna moneda.
-# tagged = false
+# tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	ni	_	_	_	_	_	_	_	_
+2	ni	_	ADV	_	_	_	_	_	Trad=hasta
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	kadi	_	NOUN	_	_	_	_	_	Trad=peso($)
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -1196,10 +1196,10 @@
 # text = Kane ka machete chi ted ñeʼë.
 # text[orig] = Kane ka machete chi ted ñe'ë.
 # text[spa] = Todavía tengo el machete que me regalaste.
-# tagged = false
+# tagged = true
 # text[lit] = traducción literal: está aún el machete que me diste para mi
 1	Kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
-2	ka	_	_	_	_	_	_	_	_
+2	ka	_	ADV	_	_	_	_	_	Trad=aún
 3	machete	_	NOUN	_	_	_	_	_	Trad=machete
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
@@ -1273,7 +1273,7 @@
 # text[spa] = La sopa tiene chile.
 # tagged = false
 # text[lit] = Esta picante la comida
-1	Yaduu	_	_	_	_	_	_	_	_
+1	Yaduu	_	_	_	_	_	_	_	Trad=picante
 2	sopa	_	NOUN	_	_	_	_	_	Trad=sopa
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1372,8 +1372,8 @@
 # text = Yaʼa tï.
 # text[orig] = Ya'a tï.
 # text[spa] = Tengo dolor de cabeza.
-# tagged = false
-1	Yaʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=amo,dolor,duele
+# tagged = true
+1	Yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
 2	tï	_	NOUN	_	_	_	_	_	Trad=cabeza
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1725,9 +1725,9 @@
 # text = Juó kúeas.
 # text[orig] = Juó kúeas.
 # text[spa] = Juan es brujo.
-# tagged = false
+# tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	kúeas	_	_	_	_	_	_	_	_
+2	kúeas	_	NOUN	_	_	_	_	_	Trad=brujo
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:131
@@ -2103,9 +2103,9 @@
 # text = Yadan ninubis intï.
 # text[orig] = Yadan ninubis intï.
 # text[spa] = Usted y su hijo se parecen mucho.
-# tagged = false
+# tagged = true
 # text[lit] = Su hijo se parece a usted
-1	Yadan	_	_	_	_	_	_	_	_
+1	Yadan	_	NOUN	_	_	_	_	_	Trad=su.hijo
 2	ninubis	_	VERB	_	_	_	_	_	Trad=se.parece
 3	intï	_	PRON	_	_	_	_	_	Trad=usted
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2505,8 +2505,8 @@
 # text = Nichi dí iku.
 # text[orig] = Nichi dí iku.
 # text[spa] = Te vi ayer en el mercado.
-# tagged = false
-1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
+# tagged = true
+1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2515,9 +2515,9 @@
 # text = Nichi soʼö iku nʼiba.
 # text[orig] = Nichi so'ö iku n'iba.
 # text[spa] = Lo vi ayer en el mercado.
-# tagged = false
+# tagged = true
 # text[lit] = sujeto masculino
-1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
+1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
@@ -2527,8 +2527,8 @@
 # text = Nichi insë iku no nʼiba.
 # text[orig] = Nichi insë iku no n'iba.
 # text[spa] = Los vi a ustedes ayer en el mercado.
-# tagged = false
-1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
+# tagged = true
+1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	insë	_	PRON	_	_	_	_	_	Trad=ustedes
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -2539,8 +2539,8 @@
 # text = Nichi iñsé iku no nʼiba.
 # text[orig] = Nichi iñsé iku no n'iba.
 # text[spa] = Los vi a ellos ayer en el mercado.
-# tagged = false
-1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
+# tagged = true
+1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	iñsé	_	PRON	_	_	_	_	_	Trad=ellos
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -2563,10 +2563,10 @@
 # text = A nichid toʼö iku nʼiba.
 # text[orig] = A nichid to'ö iku n'iba.
 # text[spa] = Lo viste ayer en el mercado.
-# tagged = false
+# tagged = true
 1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
-3	toʼö	_	_	_	_	_	_	_	_
+3	toʼö	_	PRON	_	_	_	_	_	Trad=él
 4	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -2641,8 +2641,8 @@
 # text = Nichin dí iku nʼiba.
 # text[orig] = Nichin dí iku n'iba.
 # text[spa] = Te vimos ayer en el mercado.
-# tagged = false
-1	Nichin	_	_	_	_	_	_	_	_
+# tagged = true
+1	Nichin	_	VERB	_	_	_	_	_	Trad=vimos
 2	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
@@ -2678,11 +2678,11 @@
 # text = ¿A dae nochid iku nʼiba?
 # text[orig] = ¿A dae nochid iku n'iba?
 # text[spa] = ¿Qué viste ayer en el mercado?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	dae	_	PRON	_	_	_	_	_	Trad=que
-4	nochid	_	_	_	_	_	_	_	_
+4	nochid	_	VERB	_	_	_	_	_	Trad=viste
 5	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 6	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
 7	?	?	PUNCT	_	_	_	_	_	_
@@ -2759,7 +2759,7 @@
 2	damid	_	VERB	_	_	_	_	_	Trad=acusó
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
-5	dukud	_	_	_	_	_	_	_	_
+5	dukud	_	VERB	_	_	_	_	_	Trad=robar|Gloss=?-robar-?
 6	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 7	ñeʼeta	_	_	_	_	_	_	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
@@ -2768,12 +2768,12 @@
 # text = ¿Dae jikadi jidid?
 # text[orig] = ¿Dae jikadi jidid?
 # text[spa] = ¿Qué sabes hacer?
-# tagged = false
+# tagged = true
 # text[lit] = ¿Qué puedes hacer?
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Dae	_	PRON	_	_	_	_	_	Trad=que
 3	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
-4	jidid	_	_	_	_	_	_	_	_
+4	jidid	_	VERB	_	_	_	_	_	Trad=hacer
 5	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:216
@@ -2814,10 +2814,10 @@
 # text = ¿A jined beade?
 # text[orig] = ¿A jined beade?
 # text[spa] = ¿Sabes español?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	jined	_	_	_	_	_	_	_	_
+3	jined	_	VERB	_	_	_	_	_	Trad=sabes
 4	beade	_	NOUN	_	_	_	_	_	Trad=español
 5	?	?	PUNCT	_	_	_	_	_	_
 
@@ -2825,8 +2825,8 @@
 # text = Jiné beade.
 # text[orig] = Jiné beade.
 # text[spa] = Sé español.
-# tagged = false
-1	Jiné	_	_	_	_	_	_	_	_
+# tagged = true
+1	Jiné	_	VERB	_	_	_	_	_	Trad=sé
 2	beade	_	NOUN	_	_	_	_	_	Trad=español
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2861,11 +2861,11 @@
 # text = Jite chi kadinud.
 # text[orig] = Jite chi kadinud.
 # text[spa] = Te lo digo para que lo sepas.
-# tagged = false
+# tagged = true
 # text[lit] = tl:te doy para que sepas, pero hace referencia a la frase
-1	Jite	_	_	_	_	_	_	_	_
+1	Jite	_	VERB	_	_	_	_	_	Trad=digo
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-3	kadinud	_	_	_	_	_	_	_	_
+3	kadinud	_	VERB	_	_	_	_	_	Trad=sepas
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:226
@@ -2884,7 +2884,7 @@
 # text[orig] = Chiku'u gua chikueñ ú c.
 # text[spa] = Mi abuela no me enseñó a cantar.
 # tagged = false
-1	Chikuʼu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
+1	Chikuʼu	_	NOUN	_	_	_	_	_	Trad=mi.abuelita
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 3	chikueñ	_	VERB	_	_	_	_	_	Trad=enseñó
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -2918,7 +2918,7 @@
 # text[orig] = Nichi ndee iti yuni.
 # text[spa] = Vi muchos animales en el camino.
 # tagged = false
-1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
+1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	ndee	_	_	_	_	_	_	_	Trad=mucho
 3	iti	_	NOUN	_	_	_	_	_	Trad=animal
 4	yuni	_	NOUN	_	_	_	_	_	Trad=camino
@@ -2928,8 +2928,8 @@
 # text = Nichi dae chi no baʼa ko.
 # text[orig] = Nichi dae chi no ba'a ko.
 # text[spa] = Vi lo que pasó en esa casa.
-# tagged = false
-1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
+# tagged = true
+1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	dae	_	PRON	_	_	_	_	_	Trad=que
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -2941,8 +2941,8 @@
 # text = Nichi chi dimod jeʼed yuntu.
 # text[orig] = Nichi chi dimod je'ed yuntu.
 # text[spa] = Vi que estabas comiendo solo.
-# tagged = false
-1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
+# tagged = true
+1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	dimod	_	ADV	_	_	_	_	_	Trad=sólo
 4	jeʼed	_	VERB	_	_	_	_	_	Trad=estás.comiendo
@@ -3042,13 +3042,13 @@
 # text = Koʼöd chíd ú chi kanad ama bíʼi.
 # text[orig] = Ko'öd chíd ú chi kanad ama bí'i.
 # text[spa] = Me prometiste una manzana.
-# tagged = false
+# tagged = true
 # text[lit] = Me dijiste que traerias una fruta
 1	Koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
-2	chíd	_	_	_	_	_	_	_	_
+2	chíd	_	VERB	_	_	_	_	_	_
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	kanad	_	_	_	_	_	_	_	_
+5	kanad	_	VERB	_	_	_	_	_	Trad=traerías
 6	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 7	bíʼi	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 8	.	.	PUNCT	_	_	_	_	_	_
@@ -3057,13 +3057,13 @@
 # text = Koʼöd chíd ú chi kanad ama bíʼi cheʼe.
 # text[orig] = Ko'öd chíd ú chi kanad ama bí'i che'e.
 # text[spa] = Me prometiste que me ibas a dar una manzana.
-# tagged = false
+# tagged = true
 # text[lit] = Me dijiste que traerias una fruta para que yo comiera
 1	Koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
-2	chíd	_	_	_	_	_	_	_	_
+2	chíd	_	VERB	_	_	_	_	_	_
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	kanad	_	_	_	_	_	_	_	_
+5	kanad	_	VERB	_	_	_	_	_	Trad=traerías
 6	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 7	bíʼi	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 8	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
@@ -3073,10 +3073,10 @@
 # text = ¿A jitenud Ndios?
 # text[orig] = ¿A jitenud Ndios?
 # text[spa] = ¿Crees en Dios?
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	jitenud	_	_	_	_	_	_	_	_
+3	jitenud	_	VERB	_	_	_	_	_	Trad=crees
 4	Ndios	_	NOUN	_	_	_	_	_	Trad=dios
 5	?	?	PUNCT	_	_	_	_	_	_
 
@@ -3097,7 +3097,7 @@
 # text[spa] = Dudo que venga Juan.
 # tagged = false
 1	Nigua	_	_	_	_	_	_	_	Trad=no
-2	ni	_	_	_	_	_	_	_	_
+2	ni	_	ADV	_	_	_	_	_	Trad=hasta
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ndos	_	_	_	_	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3106,10 +3106,10 @@
 # text = Gua jitenu ñeʼes.
 # text[orig] = Gua jitenu ñe'es.
 # text[spa] = Dudo de su promesa.
-# tagged = false
+# tagged = true
 # text[lit] = No le creo
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	jitenu	_	_	_	_	_	_	_	_
+2	jitenu	_	VERB	_	_	_	_	_	Trad=creo
 3	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3281,7 +3281,7 @@
 # text[orig] = Yada kon gua jikadi jinuku yakut.
 # text[spa] = Ese pájaro  no puede volar.
 # tagged = false
-1	Yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=perro,pájaro,vestido
+1	Yada	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=perro,pájaro
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
@@ -3293,10 +3293,10 @@
 # text = Gua jikadi jea tiʼö.
 # text[orig] = Gua jikadi jea ti'ö.
 # text[spa] = No puedo subirme al árbol.
-# tagged = false
+# tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
-3	jea	_	_	_	_	_	_	_	_
+3	jea	_	VERB	_	_	_	_	_	Trad=me.subo
 4	tiʼö	_	NOUN	_	_	_	_	_	Trad=árbol
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3317,9 +3317,9 @@
 # text = Jikadi jidijù per gua lápiz ñoʼö.
 # text[orig] = Jikadi jidijù per gua lápiz ño'ö.
 # text[spa] = Sé escribir, pero no puedo porque no tengo lápiz.
-# tagged = false
+# tagged = true
 1	Jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
-2	jidijù	_	_	_	_	_	_	_	_
+2	jidijù	_	VERB	_	_	_	_	_	Trad=escribir
 3	per	_	CCONJ	_	_	_	_	_	Trad=pero
 4	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 5	lápiz	_	NOUN	_	_	_	_	_	Trad=lápiz
@@ -3330,7 +3330,7 @@
 # text = Neʼë kó tiʼö ko, per gua jikadi geá.
 # text[orig] = Ne'ë kó ti'ö ko, per gua jikadi geá.
 # text[spa] = Quiero subirme a ese árbol pero no puedo.
-# tagged = false
+# tagged = true
 1	Neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 2	kó	_	DET	_	_	_	_	_	Trad=ese
 3	tiʼö	_	NOUN	_	_	_	_	_	Trad=árbol
@@ -3339,7 +3339,7 @@
 6	per	_	CCONJ	_	_	_	_	_	Trad=pero
 7	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 8	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
-9	geá	_	_	_	_	_	_	_	_
+9	geá	_	VERB	_	_	_	_	_	Trad=subirme
 10	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:274
@@ -3476,9 +3476,9 @@
 # text = Jinangaku íñ ñeʼe.
 # text[orig] = Jinangaku íñ ñe'e.
 # text[spa] = Extraño a mi familia.
-# tagged = false
+# tagged = true
 1	Jinangaku	_	VERB	_	_	_	_	_	Trad=extraño|Gloss=?-extrañar-?
-2	íñ	_	_	_	_	_	_	_	_
+2	íñ	_	NOUN	_	_	_	_	_	Trad=familia
 3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3590,20 +3590,20 @@
 # text = Jobku kùchi ka.
 # text[orig] = Jobku kùchi ka.
 # text[spa] = Hoy voy a seguir sembrando.
-# tagged = false
+# tagged = true
 1	Jobku	_	ADV	_	_	_	_	_	Trad=hoy
 2	kùchi	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
-3	ka	_	_	_	_	_	_	_	_
+3	ka	_	ADV	_	_	_	_	_	Trad=aún
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:299
 # text = Iku chichí ka.
 # text[orig] = Iku chichí ka.
 # text[spa] = Ayer seguí sembrando.
-# tagged = false
+# tagged = true
 1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 2	chichí	_	VERB	_	_	_	_	_	Trad=sembrar
-3	ka	_	_	_	_	_	_	_	_
+3	ka	_	ADV	_	_	_	_	_	Trad=aún
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:301
@@ -3648,10 +3648,10 @@
 # text = Job jobe jichis ñeʼe yuduu.
 # text[orig] = Job jobe jichis ñe'e yuduu.
 # text[spa] = Viene todos los días por los caballos.
-# tagged = false
+# tagged = true
 1	Job	_	NOUN	_	_	_	_	_	Trad=día
 2	jobe	_	NOUN	_	_	_	_	_	Trad=día
-3	jichis	_	_	_	_	_	_	_	_
+3	jichis	_	VERB	_	_	_	_	_	Trad=viene|Gloss=?-venir-3SG.MSC
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	yuduu	_	NOUN	_	_	_	_	_	Trad=caballo
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -3660,8 +3660,8 @@
 # text = Kód tumad naídii.
 # text[orig] = Kód tumad naídii.
 # text[spa] = Súbete a cortar ese aguacate.
-# tagged = false
-1	Kód	_	_	_	_	_	_	_	_
+# tagged = true
+1	Kód	_	VERB	_	_	_	_	_	Trad=súbete
 2	tumad	_	VERB	_	_	_	_	_	Trad=cortar
 3	naídii	_	NOUN	_	_	_	_	_	Trad=aguacate
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3776,8 +3776,8 @@
 # text = Nichi.
 # text[orig] = Nichi.
 # text[spa] = diez
-# tagged = false
-1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
+# tagged = true
+1	Nichi	_	NUM	_	_	_	_	_	Trad=díez
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:546
@@ -3792,17 +3792,17 @@
 # text = Niku.
 # text[orig] = Niku.
 # text[spa] = veinte
-# tagged = false
-1	Niku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=veinte,viejo
+# tagged = true
+1	Niku	_	NUM	_	_	_	_	_	Trad=veinte
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:546
 # text = Juʼu jeku.
 # text[orig] = Ju'u jeku.
 # text[spa] = cien
-# tagged = true
+# tagged = false
 1	Juʼu	_	NUM	_	Typo=Yes	_	_	_	Trad=cinco
-2	jeku	_	NUM	_	_	_	_	_	_
+2	jeku	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,pohual
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:547
@@ -3973,8 +3973,8 @@
 # text = Nichi nichi soʼö tum kaka machetem soʼö.
 # text[orig] = Nichi nichi so'ö tum kaka machetem so'ö.
 # text[spa] = Si lo veo le pido el machete.
-# tagged = false
-1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
+# tagged = true
+1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 3	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 4	tum	_	SCONJ	_	_	_	_	_	Trad=para.que
@@ -3987,8 +3987,8 @@
 # text = Nichi nichi soʼön tumin chika machetem soʼö.
 # text[orig] = Nichi nichi so'ön tumin chika machetem so'ö.
 # text[spa] = Si lo hubera visto le habría pedido el machete.
-# tagged = false
-1	Nichi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=díez,vi
+# tagged = true
+1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 3	soʼön	_	PRON	_	_	_	_	_	Trad=él
 4	tumin	_	SCONJ	_	_	_	_	_	Trad=para.que
@@ -4038,10 +4038,10 @@
 # text = Juó kayadus ni tochi ndod.
 # text[orig] = Juó kayadus ni tochi ndod.
 # text[spa] = Juan estuvo durmiendo hasta que llegaste.
-# tagged = false
+# tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo
-3	ni	_	_	_	_	_	_	_	_
+3	ni	_	ADV	_	_	_	_	_	Trad=hasta
 4	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 5	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -4050,9 +4050,9 @@
 # text = Juó kudadus tochi ndod.
 # text[orig] = Juó kudadus tochi ndod.
 # text[spa] = Juan va a dormir cuando llegues.
-# tagged = false
+# tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	kudadus	_	_	_	_	_	_	_	_
+2	kudadus	_	VERB	_	_	_	_	_	Trad=va.a.dormir
 3	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 4	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4061,11 +4061,11 @@
 # text = Juó kayadus ni tochi ndod.
 # text[orig] = Juó kayadus ni tochi ndod.
 # text[spa] = Juan va a dormir hasta que llegues.
-# tagged = false
+# tagged = true
 # note = (Después se va a levantar)
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo
-3	ni	_	_	_	_	_	_	_	_
+3	ni	_	ADV	_	_	_	_	_	Trad=hasta
 4	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 5	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -4174,10 +4174,10 @@
 # text = Chi jinu ñeʼë ntiñu.
 # text[orig] = Chi jinu ñe'ë ntiñu.
 # text[spa] = Ahora es tarde para ir a trabajar.
-# tagged = false
+# tagged = true
 # text[lit] = Me atrase con el trabajo
 1	Chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-2	jinu	_	_	_	_	_	_	_	_
+2	jinu	_	VERB	_	_	_	_	_	Trad=atrasé
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4187,7 +4187,7 @@
 # text[orig] = Yata kun ndá je'ë.
 # text[spa] = Esta planta es buena para comer.
 # tagged = false
-1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
+1	Yata	_	NOUN	_	_	_	_	_	Trad=paloma
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	ndá	_	_	_	_	_	_	_	Trad=bueno
 4	jeʼë	_	VERB	_	_	_	_	_	Trad=comer
@@ -4198,7 +4198,7 @@
 # text[orig] = Yata kun ndá ñe'e káa mi.
 # text[spa] = Esta planta es buena para esa enfermedad.
 # tagged = false
-1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
+1	Yata	_	NOUN	_	_	_	_	_	Trad=paloma
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	ndá	_	_	_	_	_	_	_	Trad=bueno
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -4211,7 +4211,7 @@
 # text[orig] = Yata kun gua ndá ñe’e káa mi.
 # text[spa] = Esta planta es mala para esa enfermedad.
 # tagged = false
-1	Yata	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hierba,paloma,pichón
+1	Yata	_	NOUN	_	_	_	_	_	Trad=paloma
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ndá	_	_	_	_	_	_	_	Trad=bueno
@@ -4273,7 +4273,7 @@
 # tagged = false
 # note = (Quiero un kilo de....)
 1	Lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
-2	ka	_	_	_	_	_	_	_	_
+2	ka	_	ADV	_	_	_	_	_	Trad=aún
 3	ten	_	_	_	_	_	_	_	_
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	.	.	PUNCT	_	_	_	_	_	_
