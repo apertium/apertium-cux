@@ -441,9 +441,9 @@
 # text[spa] = Yo soy gordo.
 # alimg = Yo soy gordo.
 # hash = 5a583ba92ab8226183c755bb33ad9817
-# tagged = false
+# tagged = true
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	rúʼu	_	_	_	_	_	_	_	_
+2	rúʼu	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -452,9 +452,9 @@
 # text[spa] = Yo soy gordo.
 # alimg = Yo soy gordo.
 # hash = 5a583ba92ab8226183c755bb33ad9817
-# tagged = false
+# tagged = true
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	rúʼu	_	_	_	_	_	_	_	_
+2	rúʼu	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -463,9 +463,9 @@
 # text[spa] = Yo soy gordo.
 # alimg = Yo soy gordo.
 # hash = 5a583ba92ab8226183c755bb33ad9817
-# tagged = false
+# tagged = true
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bícha	_	_	_	_	_	_	_	_
+2	bícha	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -474,9 +474,9 @@
 # text[spa] = Yo soy gordo.
 # alimg = Yo soy gordo.
 # hash = 5a583ba92ab8226183c755bb33ad9817
-# tagged = false
+# tagged = true
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bícha	_	_	_	_	_	_	_	_
+2	bícha	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -485,9 +485,9 @@
 # text[spa] = Tú eres gordo
 # alimg = Tú eres gordo
 # hash = 58d0b3c957a3b5f1bcda9ba968add650
-# tagged = false
+# tagged = true
 1	Din	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
-2	rúʼu	_	_	_	_	_	_	_	_
+2	rúʼu	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -496,9 +496,9 @@
 # text[spa] = Tú eres gordo
 # alimg = Tú eres gordo
 # hash = 58d0b3c957a3b5f1bcda9ba968add650
-# tagged = false
+# tagged = true
 1	Dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
-2	bíchad	_	_	_	_	_	_	_	_
+2	bíchad	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -507,9 +507,9 @@
 # text[spa] = Tú eres gordo
 # alimg = Tú eres gordo
 # hash = 58d0b3c957a3b5f1bcda9ba968add650
-# tagged = false
+# tagged = true
 1	Din	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
-2	bíchad	_	_	_	_	_	_	_	_
+2	bíchad	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -518,9 +518,9 @@
 # text[spa] = El es gordo
 # alimg = El es gordo
 # hash = 69b5edfb2c0ef707d87d74efa14316f4
-# tagged = false
+# tagged = true
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	rúʼus	_	_	_	_	_	_	_	_
+2	rúʼus	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -529,9 +529,9 @@
 # text[spa] = El es gordo
 # alimg = El es gordo
 # hash = 69b5edfb2c0ef707d87d74efa14316f4
-# tagged = false
+# tagged = true
 1	Sakón	_	PRON	_	_	_	_	_	Trad=él
-2	rúʼus	_	_	_	_	_	_	_	_
+2	rúʼus	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -540,9 +540,9 @@
 # text[spa] = El es gordo
 # alimg = El es gordo
 # hash = 69b5edfb2c0ef707d87d74efa14316f4
-# tagged = false
+# tagged = true
 1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	bíchas	_	_	_	_	_	_	_	_
+2	bíchas	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -551,9 +551,9 @@
 # text[spa] = El es gordo
 # alimg = El es gordo
 # hash = 69b5edfb2c0ef707d87d74efa14316f4
-# tagged = false
+# tagged = true
 1	Sakón	_	PRON	_	_	_	_	_	Trad=él
-2	bíchas	_	_	_	_	_	_	_	_
+2	bíchas	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -575,10 +575,10 @@
 # text[spa] = Nosotros somos gordos.
 # alimg = Nosotros somos gordos. (inclusivo)
 # hash = bbf0f1028f341037c19d008aec6174a5
-# tagged = false
+# tagged = true
 # note = (inclusivo)
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bíchaʼuu	_	_	_	_	_	_	_	_
+2	bíchaʼuu	_	ADJ	_	_	_	_	_	Trad=gordos|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -587,9 +587,9 @@
 # text[spa] = Ustedes son gordos.
 # alimg = Ustedes son gordos.
 # hash = 51b63e7506a9b1ef8e9bdafd9b272eb1
-# tagged = false
+# tagged = true
 1	Insën	_	PRON	_	_	_	_	_	Trad=ustedes
-2	rúʼun	_	_	_	_	_	_	_	_
+2	rúʼun	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -598,9 +598,9 @@
 # text[spa] = Ustedes son gordos.
 # alimg = Ustedes son gordos.
 # hash = 51b63e7506a9b1ef8e9bdafd9b272eb1
-# tagged = false
+# tagged = true
 1	Insën	_	PRON	_	_	_	_	_	Trad=ustedes
-2	bíchan	_	_	_	_	_	_	_	_
+2	bíchan	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -609,9 +609,9 @@
 # text[spa] = Ellos son gordos.
 # alimg = Ellos son gordos.
 # hash = 58555b1c64c18b37bffe8ad9dfe9622f
-# tagged = false
-1	Iñsén	_	_	_	_	_	_	_	_
-2	rúʼun	_	_	_	_	_	_	_	_
+# tagged = true
+1	Iñsén	_	PRON	_	_	_	_	_	Trad=ellos
+2	rúʼun	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -620,9 +620,9 @@
 # text[spa] = Ellos son gordos.
 # alimg = Ellos son gordos.
 # hash = 58555b1c64c18b37bffe8ad9dfe9622f
-# tagged = false
-1	Iñsén	_	_	_	_	_	_	_	_
-2	bíchan	_	_	_	_	_	_	_	_
+# tagged = true
+1	Iñsén	_	PRON	_	_	_	_	_	Trad=ellos
+2	bíchan	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -653,9 +653,9 @@
 # text[spa] = Tu eres flaco.
 # alimg = Tu eres flaco.
 # hash = 4bd6304b4f3de2a35c8187163ce9b47f
-# tagged = false
+# tagged = true
 1	Dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
-2	kúëd	_	_	_	_	_	_	_	_
+2	kúëd	_	ADJ	_	_	_	_	_	Trad=flaco|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -664,9 +664,9 @@
 # text[spa] = Tu eres flaco.
 # alimg = Tu eres flaco.
 # hash = 4bd6304b4f3de2a35c8187163ce9b47f
-# tagged = false
+# tagged = true
 1	Dín	_	PRON	_	_	_	_	_	Trad=tú
-2	kúëd	_	_	_	_	_	_	_	_
+2	kúëd	_	ADJ	_	_	_	_	_	Trad=flaco|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:8
@@ -1252,10 +1252,10 @@
 # text[spa] = Mi papá está en el río.
 # alimg = Mi papá está en el río.
 # hash = 8618f401f161430d4c5cdf9498e637f1
-# tagged = false
+# tagged = true
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	kueʼeñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=?-ir-?
-3	chin	_	_	_	_	_	_	_	_
+3	chin	_	ADP	_	_	_	_	_	Trad=en|UPOS=Guessed
 4	jíku	_	NOUN	_	_	_	_	_	Trad=río
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1555,9 +1555,9 @@
 # text[spa] = La mosca está en la pared.
 # alimg = La mosca está en la pared.
 # hash = 0aaedf3bf9c2d17a6fa20be88c0022cd
-# tagged = false
+# tagged = true
 # text[lit] = Me pican los mosquitos
-1	Joʼó	_	_	_	_	_	_	_	_
+1	Joʼó	_	VERB	_	_	_	_	_	Trad=pican
 2	yàaku	_	NOUN	_	_	_	_	_	Trad=mosquito
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1898,11 +1898,11 @@
 # text[spa] = Tengo agua para tomar.
 # alimg = Tengo agua para tomar.
 # hash = b6a7efced253c14dcf4d17405ec4d80b
-# tagged = false
+# tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-4	kuʼú	_	_	_	_	_	_	_	_
+4	kuʼú	_	VERB	_	_	_	_	_	Trad=tomar
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:66
@@ -1937,12 +1937,12 @@
 # text[spa] = ¿Tienen cola los perros?
 # alimg = ¿Tienen cola los perros?
 # hash = cfb091c1a4ed58c7d0fbf993da38b34b
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-4	nduk	_	_	_	_	_	_	_	_
-5	daʼa	_	_	_	_	_	_	_	_
+4	nduk	_	NOUN	_	_	_	_	_	UPOS=Guessed
+5	daʼa	_	NOUN	_	_	_	_	_	UPOS=Guessed
 6	yana	_	NOUN	_	_	_	_	_	Trad=perro
 7	?	?	PUNCT	_	_	_	_	_	_
 
@@ -1952,11 +1952,11 @@
 # text[spa] = Mi perro no tiene cola.
 # alimg = Mi perro no tiene cola.
 # hash = 9d32586d14976004a2636eee9c3dd0c2
-# tagged = false
+# tagged = true
 # text[lit] = Le cortaron la cola a mi perro
-1	Chíy	_	_	_	_	_	_	_	_
-2	nduk	_	_	_	_	_	_	_	_
-3	daʼa	_	_	_	_	_	_	_	_
+1	Chíy	_	VERB	_	_	_	_	_	Trad=cortaron
+2	nduk	_	NOUN	_	_	_	_	_	UPOS=Guessed
+3	daʼa	_	NOUN	_	_	_	_	_	UPOS=Guessed
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -3309,7 +3309,7 @@
 # alimg = Ahí venden muchas cosas.
 # hash = 5f756f79b625c21cd64633277ebfe9de
 # tagged = false
-1	Mi	_	DET	_	_	_	_	_	Trad=esa
+1	Mi	_	ADV	_	_	_	_	_	Trad=ahí|UPOS=Guessed
 2	ndenó	_	_	_	_	_	_	_	_
 3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3929,14 +3929,14 @@
 # text[spa] = Ella te acusó de haberle robado.
 # alimg = Ella te acusó de haberle robado.
 # hash = 9972d9feeeb8bc5c3fc59b75ed6eeca1
-# tagged = false
+# tagged = true
 1	Chineta	_	PRON	_	_	_	_	_	Trad=ella
 2	damid	_	VERB	_	_	_	_	_	Trad=acusó
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 5	dukud	_	VERB	_	_	_	_	_	Trad=robar|Gloss=?-robar-?
 6	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-7	ñeʼeta	_	_	_	_	_	_	_	_
+7	ñeʼeta	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.ella|UPOS=Guessed
 8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:215
@@ -4573,12 +4573,12 @@
 # text[spa] = Vas a poder cruzar el río cuando tenga poca agua.
 # alimg = Vas a poder cruzar el río cuando tenga poca agua.
 # hash = 4642d918d082e7a47ce6a4e212488591
-# tagged = false
+# tagged = true
 1	Kadi	_	NOUN	_	_	_	_	_	Trad=peso($)
-2	choʼod	_	_	_	_	_	_	_	_
-3	chinjíku	_	_	_	_	_	_	_	_
+2	choʼod	_	VERB	_	_	_	_	_	Trad=cruzar
+3	chinjíku	_	ADV	_	_	_	_	_	Trad=en.el.río|UPOS=Guessed
 4	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-5	dùbii	_	_	_	_	_	_	_	_
+5	dùbii	_	VERB	_	_	_	_	_	Trad=tener.poco|UPOS=Guessed
 6	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4643,7 +4643,7 @@
 1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
-4	di	_	VERB	_	_	_	_	_	_
+4	di	_	VERB	_	_	_	_	_	Trad=hacer
 5	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4712,8 +4712,8 @@
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	kuʼuu	_	_	_	_	_	_	_	_
-6	diuu	_	VERB	_	_	_	_	_	_
+5	kuʼuu	_	VERB	_	_	_	_	_	Trad=tenemos.que
+6	diuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,hacer
 7	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5638,13 +5638,13 @@
 # text[spa] = Juan no va a sembrar, pero yo sí.
 # alimg = Juan no va a sembrar, pero yo sí.
 # hash = a66b85b9c0b399a1f26801d3c8256962
-# tagged = false
+# tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar
 4	,	,	PUNCT	_	_	_	_	_	_
 5	un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-6	kunú	_	_	_	_	_	_	_	_
+6	kunú	_	INTJ	_	_	_	_	_	Trad=sí|UPOS=Guessed
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:578
@@ -5700,7 +5700,7 @@
 3	kabiö	_	ADV	_	_	_	_	_	Trad=mañana
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kadi	_	NOUN	_	_	_	_	_	Trad=peso($)
-6	dì	_	VERB	_	_	_	_	_	_
+6	dì	_	VERB	_	_	_	_	_	Trad=hacer
 7	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 8	.	.	PUNCT	_	_	_	_	_	_
 

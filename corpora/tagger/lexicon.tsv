@@ -1,4 +1,4 @@
-GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1479	1465	1464
+GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1503	1489	1488
 _	a	a	ADV		ya				
 _	a	a	PART			QST			
 _	áa		VERB		resuena				
@@ -1372,8 +1372,8 @@ _	chineta		PRON		ella
 _	damid		VERB		acusó				
 _	dayan		NOUN		mis hijos				
 _	denud		VERB		sabes				
-_	dì		VERB						
-_	di		VERB						
+_	dì		VERB		hacer				
+_	di		VERB		hacer				
 _	dime		ADV		sólo				
 _	dimod		ADV		sólo				
 _	dimo		ADV		sólo				
@@ -1399,7 +1399,7 @@ _	ndininus		VERB		acostumbró
 _	ndininu		VERB		acostumbro				
 _	nikua				no				
 _	nigua				no				
-_	diuu		VERB						
+_	diuu		VERB		hacer				
 _	kueʼes		VERB		se fue				
 _	mí		ADV		allá				
 _	nès		VERB		ordenó	?-ordenar-?			
@@ -1477,6 +1477,106 @@ _	jideaku		VERB		quemar
 _	née		NOUN		vez				
 _	niʼö		NOUN		en la olla				
 _	núnim		NOUN		frijol				
+x	ñeʼeta		NOUN	NounType=Relat	de ella				
+_	diuu		VERB						
+x	rúʼu		ADJ		gordo				
+x	rúʼus		ADJ		gordo				
+x	rúʼun		ADJ		gordo				
+x	bíchas		ADJ		gordo				
+x	bíchan		ADJ		gordo				
+x	bíchad		ADJ		gordo				
+x	bícha		ADJ		gordo				
+x	kúëd		ADJ		flaco				
+_	iñsén		PRON		ellos				
+_	chíy		VERB		cortaron				
+x	nduk		NOUN						
+x	daʼa		NOUN						
+_	kuʼuu		VERB		tenemos que				
+_	joʼó		VERB		pican				
+_	kuʼú		VERB		tomar				
+x	bíchaʼuu		ADJ		gordos				
+x	dùbii		VERB		tener poco				
+_	choʼod		VERB		cruzar				
+x	chinjíku		ADV		en el río				
+x	chin		ADP		en				
+x	kunú		INTJ		sí				
+x	mi		ADV		ahí				
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
 									
 									
 									

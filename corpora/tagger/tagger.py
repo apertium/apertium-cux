@@ -183,6 +183,8 @@ class Tagger:
 			new_analyses = choose_if_not_trad(analyses, r'(árbol|árboles)', 'pueblo')
 		elif form == 'cheʼed':
 			new_analyses = choose_if_not_trad(analyses, 'come', 'fuiste')
+		elif form.lower() == 'mi':
+			new_analyses = choose_or_remove(analyses, 'ahí', 'ahí')
 		elif form == 'díi':
 			new_analyses = choose_or_remove(analyses, 'caspa', 'caspa')
 		elif form == 'yába':
