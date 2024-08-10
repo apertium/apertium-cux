@@ -1273,7 +1273,7 @@
 # tagged = false
 # author = lilia
 1	Chiduu	_	NOUN	_	_	_	_	_	Trad=sacerdote
-2	joʼó	_	_	_	_	_	_	_	_
+2	joʼó	_	VERB	_	_	_	_	_	Trad=pican
 3	booy	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2071,7 +2071,7 @@
 1	Tano	_	_	_	_	_	_	_	_
 2	díi	_	NOUN	_	_	_	_	_	Trad=tamo|UPOS=Guessed
 3	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
-4	ne	_	_	_	_	_	_	_	_
+4	ne	_	VERB	_	_	_	_	_	Trad=se.necesita|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0174
@@ -4538,7 +4538,7 @@
 2	düntuu	_	NOUN	_	_	_	_	_	Trad=marca.de.un.golpe|UPOS=Guessed
 3	jecheé	_	_	_	_	_	_	_	_
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	koʼos	_	_	_	_	_	_	_	_
+5	koʼos	_	VERB	_	_	_	_	_	Trad=dijo|Gloss=?-decir-3SG.MSC
 6	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5119,7 +5119,7 @@
 # tagged = false
 # author = mazali
 1	Itsoʼö	_	NOUN	_	_	_	_	_	Trad=guajolote
-2	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
+2	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
 3	a	a	PART	_	_	_	_	_	Gloss=QST
 4	net	_	_	_	_	_	_	_	_
 5	iñʼtoʼö	_	NOUN	_	_	_	_	_	Trad=guajolota
@@ -5440,9 +5440,9 @@
 # text = Ta María jeakuta.
 # text[orig] = Ta María jeakuta.
 # text[spa] = María está llorando.
-# tagged = true
+# tagged = false
 # author = mazali
-1	Ta	_	NOUN	_	NounType=Clf	_	_	_	_
+1	Ta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,señora
 2	María	María	PROPN	_	_	_	_	_	Trad=María
 3	jeakuta	_	VERB	_	VerbForm=Fin	_	_	_	Trad=está.llorando|Gloss=?-llorar-3SG.FEM
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -6053,11 +6053,11 @@
 # text = ¿A dea jobe kanbakud?
 # text[orig] = ¿A dea jobe kanbakud?
 # text[spa] = ¿Cuando te vas a casar?
-# tagged = false
+# tagged = true
 # author = mazali
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	dea	_	_	_	_	_	_	_	_
+3	dea	_	PRON	_	_	_	_	_	Trad=que|UPOS=Guessed
 4	jobe	_	NOUN	_	_	_	_	_	Trad=día
 5	kanbakud	_	VERB	_	VerbForm=Fin	_	_	_	Trad=casarse|Gloss=?-casarse-2SG
 6	?	?	PUNCT	_	_	_	_	_	_
@@ -6138,9 +6138,9 @@
 # text = Ne kanú dií.
 # text[orig] = Ne kanú dií.
 # text[spa] = Te quiero cargar.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Ne	_	_	_	_	_	_	_	_
+1	Ne	_	VERB	_	_	_	_	_	Trad=se.necesita|UPOS=Guessed
 2	kanú	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cargar|Gloss=?-cargar-?
 3	dií	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 4	.	.	PUNCT	_	_	_	_	_	_
