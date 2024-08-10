@@ -1937,12 +1937,12 @@
 # text[spa] = ¿Tienen cola los perros?
 # alimg = ¿Tienen cola los perros?
 # hash = cfb091c1a4ed58c7d0fbf993da38b34b
-# tagged = true
+# tagged = false
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-4	nduk	_	NOUN	_	_	_	_	_	UPOS=Guessed
-5	daʼa	_	NOUN	_	_	_	_	_	UPOS=Guessed
+4	nduk	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,quién
+5	daʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,que
 6	yana	_	NOUN	_	_	_	_	_	Trad=perro
 7	?	?	PUNCT	_	_	_	_	_	_
 
@@ -1952,11 +1952,11 @@
 # text[spa] = Mi perro no tiene cola.
 # alimg = Mi perro no tiene cola.
 # hash = 9d32586d14976004a2636eee9c3dd0c2
-# tagged = true
+# tagged = false
 # text[lit] = Le cortaron la cola a mi perro
 1	Chíy	_	VERB	_	_	_	_	_	Trad=cortaron
-2	nduk	_	NOUN	_	_	_	_	_	UPOS=Guessed
-3	daʼa	_	NOUN	_	_	_	_	_	UPOS=Guessed
+2	nduk	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,quién
+3	daʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,que
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -2282,9 +2282,9 @@
 # text[spa] = Tengo sueño.
 # alimg = Tengo sueño.
 # hash = 8a316070c58b7971abb8c57c63e4cb61
-# tagged = false
+# tagged = true
 # text[lit] = Quiero dormir
-1	Ne	_	_	_	_	_	_	_	_
+1	Ne	_	VERB	_	_	_	_	_	Trad=se.necesita|UPOS=Guessed
 2	kuyadu	_	VERB	_	_	_	_	_	Trad=dormir|Gloss=?-dormir-?
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3158,11 +3158,11 @@
 # text[spa] = Juan parece viejo.
 # alimg = Juan parece viejo.
 # hash = 0ef6f4ed1f86b665fbe575764a89bb9d
-# tagged = false
+# tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	a	a	PART	_	_	_	_	_	Gloss=QST
 3	niku	_	ADJ	_	_	_	_	_	Trad=viejo
-4	injobes	_	_	_	_	_	_	_	_
+4	injobes	_	VERB	_	_	_	_	_	Trad=se.ve|Gloss=?-verse-3SG.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:168
@@ -3228,8 +3228,8 @@
 # text[spa] = Está lloviendo.
 # alimg = Está lloviendo.
 # hash = a29a44b8b75fbd6b37d444bd0fb55652
-# tagged = false
-1	Jè	_	_	_	_	_	_	_	_
+# tagged = true
+1	Jè	_	VERB	_	_	_	_	_	Trad=huele
 2	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3239,8 +3239,8 @@
 # text[spa] = Va a llover.
 # alimg = Va a llover.
 # hash = 306f51a108261ae31d9d023e84b0c056
-# tagged = false
-1	Kuè	_	_	_	_	_	_	_	_
+# tagged = true
+1	Kuè	_	ADJ	_	_	_	_	_	Trad=flaco|UPOS=Guessed
 2	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3308,9 +3308,9 @@
 # text[spa] = Ahí venden muchas cosas.
 # alimg = Ahí venden muchas cosas.
 # hash = 5f756f79b625c21cd64633277ebfe9de
-# tagged = false
+# tagged = true
 1	Mi	_	ADV	_	_	_	_	_	Trad=ahí|UPOS=Guessed
-2	ndenó	_	_	_	_	_	_	_	_
+2	ndenó	_	NOUN	_	_	_	_	_	Trad=muchas.cosas|UPOS=Guessed
 3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3320,10 +3320,10 @@
 # text[spa] = Juan me llamó tonto.
 # alimg = Juan me llamó tonto.
 # hash = e4ad69f176faa3729ddb5a0eeefdce5c
-# tagged = false
+# tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	koʼos	_	_	_	_	_	_	_	_
-3	chis	_	_	_	_	_	_	_	_
+2	koʼos	_	VERB	_	_	_	_	_	Trad=dijo|Gloss=?-decir-3SG.MSC
+3	chis	_	VERB	_	_	_	_	_	Trad=vendrá|Gloss=?-venir-3SG.MSC
 4	tonto	_	ADJ	_	_	_	_	_	Trad=tonto
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -3619,16 +3619,16 @@
 # text[spa] = Ella me explicó el juego.
 # alimg = Ella me explicó el juego.
 # hash = c391d120bc719a654b16792048feb4c8
-# tagged = false
+# tagged = true
 # text[lit] = Ella me enseñó como se juega el trompo
 1	Taka	taka	ADV	_	_	_	_	_	Trad=cómo
 2	chikueta	_	VERB	_	_	_	_	_	Trad=enseñó
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	a	a	PART	_	_	_	_	_	Gloss=QST
 5	taka	taka	ADV	_	_	_	_	_	Trad=cómo
-6	jiduchiy	_	_	_	_	_	_	_	_
+6	jiduchiy	_	VERB	_	_	_	_	_	Trad=juegan|Gloss=?-jugar-3PL
 7	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
-8	jindeʼe	_	_	_	_	_	_	_	_
+8	jindeʼe	_	VERB	_	_	_	_	_	Trad=habla
 9	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204
@@ -3959,10 +3959,10 @@
 # text[spa] = Yo no sé hacer nada.
 # alimg = Yo no sé hacer nada.
 # hash = d5840ae70ca693023f8b60ed6341cb35
-# tagged = false
+# tagged = true
 # text[lit] = No puedo hacer nada
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	guadbea	_	_	_	_	_	_	_	_
+2	guadbea	_	PRON	_	_	_	_	_	Trad=nada|UPOS=Guessed
 3	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
 4	jidi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-?
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4267,10 +4267,10 @@
 # text[spa] = Me prometiste una manzana.
 # alimg = Me prometiste una manzana.
 # hash = 1efb5dc6563150591ab420170fb8e0ec
-# tagged = true
+# tagged = false
 # text[lit] = Me dijiste que traerias una fruta
 1	Koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
-2	chíd	_	VERB	_	_	_	_	_	_
+2	chíd	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,vendrás
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kanad	_	VERB	_	_	_	_	_	Trad=traerías|Gloss=?-traer-2SG
@@ -4284,10 +4284,10 @@
 # text[spa] = Me prometiste que me ibas a dar una manzana.
 # alimg = Me prometiste que me ibas a dar una manzana.
 # hash = bdfd34e7e989811da97ba8826df81f16
-# tagged = true
+# tagged = false
 # text[lit] = Me dijiste que traerias una fruta para que yo comiera
 1	Koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
-2	chíd	_	VERB	_	_	_	_	_	_
+2	chíd	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,vendrás
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kanad	_	VERB	_	_	_	_	_	Trad=traerías|Gloss=?-traer-2SG
@@ -4332,7 +4332,7 @@
 1	Nigua	_	_	_	_	_	_	_	Trad=no
 2	ni	_	ADV	_	_	_	_	_	Trad=hasta
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	ndos	_	_	_	_	_	_	_	_
+4	ndos	_	VERB	_	_	_	_	_	Trad=llegó
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:248
@@ -4965,9 +4965,9 @@
 # text[spa] = Por qué no fueron ustedes?
 # alimg = Por qué no fueron ustedes?
 # hash = dd35612b0a3b5dfa0b5659b5ce17f2e7
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	Takue	_	_	_	_	_	_	_	_
+2	Takue	_	SCONJ	_	_	_	_	_	Trad=porque
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 5	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
@@ -5412,7 +5412,7 @@
 # text[spa] = Compré la carreta para llevar la leña.
 # alimg = Compré la carreta para llevar la leña.
 # hash = c3f114cdaafb8b869663cb81fca10f70
-# tagged = false
+# tagged = true
 # text[lit] = Compre una mula para acarrear leña
 1	Ká	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -5421,7 +5421,7 @@
 5	tumin	_	SCONJ	_	_	_	_	_	Trad=para.que
 6	techkó	_	VERB	_	_	_	_	_	Trad=lleva
 7	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
-8	nukut	_	_	_	_	_	_	_	_
+8	nukut	_	NOUN	_	NounType=Relat	_	_	_	Trad=con.él
 9	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:556
@@ -5430,7 +5430,7 @@
 # text[spa] = Compré la carreta para que lleves la leña.
 # alimg = Compré la carreta para que lleves la leña.
 # hash = a694874c6fd230463a0ed0ff8130bbb3
-# tagged = false
+# tagged = true
 # text[lit] = Compre un burro para que acarres leña
 1	Ká	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -5438,7 +5438,7 @@
 4	tumin	_	SCONJ	_	_	_	_	_	Trad=para.que
 5	techkód	_	VERB	_	_	_	_	_	Trad=lleves
 6	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
-7	nukut	_	_	_	_	_	_	_	_
+7	nukut	_	NOUN	_	NounType=Relat	_	_	_	Trad=con.él
 8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:557
@@ -5466,7 +5466,7 @@
 2	koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
 3	tum	_	SCONJ	_	_	_	_	_	Trad=para.que
 4	nub	_	_	_	_	_	_	_	_
-5	kanid	_	_	_	_	_	_	_	_
+5	kanid	_	VERB	_	_	_	_	_	Trad=apúrate|Gloss=?-apurarse-2SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:560
@@ -5653,8 +5653,8 @@
 # text[spa] = No quiero nada
 # alimg = No quiero nada de eso.
 # hash = 4559920429028f73e181f4ba8e88ee97
-# tagged = false
-1	Guad	_	_	_	_	_	_	_	_
+# tagged = true
+1	Guad	_	X	_	_	_	_	_	Trad=no.estás|UPOS=Guessed
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
 3	neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -5665,12 +5665,12 @@
 # text[spa] = ¿Quiere algo de esto?
 # alimg = ¿Quiere algo de esto?
 # hash = bddb2afea199774e0991818931b4eded
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	neʼed	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quieres|Gloss=?-querer-2SG
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-5	dea	_	_	_	_	_	_	_	_
+5	dea	_	PRON	_	_	_	_	_	Trad=que|UPOS=Guessed
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 7	chu	_	PRON	_	_	_	_	_	Trad=este
 8	?	?	PUNCT	_	_	_	_	_	_
@@ -5798,7 +5798,7 @@
 1	Mniñu	_	ADV	_	_	_	_	_	Trad=ahora
 2	a	a	PART	_	_	_	_	_	Gloss=QST
 3	kutea	_	_	_	_	_	_	_	Trad=no.hay
-4	jinichiʼuu	_	_	_	_	_	_	_	_
+4	jinichiʼuu	_	VERB	_	_	_	_	_	Trad=conocemos
 5	it	_	NOUN	_	_	_	_	_	Trad=animal
 6	cheanu	_	VERB	_	_	_	_	_	Trad=corrió
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -5813,7 +5813,7 @@
 1	Nigua	_	_	_	_	_	_	_	Trad=no
 2	mniñu	_	ADV	_	_	_	_	_	Trad=ahora
 3	a	a	PART	_	_	_	_	_	Gloss=QST
-4	chis	_	_	_	_	_	_	_	_
+4	chis	_	VERB	_	_	_	_	_	Trad=vendrá|Gloss=?-venir-3SG.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:592
@@ -5849,10 +5849,10 @@
 # text[spa] = No, deme poco.
 # alimg = No, deme poco.
 # hash = 401342ed259a41afeab6ba94789c6632
-# tagged = false
+# tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	,	,	PUNCT	_	_	_	_	_	_
-3	lïn	_	_	_	_	_	_	_	_
+3	lïn	_	NOUN	_	_	_	_	_	Trad=poco|UPOS=Guessed
 4	ten	_	ADJ	_	_	_	_	_	Trad=menos|UPOS=Guessed
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_

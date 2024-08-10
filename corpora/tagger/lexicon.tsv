@@ -1,4 +1,4 @@
-GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1503	1489	1488
+GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1524	1510	1509
 _	a	a	ADV		ya				
 _	a	a	PART			QST			
 _	áa		VERB		resuena				
@@ -1501,27 +1501,27 @@ x	chinjíku		ADV		en el río
 x	chin		ADP		en				
 x	kunú		INTJ		sí				
 x	mi		ADV		ahí				
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
+_	nukut		NOUN	NounType=Relat	con él				
+_	chis		VERB		vendrá	?-venir-3SG.MSC			
+_	chíd		VERB		vendrás	?-venir-2SG			
+_	takue		SCONJ		porque				
+x	ne		VERB		se necesita				
+_	ndos		VERB		llegó				
+x	ndenó		NOUN		muchas cosas				
+x	lïn		NOUN		poco				
+x	kuè		ADJ		flaco				
+_	koʼos		VERB		dijo	?-decir-3SG.MSC			
+_	kanid		VERB		apúrate	?-apurarse-2SG			
+_	jinichiʼuu		VERB		conocemos				
+_	jindeʼe		VERB		habla				
+_	jiduchiy		VERB		juegan	?-jugar-3PL			
+_	jè		VERB		huele				
+_	injobes		VERB		se ve	?-verse-3SG.MSC			
+x	guadbea		PRON		nada				
+x	guad		X		no estás				
+x	dea		PRON		que				
+x	daʼa		PRON		que				
+x	nduk		PRON		quién				
 									
 									
 									
