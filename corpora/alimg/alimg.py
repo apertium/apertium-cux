@@ -143,12 +143,13 @@ for line in open(sys.argv[1]):
 		print('# sent_id = alimg:%s' % (sent_id))
 	print('# text = %s' % (cux))
 	print('# text[orig] = %s' % (orig_cux))
+	# Merge these somehow
 	print('# text[spa] = %s' % (spa))
+	if lit != '':
+		print('# text[lit] = %s' % (lit))
 	print('# alimg = %s' % (alimg_orig))
 	print('# hash = %s' % (hashlib.md5(alimg_orig.strip().encode('utf-8')).hexdigest()))
 	print('# tagged = %s' % (str(fully_tagged).lower()))
-	if lit != '':
-		print('# text[lit] = %s' % (lit))
 	if nota != '':
 		print('# note = %s' % (nota))
 
