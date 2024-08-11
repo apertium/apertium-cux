@@ -57,9 +57,9 @@ for line in open(sys.argv[1]):
 		print('[%s] WARNING: Non-standard characters in translation.' % (sent_id),file=sys.stderr)
 		continue
 
-	lit = row[2].strip()
+	nota = row[2].strip()
 	spa = row[4].strip()
-	nota = row[5].strip()
+	nota_orig = row[5].strip()
 	alimg_orig = row[6].strip()
 
 	if cux[-1] not in '.?!':
@@ -136,22 +136,21 @@ for line in open(sys.argv[1]):
 		n_tagged_sents += 1	
 		fully_tagged = True
 
-	if nota in 'abcdefghijklmnopqrstuvwxyz':
+	if nota_orig in 'abcdefghijklmnopqrstuvwxyz':
 		print('# sent_id = alimg:%s' % (sent_id + nota)) 
-		nota = ''
+		nota_orig = ''
 	else:
 		print('# sent_id = alimg:%s' % (sent_id))
 	print('# text = %s' % (cux))
 	print('# text[orig] = %s' % (orig_cux))
-	# Merge these somehow
 	print('# text[spa] = %s' % (spa))
-	if lit != '':
-		print('# text[lit] = %s' % (lit))
+	if nota != '':
+		print('# note[trad] = %s' % (nota))
+	if nota_orig != '':
+		print('# note[orig] = %s' % (nota_orig))
 	print('# alimg = %s' % (alimg_orig))
 	print('# hash = %s' % (hashlib.md5(alimg_orig.strip().encode('utf-8')).hexdigest()))
 	print('# tagged = %s' % (str(fully_tagged).lower()))
-	if nota != '':
-		print('# note = %s' % (nota))
 
 	for token_line in token_lines:
 		print(token_line)

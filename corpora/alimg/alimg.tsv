@@ -1,4 +1,4 @@
-ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGINAL	
+ID	PALABRA	NOTAS TRADUCTOR	ORACION EN CUICATECO	ORACION EN ESPAÑOL	NOTAS ORIGINAL	ESPAÑOL ORIGINAL	
 1.			Ba'a kun cheatea	Esta casa es grande.		Esta casa es grande.	
 			Ba'a kun gua cheatea	Esta casa no es grande.	a	Esta casa no es grande.	
 			Ba'a kun lï	Esta casa es chica.	b	Esta casa es chica.	
@@ -10,7 +10,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 			Ba'a kun kuea	Esta casa es blanca.	h	Esta casa es blanca.	
 			Ba'a kun gua kuea	Esta casa no es blanca.	i	Esta casa no es blanca.	
 2.			¿A taka ba'a mi?	¿Cómo es esa casa?		¿Cómo es esa casa?	
-3.		¿Es grande esa casa?	¿A cheatea ba'a mi?	¿Qué tan grande es esa casa?		¿Qué tan grande es esa casa?	
+3.			¿A cheatea ba'a mi?	¿Es grande esa casa?		¿Qué tan grande es esa casa?	
 4.			¿A já ba'a mi?	¿Es nueva esa casa?		¿Es nueva esa casa?	
 5.			Tika, já	Sí, es nueva.		Sí, es nueva.	
 			Jú, já	Sí, es nueva.		Sí, es nueva.	
@@ -77,19 +77,19 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 10.			Íyaan kuo'o	El chile es rojo.		El chile es rojo.	
 11.			Íyaam na kuo'o	Los chiles ya están rojos.		Los chiles ya están rojos.	
 12.			Íyaam nikua kuo'o	Los chiles todavía no están rojos.		Los chiles todavía no están rojos.	
-13.		Este árbol es grande 	Tio'ö kun cheatea	El árbol es grande.		El árbol es grande.	
-14.		Este árbol va a ser grande 	Tio'ö kun kub cheatea	El árbol va a ser grande.		El árbol va a ser grande.	
-15.		Este árbol ya es grande 	Tio'ö kun na cheatea	Ese árbol ya era grande	(cuando vinimos aquí).	Ese árbol ya era grande (cuando vinimos aquí).	
+13.			Tio'ö kun cheatea	Este árbol es grande 		El árbol es grande.	
+14.			Tio'ö kun kub cheatea	Este árbol va a ser grande 		El árbol va a ser grande.	
+15.			Tio'ö kun na cheatea	Este árbol ya es grande 	(cuando vinimos aquí).	Ese árbol ya era grande (cuando vinimos aquí).	
 16.			Tio'ö min na chi cheatea	Ese árbol se volvió grande.		Ese árbol se volvió grande.	
 17.				Los chiles se van a volver rojos.		Los chiles se van a volver rojos.	
 18.			Sï kun dama nuku ñe'ed	Este sombrero es igual al tuyo.		Este sombrero es igual al tuyo.	
 			Sï kun gua dama kunu ñe'ed 	Este sombrero no es igual al tuyo.		Este sombrero no es igual al tuyo.	
-19.		Estos sombreros no son iguales	Sï sen gua dama	Estos sombreros son diferentes.		Estos sombreros son diferentes.	
+19.			Sï sen gua dama	Estos sombreros no son iguales		Estos sombreros son diferentes.	
 20.			¿Dae color yada mi?	¿De qué color es esa falda?		¿De qué color es esa falda?	
 21.			Yada min kuea nuku kuä 	Esa falda es blanca y negra.		Esa falda es blanca y negra.	
 22.			¿yúduu ñe'ed a kuät o kueat?	¿Tu caballo es negro o blanco?		¿Tu caballo es negro o blanco?	
 23.				Mi caaballo no es niegro ni blanco, es bayo.		Mi caaballo no es niegro ni blanco, es bayo.	
-24.		¿está rico el caldo?	¿A nda je'é kantu*?	¿Cómo está la comida?		¿Cómo está la comida?	
+24.			¿A nda je'é kantu*?	¿Está rico el caldo?		¿Cómo está la comida?	
 25.			Inuu comida	La comida está caliente.		La comida está caliente.	
 			Icha comida	La comida está fría.		La comida está fría.	
 26.			yeabean icha nuni	El agua está muy fría.		El agua está muy fría.	
@@ -99,15 +99,15 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 			kutu min gua ñá	Esa olla no está sucia		Esa olla no está sucia	
 			kutu min deabea	Esa olla está limpia.		Esa olla está limpia.	
 			kutu min gua deabea	Esa olla no está limpia.		Esa olla no está limpia.	
-28.		ese pueblo está cerca de aquí 	Ñoo min nìnuu nuku mu'u	El pueblo está cerca de aquí.		El pueblo está cerca de aquí.	
-		Ese pueblo está lejos de aquí 	Ñoo min ña'a nuku mu'u 	El pueblo está lejos de aquí.		El pueblo está lejos de aquí.	
+28.			Ñoo min nìnuu nuku mu'u	Ese pueblo está cerca de aquí 		El pueblo está cerca de aquí.	
+			Ñoo min ña'a nuku mu'u 	Ese pueblo está lejos de aquí 		El pueblo está lejos de aquí.	
 29.			¿A ña'a ñoom?	¿Está lejos el pueblo?		¿Está lejos el pueblo?	
-30.		Juan está en Cuicatlán 	Fom kanes Jibaku 	Juan está ahora en Huamantla.		Juan está ahora en Huamantla.	
+30.			Fom kanes Jibaku 	Juan está en Cuicatlán 		Juan está ahora en Huamantla.	
 31.			¿A ti kane Fom mniñu?	¿Dónde está Juan ahora?		¿Dónde está Juan ahora?	
-32.		¿Esta en Cuicatlán?	¿A kanés Jibaku?	¿Ahora está en Huamantla?		¿Ahora está en Huamantla?	
+32.			¿A kanés Jibaku?	¿Está en Cuicatlán?		¿Ahora está en Huamantla?	
 33.				¿En Huamantla es donde está?		¿En Huamantla es donde está?	
-34.		¿Ayer estaba en Cuicatlán? (sujeto masculino)	¿A iku chi kenés Jibaku?	Ayer Juan estuvo en Huamantla?		Ayer Juan estuvo en Huamantla?	
-35.		¿A dónde fuiste ayer?	¿A ti che'èd* iku ?	¿Dónde estuvo Juan ayer?		¿Dónde estuvo Juan ayer?	
+34.		(sujeto masculino)	¿A iku chi kenés Jibaku?	¿Ayer estaba en Cuicatlán?		Ayer Juan estuvo en Huamantla?	
+35.			¿A ti che'èd* iku ?	¿A dónde fuiste ayer?		¿Dónde estuvo Juan ayer?	
 36.			¿A ti kane chidad?	¿Dónde está tu papá?		¿Dónde está tu papá?	
 37.			¿A kanu chidad ba'a?	¿Tu papá está en la casa?		¿Tu papá está en la casa?	
 			¿A gua kanu chidad ba'a?	¿Tu papá no está en la casa?		¿Tu papá no está en la casa?	
@@ -117,7 +117,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 40.			Chidan kanuñ bö jingö	Mi papá está en la milpa.		Mi papá está en la milpa.	
 			Chida kaneñ no n'iba 	Mi papá está en el mercado.		Mi papá está en el mercado.	
 			Chida kue'eñ chin jíku	Mi papá está en el río.		Mi papá está en el río.	
-41.		Mi papá está con su compadre	Chidan kaneñ nuku kambo ñe'eñ	Mi papá está con Don Manuel.		Mi papá está con Don Manuel.	
+41.			Chidan kaneñ nuku kambo ñe'eñ	Mi papá está con su compadre		Mi papá está con Don Manuel.	
 42.			¿Nuku du'u kane chidad?	¿Con quién está tu papá?		¿Con quién está tu papá?	
 43.			¿A kanú chidad?	¿Está tu papá?	(dicho fuera de la casa)	¿Está tu papá? (dicho fuera de la casa)	
 44.			¿A ti kane kutum?	¿Dónde está la olla?		¿Dónde está la olla?	
@@ -126,7 +126,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 			Machetem kane nioo	El machete está en el suelo.		El machete está en el suelo.	
 			Kutum kane ku ko'o ba'a mi	La olla está en ese rincón.		La olla está en ese rincón.	
 			Machetem kane ku ko'o ba'a mi	El machete está en ese rincón.		El machete está en ese rincón.	
-46.		La olla está con el comal	Kutum kane nuku chéam 	La olla está junto al comal.		La olla está junto al comal.	
+46.			Kutum kane nuku chéam 	La olla está con el comal		La olla está junto al comal.	
 47.			¿A ti kane yanam	¿Dónde está el perro?		¿Dónde está el perro?	
 48.			Kane kuch ba'a	Está fuera de la casa.		Está fuera de la casa.	
 			Kane chete ba'a	Está dentro de la casa.		Está dentro de la casa.	
@@ -134,15 +134,15 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 			¿A ti kane n'íba?	¿Dónde está el mercado?		¿Dónde está el mercado?	
 			¿A ti kane bakud?	¿Dónde está tu casa?		¿Dónde está tu casa?	
 50.			Yáku kane nano ba'a mi	La iglesia está enfrente de aquella casa.		La iglesia está enfrente de aquella casa.	
-51.		Por allá está la iglesia 	Ku laka kane yáku	La iglesia está más adelante.		La iglesia está más adelante.	
+51.			Ku laka kane yáku	Por allá está la iglesia 		La iglesia está más adelante.	
 52.			¿A ti kane 	¿Dónde está el corral de las chivas?		¿Dónde está el corral de las chivas?	
 53.				El corral de las chivas está atrás de la casa.		El corral de las chivas está atrás de la casa.	
 				El corral está adelante de la casa.		El corral está adelante de la casa.	
 				El coral está junto a la casa.		El coral está junto a la casa.	
 54.				La ropa está en el baúl.		La ropa está en el baúl.	
-55.		Ya puse los frijoles (ya los puso a cocer)	Na chinu núnim ni'ö	Los frijoles están en la olla.		Los frijoles están en la olla.	
-56.		Ese pájaro está en ese árbol 	Yada kon kanut no ti'ö ko	El pájaro está en ese árbol		El pájaro está en ese árbol	
-57.		Me pican los mosquitos 	Jo'ó yàaku ú	La mosca está en la pared.		La mosca está en la pared.	
+55.		(ya los puso a cocer)	Na chinu núnim ni'ö	Ya puse los frijoles.		Los frijoles están en la olla.	
+56.			Yada kon kanut no ti'ö ko	Ese pájaro está en ese árbol 		El pájaro está en ese árbol	
+57.			Jo'ó yàaku ú	Me pican los mosquitos 		La mosca está en la pared.	
 58.				Los perros están alrededor de la lumbre.		Los perros están alrededor de la lumbre.	
 59.			¿A tabea yana bea ñe'ed?	¿Cuántos perros tienes?		¿Cuántos perros tienes?	
 60.			Un bea ama yana ñe'ë	Tengo un perro.		Tengo un perro.	
@@ -165,7 +165,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 			Insú bea obe yana ñe'en	Tenemos dos perros.	(inclusivo)	Tenemos dos perros. (inclusivo)	
 			Insë bea obe yana ñe'en	Ustedes tienen dos perros.		Ustedes tienen dos perros.	
 			Iñsé bea obe yana ñe'eñ	Ellos tienen dos perros.		Ellos tienen dos perros.	
-61.		Cuanto estaba mi caballo (ñe'e indica posición, se puede decir que estaba es igual a tener)	Tochi kane yuudum ñe'e	Tenía un caballo	(pero lo vendí).	Tenía un caballo (pero lo vendí).	
+61.		 (ñe'e indica posición, se puede decir que estaba es igual a tener)	Tochi kane yuudum ñe'e	Cuanto estaba mi caballo	(pero lo vendí).	Tenía un caballo (pero lo vendí).	
 62.			Noyo* chi kuchi kua ama yúduu	El año que viene voy a tener un caballo.		El año que viene voy a tener un caballo.	
 63.			Gua yana ñe'ë	No tengo perro.		No tengo perro.	
 64.			Gua ni ama kadi ñe'ë	No tengo ninguna moneda.		No tengo ninguna moneda.	
@@ -177,22 +177,22 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 70.			Bea nduk* da'a yana	Los perros tienen cola.		Los perros tienen cola.	
 71.			¿A bea nduk da'a yana?	¿Tienen cola los perros?		¿Tienen cola los perros?	
 72.				¿Acaso no tienen cola los perros?		¿Acaso no tienen cola los perros?	
-73.		Le cortaron la cola a mi perro	Chíy nduk da'a yana ñe'ë	Mi perro no tiene cola.		Mi perro no tiene cola.	
+73.			Chíy nduk da'a yana ñe'ë	Le cortaron la cola a mi perro		Mi perro no tiene cola.	
 74.			Gua chimba'a ba'a ko	Esa casa no tiene puerta.		Esa casa no tiene puerta.	
-75.		Ya no tiene mucho cabello	Kutea* duytï Fo	Juan tiene poco pelo.		Juan tiene poco pelo.	
+75.			Kutea* duytï Fo	Ya no tiene mucho cabello		Juan tiene poco pelo.	
 			Yeabean ndee duytï Fo	Juan tiene mucho pelo.		Juan tiene mucho pelo.	
 76.			¿A taka duytï Fo?	¿Cómo es el pelo de Juan?		¿Cómo es el pelo de Juan?	
 77.			Yudtï Fo kuä	El pelo de Juan es negro.		El pelo de Juan es negro.	
 78.			Ndá machete chi tubnéd ú	Tengo el machete que me prestaste.		Tengo el machete que me prestaste.	
-79.		traducción literal: está aún el machete que me diste para mi	Kane ka machete chi ted ñe'ë	Todavía tengo el machete que me regalaste.		Todavía tengo el machete que me regalaste.	
+79.		Está aún el machete que me diste para mi.	Kane ka machete chi ted ñe'ë	Todavía tengo el machete que me regalaste.		Todavía tengo el machete que me regalaste.	
 80.			No ba'a kane ama machete chi gua ñe'ë	En casa tengo un machete que no es mío.		En casa tengo un machete que no es mío.	
-81.		Se pintó en mi ropa	Cheá tika 	Esta camisa tiene manchas.		Esta camisa tiene manchas.	
+81.			Cheá tika 	Se pintó en mi ropa		Esta camisa tiene manchas.	
 				Este perro tiene manchas.		Este perro tiene manchas.	
-82.		No le echaste sal a la comida 	Gua chid jima ñe'e komida	La comida tiene sal.		La comida tiene sal.	
-		¿Le echaste sal a la comida?	¿A chid jima ñe'e kantu?	La comida no tiene sal.		La comida no tiene sal.	
-83.			Díni comida	La comida está salada.		La comida está salada.	
-84.		Esta picante la comida	Yaduu sopa	La sopa tiene chile.		La sopa tiene chile.	
-85.		Hay agua en la olla	Snú nuni kutu	La olla tiene agua.		La olla tiene agua.	
+82.			Gua chid jima ñe'e komida	La comida tiene sal.		La comida tiene sal.	
+			¿A chid jima ñe'e kantu?	No le echaste sal a la comida 		La comida no tiene sal.	
+83.			Díni comida	¿Le echaste sal a la comida?		La comida está salada.	
+84.			Yaduu sopa	Esta picante la comida		La sopa tiene chile.	
+85.			Snú nuni kutu	Hay agua en la olla		La olla tiene agua.	
 			Gua snú nuni kutu	La olla no tiene agua.		La olla no tiene agua.	
 86.				¿Dónde tiene Juan el mecate?		¿Dónde tiene Juan el mecate?	
 87.				Juan tiene el mecate en la mano.		Juan tiene el mecate en la mano.	
@@ -209,20 +209,20 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 97.			Nujinu	Tengo prisa.		Tengo prisa.	
 98.			Kuiku	Tengo hambre.		Tengo hambre.	
 			Yàka	Tengo sed.		Tengo sed.	
-		Quiero dormir	Ne kuyadu	Tengo sueño.		Tengo sueño.	
+			Ne kuyadu	Quiero dormir		Tengo sueño.	
 			Dànti	Tengo flojera.		Tengo flojera.	
 99.			Bea ntiñu ñe'ë	Tengo trabajo.		Tengo trabajo.	
 100.			Kuenó	Tengo pena.		Tengo pena.	
-101.		No tengas pena	Gua kuenód	Soy penoso.		Soy penoso.	
+101.			Gua kuenód	No tengas pena		Soy penoso.	
 102.			Snú núni no kutum	En la olla hay frijoles.		En la olla hay frijoles.	
 			Snú nuni no kutum	En la olla hay agua.		En la olla hay agua.	
 			Kutea núni no kutum	En la olla no hay frijoles.		En la olla no hay frijoles.	
 			Kutea nuni no kutum	En la olla no hay agua.		En la olla no hay agua.	
 103.			¿A snú núni no kutum?	¿Hay frijoles en la olla?		¿Hay frijoles en la olla?	
 104.			¿A kutea núni no kutum?	¿No hay frijoles en la olla?		¿No hay frijoles en la olla?	
-105.		Todavía hay	Beaka	Si hay.		Si hay.	
-106.		No, ya no hay	Gua, kutea	No, no hay.		No, no hay.	
-107.		¿Hay venados en el campo?	¿A bea itcheanu kuete?	¿En el monte no hay venados?		¿En el monte no hay venados?	
+105.			Beaka	Todavía hay		Si hay.	
+106.			Gua, kutea	No, ya no hay		No, no hay.	
+107.			¿A bea itcheanu kuete?	¿Hay venados en el campo?		¿En el monte no hay venados?	
 108.			No ba'a bea iña	En la casa hay gente.		En la casa hay gente.	
 			No ba'a gua iña	En la casa no hay gente.		En la casa no hay gente.	
 109.				En la casa no había gente.		En la casa no había gente.	
@@ -258,7 +258,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 			Kuetíchi kon gua ñe'ed	Esa canasta no es tuya.		Esa canasta no es tuya.	
 			Kuetíchi kon gua ñe'es	Esa canasta no es de él.		Esa canasta no es de él.	
 			Kuetíchi kon gua ñe'en	Esa canasta no es nuestra.	(exclusivo)	Esa canasta no es nuestra. (exclusivo)	
-		Esta canasta no es nuestra.	Kuetíchi kun gua ñe'en	Esa canasta no es nuestra.	(inclusivo)	Esa canasta no es nuestra. (inclusivo)	
+			Kuetíchi kun gua ñe'en	Esta canasta no es nuestra.	(inclusivo)	Esa canasta no es nuestra. (inclusivo)	
 			Kuetíchi kon gua ñe'ën	Esa canasta no es de ustedes		Esa canasta no es de ustedes	
 			Kuetíchi kon ñe'en	Esa canasta es nuestra.	(exclusivo)	Esa canasta es nuestra. (exclusivo)	
 				Esa canasta es nuestra	(inclusivo)	Esa canasta es nuestra (inclusivo)	
@@ -273,7 +273,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 			¿A gua ñe'ed kuetíchi ko?	¿No es tuya esa canasta?		¿No es tuya esa canasta?	
 135.				¿Esa canasta es la tuya?		¿Esa canasta es la tuya?	
 136.			Chu yuni	Este es el camino	(que va al pueblo)	Este es el camino (que va al pueblo)	
-137.		Juan es de la Mixteca	Juó ñe'e Jidiba so'ö	Juan es de Huamantla.		Juan es de Huamantla.	
+137.			Juó ñe'e Jidiba so'ö	Juan es de la Mixteca		Juan es de Huamantla.	
 138.			¿Ñe'e ti Juó?	¿De dónde es Juan?		¿De dónde es Juan?	
 139.			¿Ñe'e ti dí?	¿De dónde eres?		¿De dónde eres?	
 140.				¿Quién es de Huamantla?		¿Quién es de Huamantla?	
@@ -289,8 +289,8 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 150.			Ú ndata ú	Yo soy mujer.		Yo soy mujer.	
 151.			¿Dae comida cho?	¿Qué es esa comida?		¿Qué es esa comida?	
 152.			Comida kun yuta kuchi	Esta comida es carne de puerco.		Esta comida es carne de puerco.	
-153.		Yo soy joven	Ún yunu	Yo soy el más joven.		Yo soy el más joven.	
-		Yo ya no soy joven	Ún kutea yunu	Yo no soy el más joven.		Yo no soy el más joven.	
+153.			Ún yunu	Yo soy joven		Yo soy el más joven.	
+			Ún kutea yunu	Yo ya no soy joven		Yo no soy el más joven.	
 154.				El que está sentado es Juan.	(hombre) 	El (hombre) que está sentado es Juan. 	
 155.			Juó beajukus	Juan es el que está sentado.	(Contestación a:  ¿Cuál es Juan?)	Juan es el que está sentado. (Contestación a: ¿Cuál es Juan?)	
 156.				Juan es el que está sentado.	(Contestación a:  ¿Pedro es el que está sentado?)	Juan es el que está sentado. (Contestación a: ¿Pedro es el que está sentado?)	
@@ -303,7 +303,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 162.				El año que viene mi hijo ya va a ser hombre.		El año que viene mi hijo ya va a ser hombre.	
 163.				Juana se parece a María.		Juana se parece a María.	
 164.			Ta juana ninubita chakuta 	Juana se parece a su madre.		Juana se parece a su madre.	
-165.		Su hijo se parece a usted	Yadan ninubis intï	Usted y su hijo se parecen mucho.		Usted y su hijo se parecen mucho.	
+165.			Yadan ninubis intï	Su hijo se parece a usted		Usted y su hijo se parecen mucho.	
 166.			Juó a niku injobes	Juan parece viejo.		Juan parece viejo.	
 167.				Juan parece maestro.		Juan parece maestro.	
 168.			¿A taka jobed?	¿Cómo te llamas?		¿Cómo te llamas?	
@@ -316,7 +316,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 172.			Kuè kubi 	Va a llover.		Va a llover.	
 173.			¿Nuku dae jidiñ yuntu?	¿Con qué se hacen las tortillas?		¿Con qué se hacen las tortillas?	
 174.			Nuku beayee jidiñ yuntu	Las tortillas se hacen con nixtamal.		Las tortillas se hacen con nixtamal.	
-175.		¿Cómo puedo ir a tu pueblo?	¿A taka kadi ko'ö ñoo bakud?	¿Cómo se va a tu pueblo?		¿Cómo se va a tu pueblo?	
+175.			¿A taka kadi ko'ö ñoo bakud?	¿Cómo puedo ir a tu pueblo?		¿Cómo se va a tu pueblo?	
 176.			¿A ti jinukuy chiadi?	¿Dónde venden azucar?		¿Dónde venden azucar?	
 177.			Mi ndenó jinikuy	Ahí venden muchas cosas.		Ahí venden muchas cosas.	
 178.				Nombraron a Juan presidente municipal.		Nombraron a Juan presidente municipal.	
@@ -331,7 +331,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 181.			Gua kayadus/ gua kayaduta	No está durmiendo.		No está durmiendo.	
 182.			Lï jiyaduy	Duerme poco.		Duerme poco.	
 				Duerme mucho.		Duerme mucho.	
-183.		De día yo duermo	Jiyadu jobe	Duerme de día.		Duerme de día.	
+183.			Jiyadu jobe	De día yo duermo		Duerme de día.	
 			Yeabean jiyadus chi jobe	Duerme mucho de día.		Duerme mucho de día.	
 			Yeabean jiyadus chi màà	Duerme mucho de noche.		Duerme mucho de noche.	
 			Gua jiyadus chi jobe	No duerme de día.		No duerme de día.	
@@ -373,7 +373,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 				Ellos siempre nos piden tortillas a nosotros	(inclusivo)	Ellos siempre nos piden tortillas a nosotros (inclusivo)	
 				Ellos siempre les piden tortillas a ustedes.		Ellos siempre les piden tortillas a ustedes.	
 				Ellos siempre les piden tortillas a Juan y Pedro.		Ellos siempre les piden tortillas a Juan y Pedro.	
-193.		Ella me pidió tortillas para que comiera su mamá 	Tako chikata yuntu ú chi che'e chakuta	Ella me pidió tortilas para su madre.		Ella me pidió tortilas para su madre.	
+193.			Tako chikata yuntu ú chi che'e chakuta	Ella me pidió tortillas para que comiera su mamá 		Ella me pidió tortilas para su madre.	
 194.			¿A chikata yuntu dí?	¿Ella te pidió tortillas?		¿Ella te pidió tortillas?	
 195.			Jù, chikata yuntu ú	Sí ella me pidió tortillas.		Sí ella me pidió tortillas.	
 196.			¿A du'u chika yuntu dí?	¿Quién te pidió tortillas?		¿Quién te pidió tortillas?	
@@ -382,8 +382,8 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 199.			Nokuó jikata yuntu ú	Ella a veces me pide tortillas.		Ella a veces me pide tortillas.	
 200.				Ella nunca me pide tortillas.		Ella nunca me pide tortillas.	
 201.				Ella nunca me pidió tortillas.		Ella nunca me pidió tortillas.	
-202.		Ella me enseñó	Takó chikueta ú	Ella me enseñó esta canción.		Ella me enseñó esta canción.	
-203.		Ella me enseñó como se juega el trompo	Taka chikueta ú a taka jiduchiy ño'o jinde'e	Ella me explicó el juego.		Ella me explicó el juego.	
+202.			Takó chikueta ú	Ella me enseñó		Ella me enseñó esta canción.	
+203.			Taka chikueta ú a taka jiduchiy ño'o jinde'e	Ella me enseñó como se juega el trompo		Ella me explicó el juego.	
 204.			Nichi dí iku	Te vi ayer en el mercado.		Te vi ayer en el mercado.	
 		sujeto masculino 	Nichi so'ö iku n'iba	Lo vi ayer en el mercado.		Lo vi ayer en el mercado.	
 			Nichi insë iku no n'iba 	Los vi a ustedes ayer en el mercado.		Los vi a ustedes ayer en el mercado.	
@@ -416,17 +416,17 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 206.			¿A nichi ú iku n'iba?	¿Me viste ayer en el mercado?		¿Me viste ayer en el mercado?	
 207.			¿A du'u nichid iku n'iba?	¿A quién viste ayer en el mercado?		¿A quién viste ayer en el mercado?	
 208.			¿A dae nochid iku n'iba?	¿Qué viste ayer en el mercado?		¿Qué viste ayer en el mercado?	
-209.		¿Dónde me viste?	¿A ti nichid ú?	¿Dónde me viste?		¿Dónde y cuando me viste?	
-210.		Compraré un sombrero para ella 	Kuá ama snï ñe'es	Me pidió que le comprara un sombrero.	(para él)	Me pidió que le comprara un sombrero. (para él)	
-211.		Compraré un sombrero para su papá 	Kuá ama snï ñe'e chidata	Me pidió que le comprara un sombrero para su padre.		Me pidió que le comprara un sombrero para su padre.	
-212.		Te prfeno qué fueras a Cuicatlán 	Nès dí chi ko'öd Jibaku	El ordenó que fueras a Huamantla.		El ordenó que fueras a Huamantla.	
+209.			¿A ti nichid ú?	¿Dónde me viste?		¿Dónde y cuando me viste?	
+210.			Kuá ama snï ñe'es	Compraré un sombrero para ella 	(para él)	Me pidió que le comprara un sombrero. (para él)	
+211.			Kuá ama snï ñe'e chidata	Compraré un sombrero para su papá 		Me pidió que le comprara un sombrero para su padre.	
+212.			Nès dí chi ko'öd Jibaku	Te ordenó qué fueras a Cuicatlán 		El ordenó que fueras a Huamantla.	
 213.			Nèta dí chi ko'öd Jibaku	El te ordenó ir a Huamantla.		El te ordenó ir a Huamantla.	
 214.			Chineta damid chi dí dukud chi ñe'eta	Ella te acusó de haberle robado.		Ella te acusó de haberle robado.	
-215.		¿Qué puedes hacer?	¿Dae jikadi jidid?	¿Qué sabes hacer?		¿Qué sabes hacer?	
-216.		No puedo hacer nada	Un guadbea jikadi jidi	Yo no sé hacer nada.		Yo no sé hacer nada.	
-217.		No sé 	Gua deanu	Yo no sé nada.		Yo no sé nada.	
+215.			¿Dae jikadi jidid?	¿Qué puedes hacer?		¿Qué sabes hacer?	
+216.			Un guadbea jikadi jidi	No puedo hacer nada		Yo no sé hacer nada.	
+217.			Gua deanu	No sé 		Yo no sé nada.	
 218.				¿Sabes nadar?		¿Sabes nadar?	
-219.		Juan solo habla español	Juó dimo beade jines 	Juan sólo sabe hablar español.		Juan sólo sabe hablar español.	
+219.			Juó dimo beade jines 	Juan sólo habla español		Juan sólo sabe hablar español.	
 220.			¿A jined beade?	¿Sabes español?		¿Sabes español?	
 221.			Jiné beade	Sé español.		Sé español.	
 222.				Yo no sé nadar.		Yo no sé nadar.	
@@ -434,7 +434,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 224.			¿A taka chikadinud chi a ndo?	¿Cómo supiste que yo había llegado?		¿Cómo supiste que yo había llegado?	
 225.		tl:te doy para que sepas, pero hace referencia a la frase	Jite chi kadinud	Te lo digo para que lo sepas.		Te lo digo para que lo sepas.	
 226.			¿A chèd beade?	¿Aprendiste español?		¿Aprendiste español?	
-227.		Mi abuela me enseñó a hacer tortillas	Chiku'u chikueñ ú a taka ika yuntu **	Mi abuela me enseñó a cantar.		Mi abuela me enseñó a cantar.	
+227.			Chiku'u chikueñ ú a taka ika yuntu **	Mi abuela me enseñó a hacer tortillas		Mi abuela me enseñó a cantar.	
 			Chiku'u gua chikueñ ú c	Mi abuela no me enseñó a cantar.		Mi abuela no me enseñó a cantar.	
 228.				Mi padre me enseñó a no robar.		Mi padre me enseñó a no robar.	
 229.			Kakued ú yuni	¡Enséñame el camino!		¡Enséñame el camino!	
@@ -450,14 +450,14 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 239.			Gua ne'ë chi kuned dimod mu'u	No quiero que te quedes solo aquí.		No quiero que te quedes solo aquí.	
 240.			Juó ne'es chi kune bakus	Juan quería que me quedara en su casa.		Juan quería que me quedara en su casa.	
 241.			Juó gua ne'es chi kune	Juan no quería que yo me quedara.		Juan no quería que yo me quedara.	
-242.		Me dijiste que traerias una fruta 	Ko'öd chíd ú chi kanad ama bí'i 	Me prometiste una manzana.		Me prometiste una manzana.	
-243.		Me dijiste que traerias una fruta para que yo comiera	Ko'öd chíd ú chi kanad ama bí'i che'e 	Me prometiste que me ibas a dar una manzana.		Me prometiste que me ibas a dar una manzana.	
+242.			Ko'öd chíd ú chi kanad ama bí'i 	Me dijiste que traerias una fruta 		Me prometiste una manzana.	
+243.			Ko'öd chíd ú chi kanad ama bí'i che'e 	Me dijiste que traerias una fruta para que yo comiera		Me prometiste que me ibas a dar una manzana.	
 244.				Me prometiste llevarme a Huamantla.		Me prometiste llevarme a Huamantla.	
 245.			¿A jitenud Ndios?	¿Crees en Dios?		¿Crees en Dios?	
 246.			Nigua kue'es nuku Juó	Creo que él se fue con Juan.		Creo que él se fue con Juan.	
 247.			Nigua ni gua ndos	Dudo que venga Juan.		Dudo que venga Juan.	
 				No dudo que venga Juan.		No dudo que venga Juan.	
-248.		No le creo	Gua jitenu ñe'es	Dudo de su promesa.		Dudo de su promesa.	
+248.			Gua jitenu ñe'es	No le creo		Dudo de su promesa.	
 249.				No creo en su promesa.		No creo en su promesa.	
 250.				No creo lo que me dijo.		No creo lo que me dijo.	
 251.				No sé quién viene.		No sé quién viene.	
@@ -476,7 +476,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 264.			Chimjinu chi a taka jobed	Me olvidé de tu nombre.		Me olvidé de tu nombre.	
 265.			¿Dae chimjinud?	¿Qué olvidaste?		¿Qué olvidaste?	
 266.				¿De qué te olvidaste?		¿De qué te olvidaste?	
-267.		Vuela muy alto ese pájaro 	Yeabean jinuku yaku yada ko	Ese pájaro puede volar mucho.		Ese pájaro puede volar mucho.	
+267.			Yeabean jinuku yaku yada ko	Vuela muy alto ese pájaro 		Ese pájaro puede volar mucho.	
 268.			Yada kon gua jikadi jinuku yakut	Ese pájaro  no puede volar.		Ese pájaro no puede volar.	
 269.			Gua jikadi jea ti'ö	No puedo subirme al árbol.		No puedo subirme al árbol.	
 270.			Gua chikadi chindoo ba'am ti nudi chimba'am****	No pude entrar en la casa porque la puerta estaba cerrada.		No pude entrar en la casa porque la puerta estaba cerrada.	
@@ -484,7 +484,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 272.			Jikadi jidijù per gua lápiz ño'ö	Sé escribir, pero no puedo porque no tengo lápiz.		Sé escribir, pero no puedo porque no tengo lápiz.	
 273.			Ne'ë kó ti'ö ko, per gua jikadi geá	Quiero subirme a ese árbol pero no puedo.		Quiero subirme a ese árbol pero no puedo.	
 274.			Kadi kó ti'ö ko, per gua ne'e	Puedo subirme a ese árbol, pero no quiero.		Puedo subirme a ese árbol, pero no quiero.	
-275.		Es necesario que vaya a trabajar 	Ne'e chi ko'ö di ntiñu 	Tengo que trabajar.		Tengo que trabajar.	
+275.			Ne'e chi ko'ö di ntiñu 	Es necesario que vaya a trabajar 		Tengo que trabajar.	
 276.			Iku yeaben dí ntiñu	Ayer tuve que trabajar mucho.		Ayer tuve que trabajar mucho.	
 277.			Ne'e chi ko'öd did ntiñu	Tienes que trabajar.		Tienes que trabajar.	
 278.			Ne'e chi ko'ö kakiö jideaku	Hay que quemar la basura.		Hay que quemar la basura.	
@@ -495,7 +495,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 			Gua eanu comida ku	No me gusta esta comida.		No me gusta esa comida.	
 283.			Nangakud neachead ba'a	Acuérdate de barrer la casa.		Acuérdate de barrer la casa.	
 284.		sujeto masculino 	Tumgo'os dae ne'e	Me preguntó qué quería yo.		Me preguntó qué quería yo.	
-285.		Extraño a mi familia.	Jinangaku íñ ñe'e	Extraño a mi familia.		Siempre pienso en mi familia.	
+285.			Jinangaku íñ ñe'e	Extraño a mi familia.		Siempre pienso en mi familia.	
 286.				Mañana pienso salir temprano.		Mañana pienso salir temprano.	
 287.			Gua deanu chea ne'eta	No sé cuál quere.		No sé cuál quere.	
 288.				Acostumbro levantarme temprano.		Acostumbro levantarme temprano.	
@@ -504,7 +504,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 291.			Jobku kutoko'o kùchi 	Hoy empiezo a sembrar.		Hoy empiezo a sembrar.	
 292.			Iku chitoko'o chichí	Ayer empecé a sembrar.		Ayer empecé a sembrar.	
 293.			kabiö kutoko'o kùchi	Mañana voy a empezar a sembrar.		Mañana voy a empezar a sembrar.	
-294.		Hoy empieza la fiesta.	Jobku kutoko'o biku	Hoy empieza la fiesta.		Hoy empieza la fiesta en el pueblo.	
+294.			Jobku kutoko'o biku	Hoy empieza la fiesta.		Hoy empieza la fiesta en el pueblo.	
 295.			Jobku kuin kùchi	Hoy acabo de sembrar.		Hoy acabo de sembrar.	
 296.			Iku chinu chichí	Ayer acabé de sembrar.		Ayer acabé de sembrar.	
 297.			Kabiö kuin kùchi	Mañana voy a acabar de sembrar.		Mañana voy a acabar de sembrar.	
@@ -512,12 +512,12 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 299.			Iku chichí ka	Ayer seguí sembrando.		Ayer seguí sembrando.	
 300.				¡Siga el camino!		¡Siga el camino!	
 301.			Che'ë nichi so'ö no bakus	Fui a verlo a su casa.		Fui a verlo a su casa.	
-302.		¿Has ido alguna vez a México?	¿A ne'éd ama née Jiguyum?	¿Has ido alguna vez a México?		¿Has ido alguna vez a Huamantla?	
+302.			¿A ne'éd ama née Jiguyum?	¿Has ido alguna vez a México?		¿Has ido alguna vez a Huamantla?	
 303.			¿Takue chi gua che'ë insé?	Por qué no fueron ustedes?		Por qué no fueron ustedes?	
 304.			Job jobe jichis ñe'e yuduu	Viene todos los días por los caballos.		Viene todos los días por los caballos.	
-305.		Súbete a cortar ese aguacate.	Kód tumad naídii	Súbete a cortar ese aguacate.		Súbete a bajar ese aguacate.	
+305.			Kód tumad naídii	Súbete a cortar ese aguacate.		Súbete a bajar ese aguacate.	
 306.			Kuchid kuned ú	Ven a ayudarme.		Ven a ayudarme.	
-307.		Ven a ayudarme a atrapar al burro.	Kuchid kuned ú chi kuto'uu burru	Ven a ayudarme a atrapar al burro.		Ven a ayudarme a cargar el burro.	
+307.			Kuchid kuned ú chi kuto'uu burru	Ven a ayudarme a atrapar al burro.		Ven a ayudarme a cargar el burro.	
 308.			Dayan kaneñ kunenoñ ba'am	Mis hijos se quedaron a cuidar la casa.		Mis hijos se quedaron a cuidar la casa.	
 309.				¡Baja a recogerlo!		¡Baja a recogerlo!	
 310.				Salió de la casa a saludarme.		Salió de la casa a saludarme.	
@@ -732,7 +732,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 500.				Encontré el machete donde lo dejaste.		Encontré el machete donde lo dejaste.	
 501.				Vine en camión desde donde nos separamos.		Vine en camión desde donde nos separamos.	
 502.			!Ted botella chi snú nuni ú!	¡Dame la botella que tiene agua!		¡Dame la botella que tiene agua!	
-503.		¡Dame una botella de agua!	¡Ted ama botella ñe'e nuni ú!	¡Dame una botella de agua!		¡Dame una botella que tenga agua!	
+503.			¡Ted ama botella ñe'e nuni ú!	¡Dame una botella de agua!		¡Dame una botella que tenga agua!	
 504.			¡Ted kaja nochi jinabad kerillo ú!	¡Dame la caja donde guardas los cerillos!		¡Dame la caja donde guardas los cerillos!	
 505.			¡Ted gikuu nuku chi íkad yuta ú!	¡Dame el cuchillo con que cortas la carne!		¡Dame el cuchillo con que cortas la carne!	
 506.			Gua jinichí chë nuku chi ndod 	No conozco al señor con el que viniste.		No conozco al señor con el que viniste.	
@@ -809,15 +809,15 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 552.				¡Hagan una señal cada dos árboles!		¡Hagan una señal cada dos árboles!	
 553.			Juóm kuno'os tum gua nichid so'ö	Juan se fue para que no lo vieras.		Juan se fue para que no lo vieras.	
 554.			Ndó Juó tum nichid so'ö	Juan vino para que lo vieras.		Juan vino para que lo vieras.	
-555.		Compre una mula para acarrear leña	Ká ama it dítuu tumin techkó no'o nukut	Compré la carreta para llevar la leña.		Compré la carreta para llevar la leña.	
-556.		Compre un burro para que acarres leña	Ká ama burru tumin techkód no'o nukut	Compré la carreta para que lleves la leña.		Compré la carreta para que lleves la leña.	
+555.			Ká ama it dítuu tumin techkó no'o nukut	Compre una mula para acarrear leña		Compré la carreta para llevar la leña.	
+556.			Ká ama burru tumin techkód no'o nukut	Compre un burro para que acarrees leña		Compré la carreta para que lleves la leña.	
 557.			Ko'ö a ndar gea kubi	Voy a ir aunque está lloviendo.		Voy a ir aunque está lloviendo.	
 558.				Voy a ir aunque llueva.		Voy a ir aunque llueva.	
 559.			Nichi ko'öd tum nub kanid	Si vas a ir apúrate.		Si vas a ir apúrate.	
 560.			Nichi nichi so'ö tum kaka machetem so'ö	Si lo veo le pido el machete.		Si lo veo le pido el machete.	
 561.				Si lo viera le pediría el machete.		Si lo viera le pediría el machete.	
 562.			Nichi nichi so'ön tumin chika machetem so'ö	Si lo hubera visto le habría pedido el machete.		Si lo hubera visto le habría pedido el machete.	
-563.		Creo que me voy a ir porque no estoy trabajando 	Nigua no'ö ti gua jidí ntiñu 	Me voy porque no estoy trabajando.		Me voy porque no estoy trabajando.	
+563.			Nigua no'ö ti gua jidí ntiñu 	Creo que me voy a ir porque no estoy trabajando 		Me voy porque no estoy trabajando.	
 564.			Gua ko'ös dimos ti bö'os	No va solo porque tiene miedo.		No va solo porque tiene miedo.	
 565.			Juó kayadus tochi ndod 	Juan estaba durmiendo cuando llegaste.		Juan estaba durmiendo cuando llegaste.	
 566.			Juó kayadus ni tochi ndod 	Juan estuvo durmiendo hasta que llegaste.		Juan estuvo durmiendo hasta que llegaste.	
@@ -826,18 +826,18 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL		ESPAÑOL ORIGIN
 569.			Juó kudadus tochi ndod	Juan va a dormir cuando llegues.		Juan va a dormir cuando llegues.	
 570.			Juó kayadus ni tochi ndod	Juan va a dormir hasta que llegues.	(Después se va a levantar)	Juan va a dormir hasta que llegues. (Después se va a levantar)	
 571.				Juan  va a dormir apenas llegues.	(hasta ese momento va a estar levantando)	Juan va a dormir apenas llegues. (hasta ese momento va a estar levantando)	
-572.		Quédate quieto porque estoy comiendo 	Dí kuned ti je'e yuntu	No me molestes cuando estoy comiendo.		No me molestes cuando estoy comiendo.	
+572.			Dí kuned ti je'e yuntu	Quédate quieto porque estoy comiendo 		No me molestes cuando estoy comiendo.	
 573.				No me molestes cuando como.		No me molestes cuando como.	
 574.				Si quieren irse que se vayan.		Si quieren irse que se vayan.	
-575.		Juan va a sembrar maiz	Juó ko'ös kunus nata	Juan va a sembrar maiz		Juan va a sembrar chile y yo también.	
-576.		Juan va a sembrar maíz pero yo no.	Juó ko'ö kunus nata, un gua 	Juan va a sembrar maíz pero yo no.		Juan va a sembrar chile pero yo no.	
+575.			Juó ko'ös kunus nata	Juan va a sembrar maiz		Juan va a sembrar chile y yo también.	
+576.			Juó ko'ö kunus nata, un gua 	Juan va a sembrar maíz pero yo no.		Juan va a sembrar chile pero yo no.	
 577.			Juó gua kunus, un kunú	Juan no va a sembrar, pero yo sí.		Juan no va a sembrar, pero yo sí.	
 578.			Guad bea ne'ë	No quiero nada 		No quiero nada de eso.	
 579.			¿A ne'ed ama dea ñe'ë chu?	¿Quiere algo de esto?		¿Quiere algo de esto?	
 580.			Gua jikadi jika dime	No puedo caminar solo.		No puedo caminar solo.	
 581.			A tan kabiö chi kadi dì ntiñu	Ya sólo puedo trabajar en la mañana.		Ya sólo puedo trabajar en la mañana.	
 582.				Ya mero voy.		Ya mero voy.	
-583.		Me atrase con el trabajo	Chi jinu ñe'ë ntiñu	Ahora es tarde para ir a trabajar.		Ahora es tarde para ir a trabajar.	
+583.			Chi jinu ñe'ë ntiñu	Me atrasé con el trabajo		Ahora es tarde para ir a trabajar.	
 				Ahora es temprano para ir a trabajar.		Ahora es temprano para ir a trabajar.	
 584.			Yata kun ndá je'ë	Esta planta es buena para comer.		Esta planta es buena para comer.	
 585.			Yata kun ndá ñe'e káa mi	Esta planta es buena para esa enfermedad.		Esta planta es buena para esa enfermedad.	
