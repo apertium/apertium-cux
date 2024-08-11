@@ -284,7 +284,7 @@
 # alimg = El es alto.
 # hash = 739653010477fd0eef4759b9cddf1327
 # tagged = true
-1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 2	yakus	_	ADJ	_	_	_	_	_	Trad=alto
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -385,7 +385,7 @@
 # alimg = El es chaparro.
 # hash = d8056b3131e2c136755c34ee192474db
 # tagged = true
-1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 2	iyús	_	ADJ	_	_	_	_	_	Trad=chaparro
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -519,7 +519,7 @@
 # alimg = El es gordo
 # hash = 69b5edfb2c0ef707d87d74efa14316f4
 # tagged = true
-1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 2	rúʼus	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -541,7 +541,7 @@
 # alimg = El es gordo
 # hash = 69b5edfb2c0ef707d87d74efa14316f4
 # tagged = true
-1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 2	bíchas	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -676,7 +676,7 @@
 # alimg = El es flaco.
 # hash = 5904fa94b94e851de702a58143135339
 # tagged = true
-1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 2	kúës	_	ADJ	_	_	_	_	_	Trad=flaco
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1203,7 +1203,7 @@
 # hash = 01ae1fd8c1b0e8868242d6376c0ffa64
 # tagged = true
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	guay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=traer|Gloss=?-traer-3SG.HUM
+2	guay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=traer|Gloss=?-traer-3.HUM
 3	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1241,7 +1241,7 @@
 # hash = 3d8d31a64792735a699403c03bcc2b40
 # tagged = true
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3SG.HUM
+2	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3.HUM
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -1268,10 +1268,10 @@
 # hash = 5be7550c6a8c8c551be1f134486ecb82
 # tagged = true
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3SG.HUM
+2	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3.HUM
 3	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 4	kambo	_	NOUN	_	_	_	_	_	Trad=compadre
-5	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+5	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:42
@@ -1573,7 +1573,7 @@
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	tabea	_	PRON	_	_	_	_	_	Trad=cuánto
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
-5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 6	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 7	?	?	PUNCT	_	_	_	_	_	_
 
@@ -1585,7 +1585,7 @@
 # hash = 5f1704770986fc9d4e0bf97c5149c7ef
 # tagged = true
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -1598,7 +1598,7 @@
 # alimg = Tienes un perro.
 # hash = 14d6402a19d14fb134c2852e6644183c
 # tagged = true
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
 4	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
@@ -1611,10 +1611,10 @@
 # alimg = El tiene un perro.
 # hash = 99cff0a5814b0c2233e44105c7bb8e85
 # tagged = true
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
-4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
+4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1625,7 +1625,7 @@
 # hash = 8fadcfe5f2a08784653003c84bb412b3
 # tagged = true
 # note = (exclusivo)
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
 4	ñuʼuu	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
@@ -1637,12 +1637,12 @@
 # text[spa] = Tenemos un perro.
 # alimg = Tenemos un perro. (inclusivo)
 # hash = 74c0acd67df11f5af3540832e312e141
-# tagged = false
+# tagged = true
 # note = (inclusivo)
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
-4	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+4	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1651,11 +1651,11 @@
 # text[spa] = Ustedes tienen un perro.
 # alimg = Ustedes tienen un perro.
 # hash = e993b5c971b7065c1b19819e691446cc
-# tagged = false
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+# tagged = true
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
-4	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+4	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1664,12 +1664,12 @@
 # text[spa] = Ustedes tienen un perro.
 # alimg = Ustedes tienen un perro.
 # hash = e993b5c971b7065c1b19819e691446cc
-# tagged = false
+# tagged = true
 1	Insë	_	PRON	_	_	_	_	_	Trad=ustedes
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
-5	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+5	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1679,10 +1679,10 @@
 # alimg = Ustedes tienen un perro.
 # hash = e993b5c971b7065c1b19819e691446cc
 # tagged = true
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	insë	_	PRON	_	_	_	_	_	Trad=ustedes
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1693,10 +1693,10 @@
 # alimg = Ellos tienen un perro.
 # hash = c28b437e735a53872adfe23fd809254f
 # tagged = true
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
-4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1707,10 +1707,10 @@
 # hash = c28b437e735a53872adfe23fd809254f
 # tagged = true
 1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
-5	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+5	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1720,10 +1720,10 @@
 # alimg = Ellos tienen un perro.
 # hash = c28b437e735a53872adfe23fd809254f
 # tagged = true
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	iñsé	_	PRON	_	_	_	_	_	Trad=ellos
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1735,7 +1735,7 @@
 # hash = 1dcc544c053d2e42e1ef1025d7083f72
 # tagged = true
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -1748,7 +1748,7 @@
 # alimg = Tienes dos perros.
 # hash = b4679846cabefbc7c5f336614051a315
 # tagged = true
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
 4	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
@@ -1761,10 +1761,10 @@
 # alimg = El tiene dos perros.
 # hash = a96b9995a69db1b2624b9856f6c3b058
 # tagged = true
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
-4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
+4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1774,10 +1774,10 @@
 # alimg = El tiene dos perros.
 # hash = a96b9995a69db1b2624b9856f6c3b058
 # tagged = true
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
-4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
+4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1786,12 +1786,12 @@
 # text[spa] = Tenemos dos perros.
 # alimg = Tenemos dos perros. (exclusivo)
 # hash = 7d7f302408e12860b6cfe6cc9536603d
-# tagged = false
+# tagged = true
 # note = (exclusivo)
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
-4	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+4	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1802,7 +1802,7 @@
 # hash = 96266e518a3740e6e24d46f13f60f057
 # tagged = true
 # note = (inclusivo)
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
 4	ñuʼuu	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
@@ -1814,13 +1814,13 @@
 # text[spa] = Tenemos dos perros.
 # alimg = Tenemos dos perros. (inclusivo)
 # hash = 96266e518a3740e6e24d46f13f60f057
-# tagged = false
+# tagged = true
 # note = (inclusivo)
 1	Insú	_	PRON	_	_	_	_	_	Trad=nosotros
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
-5	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+5	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1829,12 +1829,12 @@
 # text[spa] = Ustedes tienen dos perros.
 # alimg = Ustedes tienen dos perros.
 # hash = 329035d13855bb963bca6cc90037b18a
-# tagged = false
+# tagged = true
 1	Insë	_	PRON	_	_	_	_	_	Trad=ustedes
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
-5	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+5	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1845,10 +1845,10 @@
 # hash = 71c827b21f806f814ac3b0d6c14cfc35
 # tagged = true
 1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
-5	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+5	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:61
@@ -1863,7 +1863,7 @@
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 2	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 3	yuudum	_	NOUN	_	_	_	_	_	Trad=caballo
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:63
@@ -1937,12 +1937,12 @@
 # text[spa] = ¿Tienen cola los perros?
 # alimg = ¿Tienen cola los perros?
 # hash = cfb091c1a4ed58c7d0fbf993da38b34b
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-4	nduk	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,quién
-5	daʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,que
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
+4	nduk	_	PRON	_	_	_	_	_	Trad=quién|UPOS=Guessed
+5	daʼa	_	PRON	_	_	_	_	_	Trad=que|UPOS=Guessed
 6	yana	_	NOUN	_	_	_	_	_	Trad=perro
 7	?	?	PUNCT	_	_	_	_	_	_
 
@@ -1953,10 +1953,10 @@
 # text[lit] = Le cortaron la cola a mi perro
 # alimg = Mi perro no tiene cola.
 # hash = 9d32586d14976004a2636eee9c3dd0c2
-# tagged = false
+# tagged = true
 1	Chíy	_	VERB	_	_	_	_	_	Trad=cortaron|Gloss=?-cortar-?
-2	nduk	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,quién
-3	daʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,que
+2	nduk	_	PRON	_	_	_	_	_	Trad=quién|UPOS=Guessed
+3	daʼa	_	PRON	_	_	_	_	_	Trad=que|UPOS=Guessed
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -2083,7 +2083,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	chid	_	VERB	_	_	_	_	_	Trad=echaste|Gloss=?-echar-2SG
 3	jima	_	NOUN	_	_	_	_	_	Trad=sal
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	komida	_	NOUN	_	_	_	_	_	Trad=comida
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2099,7 +2099,7 @@
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	chid	_	VERB	_	_	_	_	_	Trad=echaste|Gloss=?-echar-2SG
 4	jima	_	NOUN	_	_	_	_	_	Trad=sal
-5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 6	kantu	_	NOUN	_	_	_	_	_	Trad=comida
 7	?	?	PUNCT	_	_	_	_	_	_
 
@@ -2159,7 +2159,7 @@
 # alimg = Tengo dos hermanos.
 # hash = a23d4bc48952db7f52dba6628100d7bc
 # tagged = false
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 4	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
@@ -2176,7 +2176,7 @@
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	tabea	_	PRON	_	_	_	_	_	Trad=cuánto
 4	biʼid	_	NOUN	_	_	_	_	_	Trad=tu.hermano
-5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 6	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:92
@@ -2305,7 +2305,7 @@
 # alimg = Tengo trabajo.
 # hash = 19d849f113b81500a00837d5fb3528ed
 # tagged = true
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2448,7 +2448,7 @@
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	itcheanu	_	NOUN	_	_	_	_	_	Trad=venado
 5	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 6	?	?	PUNCT	_	_	_	_	_	_
@@ -2462,7 +2462,7 @@
 # tagged = true
 1	No	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 2	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	iña	_	NOUN	_	_	_	_	_	Trad=gente
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2487,7 +2487,7 @@
 # hash = 7a475d55381c3a5dacafaa732e010a4d
 # tagged = true
 1	Muʼu	_	ADV	_	_	_	_	_	Trad=aquí
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	kùù	_	NUM	_	_	_	_	_	Trad=cuatro
 4	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2500,7 +2500,7 @@
 # hash = 58e3f90f2c798b1553bbd691572a187f
 # tagged = true
 1	Muʼu	_	ADV	_	_	_	_	_	Trad=aquí
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2512,7 +2512,7 @@
 # hash = 51a840ac2ebd25feb18d506cdf263577
 # tagged = true
 1	Muʼu	_	ADV	_	_	_	_	_	Trad=aquí
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2535,7 +2535,7 @@
 # hash = 23bbc6d07479051a1acdc6d52d135f44
 # tagged = true
 1	Mí	_	ADV	_	_	_	_	_	Trad=allá
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	tiʼö	_	NOUN	_	_	_	_	_	Trad=árbol
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2548,7 +2548,7 @@
 # tagged = true
 1	Ño	_	ADP	_	_	_	_	_	Trad=en
 2	baku	_	NOUN	_	_	_	_	_	Trad=casa
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	nʼíba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2561,7 +2561,7 @@
 # tagged = true
 1	Ño	_	ADP	_	_	_	_	_	Trad=en
 2	kon	_	DET	_	_	_	_	_	Trad=ese
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 5	eatea	_	ADJ	_	_	_	_	_	Trad=grandes|UPOS=Guessed
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -2734,7 +2734,7 @@
 # tagged = true
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
-3	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
+3	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:131
@@ -2760,7 +2760,7 @@
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
+4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:131
@@ -2769,12 +2769,12 @@
 # text[spa] = Esa canasta no es nuestra.
 # alimg = Esa canasta no es nuestra. (exclusivo)
 # hash = 7769e59f55eadfe4a09303d5b9b4d6d7
-# tagged = false
+# tagged = true
 # note = (exclusivo)
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+4	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:131
@@ -2784,12 +2784,12 @@
 # text[lit] = Esta canasta no es nuestra.
 # alimg = Esa canasta no es nuestra. (inclusivo)
 # hash = d45bfb58fb337351bb6cf7d70e49b5b8
-# tagged = false
+# tagged = true
 # note = (inclusivo)
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+4	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:131
@@ -2811,11 +2811,11 @@
 # text[spa] = Esa canasta es nuestra.
 # alimg = Esa canasta es nuestra. (exclusivo)
 # hash = 5864f76f18c53bfe4586d3b06e1ff467
-# tagged = false
+# tagged = true
 # note = (exclusivo)
 1	Kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 2	kon	_	DET	_	_	_	_	_	Trad=ese
-3	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+3	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:131
@@ -2876,7 +2876,7 @@
 # hash = 5e57a5c07f6637a03d0d5ca4712bbcaa
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	Ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+2	Ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
 4	kuetíchi	_	NOUN	_	_	_	_	_	Trad=canasta
 5	ko	_	DET	_	_	_	_	_	Trad=ese
@@ -2932,7 +2932,7 @@
 # hash = 31e7b9a78e6aabc8a2fb3a0f13df5770
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 3	Jidiba	_	PROPN	_	_	_	_	_	Trad=Mixteca
 4	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2945,7 +2945,7 @@
 # hash = 79323f7a7815d2df739427c9c69c7546
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	Ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+2	Ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 5	?	?	PUNCT	_	_	_	_	_	_
@@ -2958,7 +2958,7 @@
 # hash = b7d6a78fffaa1f6ce479c1f21a67d897
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
-2	Ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+2	Ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 5	?	?	PUNCT	_	_	_	_	_	_
@@ -3007,8 +3007,8 @@
 # text[spa] = María es mujer.
 # alimg = María es mujer.
 # hash = 0889cc10d2f5818f1215a4758cb69f61
-# tagged = false
-1	Ta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,señora
+# tagged = true
+1	Ta	_	NOUN	_	NounType=Clf	_	_	_	Trad=señora
 2	Marian	_	PROPN	_	_	_	_	_	Trad=María
 3	ndatata	_	NOUN	_	_	_	_	_	Trad=mujer
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3132,8 +3132,8 @@
 # text[spa] = Juana se parece a su madre.
 # alimg = Juana se parece a su madre.
 # hash = fc1bc6a4ce33983b283f173081690c80
-# tagged = false
-1	Ta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,señora
+# tagged = true
+1	Ta	_	NOUN	_	NounType=Clf	_	_	_	Trad=señora
 2	juana	Juana	PROPN	_	_	_	_	_	Trad=Juana
 3	ninubita	_	VERB	_	_	_	_	_	Trad=se.parece|Gloss=?-parecerse-?
 4	chakuta	_	NOUN	_	_	_	_	_	Trad=su.mamá
@@ -3162,7 +3162,7 @@
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	a	a	PART	_	_	_	_	_	Gloss=QST
 3	niku	_	ADJ	_	_	_	_	_	Trad=viejo
-4	injobes	_	VERB	_	_	_	_	_	Trad=se.ve|Gloss=?-verse-3SG.MSC
+4	injobes	_	VERB	_	_	_	_	_	Trad=se.ve|Gloss=?-verse-3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:168
@@ -3311,7 +3311,7 @@
 # tagged = true
 1	Mi	_	ADV	_	_	_	_	_	Trad=ahí|UPOS=Guessed
 2	ndenó	_	NOUN	_	_	_	_	_	Trad=muchas.cosas|UPOS=Guessed
-3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
+3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3.HUM
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:179
@@ -3322,8 +3322,8 @@
 # hash = e4ad69f176faa3729ddb5a0eeefdce5c
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	koʼos	_	VERB	_	_	_	_	_	Trad=dijo|Gloss=?-decir-3SG.MSC
-3	chis	_	VERB	_	_	_	_	_	Trad=vendrá|Gloss=?-venir-3SG.MSC
+2	koʼos	_	VERB	_	_	_	_	_	Trad=dijo|Gloss=?-decir-3.MSC
+3	chis	_	VERB	_	_	_	_	_	Trad=vendrá|Gloss=?-venir-3.MSC
 4	tonto	_	ADJ	_	_	_	_	_	Trad=tonto
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -3380,7 +3380,7 @@
 # hash = bbb364f35d8bfd2a86bf683d1f139dbc
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-?
+2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-3.MSC
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	jobe	_	NOUN	_	_	_	_	_	Trad=día
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3393,7 +3393,7 @@
 # hash = f37077b3ad0e59455053a61283897f06
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-?
+2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-3.MSC
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	màà	_	NOUN	_	_	_	_	_	Trad=noche
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3406,7 +3406,7 @@
 # hash = 4ab797e67b456f3142b4a3b14237e871
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-?
+2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-3.MSC
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	jobe	_	NOUN	_	_	_	_	_	Trad=día
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3509,7 +3509,7 @@
 # hash = ea952f840646bf7848939f2672110697
 # tagged = true
 1	Tako	_	PRON	_	_	_	_	_	Trad=ella
-2	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3SG.FEM
+2	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3.FEM
 3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -3526,7 +3526,7 @@
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3SG.FEM
+3	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3.FEM
 4	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 5	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 6	?	?	PUNCT	_	_	_	_	_	_
@@ -3540,7 +3540,7 @@
 # tagged = true
 1	Jù	_	INTJ	_	_	_	_	_	Trad=sí
 2	,	,	PUNCT	_	_	_	_	_	_
-3	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3SG.FEM
+3	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3.FEM
 4	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -3570,7 +3570,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	dae	_	PRON	_	_	_	_	_	Trad=que
-4	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3SG.FEM
+4	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3.FEM
 5	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 6	?	?	PUNCT	_	_	_	_	_	_
 
@@ -3582,7 +3582,7 @@
 # hash = 5401068d7a32930fa28edb23dec09978
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3SG.FEM
+2	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3.FEM
 3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3595,7 +3595,7 @@
 # hash = 2534ba58aa6c01a2d4ee409483deb7a8
 # tagged = true
 1	Nokuó	_	ADV	_	_	_	_	_	Trad=a.veces
-2	jikata	_	VERB	_	_	_	_	_	Trad=pide|Gloss=?-pedir-3SG.FEM
+2	jikata	_	VERB	_	_	_	_	_	Trad=pide|Gloss=?-pedir-3.FEM
 3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3734,7 +3734,7 @@
 # alimg = Me vio ayer en el mercado
 # hash = 8e703950d0ca9e33498c18fe36e96fe7
 # tagged = true
-1	Nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.MSC
+1	Nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
 2	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
@@ -3747,7 +3747,7 @@
 # alimg = Te vio ayer en el mercado.
 # hash = 7b9dc918311f26a6cd22ab5d558ba222
 # tagged = true
-1	Nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.MSC
+1	Nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
 2	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
@@ -3760,7 +3760,7 @@
 # alimg = Nos vio ayer en el mercado.
 # hash = 353ecfe9728e64c174d522bfd68e1816
 # tagged = true
-1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
+1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.HUM
 2	ʼuu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -3775,7 +3775,7 @@
 # hash = 4d16dd57f78f104b2fef34eb530d56d0
 # tagged = true
 # note = (a ustedes)
-1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
+1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.HUM
 2	insë	_	PRON	_	_	_	_	_	Trad=ustedes
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3787,7 +3787,7 @@
 # hash = a5f04a01c300022d7cf30534ce5bc106
 # tagged = true
 # note = (a ellos)
-1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
+1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.HUM
 2	iñsé	_	PRON	_	_	_	_	_	Trad=ellos
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3876,7 +3876,7 @@
 1	Kuá	_	VERB	_	_	_	_	_	Trad=compraré|Gloss=?-comprar-?
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	snï	_	NOUN	_	_	_	_	_	Trad=sobrino
-4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
+4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:211
@@ -3890,7 +3890,7 @@
 1	Kuá	_	VERB	_	_	_	_	_	Trad=compraré|Gloss=?-comprar-?
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	snï	_	NOUN	_	_	_	_	_	Trad=sobrino
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	chidata	_	NOUN	_	_	_	_	_	Trad=su.papá
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3976,7 +3976,7 @@
 # hash = f4be4162d4632890058fabfe83f153f9
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
+2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:219
@@ -4185,12 +4185,12 @@
 # text[spa] = ¿Qué quieres hacer?
 # alimg = ¿Qué quieres hacer?
 # hash = 55800f4cdc2b5e8382da49ecc9ad0d06
-# tagged = false
+# tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	dae	_	PRON	_	_	_	_	_	Trad=que
 4	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-5	did	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hacer,haces
+5	did	_	VERB	_	VerbForm=Fin	_	_	_	Trad=haces|Gloss=?-hacer-2SG
 6	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:237
@@ -4241,7 +4241,7 @@
 # hash = 022b865699e06c07d6472dfdcd5815c6
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	neʼes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3SG.MSC
+2	neʼes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3.MSC
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	kune	_	VERB	_	_	_	_	_	Trad=quedarse|Gloss=?-quedarse-?
 5	bakus	_	NOUN	_	_	_	_	_	Trad=su.casa
@@ -4256,7 +4256,7 @@
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-3	neʼes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3SG.MSC
+3	neʼes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3.MSC
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kune	_	VERB	_	_	_	_	_	Trad=quedarse|Gloss=?-quedarse-?
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -4268,9 +4268,9 @@
 # text[lit] = Me dijiste que traerias una fruta
 # alimg = Me prometiste una manzana.
 # hash = 1efb5dc6563150591ab420170fb8e0ec
-# tagged = false
+# tagged = true
 1	Koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
-2	chíd	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,vendrás
+2	chíd	_	VERB	_	_	_	_	_	Trad=vendrás|Gloss=?-venir-2SG
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kanad	_	VERB	_	_	_	_	_	Trad=traerías|Gloss=?-traer-2SG
@@ -4285,9 +4285,9 @@
 # text[lit] = Me dijiste que traerias una fruta para que yo comiera
 # alimg = Me prometiste que me ibas a dar una manzana.
 # hash = bdfd34e7e989811da97ba8826df81f16
-# tagged = false
+# tagged = true
 1	Koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
-2	chíd	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,vendrás
+2	chíd	_	VERB	_	_	_	_	_	Trad=vendrás|Gloss=?-venir-2SG
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kanad	_	VERB	_	_	_	_	_	Trad=traerías|Gloss=?-traer-2SG
@@ -4332,7 +4332,7 @@
 1	Nigua	_	_	_	_	_	_	_	Trad=no
 2	ni	_	ADV	_	_	_	_	_	Trad=hasta
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	ndos	_	VERB	_	_	_	_	_	Trad=llegó|Gloss=?-llegar-3SG.MSC
+4	ndos	_	VERB	_	_	_	_	_	Trad=llegó|Gloss=?-llegar-3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:248
@@ -4345,7 +4345,7 @@
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	jitenu	_	VERB	_	_	_	_	_	Trad=creo|Gloss=?-creer-1SG
-3	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
+3	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:252
@@ -4371,7 +4371,7 @@
 # hash = 02f02ac3438ffd473999d6ab1b2c1493
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
+2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
 3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
 4	ndo	_	VERB	_	_	_	_	_	Trad=había.llegado|Gloss=?-llegar-?
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4384,7 +4384,7 @@
 # hash = f334d69f663cc62fa5bef66813c6a6f3
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
+2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
 3	a	a	PART	_	_	_	_	_	Gloss=QST
 4	ti	_	DET	_	_	_	_	_	Trad=ese
 5	koʼös	_	VERB	_	_	_	_	_	Trad=va|Gloss=?-ir-?
@@ -4398,7 +4398,7 @@
 # hash = e43a688943251db7391ae50c0f44823f
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
+2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
 3	ku	_	DET	_	_	_	_	_	Trad=este
 4	ti	_	DET	_	_	_	_	_	Trad=ese
 5	kuchis	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
@@ -4412,8 +4412,8 @@
 # hash = 18491bebaa80e3c1e0ccca3fdefb6ddd
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
-3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 4	ti	_	DET	_	_	_	_	_	Trad=ese
 5	kuchis	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -4426,7 +4426,7 @@
 # hash = 106ffb816ecb9e8f3c6e98b086a851d8
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
+2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
 3	a	a	PART	_	_	_	_	_	Gloss=QST
 4	taka	taka	ADV	_	_	_	_	_	Trad=cómo
 5	nandinda	_	VERB	_	_	_	_	_	Trad=arregla|Gloss=?-arreglar-?
@@ -4441,7 +4441,7 @@
 # hash = 5488f2bfb733d725b18643c64251f0e4
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
+2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
 3	dae	_	PRON	_	_	_	_	_	Trad=que
 4	jinuku	_	VERB	_	_	_	_	_	Trad=vende|Gloss=?-vender-?
 5	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
@@ -4455,7 +4455,7 @@
 # hash = b4e91b487219d606486a87427dc8a107
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
+2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	kuchid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ven|Gloss=?-venir-2SG
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4494,7 +4494,7 @@
 # tagged = true
 1	Chimjinu	_	VERB	_	_	_	_	_	Trad=me.olvidé|Gloss=?-olvidarse-1SG
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-3	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
+3	ndod	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 4	jobeku	_	ADV	_	_	_	_	_	Trad=hoy
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4666,11 +4666,11 @@
 # text[spa] = Tienes que trabajar.
 # alimg = Tienes que trabajar.
 # hash = 9b45ed42eb12f6c50095dd44f2bbc202
-# tagged = false
+# tagged = true
 1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
-4	did	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hacer,haces
+4	did	_	VERB	_	VerbForm=Fin	_	_	_	Trad=haces|Gloss=?-hacer-2SG
 5	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4707,13 +4707,13 @@
 # text[spa] = Acuérdate de que tenemos que trabajar.
 # alimg = Acuérdate de que tenemos que trabajar.
 # hash = 75893c909cdb81367bb13630c3d0f7ed
-# tagged = false
+# tagged = true
 1	Nangakud	_	VERB	_	_	_	_	_	Trad=acuérdate|Gloss=?-acordarse-2SG
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kuʼuu	_	VERB	_	_	_	_	_	Trad=tenemos.que
-6	diuu	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,hacer
+6	diuu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hacemos|Gloss=?-hacer-1PL
 7	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4777,7 +4777,7 @@
 # tagged = true
 1	Jinangaku	_	VERB	_	_	_	_	_	Trad=extraño|Gloss=?-extrañar-?
 2	íñ	_	NOUN	_	_	_	_	_	Trad=familia
-3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:287
@@ -4788,7 +4788,7 @@
 # hash = 487ee58656470838625a9e0bac8bd9d6
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
+2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
 3	chea	_	DET	_	PronType=Int	_	_	_	Trad=cuál
 4	neʼeta	_	VERB	_	_	_	_	_	Trad=quiere|Gloss=?-querer-?
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4803,7 +4803,7 @@
 1	Nikua	_	_	_	_	_	_	_	Trad=no
 2	ndininu	_	VERB	_	_	_	_	_	Trad=acostumbro|Gloss=?-acostumbrar-?
 3	comida	_	NOUN	_	_	_	_	_	Trad=comida
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4814,7 +4814,7 @@
 # alimg = Lo acostumbró a levantarse temprano.
 # hash = a4cac0abc7841ccf732017174d63a4c7
 # tagged = true
-1	Ndininus	_	VERB	_	_	_	_	_	Trad=acostumbró|Gloss=?-acostumbrar-3SG.MSC
+1	Ndininus	_	VERB	_	_	_	_	_	Trad=acostumbró|Gloss=?-acostumbrar-3.MSC
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	temprano	_	ADV	_	_	_	_	_	Trad=temprano
 4	jinankués	_	VERB	_	_	_	_	_	Trad=levantarse|Gloss=?-levantar-?
@@ -4983,8 +4983,8 @@
 # tagged = true
 1	Job	_	NOUN	_	_	_	_	_	Trad=día
 2	jobe	_	NOUN	_	_	_	_	_	Trad=día
-3	jichis	_	VERB	_	_	_	_	_	Trad=viene|Gloss=?-venir-3SG.MSC
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+3	jichis	_	VERB	_	_	_	_	_	Trad=viene|Gloss=?-venir-3.MSC
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	yuduu	_	NOUN	_	_	_	_	_	Trad=caballo
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5037,7 +5037,7 @@
 # hash = f49d56d0e2c04376eb0f132c6abafd0e
 # tagged = true
 1	Dayan	_	NOUN	_	_	_	_	_	Trad=mis.hijos
-2	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3SG.HUM
+2	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3.HUM
 3	kunenoñ	_	VERB	_	_	_	_	_	Trad=cuidar|Gloss=?-cuidar-?
 4	baʼam	_	NOUN	_	_	_	_	_	Trad=casa
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -5070,7 +5070,7 @@
 2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	botella	_	NOUN	_	_	_	_	_	Trad=botella
-5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 6	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 7	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 8	!	!	PUNCT	_	_	_	_	_	_
@@ -5120,7 +5120,7 @@
 3	chë	_	NOUN	_	_	_	_	_	Trad=señor
 4	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-6	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
+6	ndod	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:507
@@ -5210,8 +5210,8 @@
 # text[spa] = ocho
 # alimg = ocho
 # hash = c312b0fa2f862eff7f034743c485fd9a
-# tagged = false
-1	Nini	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=nueve,ocho
+# tagged = true
+1	Nini	_	NUM	_	NumType=Card	_	_	_	Trad=ocho
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:546
@@ -5272,7 +5272,7 @@
 # alimg = Tengo un caballo.
 # hash = f55de0acc4ee99f51f5c20a1733893ce
 # tagged = true
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yuduu	_	NOUN	_	_	_	_	_	Trad=caballo
 4	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -5285,7 +5285,7 @@
 # alimg = Tengo dos bueyes negros.
 # hash = 1a33c90c8e72706a9973b0c94df14b57
 # tagged = true
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	itintu	_	NOUN	_	_	_	_	_	Trad=toro
 4	kuä	_	ADJ	_	_	_	_	_	Trad=negro|UPOS=Guessed
@@ -5330,7 +5330,7 @@
 1	Am	_	NUM	_	_	_	_	_	Trad=uno
 2	amas	_	NUM	_	_	_	_	_	Trad=en.uno
 3	kanós	_	VERB	_	_	_	_	_	Trad=salieron|Gloss=?-salir-?
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -5345,7 +5345,7 @@
 1	Ob	_	NUM	_	_	_	_	_	Trad=dos
 2	obes	_	NUM	_	_	_	_	_	Trad=en.dos
 3	kanós	_	VERB	_	_	_	_	_	Trad=salieron|Gloss=?-salir-?
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -5360,7 +5360,7 @@
 1	In	_	NUM	_	_	_	_	_	Trad=tres
 2	inus	_	NUM	_	_	_	_	_	Trad=en.tres
 3	kanós	_	VERB	_	_	_	_	_	Trad=salieron|Gloss=?-salir-?
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -5541,7 +5541,7 @@
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo|Gloss=?-dormir-?
 3	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-4	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
+4	ndod	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:566
@@ -5555,7 +5555,7 @@
 2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo|Gloss=?-dormir-?
 3	ni	_	ADV	_	_	_	_	_	Trad=hasta
 4	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-5	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
+5	ndod	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:569
@@ -5568,7 +5568,7 @@
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	kudadus	_	VERB	_	_	_	_	_	Trad=va.a.dormir|Gloss=?-dormir-?
 3	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-4	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
+4	ndod	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:570
@@ -5583,7 +5583,7 @@
 2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo|Gloss=?-dormir-?
 3	ni	_	ADV	_	_	_	_	_	Trad=hasta
 4	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-5	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
+5	ndod	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:572
@@ -5611,7 +5611,7 @@
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	koʼös	_	VERB	_	_	_	_	_	Trad=va|Gloss=?-ir-?
-3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
+3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-3.MSC
 4	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5625,7 +5625,7 @@
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
-3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
+3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-3.MSC
 4	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 5	,	,	PUNCT	_	_	_	_	_	_
 6	un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -5641,7 +5641,7 @@
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
+3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-3.MSC
 4	,	,	PUNCT	_	_	_	_	_	_
 5	un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	kunú	_	INTJ	_	_	_	_	_	Trad=sí|UPOS=Guessed
@@ -5655,7 +5655,7 @@
 # hash = 4559920429028f73e181f4ba8e88ee97
 # tagged = true
 1	Guad	_	X	_	_	_	_	_	Trad=no.estás|UPOS=Guessed
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5741,7 +5741,7 @@
 1	Yata	_	NOUN	_	_	_	_	_	Trad=paloma
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	ndá	_	ADJ	_	_	_	_	_	Trad=bueno|UPOS=Guessed
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	káa	_	NOUN	_	_	_	_	_	Trad=filo
 6	mi	_	DET	_	_	_	_	_	Trad=esa
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -5757,7 +5757,7 @@
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	ndá	_	ADJ	_	_	_	_	_	Trad=bueno|UPOS=Guessed
-5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 6	káa	_	NOUN	_	_	_	_	_	Trad=filo
 7	mi	_	DET	_	_	_	_	_	Trad=esa
 8	.	.	PUNCT	_	_	_	_	_	_
@@ -5783,7 +5783,7 @@
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	chéche	_	ADJ	_	_	_	_	_	Trad=duro|UPOS=Guessed
-3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kùchi	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -5813,7 +5813,7 @@
 1	Nigua	_	_	_	_	_	_	_	Trad=no
 2	mniñu	_	ADV	_	_	_	_	_	Trad=ahora
 3	a	a	PART	_	_	_	_	_	Gloss=QST
-4	chis	_	VERB	_	_	_	_	_	Trad=vendrá|Gloss=?-venir-3SG.MSC
+4	chis	_	VERB	_	_	_	_	_	Trad=vendrá|Gloss=?-venir-3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:592

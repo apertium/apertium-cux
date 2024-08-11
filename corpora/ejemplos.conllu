@@ -194,7 +194,7 @@
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	deanud	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sabes|Gloss=?-saber-SG2
+3	deanud	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sabes|Gloss=?-saber-2SG
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	koʼod	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
 6	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -208,7 +208,7 @@
 # tagged = true
 # author = lilia
 1	Amañ	_	PRON	_	_	_	_	_	Trad=alguien
-2	chiʼiy	_	VERB	_	_	_	_	_	Trad=murió|Gloss=?-morir-3SG.HUM
+2	chiʼiy	_	VERB	_	_	_	_	_	Trad=murió|Gloss=?-morir-3.HUM
 3	yabi	_	ADV	_	_	_	_	_	Trad=anoche
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -240,10 +240,10 @@
 # tagged = true
 # author = lilia
 1	Diya	_	NOUN	_	_	_	_	_	Trad=mi.tío
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	yuduu	_	NOUN	_	_	_	_	_	Trad=caballo
-5	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+5	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0021
@@ -295,7 +295,7 @@
 # tagged = true
 # author = lilia
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -310,7 +310,7 @@
 1	No	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 2	bayaka	_	NOUN	_	_	_	_	_	Trad=coscomate
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
-4	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+4	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 5	ñuu	_	NOUN	_	_	_	_	_	Trad=mazorca
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -334,7 +334,7 @@
 # author = lilia
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
 2	ñeʼën	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
-3	kanuy	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3SG.HUM
+3	kanuy	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3.HUM
 4	bakuu	_	NOUN	_	_	_	_	_	Trad=cárcel
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -345,7 +345,7 @@
 # tagged = true
 # author = lilia
 1	Jikioʼö	_	NOUN	_	_	_	_	_	Trad=bosque
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	itcheanu	_	NOUN	_	_	_	_	_	Trad=venado
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -370,7 +370,7 @@
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	tadii	_	NOUN	_	_	_	_	_	Trad=niña
 3	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-4	cheeta	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG.FEM
+4	cheeta	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.FEM
 5	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 6	beâ	_	NOUN	_	_	_	_	_	Trad=naranja
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -382,7 +382,7 @@
 # tagged = true
 # author = lilia
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ñoʼö	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
 4	beanete	_	NOUN	_	_	_	_	_	Trad=limón
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -409,7 +409,7 @@
 # tagged = true
 # author = lilia
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	bedbêe	_	NOUN	_	_	_	_	_	Trad=envidia|UPOS=Guessed
 4	Kukoo	_	PROPN	_	_	_	_	_	Trad=Tepeuxila|Gloss=LOC
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -422,7 +422,7 @@
 # author = lilia
 1	Soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 2	koon	_	DET	_	_	_	_	_	Trad=ese
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	bedeanu	_	NOUN	_	_	_	_	_	Trad=conocimiento|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -446,7 +446,7 @@
 # author = lilia
 1	Baku	_	NOUN	_	_	_	_	_	Trad=casa
 2	snuni	_	NOUN	_	_	_	_	_	Trad=padrino
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	bedyeno	_	ADJ	_	_	_	_	_	Trad=estar.de.fiesta|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -480,7 +480,7 @@
 # tagged = true
 # author = lilia
 1	To	_	ADJ	_	_	_	_	_	Trad=mucho|UPOS=Guessed
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	yata	_	NOUN	_	_	_	_	_	Trad=hierba
 4	bëe	_	NOUN	_	_	_	_	_	Trad=orilla
 5	yúuni	_	NOUN	_	_	_	_	_	Trad=camino
@@ -506,7 +506,7 @@
 2	jinguyu	Jinguyu	PROPN	_	Typo=Yes	_	_	_	Trad=México
 3	dimoʼö	_	ADV	_	_	_	_	_	Trad=sólo
 4	beede	_	NOUN	_	_	_	_	_	Trad=español
-5	jiney	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-hablar-3SG.HUM
+5	jiney	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-hablar-3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0043
@@ -517,10 +517,10 @@
 # author = lilia
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	tadin	_	NOUN	_	_	_	_	_	Trad=niña
-3	kueta	_	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=?-ir-3SG.FEM
+3	kueta	_	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=?-ir-3.FEM
 4	nuko	_	ADP	_	_	_	_	_	Trad=con
 5	beeye	_	NOUN	_	_	_	_	_	Trad=nixtamal
-6	ñëta	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ella|Gloss=base-POSS.3SG.FEM
+6	ñëta	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ella|Gloss=base-POSS.3.FEM
 7	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 8	kanguu	_	VERB	_	_	_	_	_	Trad=moler
 9	.	.	PUNCT	_	_	_	_	_	_
@@ -534,7 +534,7 @@
 1	Yaa	_	VERB	_	_	_	_	_	Trad=está|UPOS=Guessed
 2	beaku	_	ADJ	_	_	_	_	_	Trad=elegante|UPOS=Guessed
 3	yada	_	NOUN	_	_	_	_	_	Trad=vestido
-4	ñëta	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ella|Gloss=base-POSS.3SG.FEM
+4	ñëta	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ella|Gloss=base-POSS.3.FEM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0045
@@ -558,7 +558,7 @@
 1	Iñ	_	NOUN	_	_	_	_	_	Trad=gente
 2	ñoʼon	_	NOUN	_	_	_	_	_	Trad=pueblo
 3	jeʼëñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=va|Gloss=?-ir-?
-4	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
+4	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3.HUM
 5	beanu	_	NOUN	_	_	_	_	_	Trad=epazote
 6	Jibaku	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -571,7 +571,7 @@
 # author = lilia
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	chikuu	_	NOUN	_	Typo=Yes	_	_	_	Trad=abuela
-3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
+3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3.HUM
 4	betee	_	NOUN	_	_	_	_	_	Trad=tamal
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -582,7 +582,7 @@
 # tagged = false
 # author = lilia
 1	Biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
-2	jínus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=siembra|Gloss=?-sembrar-3SG.MSC
+2	jínus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=siembra|Gloss=?-sembrar-3.MSC
 3	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -604,10 +604,10 @@
 # tagged = true
 # author = lilia
 1	Dúdi	_	NOUN	_	_	_	_	_	Trad=tía
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	bichi	_	NOUN	_	_	_	_	_	Trad=gato
-5	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+5	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0051
@@ -642,7 +642,7 @@
 # tagged = true
 # author = lilia
 1	Chichen	_	NOUN	_	_	_	_	_	Trad=mi.abuelito
-2	cheʼéy	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=CPL-ir-3SG.HUM
+2	cheʼéy	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=CPL-ir-3.HUM
 3	nguay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=traer|Gloss=?-traer-?
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	bítuu	_	NOUN	_	_	_	_	_	Trad=viga
@@ -654,7 +654,7 @@
 # text[spa] = Hay fiesta en mi casa.
 # tagged = true
 # author = lilia
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	bíku	_	NOUN	_	_	_	_	_	Trad=fiesta
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 4	bañeʼë	_	NOUN	_	_	_	_	_	Trad=mi.casa|Gloss=casa#base-POSS.1SG
@@ -677,7 +677,7 @@
 # text[spa] = Están de luto en la casa de mi amiga.
 # tagged = false
 # author = lilia
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	binkuinuu	_	_	_	_	_	_	_	Trad=de.luto
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 4	baku	_	NOUN	_	_	_	_	_	Trad=casa
@@ -763,7 +763,7 @@
 # text[spa] = Tengo un comal de barro.
 # tagged = true
 # author = lilia
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	chéa	_	NOUN	_	_	_	_	_	Trad=comal
 4	ñoʼoo	_	NOUN	_	_	_	_	_	Trad=tierra,.barro
@@ -871,7 +871,7 @@
 # tagged = false
 # author = lilia
 1	Chikuún	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
-2	cheatuy	_	ADJ	_	_	_	_	_	Trad=sordo|UPOS=Guessed
+2	cheatuy	_	ADJ	_	_	_	_	_	Trad=sordo|Gloss=sordo-3.HUM|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0073
@@ -961,7 +961,7 @@
 # text[spa] = Colocaron un cercado en mi casa.
 # tagged = true
 # author = lilia
-1	Chinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3SG.HUM
+1	Chinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3.HUM
 2	chëe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=aprendí|Gloss=?-aprender-1SG
 3	baku	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -973,7 +973,7 @@
 # tagged = true
 # author = lilia
 1	Chichëen	_	NOUN	_	_	_	_	_	Trad=mi.abuelito
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	neache	_	NUM	_	NumType=Card	_	_	_	Trad=siete
 4	dijinuy	_	NOUN	_	_	_	_	_	Trad=nieto
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -1007,7 +1007,7 @@
 # tagged = true
 # author = lilia
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	cheebinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=va.a.cenar|Gloss=?-cenar-3SG.HUM
+2	cheebinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=va.a.cenar|Gloss=?-cenar-3.HUM
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0085
@@ -1032,7 +1032,7 @@
 3	jineñ	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pone|Gloss=?-poner-?
 4	chedee	_	NOUN	_	_	_	_	_	Trad=carga
 5	iti	_	NOUN	_	_	_	_	_	Trad=animal
-6	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+6	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0087
@@ -1042,10 +1042,10 @@
 # tagged = true
 # author = lilia
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	cheene	_	NOUN	_	_	_	_	_	Trad=soplador
-5	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+5	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0088
@@ -1066,9 +1066,9 @@
 # tagged = true
 # author = lilia
 1	Chenun	_	NOUN	_	_	_	_	_	Trad=cuñada
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
-4	dayata	daya	NOUN	_	_	_	_	_	Trad=su.hijo(a)|Gloss=hijo-POSS.3SG.FEM
+4	dayata	daya	NOUN	_	_	_	_	_	Trad=su.hijo(a)|Gloss=hijo-POSS.3.FEM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0090
@@ -1077,7 +1077,7 @@
 # text[spa] = Tengo dos cuñadas.
 # tagged = true
 # author = lilia
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	chenu	_	NOUN	_	_	_	_	_	Trad=cuñada
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1089,7 +1089,7 @@
 # tagged = true
 # author = lilia
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	cheutumañ	_	VERB	_	VerbForm=Fin	_	_	_	Trad=rodear|Gloss=?-rodear-3SG.HUM
+2	cheutumañ	_	VERB	_	VerbForm=Fin	_	_	_	Trad=rodear|Gloss=?-rodear-3.HUM
 3	num	_	ADJ	_	_	_	_	_	Trad=todo|UPOS=Guessed
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	ñoʼö	_	NOUN	_	_	_	_	_	Trad=pueblo
@@ -1111,7 +1111,7 @@
 # text[spa] = Tengo un colador nuevo.
 # tagged = false
 # author = lilia
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	jiñöo	_	_	_	_	_	_	_	_
@@ -1149,7 +1149,7 @@
 # tagged = true
 # author = lilia
 1	Keaben	_	NOUN	_	_	_	_	_	Trad=mi.hermano
-2	nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.MSC
+2	nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	chiblaʼa	_	NOUN	_	_	_	_	_	Trad=armadillo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -1160,7 +1160,7 @@
 # text[spa] = Yo tengo un armadillo.
 # tagged = true
 # author = lilia
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	chiblaʼa	_	NOUN	_	_	_	_	_	Trad=armadillo
 4	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -1307,7 +1307,7 @@
 # tagged = true
 # author = lilia
 1	Too	_	ADJ	_	_	_	_	_	Trad=mucho|UPOS=Guessed
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	chiíbat	_	NOUN	_	_	_	_	_	Trad=telaraña
 4	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 5	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -1374,7 +1374,7 @@
 # text[spa] = Tengo dos abuelitas.
 # tagged = true
 # author = lilia
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	chikuʼu	_	NOUN	_	_	_	_	_	Trad=abuela
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1397,7 +1397,7 @@
 # text[spa] = Tengo dos comadres.
 # tagged = true
 # author = lilia
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	chikudaya	_	NOUN	_	_	_	_	_	Trad=comadre
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1409,8 +1409,8 @@
 # tagged = true
 # author = lilia
 1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-3	chikudayay	_	NOUN	_	_	_	_	_	Trad=su.comadre|Gloss=comadre-POSS.3SG.HUM
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
+3	chikudayay	_	NOUN	_	_	_	_	_	Trad=su.comadre|Gloss=comadre-POSS.3.HUM
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0119
@@ -1420,7 +1420,7 @@
 # tagged = true
 # author = lilia
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	chikuincháakuu	_	NOUN	_	_	_	_	_	Trad=virgen
 5	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
@@ -1516,9 +1516,9 @@
 # tagged = true
 # author = lilia
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	chíni	_	NOUN	_	_	_	_	_	Trad=frijolar
-4	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+4	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0128
@@ -1529,7 +1529,7 @@
 # author = lilia
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	ndea	_	_	_	_	_	_	_	_
-3	kueta	_	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=?-ir-3SG.FEM
+3	kueta	_	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=?-ir-3.FEM
 4	chini	_	VERB	_	VerbForm=Fin	_	_	_	Trad=tronar|Gloss=?-tronar-?
 5	ndoyo	_	NOUN	_	_	_	_	_	Trad=año
 6	jaa	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
@@ -1602,7 +1602,7 @@
 1	Chichen	_	NOUN	_	_	_	_	_	Trad=mi.abuelito
 2	chitöo	_	VERB	_	VerbForm=Fin	_	_	_	Trad=se.reventó|Gloss=?-reventarse-?
 3	nakuu	_	NOUN	_	_	_	_	_	Trad=guarache
-4	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+4	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0135
@@ -1625,8 +1625,8 @@
 # author = lilia
 1	Nee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quería|Gloss=?-querer-?
 2	chibatu	_	NOUN	_	_	_	_	_	Trad=chivo
-3	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
-4	beat	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG.AML
+3	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
+4	beat	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3.AML
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0137
@@ -1679,7 +1679,7 @@
 # tagged = true
 # author = lilia
 1	Dinu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
-2	nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.MSC
+2	nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	chúntii	_	NOUN	_	_	_	_	_	Trad=grillo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -1788,7 +1788,7 @@
 # author = lilia
 1	Dada	_	NOUN	_	_	_	_	_	Trad=yerno,.cuñado
 2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-3	jidis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-3SG.MSC
+3	jidis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-3.MSC
 4	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1798,7 +1798,7 @@
 # text[spa] = Tengo dos yernos.
 # tagged = true
 # author = lilia
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	dada	_	NOUN	_	_	_	_	_	Trad=yerno,.cuñado
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1820,10 +1820,10 @@
 # text[spa] = Su yerno ama a su hijo(a).
 # tagged = true
 # author = lilia
-1	Daday	_	NOUN	_	_	_	_	_	Trad=su.yerno|Gloss=yerno-POSS.3SG.HUM
-2	yaás	_	VERB	_	_	_	_	_	Trad=ama|Gloss=?-amar-3SG.MSC
+1	Daday	_	NOUN	_	_	_	_	_	Trad=su.yerno|Gloss=yerno-POSS.3.HUM
+2	yaás	_	VERB	_	_	_	_	_	Trad=ama|Gloss=?-amar-3.MSC
 3	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
-4	dayay	_	NOUN	_	_	_	_	_	Trad=su.hijo(a)|Gloss=hijo-POSS.3SG.HUM
+4	dayay	_	NOUN	_	_	_	_	_	Trad=su.hijo(a)|Gloss=hijo-POSS.3.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0154
@@ -1833,7 +1833,7 @@
 # tagged = true
 # author = lilia
 1	Daku	_	NOUN	_	_	_	_	_	Trad=sobrino
-2	neés	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3SG.MSC
+2	neés	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3.MSC
 3	uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1877,10 +1877,10 @@
 # text[spa] = Él tiene dos hijos.
 # tagged = true
 # author = lilia
-1	Sako	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Sako	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
-4	dayas	_	NOUN	_	_	_	_	_	Trad=su.hijo(a)|Gloss=hijo-POSS.3SG.MSC
+4	dayas	_	NOUN	_	_	_	_	_	Trad=su.hijo(a)|Gloss=hijo-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0159
@@ -1890,7 +1890,7 @@
 # tagged = true
 # author = lilia
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	daybede	_	NOUN	_	_	_	_	_	Trad=hijastro(a)
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -1922,7 +1922,7 @@
 # text[spa] = Hay alumbrado público por donde paso.
 # tagged = true
 # author = lilia
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	deabea	_	NOUN	_	_	_	_	_	Trad=alumbrado
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 4	yuni	_	NOUN	_	_	_	_	_	Trad=camino
@@ -1953,12 +1953,12 @@
 3	yaca	_	NOUN	_	Typo=Yes	_	_	_	Trad=ocote
 4	,	,	PUNCT	_	_	_	_	_	_
 5	jichiba	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sirve|Gloss=?-servir-?
-6	ñeé	_	NOUN	_	_	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+6	ñeé	_	NOUN	_	_	_	_	_	Trad=de.él|Gloss=base-POSS.3
 7	iña	_	NOUN	_	_	_	_	_	Trad=gente
 8	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 9	jita	_	VERB	_	VerbForm=Fin	_	_	_	Trad=canta|Gloss=?-cantar-?
 10	lanti	_	NOUN	_	_	_	_	_	Trad=hueso
-11	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+11	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 12	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0165
@@ -1992,7 +1992,7 @@
 # tagged = true
 # author = lilia
 1	To	_	ADJ	_	_	_	_	_	Trad=mucho|UPOS=Guessed
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	deaku	_	NOUN	_	_	_	_	_	Trad=basura
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -2016,7 +2016,7 @@
 # text[spa] = Hay mala mujer en el camino. (Yerba medicinal).
 # tagged = true
 # author = lilia
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	dibyudi	_	NOUN	_	_	_	_	_	Trad=mala.mujer
 3	yúni	_	NOUN	_	_	_	_	_	Trad=camino
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2093,7 +2093,7 @@
 # tagged = true
 # author = lilia
 1	Kueten	_	NOUN	_	_	_	_	_	Trad=campo
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	diijuku	_	NOUN	_	_	_	_	_	Trad=tecolote
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2107,7 +2107,7 @@
 2	dinaá	_	VERB	_	_	_	_	_	Trad=hice|Gloss=?-hacer-?
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	diinuu	_	NOUN	_	_	_	_	_	Trad=gorro
-5	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+5	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 6	daya	_	NOUN	_	_	_	_	_	Trad=hijo(a)
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2144,9 +2144,9 @@
 # tagged = true
 # author = lilia
 1	Diiya	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.tío
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
-4	dayay	_	NOUN	_	_	_	_	_	Trad=su.hijo(a)|Gloss=hijo-POSS.3SG.HUM
+4	dayay	_	NOUN	_	_	_	_	_	Trad=su.hijo(a)|Gloss=hijo-POSS.3.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0180
@@ -2171,7 +2171,7 @@
 # tagged = true
 # author = lilia
 1	Chichen	_	NOUN	_	_	_	_	_	Trad=mi.abuelito
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	juú	_	NUM	_	NumType=Card	_	_	_	Trad=cinco
 4	dijinuy	_	NOUN	_	_	_	_	_	Trad=nieto
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2195,7 +2195,7 @@
 # text[spa] = Tengo dos nueras.
 # tagged = true
 # author = lilia
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	dikunú	_	NOUN	_	_	_	_	_	Trad=nuera
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2207,10 +2207,10 @@
 # tagged = true
 # author = lilia
 1	Cheanun	_	NOUN	_	_	_	_	_	Trad=mi.cuñada
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	dikuoʼo	_	NOUN	_	_	_	_	_	Trad=bebé
-5	ñeeta	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ella|Gloss=base-POSS.3SG.FEM
+5	ñeeta	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ella|Gloss=base-POSS.3.FEM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0185
@@ -2235,7 +2235,7 @@
 1	Chiní	_	NOUN	_	_	_	_	_	Trad=hígado
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	díma	_	NOUN	_	_	_	_	_	Trad=cáscara
-4	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+4	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0187
@@ -2279,8 +2279,8 @@
 # tagged = true
 # author = lilia
 1	Dinuun	_	NOUN	_	_	_	_	_	Trad=mi.hermano
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
-3	toʼos	_	NOUN	_	_	_	_	_	Trad=su.esposa|Gloss=esposa-POSS.3SG.MSC
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
+3	toʼos	_	NOUN	_	_	_	_	_	Trad=su.esposa|Gloss=esposa-POSS.3.MSC
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0191
@@ -2290,7 +2290,7 @@
 # tagged = true
 # author = lilia
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
+2	nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	díta	_	NOUN	_	_	_	_	_	Trad=pájaro.carpintero
 5	danti	_	NOUN	_	_	_	_	_	Trad=flojera|UPOS=Guessed
@@ -2303,7 +2303,7 @@
 # tagged = true
 # author = lilia
 1	Diyan	_	NOUN	_	_	_	_	_	Trad=su.tío
-2	nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
+2	nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	díta	_	NOUN	_	_	_	_	_	Trad=pájaro.carpintero
 5	kuete	_	NOUN	_	_	_	_	_	Trad=campo
@@ -2389,7 +2389,7 @@
 # tagged = true
 # author = lilia
 1	Diyan	_	NOUN	_	_	_	_	_	Trad=su.tío
-2	jiney	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-hablar-3SG.HUM
+2	jiney	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-hablar-3.HUM
 3	duchii	_	NOUN	_	_	_	_	_	Trad=bromas
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2501,7 +2501,7 @@
 # author = lilia
 1	Eaku	_	VERB	_	_	_	_	_	Trad=suena|UPOS=Guessed
 2	kuu	_	NOUN	_	_	_	_	_	Trad=víbora
-3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 4	yaku	_	ADJ	_	_	_	_	_	Trad=alto|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2516,7 +2516,7 @@
 3	eatoʼóy	_	VERB	_	_	_	_	_	Trad=echa.pico
 4	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 5	ñoʼó	_	NOUN	_	_	_	_	_	Trad=terreno
-6	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+6	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0210
@@ -2595,7 +2595,7 @@
 3	nínu	nínu	NOUN	_	_	_	_	_	Trad=maíz
 4	jeʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=estoy.comiendo|Gloss=?-comer-1SG
 5	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
-6	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+6	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0217
@@ -2617,7 +2617,7 @@
 # author = lucy
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	koʼoñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irá|Gloss=POT-ir-?
-3	kuay	_	VERB	_	_	_	_	_	Trad=piscar|Gloss=?-piscar-3SG.HUM
+3	kuay	_	VERB	_	_	_	_	_	Trad=piscar|Gloss=?-piscar-3.HUM
 4	ñú	_	NOUN	_	_	_	_	_	Trad=mazorca
 5	mojobe	mojobe	ADV	_	_	_	_	_	Trad=hoy
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -2643,7 +2643,7 @@
 # author = lucy
 1	Dúdi	_	NOUN	_	_	_	_	_	Trad=tía
 2	jeʼeñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=va|Gloss=?-ir-?
-3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
+3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3.HUM
 4	ndeayaa	_	NOUN	_	_	_	_	_	Trad=durazno
 5	Jibaku	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -2655,8 +2655,8 @@
 # tagged = true
 # author = lucy
 1	Yana	_	NOUN	_	_	_	_	_	Trad=perro
-2	eanut	_	VERB	_	VerbForm=Fin	_	_	_	Trad=gusta|Gloss=?-gustar-3SG
-3	jeʼët	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ir|Gloss=?-ir-3SG
+2	eanut	_	VERB	_	VerbForm=Fin	_	_	_	Trad=gusta|Gloss=?-gustar-3
+3	jeʼët	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ir|Gloss=?-ir-3
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2735,7 +2735,7 @@
 # tagged = true
 # author = lucy
 1	Tö	_	ADJ	_	_	_	_	_	Trad=mucho|UPOS=Guessed
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	tínu	_	NOUN	_	_	_	_	_	Trad=ropa
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	nó	_	VERB	_	_	_	_	_	Trad=lavar
@@ -2757,7 +2757,7 @@
 # text[spa] = El no puede tocar la campana.
 # tagged = true
 # author = lucy
-1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 3	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
 4	jidkueakus	_	VERB	_	_	_	_	_	Trad=tocar
@@ -2772,7 +2772,7 @@
 # author = lucy
 1	Chikuʼü	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 2	cheʼeñ	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=CPL-ir-?
-3	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-3SG.HUM
+3	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-3.HUM
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	chéa	_	NOUN	_	_	_	_	_	Trad=comal
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -2784,7 +2784,7 @@
 # tagged = true
 # author = lucy
 1	Bíʼi	_	NOUN	_	_	_	_	_	Trad=mi.hermano
-2	jinanus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=está.lavando|Gloss=?-lavar-3SG.MSC
+2	jinanus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=está.lavando|Gloss=?-lavar-3.MSC
 3	kuʼu	_	NOUN	_	_	_	_	_	Trad=plato
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2821,7 +2821,7 @@
 # author = lucy
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	chikuʼu	_	NOUN	_	_	_	_	_	Trad=abuela
-3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
+3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3.HUM
 4	ndéa	_	NOUN	_	_	_	_	_	Trad=cacaya
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2832,7 +2832,7 @@
 # tagged = true
 # author = lucy
 1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-3SG.HUM
+2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-3.HUM
 3	juʼu	_	NUM	_	Typo=Yes	_	_	_	Trad=cinco
 4	betee	_	NOUN	_	_	_	_	_	Trad=tamal
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2941,7 +2941,7 @@
 # tagged = false
 # author = lucy
 1	Daku	_	NOUN	_	_	_	_	_	Trad=sobrino
-2	boʼos	_	NOUN	_	_	_	_	_	Trad=su.miedo|Gloss=miedo-POSS.3SG.MSC
+2	boʼos	_	NOUN	_	_	_	_	_	Trad=su.miedo|Gloss=miedo-POSS.3.MSC
 3	ñaña	_	NOUN	_	_	_	_	_	Trad=león
 4	kuoʼoo	_	_	_	_	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2954,7 +2954,7 @@
 # author = lucy
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	ñañaa	_	NOUN	_	_	_	_	_	Trad=coyote
-3	kanat	_	VERB	_	VerbForm=Fin	_	_	_	Trad=lleva|Gloss=?-llevar-3SG.AML
+3	kanat	_	VERB	_	VerbForm=Fin	_	_	_	Trad=lleva|Gloss=?-llevar-3.AML
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
 6	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -3002,7 +3002,7 @@
 # tagged = true
 # author = lucy
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ñoʼó	_	NOUN	_	_	_	_	_	Trad=terreno
 4	ndá	_	ADJ	_	_	_	_	_	Trad=bueno|UPOS=Guessed
 5	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
@@ -3014,7 +3014,7 @@
 # text[spa] = hay fiesta en ese pueblo.
 # tagged = true
 # author = lucy
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	bíku	_	NOUN	_	_	_	_	_	Trad=fiesta
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 4	ñó	_	NOUN	_	_	_	_	_	Trad=pueblo
@@ -3051,8 +3051,8 @@
 # tagged = true
 # author = lucy
 1	Ndatan	_	NOUN	_	_	_	_	_	Trad=mujeres
-2	jeʼëta	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=van|Gloss=?-ir-3SG.FEM
-3	jinguata	_	VERB	_	_	_	_	_	Trad=traer|Gloss=?-traer-3SG.FEM
+2	jeʼëta	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=van|Gloss=?-ir-3.FEM
+3	jinguata	_	VERB	_	_	_	_	_	Trad=traer|Gloss=?-traer-3.FEM
 4	ñóngukuu	_	NOUN	_	_	_	_	_	Trad=barro
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3066,7 +3066,7 @@
 2	jinay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=lleva|Gloss=?-llevar-?
 3	chita	_	NOUN	_	_	_	_	_	Trad=olla
 4	ñóʼoo	_	NOUN	_	_	_	_	_	Trad=barro
-5	jitúbiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupa|Gloss=?-ocupar-3SG.HUM
+5	jitúbiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupa|Gloss=?-ocupar-3.HUM
 6	ñonútii	_	NOUN	_	_	_	_	_	Trad=arena
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3090,9 +3090,9 @@
 # tagged = true
 # author = lucy
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ñú	_	NOUN	_	_	_	_	_	Trad=mazorca
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0258
@@ -3106,7 +3106,7 @@
 3	toʼo	_	NOUN	_	_	_	_	_	Trad=mano
 4	kanó	_	VERB	_	VerbForm=Fin	_	_	_	Trad=salí|Gloss=?-salir-1SG
 5	ñuu	_	NOUN	_	_	_	_	_	Trad=mazorca
-6	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+6	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0259
@@ -3116,10 +3116,10 @@
 # tagged = true
 # author = lucy
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	bílu	_	NOUN	_	_	_	_	_	Trad=gato
-5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0260
@@ -3140,7 +3140,7 @@
 # tagged = true
 # author = lucy
 1	Dìya	_	NOUN	_	_	_	_	_	Trad=mi.tío
-2	jitnoy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-3SG.HUM
+2	jitnoy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-3.HUM
 3	pö	_	NOUN	_	_	_	_	_	Trad=pan
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3162,10 +3162,10 @@
 # text[spa] = Mi abuelita tiene pollos recien nacidos.
 # tagged = false
 # author = lucy
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
 3	poʼo	_	ADJ	_	_	_	_	_	Trad=recien.nacido|UPOS=Guessed
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	chikuʼü	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3189,7 +3189,7 @@
 # author = lucy
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼey	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG.HUM
+3	cheʼey	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
 4	raabu	_	NOUN	_	_	_	_	_	Trad=mostaza
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3271,10 +3271,10 @@
 # tagged = true
 # author = lucy
 1	Sadï	_	NOUN	_	_	_	_	_	Trad=mi.niño
-2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	neʼes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3SG.MSC
-5	noʼos	_	VERB	_	_	_	_	_	Trad=ir|Gloss=?-ir-3SG.MSC
+4	neʼes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3.MSC
+5	noʼos	_	VERB	_	_	_	_	_	Trad=ir|Gloss=?-ir-3.MSC
 6	skuela	skuela	NOUN	_	_	_	_	_	Trad=escuela
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3285,9 +3285,9 @@
 # tagged = true
 # author = lucy
 1	Saíkuu	_	NOUN	_	_	_	_	_	Trad=buitre
-2	jeʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG
+2	jeʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3
 3	yuta	_	NOUN	_	_	_	_	_	Trad=carne
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	iti	_	NOUN	_	_	_	_	_	Trad=animal
 6	nì	_	ADJ	_	_	_	_	_	Trad=muerto|UPOS=Guessed
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -3312,7 +3312,7 @@
 # tagged = true
 # author = lucy
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	zangáta	_	NOUN	_	_	_	_	_	Trad=lobo
 4	jikioʼö	_	NOUN	_	_	_	_	_	Trad=bosque
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3324,7 +3324,7 @@
 # tagged = true
 # author = lucy
 1	Sangoʼoo	_	NOUN	_	_	_	_	_	Trad=arriera
-2	jeʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG
+2	jeʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3
 3	jingö	_	NOUN	_	_	_	_	_	Trad=milpa
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3349,7 +3349,7 @@
 1	Kueʼëd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=vé|Gloss=?-ir-2SG
 2	kanguad	_	VERB	_	_	_	_	_	Trad=traer|Gloss=POT-traer-2SG
 3	snï	_	NOUN	_	_	_	_	_	Trad=sobrino
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0279
@@ -3359,7 +3359,7 @@
 # tagged = true
 # author = lucy
 1	Snúni	_	NOUN	_	_	_	_	_	Trad=padrino
-2	neʼeñ	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3SG.HUM
+2	neʼeñ	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3.HUM
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3380,12 +3380,12 @@
 # text[spa] = Hay personas que se comen el corazon del pollo.
 # tagged = true
 # author = lucy
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	iña	_	NOUN	_	_	_	_	_	Trad=gente
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	jeʼey	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comen|Gloss=?-comer-?
 5	stebe	_	NOUN	_	_	_	_	_	Trad=corazón
-6	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+6	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 7	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3456,7 +3456,7 @@
 # author = lucy
 1	Dínu	_	NOUN	_	_	_	_	_	Trad=hermano
 2	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼes	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG.MSC
+3	cheʼes	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.MSC
 4	tiäa	_	NOUN	_	_	_	_	_	Trad=chicozapote
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3483,7 +3483,7 @@
 1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 2	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 3	tiba	_	NOUN	_	_	_	_	_	Trad=empanada
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	dutit	_	NOUN	_	_	_	_	_	Trad=huevo
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3530,7 +3530,7 @@
 # author = lucy
 1	Lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
 2	tími	_	NOUN	_	_	_	_	_	Trad=ombligo
-3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	dikuoʼoo	_	NOUN	_	_	_	_	_	Trad=bebé
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -3541,8 +3541,8 @@
 # text[spa] = Él mató un colibrí.
 # tagged = true
 # author = lucy
-1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	chìnus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3SG.MSC
+1	Sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+2	chìnus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	tíntu	_	NOUN	_	_	_	_	_	Trad=colibrí
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3581,7 +3581,7 @@
 1	Kanu	_	VERB	_	_	_	_	_	Trad=está
 2	toʼö	_	PRON	_	_	_	_	_	Trad=él
 3	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0298
@@ -3614,7 +3614,7 @@
 # tagged = true
 # author = lucy
 1	Tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
-2	cheʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=comio|Gloss=?-comer-3SG.AML
+2	cheʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=comio|Gloss=?-comer-3.AML
 3	kulantro	_	NOUN	_	_	_	_	_	Trad=cilantro
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3624,9 +3624,9 @@
 # text[spa] = Se perdio mi dinero.
 # tagged = true
 # author = lucy
-1	Chiná	_	VERB	_	VerbForm=Fin	_	_	_	Trad=perdio|Gloss=?-perder-3SG
+1	Chiná	_	VERB	_	VerbForm=Fin	_	_	_	Trad=perdio|Gloss=?-perder-3
 2	tumi	tumi	NOUN	_	_	_	_	_	Trad=dinero
-3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0302
@@ -3636,7 +3636,7 @@
 # tagged = true
 # author = lucy
 1	Tusoʼö	_	NOUN	_	_	_	_	_	Trad=gallo
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	dúdut	_	NOUN	_	_	_	_	_	Trad=sus.plumas
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3671,7 +3671,7 @@
 # text[spa] = Hay piedras a la orilla del camino.
 # tagged = true
 # author = lucy
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	tuu	_	NOUN	_	_	_	_	_	Trad=piedra
 3	dítu	_	NOUN	_	_	_	_	_	Trad=orilla
 4	yúni	_	NOUN	_	_	_	_	_	Trad=camino
@@ -3709,7 +3709,7 @@
 # author = lucy
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	yaʼa	_	VERB	_	_	_	_	_	Trad=amo|Gloss=?-amar-?
-3	nukud	_	NOUN	_	NounType=Relat	_	_	_	Trad=contigo|Gloss=con-POSS.SG2
+3	nukud	_	NOUN	_	NounType=Relat	_	_	_	Trad=contigo|Gloss=con-POSS.2SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0309
@@ -3732,7 +3732,7 @@
 # author = lucy
 1	Chibatu	_	NOUN	_	_	_	_	_	Trad=chivo
 2	ñéʼen	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
-3	chinót	_	VERB	_	VerbForm=Fin	_	_	_	Trad=se.cayó|Gloss=?-caerse-3SG.AML
+3	chinót	_	VERB	_	VerbForm=Fin	_	_	_	Trad=se.cayó|Gloss=?-caerse-3.AML
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 5	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 6	yââ	_	NOUN	_	_	_	_	_	Trad=barranco
@@ -3888,7 +3888,7 @@
 # tagged = true
 # author = lucy
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	yachi	_	NOUN	_	_	_	_	_	Trad=masa
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kakay	_	VERB	_	_	_	_	_	Trad=echar.tortilla
@@ -3902,7 +3902,7 @@
 # author = lucy
 1	Noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 2	bakun	_	NOUN	_	_	_	_	_	Trad=mi.casa
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	yada	_	NOUN	_	_	_	_	_	Trad=pájaro
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3939,7 +3939,7 @@
 # author = lucy
 1	Noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 2	ínuu	_	NOUN	_	_	_	_	_	Trad=calor
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	yadyeeko	_	NOUN	_	_	_	_	_	Trad=codorniz
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3975,7 +3975,7 @@
 # author = lucy
 1	Kueten	_	NOUN	_	_	_	_	_	Trad=campo
 2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	yakaa	_	NOUN	_	_	_	_	_	Trad=ocote
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4001,7 +4001,7 @@
 1	Yaá	_	VERB	_	_	_	_	_	Trad=está|UPOS=Guessed
 2	yeabea	_	ADJ	_	_	_	_	_	Trad=bonito(a)|UPOS=Guessed
 3	yáku	_	NOUN	_	_	_	_	_	Trad=iglesia
-4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	ñoo	_	NOUN	_	_	_	_	_	Trad=pueblo
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -4053,7 +4053,7 @@
 # tagged = false
 # author = lucy
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	yat	_	_	_	_	_	_	_	_
 4	kúiyu	_	_	_	_	_	_	_	_
 5	nede	_	NOUN	_	_	_	_	_	Trad=barranca
@@ -4066,7 +4066,7 @@
 # tagged = true
 # author = lucy
 1	Yata	_	NOUN	_	_	_	_	_	Trad=paloma
-2	beat	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG.AML
+2	beat	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3.AML
 3	jibakuu	_	PROPN	_	Typo=Yes	_	_	_	Trad=Cuicatlán|Gloss=LOC
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4077,7 +4077,7 @@
 # tagged = true
 # author = lucy
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	yata	_	NOUN	_	_	_	_	_	Trad=pichón
 4	jikioʼö	_	NOUN	_	_	_	_	_	Trad=bosque
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4089,7 +4089,7 @@
 # tagged = true
 # author = lucy
 1	Kueten	_	NOUN	_	_	_	_	_	Trad=campo
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	yáta	_	NOUN	_	_	_	_	_	Trad=tlacuache
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4126,7 +4126,7 @@
 # tagged = true
 # author = lucy
 1	Kuninun	_	ADV	_	_	_	_	_	Trad=allá.arriba|UPOS=Guessed
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	yatneachea	_	NOUN	_	_	_	_	_	Trad=escoba.de.vara
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4229,7 +4229,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	dnee	_	_	_	_	_	_	_	_
 3	yubi	_	NOUN	_	_	_	_	_	Trad=tejón
-4	beat	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG.AML
+4	beat	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3.AML
 5	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4253,7 +4253,7 @@
 # tagged = true
 # author = lucy
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	yuchmee	_	NOUN	_	_	_	_	_	Trad=cerebro
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4276,9 +4276,9 @@
 # tagged = true
 # author = lucy
 1	Cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	yudii	_	ADJ	_	_	_	_	_	Trad=arrugado|UPOS=Guessed
-4	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+4	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0355
@@ -4301,7 +4301,7 @@
 # author = lucy
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	yudnooy	_	NOUN	_	_	_	_	_	Trad=barba
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4336,10 +4336,10 @@
 # tagged = false
 # author = lucy
 1	Diiya	_	NOUN	_	Typo=Yes	_	_	_	Trad=mi.tío
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	yúduu	_	NOUN	_	_	_	_	_	Trad=caballo
-5	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+5	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 6	ña	_	_	_	_	_	_	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4351,7 +4351,7 @@
 # author = lucy
 1	Dinuu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼes	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG.MSC
+3	cheʼes	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.MSC
 4	yukjaʼa	_	NOUN	_	_	_	_	_	Trad=chilacayota
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4389,7 +4389,7 @@
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	yuna	_	NOUN	_	_	_	_	_	Trad=zorro
 3	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-4	jeét	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG
+4	jeét	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3
 5	yúdii	_	NOUN	_	_	_	_	_	Trad=elote
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4451,7 +4451,7 @@
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 2	bikun	_	NOUN	_	Typo=Yes	_	_	_	Trad=fiesta
 3	iñan	_	NOUN	_	_	_	_	_	Trad=gente
-4	jeeya	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG.HUM
+4	jeeya	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
 5	yuta	_	NOUN	_	_	_	_	_	Trad=carne
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4538,7 +4538,7 @@
 2	düntuu	_	NOUN	_	_	_	_	_	Trad=marca.de.un.golpe|UPOS=Guessed
 3	jecheé	_	_	_	_	_	_	_	_
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	koʼos	_	VERB	_	_	_	_	_	Trad=dijo|Gloss=?-decir-3SG.MSC
+5	koʼos	_	VERB	_	_	_	_	_	Trad=dijo|Gloss=?-decir-3.MSC
 6	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4561,7 +4561,7 @@
 # author = mazali
 1	Tadï	_	NOUN	_	_	_	_	_	Trad=niña
 2	kon	_	DET	_	_	_	_	_	Trad=ese
-3	jabnututa	_	VERB	_	VerbForm=Fin	_	_	_	Trad=da.vueltas|Gloss=?-dar.vueltas-3SG.FEM
+3	jabnututa	_	VERB	_	VerbForm=Fin	_	_	_	Trad=da.vueltas|Gloss=?-dar.vueltas-3.FEM
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0378
@@ -4585,7 +4585,7 @@
 1	Cheatu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quebré|Gloss=?-quebrar-1SG
 2	géche	_	NOUN	_	_	_	_	_	Trad=ala
 3	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0380
@@ -4606,7 +4606,7 @@
 # text[spa] = El cerdo tiene tripas.
 # tagged = true
 # author = mazali
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	gèète	_	NOUN	_	_	_	_	_	Trad=tripa
 3	kuchi	_	NOUN	_	_	_	_	_	Trad=marrano
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4619,7 +4619,7 @@
 # author = mazali
 1	Jaa	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
 2	jiba	_	NOUN	_	_	_	_	_	Trad=petate
-3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 4	chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4631,7 +4631,7 @@
 # author = mazali
 1	Nanad	_	VERB	_	VerbForm=Fin	_	_	_	Trad=haz|Gloss=?-hacer-2SG
 2	jíba	_	NOUN	_	_	_	_	_	Trad=sanja
-3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 4	nunkubi	_	NOUN	_	_	_	_	_	Trad=agua.de.lluvia
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4702,7 +4702,7 @@
 # tagged = true
 # author = mazali
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	sangáta	_	NOUN	_	_	_	_	_	Trad=lobo
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 5	jíku	_	NOUN	_	_	_	_	_	Trad=cerro
@@ -4717,7 +4717,7 @@
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	kani	_	ADJ	_	_	_	_	_	Trad=rápido|UPOS=Guessed
 3	jika	_	NOUN	_	_	_	_	_	Trad=camina
-4	sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+4	sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0391
@@ -4820,7 +4820,7 @@
 4	ndaá	_	ADJ	_	_	_	_	_	Trad=bueno|UPOS=Guessed
 5	jiné	_	VERB	_	_	_	_	_	Trad=sé|Gloss=?-saber-1SG
 6	tiaka	_	NOUN	_	_	_	_	_	Trad=plátano
-7	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+7	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0399
@@ -4832,7 +4832,7 @@
 1	Dimoo	_	ADJ	_	_	_	_	_	Trad=sólo,.puro|UPOS=Guessed
 2	gíyeye	_	NOUN	_	_	_	_	_	Trad=ceniza
 3	jinoo	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sale|Gloss=?-salir-?
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	jíyuu	_	NOUN	_	_	_	_	_	Trad=carrizo
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4857,9 +4857,9 @@
 # tagged = true
 # author = mazali
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	jinatnoy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=está.sacando|Gloss=?-sacar-3SG.HUM
+2	jinatnoy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=está.sacando|Gloss=?-sacar-3.HUM
 3	giyuu	_	NOUN	_	_	_	_	_	Trad=carbón
-4	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+4	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0402
@@ -4871,7 +4871,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 3	koʼo	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
-4	nukud	_	NOUN	_	NounType=Relat	_	_	_	Trad=contigo|Gloss=con-POSS.SG2
+4	nukud	_	NOUN	_	NounType=Relat	_	_	_	Trad=contigo|Gloss=con-POSS.2SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0403
@@ -4919,7 +4919,7 @@
 # tagged = true
 # author = mazali
 1	Chivatun	_	NOUN	_	_	_	_	_	Trad=chivo
-2	jeʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG
+2	jeʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3
 3	itñoʼo	_	NOUN	_	_	_	_	_	Trad=insecto.palo
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5023,7 +5023,7 @@
 # text[spa] = Hay animales en el campo.
 # tagged = true
 # author = mazali
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	iti	_	NOUN	_	_	_	_	_	Trad=animal
 3	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -5035,7 +5035,7 @@
 # tagged = true
 # author = mazali
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	itjingatu	_	NOUN	_	_	_	_	_	Trad=libélula
 4	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 5	nùni	_	NOUN	_	_	_	_	_	Trad=agua
@@ -5058,7 +5058,7 @@
 # text[spa] = Hay venados en el bosque.
 # tagged = true
 # author = mazali
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	itcheanu	_	NOUN	_	_	_	_	_	Trad=venado
 3	jikioʼö	_	NOUN	_	_	_	_	_	Trad=bosque
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -5082,9 +5082,9 @@
 # author = mazali
 1	To	_	ADJ	_	_	_	_	_	Trad=mucho|UPOS=Guessed
 2	nda	_	ADV	_	_	_	_	_	Trad=muy|UPOS=Guessed
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	deabea	_	NOUN	_	_	_	_	_	Trad=alumbrado
-5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 6	iyu	_	NOUN	_	_	_	_	_	Trad=luna
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5119,7 +5119,7 @@
 # tagged = false
 # author = mazali
 1	Itsoʼö	_	NOUN	_	_	_	_	_	Trad=guajolote
-2	ñeʼen	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=de.nosotros,quiere
+2	ñeʼen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 3	a	a	PART	_	_	_	_	_	Gloss=QST
 4	net	_	_	_	_	_	_	_	_
 5	iñʼtoʼö	_	NOUN	_	_	_	_	_	Trad=guajolota
@@ -5132,7 +5132,7 @@
 # tagged = true
 # author = mazali
 1	Dinu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
-2	nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.MSC
+2	nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	iʼbaa	_	NOUN	_	_	_	_	_	Trad=guacamaya
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -5158,7 +5158,7 @@
 # tagged = false
 # author = mazali
 1	Dijinun	_	_	_	_	_	_	_	_
-2	nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.MSC
+2	nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	it	_	NOUN	_	_	_	_	_	Trad=animal
 5	icha	_	ADJ	_	_	_	_	_	Trad=frío|UPOS=Guessed
@@ -5170,7 +5170,7 @@
 # text[spa] = Mi papa tiene toros.
 # tagged = true
 # author = mazali
-1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	itintu	_	NOUN	_	_	_	_	_	Trad=toro
 3	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
@@ -5219,7 +5219,7 @@
 # tagged = true
 # author = mazali
 1	Diyan	_	NOUN	_	_	_	_	_	Trad=su.tío
-2	chinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3SG.HUM
+2	chinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	íma	_	NOUN	_	_	_	_	_	Trad=zorrillo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -5233,7 +5233,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	ii	_	VERB	_	_	_	_	_	Trad=pesa|UPOS=Guessed
 3	chedee	_	NOUN	_	_	_	_	_	Trad=carga
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	iti	_	NOUN	_	_	_	_	_	Trad=animal
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -5292,7 +5292,7 @@
 # author = mazali
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	iʼyaa	_	NOUN	_	_	_	_	_	Trad=águila
-3	kanat	_	VERB	_	VerbForm=Fin	_	_	_	Trad=lleva|Gloss=?-llevar-3SG.AML
+3	kanat	_	VERB	_	VerbForm=Fin	_	_	_	Trad=lleva|Gloss=?-llevar-3.AML
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	kuu	_	NOUN	_	_	_	_	_	Trad=víbora
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -5306,7 +5306,7 @@
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	it	_	NOUN	_	_	_	_	_	Trad=animal
 3	dutu	_	NOUN	_	_	_	_	_	Trad=nariz
-4	kanet	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3SG.AML
+4	kanet	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3.AML
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 6	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 7	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
@@ -5320,7 +5320,7 @@
 # author = mazali
 1	Káku	_	_	_	_	_	_	_	_
 2	naiyaá	_	NOUN	_	_	_	_	_	Trad=salsa
-3	ñeé	_	NOUN	_	_	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+3	ñeé	_	NOUN	_	_	_	_	_	Trad=de.él|Gloss=base-POSS.3
 4	iynutii	_	NOUN	_	_	_	_	_	Trad=chile.piquín
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5331,9 +5331,9 @@
 # tagged = true
 # author = mazali
 1	A	a	ADV	_	_	_	_	_	Trad=ya
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	kuni	_	NOUN	_	_	_	_	_	Trad=guajolotito
-4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	iñtoʼö	_	NOUN	_	_	_	_	_	Trad=guajolota
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -5395,7 +5395,7 @@
 1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	chéche	_	ADJ	_	_	_	_	_	Trad=duro|UPOS=Guessed
 3	jaʼa	_	NOUN	_	_	_	_	_	Trad=cáscara
-4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	yuku	_	NOUN	_	_	_	_	_	Trad=tenate.para.cargar
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5407,7 +5407,7 @@
 # author = mazali
 1	Neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 2	jààba	_	NOUN	_	_	_	_	_	Trad=ingredientes
-3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 4	kántu	_	NOUN	_	_	_	_	_	Trad=caldo
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 6	nana	_	VERB	_	_	_	_	_	Trad=voy.a.hacer|Gloss=?-hacer-?
@@ -5432,7 +5432,7 @@
 # author = mazali
 1	Nochi	_	ADV	_	AdvType=Rel	_	_	_	Trad=donde
 2	inbakuyan	_	_	_	_	_	_	_	_
-3	jiíy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=toma|Gloss=?-tomar-3SG.HUM
+3	jiíy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=toma|Gloss=?-tomar-3.HUM
 4	jadi	_	NOUN	_	_	_	_	_	Trad=tepache
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5440,11 +5440,11 @@
 # text = Ta María jeakuta.
 # text[orig] = Ta María jeakuta.
 # text[spa] = María está llorando.
-# tagged = false
+# tagged = true
 # author = mazali
-1	Ta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,señora
+1	Ta	_	NOUN	_	NounType=Clf	_	_	_	Trad=señora
 2	María	María	PROPN	_	_	_	_	_	Trad=María
-3	jeakuta	_	VERB	_	VerbForm=Fin	_	_	_	Trad=está.llorando|Gloss=?-llorar-3SG.FEM
+3	jeakuta	_	VERB	_	VerbForm=Fin	_	_	_	Trad=está.llorando|Gloss=?-llorar-3.FEM
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0450
@@ -5454,9 +5454,9 @@
 # tagged = true
 # author = mazali
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	jeakuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=tapar|Gloss=?-tapar-3SG.HUM
+2	jeakuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=tapar|Gloss=?-tapar-3.HUM
 3	pañu	_	NOUN	_	_	_	_	_	Trad=rebozo
-4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0451
@@ -5477,7 +5477,7 @@
 # tagged = false
 # author = mazali
 1	Chikuʼún	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
-2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-3SG.HUM
+2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-3.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	jiba	_	NOUN	_	_	_	_	_	Trad=petate
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -5489,9 +5489,9 @@
 # tagged = true
 # author = mazali
 1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	jeakuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=tapar|Gloss=?-tapar-3SG.HUM
+2	jeakuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=tapar|Gloss=?-tapar-3.HUM
 3	pañu	_	NOUN	_	_	_	_	_	Trad=rebozo
-4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0454
@@ -5565,7 +5565,7 @@
 2	yúduu	_	NOUN	_	_	_	_	_	Trad=caballo
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	yama	_	NOUN	_	_	_	_	_	Trad=zacate
-5	ñëʼét	_	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3SG.AML
+5	ñëʼét	_	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.AML
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0460
@@ -5634,7 +5634,7 @@
 # tagged = true
 # author = mazali
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	jitubiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupan|Gloss=?-ocupar-3SG.HUM
+2	jitubiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupan|Gloss=?-ocupar-3.HUM
 3	jínyinii	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5672,8 +5672,8 @@
 # tagged = true
 # author = mazali
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	kuey	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=PROG-ir-3SG.HUM
-3	guay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=traer|Gloss=?-traer-3SG.HUM
+2	kuey	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=PROG-ir-3.HUM
+3	guay	_	VERB	_	VerbForm=Fin	_	_	_	Trad=traer|Gloss=?-traer-3.HUM
 4	jiyuu	_	NOUN	_	_	_	_	_	Trad=carrizo
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5698,7 +5698,7 @@
 # author = mazali
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
 2	kon	_	DET	_	_	_	_	_	Trad=ese
-3	jóbey	_	NOUN	_	_	_	_	_	Trad=su.nombre|Gloss=nombre-POSS.3SG.HUM
+3	jóbey	_	NOUN	_	_	_	_	_	Trad=su.nombre|Gloss=nombre-POSS.3.HUM
 4	nacho	Nacho	PROPN	_	Typo=Yes	_	_	_	Trad=Nacho
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5709,10 +5709,10 @@
 # tagged = true
 # author = mazali
 1	Diya	_	NOUN	_	_	_	_	_	Trad=mi.tío
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	jòò	_	NUM	_	_	_	_	_	Trad=seis
 4	chivato	_	NOUN	_	_	_	_	_	Trad=chivo
-5	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+5	ñeʼëñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0472
@@ -5724,7 +5724,7 @@
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	joʼö	_	VERB	_	_	_	_	_	Trad=suena
 3	jíku	_	NOUN	_	_	_	_	_	Trad=río
-4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	jibaku	_	PROPN	_	Typo=Yes	_	_	_	Trad=Cuicatlán|Gloss=LOC
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5736,7 +5736,7 @@
 # author = mazali
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	iti	_	NOUN	_	_	_	_	_	Trad=animal
-3	chinót	_	VERB	_	VerbForm=Fin	_	_	_	Trad=se.cayó|Gloss=?-caerse-3SG.AML
+3	chinót	_	VERB	_	VerbForm=Fin	_	_	_	Trad=se.cayó|Gloss=?-caerse-3.AML
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 5	joobe	_	NOUN	_	_	_	_	_	Trad=voladero
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -5748,7 +5748,7 @@
 # tagged = false
 # author = mazali
 1	Juchi	_	NOUN	_	_	_	_	_	Trad=sobrina
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 4	jinenúkuta	_	_	_	_	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -5762,7 +5762,7 @@
 1	Kakad	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corta|Gloss=POT-cortar-2SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	júku	_	NOUN	_	_	_	_	_	Trad=estaca
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	iti	_	NOUN	_	_	_	_	_	Trad=animal
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -5774,10 +5774,10 @@
 # tagged = true
 # author = mazali
 1	Julio	Julio	PROPN	_	_	_	_	_	Trad=Julio
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	juʼu	_	NUM	_	Typo=Yes	_	_	_	Trad=cinco
 4	itintu	_	NOUN	_	_	_	_	_	Trad=toro
-5	ñeʼës	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
+5	ñeʼës	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0477
@@ -5790,7 +5790,7 @@
 2	jubii	_	NOUN	_	_	_	_	_	Trad=lugar.arenoso
 3	bèè	_	NOUN	_	_	_	_	_	Trad=orilla
 4	jikuu	_	NOUN	_	_	_	_	_	Trad=río
-5	ñeé	_	NOUN	_	_	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+5	ñeé	_	NOUN	_	_	_	_	_	Trad=de.él|Gloss=base-POSS.3
 6	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5824,7 +5824,7 @@
 # author = mazali
 1	Noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 2	baku	_	NOUN	_	_	_	_	_	Trad=casa
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	kä	_	NOUN	_	_	_	_	_	Trad=zancudo
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5936,7 +5936,7 @@
 2	kadinu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=me.enteraré|Gloss=?-enterarse-1SG
 3	a	a	ADV	_	_	_	_	_	Trad=ya
 4	déa	_	_	_	_	_	_	_	_
-5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0490
@@ -6045,7 +6045,7 @@
 # author = mazali
 1	Kambo	_	NOUN	_	_	_	_	_	Trad=compadre
 2	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
-3	jiíy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=toma|Gloss=?-tomar-3SG.HUM
+3	jiíy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=toma|Gloss=?-tomar-3.HUM
 4	jadii	_	NOUN	_	_	_	_	_	Trad=tepache
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -6206,7 +6206,7 @@
 # tagged = false
 # author = mazali
 1	Kata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=canta|Gloss=?-cantar-?
-2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	kanuchii	_	_	_	_	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -6229,9 +6229,9 @@
 # tagged = true
 # author = mazali
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
-4	keabeay	_	NOUN	_	_	_	_	_	Trad=su.hermano|Gloss=hermano-3SG.HUM
+4	keabeay	_	NOUN	_	_	_	_	_	Trad=su.hermano|Gloss=hermano-3.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0514
@@ -6252,8 +6252,8 @@
 # author = mazali
 1	Kuoʼo	_	ADJ	_	_	_	_	_	Trad=rojo|UPOS=Guessed
 2	kiana	_	NOUN	_	_	_	_	_	Trad=camisa
-3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
-4	sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
+4	sakó	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0516
@@ -6332,7 +6332,7 @@
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 2	jee	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 3	kubnoʼo	_	NOUN	_	_	_	_	_	Trad=aguacero
-4	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+4	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 5	kuaa	_	NOUN	_	_	_	_	_	Trad=relámpago
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -6354,7 +6354,7 @@
 # tagged = true
 # author = mazali
 1	U	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	it	_	NOUN	_	_	_	_	_	Trad=animal
 5	dituu	_	VERB	_	VerbForm=Stat	_	_	_	Trad=fuerte
@@ -6431,7 +6431,7 @@
 # tagged = true
 # author = mazali
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
+2	nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	kuch-cheanu	_	NOUN	_	_	_	_	_	Trad=jabalí
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -6443,7 +6443,7 @@
 # tagged = true
 # author = mazali
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	kuchi	_	NOUN	_	_	_	_	_	Trad=marrano
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -6456,7 +6456,7 @@
 # tagged = true
 # author = mazali
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.HUM
+2	nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	kuch-nùni	_	NOUN	_	_	_	_	_	Trad=tepexcuintle
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -6469,7 +6469,7 @@
 # author = mazali
 1	Ti	_	DET	_	_	_	_	_	Trad=ese
 2	biʼin	_	NOUN	_	_	_	_	_	Trad=mi.hermana
-3	nichita	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.FEM
+3	nichita	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.FEM
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	kudiana	_	NOUN	_	_	_	_	_	Trad=campamocha
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -6481,7 +6481,7 @@
 # tagged = true
 # author = mazali
 1	Soʼön	_	PRON	_	_	_	_	_	Trad=él
-2	jinus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=usa|Gloss=?-usar-3SG.MSC
+2	jinus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=usa|Gloss=?-usar-3.MSC
 3	kudima	_	NOUN	_	_	_	_	_	Trad=calzón.de.manta.
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -6557,10 +6557,10 @@
 # text = Kuëd did ntiñu.
 # text[orig] = Kuëd did ntiñu.
 # text[spa] = Aprende a trabajar.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Kuëd	_	VERB	_	_	_	_	_	Trad=aprender
-2	did	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hacer,haces
+2	did	_	VERB	_	VerbForm=Fin	_	_	_	Trad=haces|Gloss=?-hacer-2SG
 3	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -6574,7 +6574,7 @@
 2	kuèè	_	ADJ	_	_	_	_	_	Trad=verde|UPOS=Guessed
 3	yata	_	NOUN	_	_	_	_	_	Trad=hierba
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 6	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -6607,7 +6607,7 @@
 # author = mazali
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	kúë	_	ADJ	_	_	_	_	_	Trad=delgado|UPOS=Guessed
-3	takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
+3	takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0545
@@ -6642,7 +6642,7 @@
 # tagged = true
 # author = mazali
 1	Dinuu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
-2	kuʼes	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=PROG-ir-3SG.MSC
+2	kuʼes	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=PROG-ir-3.MSC
 3	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -6653,7 +6653,7 @@
 # tagged = true
 # author = mazali
 1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	kuili	_	NOUN	_	_	_	_	_	Trad=renacuajo|UPOS=Guessed
 4	nóó	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 5	nun	_	NOUN	_	_	_	_	_	Trad=arroyo
@@ -6681,7 +6681,7 @@
 # tagged = true
 # author = mazali
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	kuïñu	_	NOUN	_	_	_	_	_	Trad=comadreja
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -6706,7 +6706,7 @@
 # tagged = true
 # author = paula
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	jitúbiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupa|Gloss=?-ocupar-3SG.HUM
+2	jitúbiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupa|Gloss=?-ocupar-3.HUM
 3	kuíyaa	_	NOUN	_	_	_	_	_	Trad=escobilla
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -6718,7 +6718,7 @@
 # author = paula
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
 2	jibaku	_	PROPN	_	Typo=Yes	_	_	_	Trad=Cuicatlán|Gloss=LOC
-3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
+3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3.HUM
 4	kuíyaa	_	NOUN	_	_	_	_	_	Trad=escobilla
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -6781,7 +6781,7 @@
 # author = paula
 1	Sadii	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 2	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
-3	chinus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3SG.MSC
+3	chinus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	kunette	_	NOUN	_	_	_	_	_	Trad=cienpies
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -6841,11 +6841,11 @@
 # text[spa] = Cuando es fiesta de muertos ocupan copal.
 # tagged = false
 # author = paula
-1	Jitubiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupan|Gloss=?-ocupar-3SG.HUM
+1	Jitubiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupan|Gloss=?-ocupar-3.HUM
 2	kusanto	_	NOUN	_	_	_	_	_	Trad=copal
 3	toch	tochi	SCONJ	_	Typo=Yes	_	_	_	Trad=cuando|Gloss=cuando
 4	bíku	_	NOUN	_	_	_	_	_	Trad=fiesta
-5	ñeé	_	NOUN	_	_	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+5	ñeé	_	NOUN	_	_	_	_	_	Trad=de.él|Gloss=base-POSS.3
 6	tnoʼo	_	_	_	_	_	_	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -6870,7 +6870,7 @@
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	icha	_	ADJ	_	_	_	_	_	Trad=frío|UPOS=Guessed
 3	kúu	_	NOUN	_	_	_	_	_	Trad=fierro
-4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	chinbaʼa	_	NOUN	_	_	_	_	_	Trad=puerta|Gloss=boca#casa
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -6919,7 +6919,7 @@
 # tagged = true
 # author = paula
 1	Dinuu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
-2	nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3SG.MSC
+2	nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	kuu	_	NOUN	_	_	_	_	_	Trad=víbora
 5	töo	_	NOUN	_	_	_	_	_	_
@@ -6972,7 +6972,7 @@
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	kuu	_	NOUN	_	_	_	_	_	Trad=víbora
 3	yúdu	_	NOUN	_	_	_	_	_	Trad=animal
-4	kánat	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llevó|Gloss=?-llevar-3SG.AML
+4	kánat	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llevó|Gloss=?-llevar-3.AML
 5	chibatu	_	NOUN	_	_	_	_	_	Trad=chivo
 6	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -7021,7 +7021,7 @@
 # tagged = true
 # author = paula
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	jitubiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupan|Gloss=?-ocupar-3SG.HUM
+2	jitubiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupan|Gloss=?-ocupar-3.HUM
 3	laatu	_	ADJ	_	_	_	_	_	Trad=arado|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7032,7 +7032,7 @@
 # tagged = true
 # author = paula
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	labente	_	NOUN	_	_	_	_	_	Trad=duende
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -7118,7 +7118,7 @@
 # tagged = true
 # author = paula
 1	Leeko	_	NOUN	_	_	_	_	_	Trad=coyote
-2	jeʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG
+2	jeʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3
 3	iti	_	NOUN	_	_	_	_	_	Trad=animal
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7167,7 +7167,7 @@
 # tagged = true
 # author = paula
 1	Diya	_	NOUN	_	_	_	_	_	Trad=mi.tío
-2	chinoy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=se.cayó|Gloss=?-caerse-3SG.HUM
+2	chinoy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=se.cayó|Gloss=?-caerse-3.HUM
 3	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	lö	_	NOUN	_	_	_	_	_	Trad=hoyo
@@ -7220,10 +7220,10 @@
 # text[spa] = Él tiene la cara muy bonita.
 # tagged = true
 # author = paula
-1	Sakon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+1	Sakon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 3	luuchi	_	ADJ	_	_	_	_	_	Trad=bonito|UPOS=Guessed
-4	noos	_	NOUN	_	_	_	_	_	Trad=su.cara|Gloss=cara-POSS.3SG.MSC
+4	noos	_	NOUN	_	_	_	_	_	Trad=su.cara|Gloss=cara-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0594
@@ -7244,7 +7244,7 @@
 # tagged = true
 # author = paula
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	marceja	_	NOUN	_	_	_	_	_	Trad=murciélago
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -7340,7 +7340,7 @@
 # tagged = true
 # author = paula
 1	Moo	_	ADV	_	_	_	_	_	Trad=abajo|UPOS=Guessed
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	ñana	_	NOUN	_	_	_	_	_	Trad=perro
 5	lii	_	ADJ	_	_	_	_	_	Trad=arrugado|UPOS=Guessed
@@ -7356,7 +7356,7 @@
 1	Moo	_	ADV	_	_	_	_	_	Trad=abajo|UPOS=Guessed
 2	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
 3	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
-4	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+4	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 5	nanta	_	NOUN	_	_	_	_	_	Trad=flor
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7368,7 +7368,7 @@
 # author = paula
 1	Moo	_	ADV	_	_	_	_	_	Trad=abajo|UPOS=Guessed
 2	ibuu	_	_	_	_	_	_	_	_
-3	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3SG.HUM
+3	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3.HUM
 4	nojoobee	_	NOUN	_	_	_	_	_	Trad=cielo
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7389,7 +7389,7 @@
 # tagged = false
 # author = paula
 1	Yata	_	NOUN	_	_	_	_	_	Trad=paloma
-2	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+2	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 3	kaka	_	NOUN	_	_	_	_	_	Trad=papel
 4	ñeedin	_	_	_	_	_	_	_	_
 5	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
@@ -7449,7 +7449,7 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	dudi	_	NOUN	_	_	_	_	_	Trad=tía
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -7465,9 +7465,9 @@
 # author = paula
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	naídii	_	NOUN	_	_	_	_	_	Trad=aguacate
-5	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+5	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0614
@@ -7477,7 +7477,7 @@
 # tagged = true
 # author = paula
 1	Dudi	_	NOUN	_	_	_	_	_	Trad=tía
-2	jiníkuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vendio|Gloss=?-vender-3SG.HUM
+2	jiníkuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vendio|Gloss=?-vender-3.HUM
 3	naídii	_	NOUN	_	_	_	_	_	Trad=aguacate
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7499,11 +7499,11 @@
 # text[spa] = Él tiene higos.
 # tagged = true
 # author = paula
-1	Sakoon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+1	Sakoon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	naídii	_	NOUN	_	_	_	_	_	Trad=aguacate
 4	yádi	_	NOUN	_	_	_	_	_	Trad=higo
-5	ñëʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
+5	ñëʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0617
@@ -7525,7 +7525,7 @@
 # tagged = true
 # author = paula
 1	Dinuu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
-2	jinikus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.MSC
+2	jinikus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3.MSC
 3	najaʼa	_	NOUN	_	_	_	_	_	Trad=nuez
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7536,7 +7536,7 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	najaʼa	_	NOUN	_	_	_	_	_	Trad=nuez
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -7560,8 +7560,8 @@
 # text[spa] = Él me ayudó a borrar el pizarrón.
 # tagged = false
 # author = paula
-1	Sakoo	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	chines	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ayudó|Gloss=?-ayudar-3SG.MSC
+1	Sakoo	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+2	chines	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ayudó|Gloss=?-ayudar-3.MSC
 3	uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	naneache	_	VERB	_	_	_	_	_	Trad=borrar
 5	nochi	_	ADV	_	AdvType=Rel	_	_	_	Trad=donde
@@ -7579,7 +7579,7 @@
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	chete	_	NOUN	_	_	_	_	_	Trad=estómago
 3	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
-4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	nankuníbii	_	ADJ	_	_	_	_	_	Trad=grande|UPOS=Guessed
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7590,7 +7590,7 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	tiku	_	NOUN	_	_	_	_	_	Trad=ramo
 5	nanta	_	NOUN	_	_	_	_	_	Trad=flor
@@ -7617,7 +7617,7 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	nantioö	_	NOUN	_	_	_	_	_	Trad=rosa
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -7631,8 +7631,8 @@
 1	Iñsee	_	PRON	_	PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
 2	nenoo	_	_	_	_	_	_	_	_
 3	nantioö	_	NOUN	_	_	_	_	_	Trad=rosa
-4	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
-5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+4	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
+5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0627
@@ -7654,9 +7654,9 @@
 # author = paula
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
 2	koon	_	NOUN	_	_	_	_	_	Trad=señora
-3	jinánuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=está.lavando|Gloss=?-lavar-3SG.HUM
+3	jinánuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=está.lavando|Gloss=?-lavar-3.HUM
 4	chita	_	NOUN	_	_	_	_	_	Trad=olla
-5	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+5	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0629
@@ -7677,7 +7677,7 @@
 # text[spa] = La raza de él es cuicateca.
 # tagged = true
 # author = paula
-1	Sakoon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+1	Sakoon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 2	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 3	dibaku	_	NOUN	_	_	_	_	_	Trad=cuicateco
 4	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
@@ -7691,10 +7691,10 @@
 # author = paula
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
 2	koon	_	DET	_	_	_	_	_	Trad=ese
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
 5	ndá	_	ADJ	_	_	_	_	_	Trad=bueno|UPOS=Guessed
-6	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+6	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0632
@@ -7716,7 +7716,7 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	ndakuu	_	NOUN	_	_	_	_	_	Trad=guarache
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -7758,7 +7758,7 @@
 # author = paula
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
 2	ndee	_	ADJ	_	_	_	_	_	Trad=mucho|UPOS=Guessed
-3	dayad	_	NOUN	_	_	_	_	_	Trad=tu.hijo(a)|Gloss=hijo-POSS.SG2
+3	dayad	_	NOUN	_	_	_	_	_	Trad=tu.hijo(a)|Gloss=hijo-POSS.2SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0637
@@ -7767,8 +7767,8 @@
 # text[spa] = Ella come ejotes.
 # tagged = true
 # author = paula
-1	Takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
-2	jeéta	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG.FEM
+1	Takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
+2	jeéta	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.FEM
 3	ndete	_	NOUN	_	_	_	_	_	Trad=ejote
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7780,7 +7780,7 @@
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	ndete	_	NOUN	_	_	_	_	_	Trad=ejote
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -7792,7 +7792,7 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ndeyaa	_	NOUN	_	_	_	_	_	Trad=durazno
 4	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
 5	baku	_	NOUN	_	_	_	_	_	Trad=casa
@@ -7805,7 +7805,7 @@
 # tagged = true
 # author = paula
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
+2	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3.HUM
 3	ndeyee	_	NOUN	_	_	_	_	_	Trad=durazno
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7838,7 +7838,7 @@
 # text[spa] = Ella tiene granos en todo el cuerpo.
 # tagged = true
 # author = paula
-1	Takon	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
+1	Takon	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
 2	nee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quería|Gloss=?-querer-?
 3	ndúbi	_	NOUN	_	_	_	_	_	Trad=grano
 4	num	_	ADJ	_	_	_	_	_	Trad=todo|UPOS=Guessed
@@ -7915,7 +7915,7 @@
 # tagged = true
 # author = paula
 1	Diya	_	NOUN	_	_	_	_	_	Trad=mi.tío
-2	jiinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=siembra|Gloss=?-sembrar-3SG.HUM
+2	jiinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=siembra|Gloss=?-sembrar-3.HUM
 3	neatuu	_	NOUN	_	_	_	_	_	Trad=tomate
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -7927,7 +7927,7 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
 5	ñëe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -7942,7 +7942,7 @@
 # tagged = true
 # author = paula
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-3SG.HUM
+2	kay	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=comprar|Gloss=CPL-comprar-3.HUM
 3	neene	_	NOUN	_	_	_	_	_	Trad=guaje
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7966,7 +7966,7 @@
 # tagged = false
 # author = paula
 1	Keabea	_	NOUN	_	_	_	_	_	Trad=hermano(a)
-2	eanus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=gusta|Gloss=?-gustar-3SG.MSC
+2	eanus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=gusta|Gloss=?-gustar-3.MSC
 3	jeés	_	_	_	_	_	_	_	_
 4	nibii	_	NOUN	_	_	_	_	_	Trad=papa
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -7978,7 +7978,7 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	nichama	_	NUM	_	_	_	_	_	Trad=once
 4	yaá	_	VERB	_	_	_	_	_	Trad=está|UPOS=Guessed
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -8002,10 +8002,10 @@
 # tagged = true
 # author = paula
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	nichi	_	NUM	_	_	_	_	_	Trad=díez
 4	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
-5	ñeeñ	_	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3SG.HUM
+5	ñeeñ	_	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0657
@@ -8065,7 +8065,7 @@
 # tagged = true
 # author = paula
 1	Insen	insen	PRON	_	PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	nichubi	_	NUM	_	_	_	_	_	Trad=doce
 4	yúduu	_	NOUN	_	_	_	_	_	Trad=caballo
 5	ñëʼen	_	NOUN	_	NounType=Relat	_	_	_	_
@@ -8090,9 +8090,9 @@
 # tagged = true
 # author = paula
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	nïi	_	NOUN	_	_	_	_	_	Trad=chayote
-4	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.HUM
+4	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0664
@@ -8103,7 +8103,7 @@
 # author = paula
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼey	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG.HUM
+3	cheʼey	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
 4	níitu	_	NOUN	_	_	_	_	_	Trad=nopal
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8114,7 +8114,7 @@
 # tagged = true
 # author = paula
 1	A	a	ADV	_	_	_	_	_	Trad=ya
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ndeyee	_	NOUN	_	_	_	_	_	Trad=durazno
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	nínaa	_	ADJ	_	_	_	_	_	Trad=maduro|UPOS=Guessed
@@ -8140,7 +8140,7 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	niï	_	NOUN	_	_	_	_	_	Trad=chayote
 4	ninchii	_	ADJ	_	_	_	_	_	Trad=cocido|UPOS=Guessed
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -8174,11 +8174,11 @@
 # text = Takon káta nini kudubi.
 # text[orig] = Takon káta nini kudubi.
 # text[spa] = Ella compró nueve cucharas.
-# tagged = false
+# tagged = true
 # author = paula
-1	Takon	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
-2	káta	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=compró|Gloss=CPL-comprar-3SG.FEM
-3	nini	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=nueve,ocho
+1	Takon	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
+2	káta	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=compró|Gloss=CPL-comprar-3.FEM
+3	nini	_	NUM	_	NumType=Card	_	_	_	Trad=ocho
 4	kudubi	_	NOUN	_	_	_	_	_	Trad=cuchara
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8186,11 +8186,11 @@
 # text = Sakon nindamas nini tuu.
 # text[orig] = Sakon nindamas nini tuu.
 # text[spa] = Él juntó nueve piedras.
-# tagged = false
+# tagged = true
 # author = paula
-1	Sakon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	nindamas	_	VERB	_	VerbForm=Fin	_	_	_	Trad=juntó|Gloss=?-juntar-3SG.MSC
-3	nini	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=nueve,ocho
+1	Sakon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+2	nindamas	_	VERB	_	VerbForm=Fin	_	_	_	Trad=juntó|Gloss=?-juntar-3.MSC
+3	nini	_	NUM	_	NumType=Card	_	_	_	Trad=ocho
 4	tuu	_	NOUN	_	_	_	_	_	Trad=piedra
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8226,7 +8226,7 @@
 # author = paula
 1	Yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 2	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
-3	takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
+3	takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
 4	a	a	PART	_	_	_	_	_	Gloss=QST
 5	nintubii	_	ADJ	_	_	_	_	_	Trad=descompuesto|UPOS=Guessed
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -8251,7 +8251,7 @@
 # author = paula
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
-3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 4	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -8278,7 +8278,7 @@
 # tagged = false
 # author = paula
 1	Sudi	_	_	_	_	_	_	_	_
-2	jintibiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-3SG.HUM
+2	jintibiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-3.HUM
 3	ñoó	_	NOUN	_	_	_	_	_	Trad=lumbre
 4	nioʼoo	_	NOUN	_	_	_	_	_	Trad=suelo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -8290,7 +8290,7 @@
 # tagged = true
 # author = paula
 1	Nioʼoo	_	NOUN	_	_	_	_	_	Trad=suelo
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	nanta	_	NOUN	_	_	_	_	_	Trad=flor
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8301,7 +8301,7 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 5	nóʼo	_	NOUN	_	_	_	_	_	Trad=maestro,.adobe
@@ -8339,7 +8339,7 @@
 # author = paula
 1	Yeabea	_	ADJ	_	_	_	_	_	Trad=bonito(a)|UPOS=Guessed
 2	noo	no	ADP	_	Typo=Yes	_	_	_	Trad=en|Gloss=LOC
-3	takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
+3	takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0684
@@ -8348,9 +8348,9 @@
 # text[spa] = Él tiene la cara lastimada.
 # tagged = true
 # author = paula
-1	Sakon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+1	Sakon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 2	ninjaʼa	_	ADJ	_	_	_	_	_	Trad=lastimado(a)|UPOS=Guessed
-3	noos	_	NOUN	_	_	_	_	_	Trad=su.cara|Gloss=cara-POSS.3SG.MSC
+3	noos	_	NOUN	_	_	_	_	_	Trad=su.cara|Gloss=cara-POSS.3.MSC
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0685
@@ -8360,7 +8360,7 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	nóʼo	_	NOUN	_	_	_	_	_	Trad=maestro,.adobe
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
@@ -8396,12 +8396,12 @@
 # text[spa] = Él le puso balas a su escopeta.
 # tagged = false
 # author = paula
-1	Sakoon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	chiis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puso|Gloss=?-poner-3SG.MSC
+1	Sakoon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+2	chiis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puso|Gloss=?-poner-3.MSC
 3	noʼoo	_	NOUN	_	_	_	_	_	Trad=bala
 4	chete	_	NOUN	_	_	_	_	_	Trad=estómago
 5	jinkatu	_	_	_	_	_	_	_	_
-6	ñëʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
+6	ñëʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0689
@@ -8450,7 +8450,7 @@
 # author = paula
 1	Nukueʼë	_	ADJ	_	_	_	_	_	Trad=todo|UPOS=Guessed
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-3	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3SG.FEM
+3	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3.FEM
 4	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	too	_	ADJ	_	_	_	_	_	Trad=mucho|UPOS=Guessed
 6	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
@@ -8476,7 +8476,7 @@
 # tagged = false
 # author = paula
 1	Chichee	_	_	_	_	_	_	_	_
-2	jeéy	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG.HUM
+2	jeéy	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
 3	nukyanti	_	NOUN	_	_	_	_	_	Trad=guanábana
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8487,7 +8487,7 @@
 # tagged = true
 # author = paula
 1	Jibakun	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
-2	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.HUM
+2	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3.HUM
 3	nukyanti	_	NOUN	_	_	_	_	_	Trad=guanábana
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8499,7 +8499,7 @@
 # author = paula
 1	Chiduu	_	NOUN	_	_	_	_	_	Trad=sacerdote
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼey	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3SG.HUM
+3	cheʼey	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	nukyoo	_	NOUN	_	_	_	_	_	Trad=membrillo
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -8533,9 +8533,9 @@
 # text[spa] = Él fue a traer pitalla.
 # tagged = true
 # author = paula
-1	Sakon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	cheés	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=CPL-ir-3SG.MSC
-3	nguas	_	VERB	_	VerbForm=Fin	_	_	_	Trad=traer|Gloss=?-traer-3SG.MSC
+1	Sakon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+2	cheés	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fue|Gloss=CPL-ir-3.MSC
+3	nguas	_	VERB	_	VerbForm=Fin	_	_	_	Trad=traer|Gloss=?-traer-3.MSC
 4	nuna	_	NOUN	_	_	_	_	_	Trad=pitalla
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8580,7 +8580,7 @@
 # tagged = true
 # author = paula
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	jinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pone|Gloss=?-poner-3SG.HUM
+2	jinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pone|Gloss=?-poner-3.HUM
 3	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 4	nnioó	_	ADV	_	_	_	_	_	Trad=en.la.lumbre|Gloss=en#lumbre
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -8603,8 +8603,8 @@
 # text[spa] = Él cometio un delito.
 # tagged = true
 # author = paula
-1	Sakoo	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	diis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cometió|Gloss=?-hacer-3SG.MSC
+1	Sakoo	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+2	diis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cometió|Gloss=?-hacer-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	nunti	_	NOUN	_	_	_	_	_	Trad=delito
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -8642,7 +8642,7 @@
 # author = paula
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
 2	koon	_	NOUN	_	_	_	_	_	Trad=señora
-3	jiníkuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vendio|Gloss=?-vender-3SG.HUM
+3	jiníkuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vendio|Gloss=?-vender-3.HUM
 4	nutbee	_	NOUN	_	_	_	_	_	Trad=arete
 5	naa	_	NOUN	_	_	_	_	_	Trad=oro
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -8664,8 +8664,8 @@
 # text[spa] = Él vendio granadas.
 # tagged = true
 # author = paula
-1	Sakon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
-2	nikus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vendio|Gloss=?-vender-3SG.MSC
+1	Sakon	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+2	nikus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vendio|Gloss=?-vender-3.MSC
 3	nutdiku	_	NOUN	_	_	_	_	_	Trad=granadas
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8677,7 +8677,7 @@
 # author = paula
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
 2	koon	_	DET	_	_	_	_	_	Trad=ese
-3	neʼeñ	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3SG.HUM
+3	neʼeñ	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3.HUM
 4	nutdúü	_	NOUN	_	_	_	_	_	Trad=grilla
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8687,8 +8687,8 @@
 # text[spa] = Ella ocupa la grilla para el dolor de oído.
 # tagged = true
 # author = paula
-1	Takoon	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
-2	jitubita	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupa|Gloss=?-ocupar-3SG.FEM
+1	Takoon	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
+2	jitubita	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ocupa|Gloss=?-ocupar-3.FEM
 3	nutdúü	_	NOUN	_	_	_	_	_	Trad=grilla
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	jeé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
@@ -8713,8 +8713,8 @@
 # text[spa] = Ella vende semillas.
 # tagged = true
 # author = paula
-1	Takon	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
-2	jinikuta	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3SG.FEM
+1	Takon	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
+2	jinikuta	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3.FEM
 3	nutiukuu	_	NOUN	_	_	_	_	_	Trad=semilla
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8724,10 +8724,10 @@
 # text[spa] = A él le duele un ojo.
 # tagged = true
 # author = paula
-1	Sakoo	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3SG.MSC
+1	Sakoo	sakoo	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 2	yaʼá	_	VERB	_	_	_	_	_	Trad=duele|Gloss=?-doler-?
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-4	nutnoos	_	NOUN	_	_	_	_	_	Trad=su.ojo|Gloss=ojo-POSS.3SG.MSC
+4	nutnoos	_	NOUN	_	_	_	_	_	Trad=su.ojo|Gloss=ojo-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0716
@@ -8736,7 +8736,7 @@
 # text[spa] = Ella tiene ojos verdes.
 # tagged = true
 # author = paula
-1	Takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
+1	Takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
 2	kuee	_	ADJ	_	_	_	_	_	Trad=chueco|UPOS=Guessed
 3	nutnoo	_	NOUN	_	_	_	_	_	Trad=ojo
 4	taa	_	ADJ	_	_	_	_	_	Trad=verde|UPOS=Guessed
@@ -8848,10 +8848,10 @@
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	inu	inu	NUM	_	NumType=Card	_	_	_	Trad=tres
 4	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
-5	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
+5	ñee	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 6	nuuku	_	NOUN	_	_	_	_	_	Trad=chirimoya
 7	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 8	.	.	PUNCT	_	_	_	_	_	_
@@ -8862,8 +8862,8 @@
 # text[spa] = Ella compra chirimoyas maduras.
 # tagged = true
 # author = paula
-1	Takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3SG.FEM
-2	jaata	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=compra|Gloss=PROG-comprar-3SG.FEM
+1	Takoo	takoo	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
+2	jaata	kua	VERB	_	VerbForm=Fin	_	_	_	Trad=compra|Gloss=PROG-comprar-3.FEM
 3	nuuku	_	NOUN	_	_	_	_	_	Trad=chirimoya
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	nínaa	_	ADJ	_	_	_	_	_	Trad=maduro|UPOS=Guessed
@@ -8892,7 +8892,7 @@
 2	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
 3	ñëʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 4	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3SG
+5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 6	núuku	_	NOUN	_	_	_	_	_	Trad=vara
 7	.	.	PUNCT	_	_	_	_	_	_
 

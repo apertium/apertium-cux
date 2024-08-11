@@ -198,6 +198,8 @@ class Tagger:
 			new_analyses = choose_or_remove(analyses, 'hierba', 'hierba')
 			if len(new_analyses) > 1:
 				new_analyses = choose_or_remove(new_analyses, 'pichón', 'pichón')
+		elif form == 'ñeʼen':
+			new_analyses = choose_or_remove(analyses, 'quiere', 'quiere')
 		elif form == 'yoo':
 			new_analyses = choose_or_remove(analyses, 'brazadas?', 'brazada')
 		elif form == 'dü':
