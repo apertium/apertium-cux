@@ -385,7 +385,7 @@ _	un	uu	PRON	PronType=Prs	yo	1SG
 _	ú	uu	PRON	PronType=Prs	yo	1SG			
 _	tuʼú		NOUN		pollo				
 _	tuʼu		NOUN		pollo				
-_	yaʼa		VERB		duele				
+_	yaʼa		VERB		duele	?-doler-?			
 _	yaʼa		NOUN		dolor				
 _	yaʼa		VERB		amo	?-amar-?			
 _	yaʼaa		NOUN		jícara				
@@ -404,7 +404,7 @@ _	yada		NOUN		pájaro
 x	yadi		ADJ		dulce				
 _	yadnuni		NOUN		pato				
 _	yadyeeko		NOUN		codorniz				
-x	yagii		VERB		duele				
+x	yagii		VERB		duele	?-doler-?			
 _	yaka		NOUN		pescado				
 _	yakaa		NOUN		ocote				
 x	yaku		ADJ		alto				
@@ -794,7 +794,7 @@ _	yakun		NOUN		iglesia
 _	yadkuöo		NOUN		canario				
 _	yáda		NOUN		pájaro				
 _	yàbi		ADV		anoche				
-x	yaaʼa		VERB		duele				
+x	yaaʼa		VERB		duele	?-doler-?			
 _	yaás		VERB		ama	?-amar-3SG.MSC			
 _	túʼu		NOUN		pollo				
 _	tumaa		VERB		cortar	?-cortar-?			
@@ -1135,10 +1135,10 @@ _	ñó		NOUN		pueblo
 _	bayaka		NOUN		coscomate				
 _	bañeʼë		NOUN		mi casa	casa#base-POSS.1SG			
 _	bakun		NOUN		mi casa				
-x	ay		VERB		llama				
-_	áta		VERB		llora				
-_	át		VERB		grita				
-_	at		VERB		grita				
+x	ay		VERB		llama	?-llamar-?			
+_	áta		VERB		llora	?-llorar-?			
+_	át		VERB		grita	?-gritar-?			
+_	at		VERB		grita	?-gritar-?			
 _	dikayan		NOUN		niños				
 _	ñuu		NOUN		mazorca				
 _	tin		DET		ese				
@@ -1170,7 +1170,7 @@ _	si		PRON		eso
 _	kuí		VERB		echar	?-echar-?			
 _	chii		VERB		se murió	?-morirse-?			
 _	ika		VERB		hago	?-hacer-1SG			
-_	yaʼa		VERB		duele				
+_	yaʼa		VERB		duele	?-doler-?			
 _	üñ		VERB		raja	?-rajar-?			
 x	anicha		ADJ		macizo				
 _	choʼo		VERB		pasé	?-pasar-1SG			
@@ -1237,18 +1237,18 @@ _	Juóm		PROPN		Juan
 _	silïm		NOUN		niño				
 _	noʼö		NOUN		maestro				
 _	niku		ADJ		viejo				
-_	kutokoʼo		VERB		empezar				
-_	kunus		VERB		sembrar				
-_	kune		VERB		quedarse				
-_	koʼös		VERB		va				
-_	kayadus		VERB		estaba durmiendo				
-_	jiyadus		VERB		duerme				
-_	jinuku		VERB		vende				
+_	kutokoʼo		VERB		empezar	?-empezar-?			
+_	kunus		VERB		sembrar	?-sembrar-?			
+_	kune		VERB		quedarse	?-quedarse-?			
+_	koʼös		VERB		va	?-ir-?			
+_	kayadus		VERB		estaba durmiendo	?-dormir-?			
+_	jiyadus		VERB		duerme	?-dormir-?			
+_	jinuku		VERB		vende	?-vender-?			
 _	iñsé		PRON		ellos				
 _	Fo		PROPN		Juan				
-_	chimjinu		VERB		me olvidé				
-_	chichí		VERB		sembrar				
-_	chitokoʼo		VERB		empecé				
+_	chimjinu		VERB		me olvidé	?-olvidarse-1SG			
+_	chichí		VERB		sembrar	?-sembrar-?			
+_	chitokoʼo		VERB		empecé	?-empezar-1SG			
 x	yunu		ADJ		joven				
 _	takó		PRON		ella				
 _	tabea		PRON		cuánto				
@@ -1258,27 +1258,27 @@ _	ñeʼey	ñeʼe	NOUN	NounType=Relat	de ellos	base-POSS.3PL
 _	nèè		NOUN		vez				
 _	ndata		NOUN		mujer				
 _	Marian		PROPN		María				
-_	nangakud		VERB		acuérdate				
+_	nangakud		VERB		acuérdate	?-acordarse-2SG			
 _	nád		VERB		tienes	?-tener-2SG			
-_	ná		VERB		tiene 				
+_	ná		VERB		tiene 	?-tener-?			
 _	insë		PRON		ustedes				
 x	duytï		NOUN		pelo				
 _	dín		PRON		tú				
 _	màà		NOUN		noche				
-_	kakued		VERB		enséñame				
+_	kakued		VERB		enséñame	?-enseñar-?			
 _	mniñu		ADV		ahora				
-_	kuin		VERB		acabar				
-_	kuchis		VERB		vino				
-_	kuá		VERB		compraré				
+_	kuin		VERB		acabar	?-acabar-?			
+_	kuchis		VERB		vino	?-venir-?			
+_	kuá		VERB		compraré	?-comprar-?			
 _	kanu		VERB		está				
 _	kabiö		ADV		mañana				
 _	jobed		NOUN		tu nombre				
-_	chimjinud		VERB		olvidaste				
+_	chimjinud		VERB		olvidaste	?-olvidar-?			
 x	cho		DET		esa				
 _	chimbaʼa		NOUN		puerta				
-_	chikueta		VERB		enseñó				
-_	chikadinud		VERB		supiste				
-_	chid		VERB		echaste				
+_	chikueta		VERB		enseñó	?-enseñar-?			
+_	chikadinud		VERB		supiste	?-saber-2SG			
+_	chid		VERB		echaste	?-echar-2SG			
 _	bakus		NOUN		su casa				
 _	Pedro		PROPN		Pedro				
 _	tonto		ADJ		tonto				
@@ -1289,13 +1289,13 @@ x	yudtï		NOUN		pelo
 _	yanam		NOUN		perro				
 _	yakuy		ADJ		altos				
 _	yakuta		ADJ		alta				
-_	yakut		VERB		volar				
+_	yakut		VERB		volar	?-volar-?			
 _	yakus		ADJ		alto				
 _	yákum		NOUN		iglesia				
 _	yakud		ADJ		alto				
 _	yàka		VERB		tengo sed				
-_	tumgoʼos		VERB		me preguntó				
-_	tumad		VERB		cortar				
+_	tumgoʼos		VERB		me preguntó	?-preguntarse-?			
+_	tumad		VERB		cortar	?-cortar-?			
 _	tubnéd		VERB		prestaste	?-prestar-2SG			
 _	toʼod		NOUN		tu mano				
 _	tò		ADV		ahí				
@@ -1311,8 +1311,8 @@ _	amas		NUM		en uno
 _	ob		NUM		dos				
 _	nujinu		VERB		tengo prisa				
 _	noʼös		NOUN		maestro				
-_	nèta		VERB		ordenó				
-_	diyadus		VERB		duerme				
+_	nèta		VERB		ordenó	?-ordenar-?			
+_	diyadus		VERB		duerme	?-dormir-?			
 _	insën		PRON		ustedes				
 _	insén		PRON		ustedes				
 _	insé		PRON		ustedes				
@@ -1326,9 +1326,9 @@ _	nini		NUM		ocho
 _	nichama		NUM		once				
 _	niku		NUM		veinte				
 _	am		NUM		uno				
-_	kanós		VERB		salieron				
+_	kanós		VERB		salieron	?-salir-?			
 _	in		NUM		tres				
-_	kutoʼon		VERB		agarren				
+_	kutoʼon		VERB		agarren	?-agarrar-?			
 _	kunoʼos		VERB		se fue				
 _	tum		SCONJ		para que				
 _	ndó		VERB		vino	?-venir-?			
@@ -1346,10 +1346,10 @@ _	Jidiba		PROPN		Mixteca
 _	ndatata		NOUN		mujer				
 _	juana	Juana	PROPN		Juana				
 _	beayee		NOUN		nixtamal				
-_	jinukuy		VERB		venden				
-_	kadayuʼuu		VERB		estamos durmiendo				
-_	jiyaduy		VERB		duerme				
-_	jiyadu		VERB		duermo				
+_	jinukuy		VERB		venden	?-vender-?			
+_	kadayuʼuu		VERB		estamos durmiendo	?-dormir-?			
+_	jiyaduy		VERB		duerme	?-dormir-?			
+_	jiyadu		VERB		duermo	?-dormir-?			
 _	nauné		ADV		de nuevo				
 _	chakuta		NOUN		su mamá				
 _	jù		INTJ		sí				
@@ -1361,23 +1361,23 @@ _	beajukus				el que está sentado
 _	beaka				sí hay				
 _	biʼid		NOUN		tu hermano				
 x	bö		ADP		en				
-_	cheá		VERB		se pintó				
+_	cheá		VERB		se pintó	?-pintarse-?			
 _	chéam		NOUN		comal				
-_	chèd		VERB		aprendiste				
+_	chèd		VERB		aprendiste	?-aprender-2SG			
 _	beade		NOUN		español				
 _	chidata		NOUN		su papá				
-_	chikueñ		VERB		enseñó				
+_	chikueñ		VERB		enseñó	?-enseñar-?			
 _	chu		PRON		este				
 _	chineta		PRON		ella				
-_	damid		VERB		acusó				
+_	damid		VERB		acusó	?-acusar-?			
 _	dayan		NOUN		mis hijos				
-_	denud		VERB		sabes				
-_	dì		VERB		hacer				
-_	di		VERB		hacer				
+_	denud		VERB		sabes	?-saber-2SG			
+_	dì		VERB		hacer	?-hacer-?			
+_	di		VERB		hacer	?-hacer-?			
 _	dime		ADV		sólo				
 _	dimod		ADV		sólo				
 _	dimo		ADV		sólo				
-_	jines		VERB		habla				
+_	jines		VERB		habla	?-hablar-?			
 _	dimos		ADV		sólo				
 _	chaketa		NOUN		su mamá				
 _	kúës		ADJ		flaco				
@@ -1395,21 +1395,21 @@ _	diuu		VERB
 _	kanut		VERB		está				
 _	kantu		NOUN		comida				
 _	tan		ADV		sólo				
-_	ndininus		VERB		acostumbró				
-_	ndininu		VERB		acostumbro				
+_	ndininus		VERB		acostumbró	?-acostombrar-3SG.MSC			
+_	ndininu		VERB		acostumbro	?-acostombrar-?			
 _	nikua				no				
 _	nigua				no				
-_	diuu		VERB		hacer				
+_	diuu		VERB		hacer	?-hacer-?			
 _	kueʼes		VERB		se fue				
 _	mí		ADV		allá				
 _	nès		VERB		ordenó	?-ordenar-?			
-_	neʼeta		VERB		quiere				
-_	techkód		VERB		lleves				
-_	techkó		VERB		lleva				
+_	neʼeta		VERB		quiere	?-querer-?			
+_	techkód		VERB		lleves	?-llevar-2SG			
+_	techkó		VERB		lleva	?-llevar-?			
 _	ta		NOUN	NounType=Clf					
-_	ninubita		VERB		se parece				
-_	ninubis		VERB		se parece				
-_	nandinda		VERB		arregla				
+_	ninubita		VERB		se parece	?-parecerse-?			
+_	ninubis		VERB		se parece	?-parecerse-?			
+_	nandinda		VERB		arregla	?-arreglar-?			
 _	nano		ADP		en frente de				
 _	ichad		VERB		tienes frío				
 _	chitoʼo		VERB		tener gripa				
@@ -1421,10 +1421,10 @@ _	chíd		VERB
 x	yaduu		ADJ		picante				
 _	yadan		NOUN		su hijo				
 _	toʼö		PRON		él				
-_	nichin		VERB		vimos				
-_	nochid		VERB		viste				
+_	nichin		VERB		vimos	?-ver-1PL			
+_	nochid		VERB		viste	?-ver-2SG			
 _	kúeas		NOUN		brujo				
-_	kudadus		VERB		va a dormir				
+_	kudadus		VERB		va a dormir	?-dormir-?			
 _	kuch		ADP		fuera				
 _	kenés		VERB		estaba				
 _	kód		VERB		súbete	?-subirse-2SG			
@@ -1435,8 +1435,8 @@ _	jitenu		VERB		creo	?-creer-1SG
 _	jinu		VERB		atrasé	?-atrasarse-1SG			
 _	jined		VERB		sabes	?-saber-2SG			
 _	jiné		VERB		sé	?-saber-1SG			
-_	jidijù		VERB		escribir				
-_	jidid		VERB		hacer				
+_	jidijù		VERB		escribir	?-escribir-?			
+_	jidid		VERB		hacer	?-hacer-2SG			
 _	jichis		VERB		viene	?-venir-3SG.MSC			
 _	jeku		NOUN		pohual				
 _	jea		VERB		me subo	?-subirse-1SG			
@@ -1458,14 +1458,14 @@ x	nioo		ADV		en el suelo
 x	jú		INTJ		sí				
 x	tatlin		ADV		casi				
 _	silí		NOUN		niño				
-_	kayaku		VERB		durmió				
+_	kayaku		VERB		durmió	?-dormir-?			
 x	rúʼuu		ADJ		gordos				
 _	ñuʼuu		NOUN	NounType=Relat	de nosotros				
 _	ñeʼen		NOUN	NounType=Relat	de nosotros				
 _	böʼos		NOUN		miedo				
-_	jikás		VERB		caminar				
+_	jikás		VERB		caminar	?-caminar-?			
 x	kanii		ADJ		rápido				
-_	kunenoñ		VERB		cuidar				
+_	kunenoñ		VERB		cuidar	?-cuidar-?			
 x	kuedama		ADV		siempre				
 _	neachead		VERB		barrer				
 _	íkad		VERB		cortas	?-cortar-2SG			
@@ -1473,7 +1473,7 @@ _	kerillo		NOUN		cerillo
 _	kaja		NOUN		caja				
 _	jinabad		VERB		guardas	?-guardar-2SG			
 _	kakiö		NOUN		basura				
-_	jideaku		VERB		quemar				
+_	jideaku		VERB		quemar	?-quemar-?			
 _	née		NOUN		vez				
 _	niʼö		NOUN		en la olla				
 _	núnim		NOUN		frijol				
@@ -1488,15 +1488,15 @@ x	bíchad		ADJ		gordo
 x	bícha		ADJ		gordo				
 x	kúëd		ADJ		flaco				
 _	iñsén		PRON		ellos				
-_	chíy		VERB		cortaron				
+_	chíy		VERB		cortaron	?-cortar-?			
 x	nduk		NOUN						
 x	daʼa		NOUN						
 _	kuʼuu		VERB		tenemos que				
-_	joʼó		VERB		pican				
-_	kuʼú		VERB		tomar				
+_	joʼó		VERB		pican	?-picar-?			
+_	kuʼú		VERB		tomar	?-tomar-?			
 x	bíchaʼuu		ADJ		gordos				
 x	dùbii		VERB		tener poco				
-_	choʼod		VERB		cruzar				
+_	choʼod		VERB		cruzar	?-cruzar-2SG			
 x	chinjíku		ADV		en el río				
 x	chin		ADP		en				
 x	kunú		INTJ		sí				
@@ -1506,16 +1506,16 @@ _	chis		VERB		vendrá	?-venir-3SG.MSC
 _	chíd		VERB		vendrás	?-venir-2SG			
 _	takue		SCONJ		porque				
 x	ne		VERB		se necesita				
-_	ndos		VERB		llegó				
+_	ndos		VERB		llegó	?-llegar-3SG.MSC			
 x	ndenó		NOUN		muchas cosas				
 x	lïn		NOUN		poco				
 x	kuè		ADJ		flaco				
 _	koʼos		VERB		dijo	?-decir-3SG.MSC			
 _	kanid		VERB		apúrate	?-apurarse-2SG			
-_	jinichiʼuu		VERB		conocemos				
-_	jindeʼe		VERB		habla				
+_	jinichiʼuu		VERB		conocemos	?-conocer-?			
+_	jindeʼe		VERB		habla	?-hablar-?			
 _	jiduchiy		VERB		juegan	?-jugar-3PL			
-_	jè		VERB		huele				
+_	jè		VERB		huele	?-oler-?			
 _	injobes		VERB		se ve	?-verse-3SG.MSC			
 x	guadbea		PRON		nada				
 x	guad		X		no estás				

@@ -1557,7 +1557,7 @@
 # alimg = La mosca está en la pared.
 # hash = 0aaedf3bf9c2d17a6fa20be88c0022cd
 # tagged = true
-1	Joʼó	_	VERB	_	_	_	_	_	Trad=pican
+1	Joʼó	_	VERB	_	_	_	_	_	Trad=pican|Gloss=?-picar-?
 2	yàaku	_	NOUN	_	_	_	_	_	Trad=mosquito
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1902,7 +1902,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-4	kuʼú	_	VERB	_	_	_	_	_	Trad=tomar
+4	kuʼú	_	VERB	_	_	_	_	_	Trad=tomar|Gloss=?-tomar-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:66
@@ -1927,7 +1927,7 @@
 # hash = 01989992160aa9bf39f850bc940d5f83
 # tagged = true
 1	Duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
-2	ná	_	VERB	_	_	_	_	_	Trad=tiene.
+2	ná	_	VERB	_	_	_	_	_	Trad=tiene.|Gloss=?-tener-?
 3	machetem	_	NOUN	_	_	_	_	_	Trad=machete
 4	?	?	PUNCT	_	_	_	_	_	_
 
@@ -1954,7 +1954,7 @@
 # alimg = Mi perro no tiene cola.
 # hash = 9d32586d14976004a2636eee9c3dd0c2
 # tagged = false
-1	Chíy	_	VERB	_	_	_	_	_	Trad=cortaron
+1	Chíy	_	VERB	_	_	_	_	_	Trad=cortaron|Gloss=?-cortar-?
 2	nduk	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,quién
 3	daʼa	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,que
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -2068,7 +2068,7 @@
 # alimg = Esta camisa tiene manchas.
 # hash = 020819fb83c5812ad73015a051f7dd2d
 # tagged = true
-1	Cheá	_	VERB	_	_	_	_	_	Trad=se.pintó
+1	Cheá	_	VERB	_	_	_	_	_	Trad=se.pintó|Gloss=?-pintarse-?
 2	tika	_	NOUN	_	_	_	_	_	Trad=ropa
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2081,7 +2081,7 @@
 # hash = 76146fc52b07193506291fffb2be12a9
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	chid	_	VERB	_	_	_	_	_	Trad=echaste
+2	chid	_	VERB	_	_	_	_	_	Trad=echaste|Gloss=?-echar-2SG
 3	jima	_	NOUN	_	_	_	_	_	Trad=sal
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	komida	_	NOUN	_	_	_	_	_	Trad=comida
@@ -2097,7 +2097,7 @@
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	chid	_	VERB	_	_	_	_	_	Trad=echaste
+3	chid	_	VERB	_	_	_	_	_	Trad=echaste|Gloss=?-echar-2SG
 4	jima	_	NOUN	_	_	_	_	_	Trad=sal
 5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 6	kantu	_	NOUN	_	_	_	_	_	Trad=comida
@@ -3135,7 +3135,7 @@
 # tagged = false
 1	Ta	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=,señora
 2	juana	Juana	PROPN	_	_	_	_	_	Trad=Juana
-3	ninubita	_	VERB	_	_	_	_	_	Trad=se.parece
+3	ninubita	_	VERB	_	_	_	_	_	Trad=se.parece|Gloss=?-parecerse-?
 4	chakuta	_	NOUN	_	_	_	_	_	Trad=su.mamá
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3148,7 +3148,7 @@
 # hash = 6d91e2987b2629de1be814d98c153f47
 # tagged = true
 1	Yadan	_	NOUN	_	_	_	_	_	Trad=su.hijo
-2	ninubis	_	VERB	_	_	_	_	_	Trad=se.parece
+2	ninubis	_	VERB	_	_	_	_	_	Trad=se.parece|Gloss=?-parecerse-?
 3	intï	_	PRON	_	_	_	_	_	Trad=usted
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3229,7 +3229,7 @@
 # alimg = Está lloviendo.
 # hash = a29a44b8b75fbd6b37d444bd0fb55652
 # tagged = true
-1	Jè	_	VERB	_	_	_	_	_	Trad=huele
+1	Jè	_	VERB	_	_	_	_	_	Trad=huele|Gloss=?-oler-?
 2	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3298,7 +3298,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
-4	jinukuy	_	VERB	_	_	_	_	_	Trad=venden
+4	jinukuy	_	VERB	_	_	_	_	_	Trad=venden|Gloss=?-vender-?
 5	chiadi	_	NOUN	_	_	_	_	_	Trad=azúcar
 6	?	?	PUNCT	_	_	_	_	_	_
 
@@ -3346,7 +3346,7 @@
 # hash = 6bf53407ad16c61211ac373594e6eb6c
 # tagged = true
 # note = (exclusivo)
-1	Kadayuʼuu	_	VERB	_	_	_	_	_	Trad=estamos.durmiendo
+1	Kadayuʼuu	_	VERB	_	_	_	_	_	Trad=estamos.durmiendo|Gloss=?-dormir-?
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:182
@@ -3357,7 +3357,7 @@
 # hash = 88ff1468ebc09056b1d2b105b3c41695
 # tagged = true
 1	Lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
-2	jiyaduy	_	VERB	_	_	_	_	_	Trad=duerme
+2	jiyaduy	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-?
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:183
@@ -3368,7 +3368,7 @@
 # alimg = Duerme de día.
 # hash = 4114413b1990f0958add812ee2bbd4e8
 # tagged = true
-1	Jiyadu	_	VERB	_	_	_	_	_	Trad=duermo
+1	Jiyadu	_	VERB	_	_	_	_	_	Trad=duermo|Gloss=?-dormir-?
 2	jobe	_	NOUN	_	_	_	_	_	Trad=día
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3380,7 +3380,7 @@
 # hash = bbb364f35d8bfd2a86bf683d1f139dbc
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme
+2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-?
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	jobe	_	NOUN	_	_	_	_	_	Trad=día
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3393,7 +3393,7 @@
 # hash = f37077b3ad0e59455053a61283897f06
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme
+2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-?
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	màà	_	NOUN	_	_	_	_	_	Trad=noche
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3406,7 +3406,7 @@
 # hash = 4ab797e67b456f3142b4a3b14237e871
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme
+2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-?
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	jobe	_	NOUN	_	_	_	_	_	Trad=día
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3419,7 +3419,7 @@
 # hash = be1e57a9d5e177274e8e6487075bfa82
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	diyadus	_	VERB	_	_	_	_	_	Trad=duerme
+2	diyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-?
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	màà	_	NOUN	_	_	_	_	_	Trad=noche
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3493,7 +3493,7 @@
 # tagged = true
 1	Tatlin	_	ADV	_	_	_	_	_	Trad=casi|UPOS=Guessed
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-3	kayaku	_	VERB	_	_	_	_	_	Trad=durmió
+3	kayaku	_	VERB	_	_	_	_	_	Trad=durmió|Gloss=?-dormir-?
 4	silí	_	NOUN	_	_	_	_	_	Trad=niño
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 6	camión	_	NOUN	_	_	_	_	_	Trad=camión
@@ -3609,7 +3609,7 @@
 # hash = c5babe180361ca19b5926cc0f7a227ea
 # tagged = true
 1	Takó	_	PRON	_	_	_	_	_	Trad=ella
-2	chikueta	_	VERB	_	_	_	_	_	Trad=enseñó
+2	chikueta	_	VERB	_	_	_	_	_	Trad=enseñó|Gloss=?-enseñar-?
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3622,13 +3622,13 @@
 # hash = c391d120bc719a654b16792048feb4c8
 # tagged = true
 1	Taka	taka	ADV	_	_	_	_	_	Trad=cómo
-2	chikueta	_	VERB	_	_	_	_	_	Trad=enseñó
+2	chikueta	_	VERB	_	_	_	_	_	Trad=enseñó|Gloss=?-enseñar-?
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	a	a	PART	_	_	_	_	_	Gloss=QST
 5	taka	taka	ADV	_	_	_	_	_	Trad=cómo
 6	jiduchiy	_	VERB	_	_	_	_	_	Trad=juegan|Gloss=?-jugar-3PL
 7	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
-8	jindeʼe	_	VERB	_	_	_	_	_	Trad=habla
+8	jindeʼe	_	VERB	_	_	_	_	_	Trad=habla|Gloss=?-hablar-?
 9	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204
@@ -3798,7 +3798,7 @@
 # alimg = Te vimos ayer en el mercado.
 # hash = 51949beb27ec2464e58bb6e21581107c
 # tagged = true
-1	Nichin	_	VERB	_	_	_	_	_	Trad=vimos
+1	Nichin	_	VERB	_	_	_	_	_	Trad=vimos|Gloss=?-ver-1PL
 2	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
@@ -3844,7 +3844,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	dae	_	PRON	_	_	_	_	_	Trad=que
-4	nochid	_	VERB	_	_	_	_	_	Trad=viste
+4	nochid	_	VERB	_	_	_	_	_	Trad=viste|Gloss=?-ver-2SG
 5	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 6	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
 7	?	?	PUNCT	_	_	_	_	_	_
@@ -3873,7 +3873,7 @@
 # hash = aab9eeec3ba51af1bda3497e9515648f
 # tagged = true
 # note = (para él)
-1	Kuá	_	VERB	_	_	_	_	_	Trad=compraré
+1	Kuá	_	VERB	_	_	_	_	_	Trad=compraré|Gloss=?-comprar-?
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	snï	_	NOUN	_	_	_	_	_	Trad=sobrino
 4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG.MSC
@@ -3887,7 +3887,7 @@
 # alimg = Me pidió que le comprara un sombrero para su padre.
 # hash = b64d0b255959061d95411f6922145200
 # tagged = true
-1	Kuá	_	VERB	_	_	_	_	_	Trad=compraré
+1	Kuá	_	VERB	_	_	_	_	_	Trad=compraré|Gloss=?-comprar-?
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	snï	_	NOUN	_	_	_	_	_	Trad=sobrino
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
@@ -3916,7 +3916,7 @@
 # alimg = El te ordenó ir a Huamantla.
 # hash = f0101877ad7b9d3a787b0e55fb1f4838
 # tagged = true
-1	Nèta	_	VERB	_	_	_	_	_	Trad=ordenó
+1	Nèta	_	VERB	_	_	_	_	_	Trad=ordenó|Gloss=?-ordenar-?
 2	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
@@ -3931,7 +3931,7 @@
 # hash = 9972d9feeeb8bc5c3fc59b75ed6eeca1
 # tagged = true
 1	Chineta	_	PRON	_	_	_	_	_	Trad=ella
-2	damid	_	VERB	_	_	_	_	_	Trad=acusó
+2	damid	_	VERB	_	_	_	_	_	Trad=acusó|Gloss=?-acusar-?
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 5	dukud	_	VERB	_	_	_	_	_	Trad=robar|Gloss=?-robar-?
@@ -3950,7 +3950,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Dae	_	PRON	_	_	_	_	_	Trad=que
 3	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
-4	jidid	_	VERB	_	_	_	_	_	Trad=hacer
+4	jidid	_	VERB	_	_	_	_	_	Trad=hacer|Gloss=?-hacer-2SG
 5	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:216
@@ -3990,7 +3990,7 @@
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	dimo	_	ADV	_	_	_	_	_	Trad=sólo
 3	beade	_	NOUN	_	_	_	_	_	Trad=español
-4	jines	_	VERB	_	_	_	_	_	Trad=habla
+4	jines	_	VERB	_	_	_	_	_	Trad=habla|Gloss=?-hablar-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:220
@@ -4026,7 +4026,7 @@
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	chikadinud	_	VERB	_	_	_	_	_	Trad=supiste
+3	chikadinud	_	VERB	_	_	_	_	_	Trad=supiste|Gloss=?-saber-2SG
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	a	a	PART	_	_	_	_	_	Gloss=QST
 6	ndo	_	VERB	_	_	_	_	_	Trad=había.llegado|Gloss=?-llegar-?
@@ -4042,7 +4042,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	taka	taka	ADV	_	_	_	_	_	Trad=cómo
-4	chikadinud	_	VERB	_	_	_	_	_	Trad=supiste
+4	chikadinud	_	VERB	_	_	_	_	_	Trad=supiste|Gloss=?-saber-2SG
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 6	a	a	PART	_	_	_	_	_	Gloss=QST
 7	ndo	_	VERB	_	_	_	_	_	Trad=había.llegado|Gloss=?-llegar-?
@@ -4070,7 +4070,7 @@
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	chèd	_	VERB	_	_	_	_	_	Trad=aprendiste
+3	chèd	_	VERB	_	_	_	_	_	Trad=aprendiste|Gloss=?-aprender-2SG
 4	beade	_	NOUN	_	_	_	_	_	Trad=español
 5	?	?	PUNCT	_	_	_	_	_	_
 
@@ -4083,7 +4083,7 @@
 # tagged = false
 1	Chikuʼu	_	NOUN	_	_	_	_	_	Trad=mi.abuelita
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-3	chikueñ	_	VERB	_	_	_	_	_	Trad=enseñó
+3	chikueñ	_	VERB	_	_	_	_	_	Trad=enseñó|Gloss=?-enseñar-?
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	c	_	_	_	_	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -4095,7 +4095,7 @@
 # alimg = ¡Enséñame el camino!
 # hash = bd6390e0630e490d673ada19f3f07439
 # tagged = true
-1	Kakued	_	VERB	_	_	_	_	_	Trad=enséñame
+1	Kakued	_	VERB	_	_	_	_	_	Trad=enséñame|Gloss=?-enseñar-?
 2	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 3	yuni	_	NOUN	_	_	_	_	_	Trad=camino
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4107,7 +4107,7 @@
 # alimg = ¡Enséñame que tienes en la mano!
 # hash = a4337b7e8f4a8e40bae86404cde91091
 # tagged = true
-1	Kakued	_	VERB	_	_	_	_	_	Trad=enséñame
+1	Kakued	_	VERB	_	_	_	_	_	Trad=enséñame|Gloss=?-enseñar-?
 2	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 3	dae	_	PRON	_	_	_	_	_	Trad=que
 4	nád	_	VERB	_	_	_	_	_	Trad=tienes|Gloss=?-tener-2SG
@@ -4201,7 +4201,7 @@
 # hash = 8bfe2b0bb01102a70c9ee629792b0ebe
 # tagged = true
 1	Neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
-2	kune	_	VERB	_	_	_	_	_	Trad=quedarse
+2	kune	_	VERB	_	_	_	_	_	Trad=quedarse|Gloss=?-quedarse-?
 3	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4243,7 +4243,7 @@
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	neʼes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3SG.MSC
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-4	kune	_	VERB	_	_	_	_	_	Trad=quedarse
+4	kune	_	VERB	_	_	_	_	_	Trad=quedarse|Gloss=?-quedarse-?
 5	bakus	_	NOUN	_	_	_	_	_	Trad=su.casa
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4258,7 +4258,7 @@
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 3	neʼes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3SG.MSC
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	kune	_	VERB	_	_	_	_	_	Trad=quedarse
+5	kune	_	VERB	_	_	_	_	_	Trad=quedarse|Gloss=?-quedarse-?
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:242
@@ -4332,7 +4332,7 @@
 1	Nigua	_	_	_	_	_	_	_	Trad=no
 2	ni	_	ADV	_	_	_	_	_	Trad=hasta
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-4	ndos	_	VERB	_	_	_	_	_	Trad=llegó
+4	ndos	_	VERB	_	_	_	_	_	Trad=llegó|Gloss=?-llegar-3SG.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:248
@@ -4357,7 +4357,7 @@
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	denud	_	VERB	_	_	_	_	_	Trad=sabes
+3	denud	_	VERB	_	_	_	_	_	Trad=sabes|Gloss=?-saber-2SG
 4	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
 5	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 6	ndo	_	VERB	_	_	_	_	_	Trad=había.llegado|Gloss=?-llegar-?
@@ -4429,7 +4429,7 @@
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
 3	a	a	PART	_	_	_	_	_	Gloss=QST
 4	taka	taka	ADV	_	_	_	_	_	Trad=cómo
-5	nandinda	_	VERB	_	_	_	_	_	Trad=arregla
+5	nandinda	_	VERB	_	_	_	_	_	Trad=arregla|Gloss=?-arreglar-?
 6	chimbaʼa	_	NOUN	_	_	_	_	_	Trad=puerta
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4443,7 +4443,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
 3	dae	_	PRON	_	_	_	_	_	Trad=que
-4	jinuku	_	VERB	_	_	_	_	_	Trad=vende
+4	jinuku	_	VERB	_	_	_	_	_	Trad=vende|Gloss=?-vender-?
 5	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4480,7 +4480,7 @@
 # alimg = Me olvidé de cerrar la puerta.
 # hash = 88a0fbdd2e48b4bedb6972fdf791f145
 # tagged = true
-1	Chimjinu	_	VERB	_	_	_	_	_	Trad=me.olvidé
+1	Chimjinu	_	VERB	_	_	_	_	_	Trad=me.olvidé|Gloss=?-olvidarse-1SG
 2	nangadí	_	VERB	_	_	_	_	_	Trad=cerrar|Gloss=?-cerrar-?
 3	chimbaʼam	_	NOUN	_	_	_	_	_	Trad=puerta
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4492,7 +4492,7 @@
 # alimg = Me olvidé de que llegabas hoy.
 # hash = 71572897b549eff18a8b7a4c59c121d9
 # tagged = true
-1	Chimjinu	_	VERB	_	_	_	_	_	Trad=me.olvidé
+1	Chimjinu	_	VERB	_	_	_	_	_	Trad=me.olvidé|Gloss=?-olvidarse-1SG
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 4	jobeku	_	ADV	_	_	_	_	_	Trad=hoy
@@ -4505,7 +4505,7 @@
 # alimg = Me olvidé de tu nombre.
 # hash = b408d991a6cd0467df21978ef14409de
 # tagged = true
-1	Chimjinu	_	VERB	_	_	_	_	_	Trad=me.olvidé
+1	Chimjinu	_	VERB	_	_	_	_	_	Trad=me.olvidé|Gloss=?-olvidarse-1SG
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	a	a	PART	_	_	_	_	_	Gloss=QST
 4	taka	taka	ADV	_	_	_	_	_	Trad=cómo
@@ -4521,7 +4521,7 @@
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Dae	_	PRON	_	_	_	_	_	Trad=que
-3	chimjinud	_	VERB	_	_	_	_	_	Trad=olvidaste
+3	chimjinud	_	VERB	_	_	_	_	_	Trad=olvidaste|Gloss=?-olvidar-?
 4	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:267
@@ -4533,7 +4533,7 @@
 # hash = 40a416821d3cbbc399860199a0c6199d
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	jinuku	_	VERB	_	_	_	_	_	Trad=vende
+2	jinuku	_	VERB	_	_	_	_	_	Trad=vende|Gloss=?-vender-?
 3	yaku	_	ADJ	_	_	_	_	_	Trad=alto|UPOS=Guessed
 4	yada	_	NOUN	_	_	_	_	_	Trad=pájaro
 5	ko	_	DET	_	_	_	_	_	Trad=ese
@@ -4550,7 +4550,7 @@
 2	kon	_	DET	_	_	_	_	_	Trad=ese
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
-5	jinuku	_	VERB	_	_	_	_	_	Trad=vende
+5	jinuku	_	VERB	_	_	_	_	_	Trad=vende|Gloss=?-vender-?
 6	yakut	_	VERB	_	_	_	_	_	Trad=volar
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4575,7 +4575,7 @@
 # hash = 4642d918d082e7a47ce6a4e212488591
 # tagged = true
 1	Kadi	_	NOUN	_	_	_	_	_	Trad=peso($)
-2	choʼod	_	VERB	_	_	_	_	_	Trad=cruzar
+2	choʼod	_	VERB	_	_	_	_	_	Trad=cruzar|Gloss=?-cruzar-2SG
 3	chinjíku	_	ADV	_	_	_	_	_	Trad=en.el.río|UPOS=Guessed
 4	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 5	dùbii	_	VERB	_	_	_	_	_	Trad=tener.poco|UPOS=Guessed
@@ -4590,7 +4590,7 @@
 # hash = 1e19c83535a8f7647cc342408385db51
 # tagged = true
 1	Jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
-2	jidijù	_	VERB	_	_	_	_	_	Trad=escribir
+2	jidijù	_	VERB	_	_	_	_	_	Trad=escribir|Gloss=?-escribir-?
 3	per	_	CCONJ	_	_	_	_	_	Trad=pero
 4	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 5	lápiz	_	NOUN	_	_	_	_	_	Trad=lápiz
@@ -4643,7 +4643,7 @@
 1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
-4	di	_	VERB	_	_	_	_	_	Trad=hacer
+4	di	_	VERB	_	_	_	_	_	Trad=hacer|Gloss=?-hacer-?
 5	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4685,7 +4685,7 @@
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
 4	kakiö	_	NOUN	_	_	_	_	_	Trad=basura
-5	jideaku	_	VERB	_	_	_	_	_	Trad=quemar
+5	jideaku	_	VERB	_	_	_	_	_	Trad=quemar|Gloss=?-quemar-?
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:280
@@ -4708,7 +4708,7 @@
 # alimg = Acuérdate de que tenemos que trabajar.
 # hash = 75893c909cdb81367bb13630c3d0f7ed
 # tagged = false
-1	Nangakud	_	VERB	_	_	_	_	_	Trad=acuérdate
+1	Nangakud	_	VERB	_	_	_	_	_	Trad=acuérdate|Gloss=?-acordarse-2SG
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -4749,7 +4749,7 @@
 # alimg = Acuérdate de barrer la casa.
 # hash = 953a86a8051e4eb27e00e7e48dbb2913
 # tagged = true
-1	Nangakud	_	VERB	_	_	_	_	_	Trad=acuérdate
+1	Nangakud	_	VERB	_	_	_	_	_	Trad=acuérdate|Gloss=?-acordarse-2SG
 2	neachead	_	VERB	_	_	_	_	_	Trad=barrer
 3	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4762,7 +4762,7 @@
 # alimg = Me preguntó qué quería yo.
 # hash = 61bb5faf6576440324175481963aeeb3
 # tagged = true
-1	Tumgoʼos	_	VERB	_	_	_	_	_	Trad=me.preguntó
+1	Tumgoʼos	_	VERB	_	_	_	_	_	Trad=me.preguntó|Gloss=?-preguntarse-?
 2	dae	_	PRON	_	_	_	_	_	Trad=que
 3	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4790,7 +4790,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
 3	chea	_	DET	_	PronType=Int	_	_	_	Trad=cuál
-4	neʼeta	_	VERB	_	_	_	_	_	Trad=quiere
+4	neʼeta	_	VERB	_	_	_	_	_	Trad=quiere|Gloss=?-querer-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:289
@@ -4801,7 +4801,7 @@
 # hash = c623d3e2d5f0c641cd0f3338f0aeee7f
 # tagged = false
 1	Nikua	_	_	_	_	_	_	_	Trad=no
-2	ndininu	_	VERB	_	_	_	_	_	Trad=acostumbro
+2	ndininu	_	VERB	_	_	_	_	_	Trad=acostumbro|Gloss=?-acostombrar-?
 3	comida	_	NOUN	_	_	_	_	_	Trad=comida
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
@@ -4814,7 +4814,7 @@
 # alimg = Lo acostumbró a levantarse temprano.
 # hash = a4cac0abc7841ccf732017174d63a4c7
 # tagged = true
-1	Ndininus	_	VERB	_	_	_	_	_	Trad=acostumbró
+1	Ndininus	_	VERB	_	_	_	_	_	Trad=acostumbró|Gloss=?-acostombrar-3SG.MSC
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	temprano	_	ADV	_	_	_	_	_	Trad=temprano
 4	jinankués	_	VERB	_	_	_	_	_	Trad=levantarse|Gloss=?-levantar-?
@@ -4828,7 +4828,7 @@
 # hash = 1cac0b5e302b0d979d56852a2cc76f4b
 # tagged = true
 1	Jobku	_	ADV	_	_	_	_	_	Trad=hoy
-2	kutokoʼo	_	VERB	_	_	_	_	_	Trad=empezar
+2	kutokoʼo	_	VERB	_	_	_	_	_	Trad=empezar|Gloss=?-empezar-?
 3	kùchi	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4840,8 +4840,8 @@
 # hash = 012b9a66a13decdf28b7cb7a078d3d6e
 # tagged = true
 1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-2	chitokoʼo	_	VERB	_	_	_	_	_	Trad=empecé
-3	chichí	_	VERB	_	_	_	_	_	Trad=sembrar
+2	chitokoʼo	_	VERB	_	_	_	_	_	Trad=empecé|Gloss=?-empezar-1SG
+3	chichí	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:293
@@ -4852,7 +4852,7 @@
 # hash = 339e06311a53e2420b300494143b5a6a
 # tagged = true
 1	Kabiö	_	ADV	_	_	_	_	_	Trad=mañana
-2	kutokoʼo	_	VERB	_	_	_	_	_	Trad=empezar
+2	kutokoʼo	_	VERB	_	_	_	_	_	Trad=empezar|Gloss=?-empezar-?
 3	kùchi	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4865,7 +4865,7 @@
 # hash = 9fca4a31361ff3396744dd12bb3ad877
 # tagged = true
 1	Jobku	_	ADV	_	_	_	_	_	Trad=hoy
-2	kutokoʼo	_	VERB	_	_	_	_	_	Trad=empezar
+2	kutokoʼo	_	VERB	_	_	_	_	_	Trad=empezar|Gloss=?-empezar-?
 3	biku	_	NOUN	_	Typo=Yes	_	_	_	Trad=fiesta
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4877,7 +4877,7 @@
 # hash = 557fc94c68404e0ac2e42864ff52c30f
 # tagged = true
 1	Jobku	_	ADV	_	_	_	_	_	Trad=hoy
-2	kuin	_	VERB	_	_	_	_	_	Trad=acabar
+2	kuin	_	VERB	_	_	_	_	_	Trad=acabar|Gloss=?-acabar-?
 3	kùchi	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4890,7 +4890,7 @@
 # tagged = true
 1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 2	chinu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=maté|Gloss=?-matar-1SG
-3	chichí	_	VERB	_	_	_	_	_	Trad=sembrar
+3	chichí	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:297
@@ -4901,7 +4901,7 @@
 # hash = a6764495a9e98601ee920d97eecc1b83
 # tagged = true
 1	Kabiö	_	ADV	_	_	_	_	_	Trad=mañana
-2	kuin	_	VERB	_	_	_	_	_	Trad=acabar
+2	kuin	_	VERB	_	_	_	_	_	Trad=acabar|Gloss=?-acabar-?
 3	kùchi	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4925,7 +4925,7 @@
 # hash = fe2258577fada439535dae89fc316f93
 # tagged = true
 1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-2	chichí	_	VERB	_	_	_	_	_	Trad=sembrar
+2	chichí	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 3	ka	_	ADV	_	_	_	_	_	Trad=aún
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4997,7 +4997,7 @@
 # hash = 7af3ed6c7089d7f2ae3c1ab58f6f3213
 # tagged = true
 1	Kód	_	VERB	_	_	_	_	_	Trad=súbete|Gloss=?-subirse-2SG
-2	tumad	_	VERB	_	_	_	_	_	Trad=cortar
+2	tumad	_	VERB	_	_	_	_	_	Trad=cortar|Gloss=?-cortar-?
 3	naídii	_	NOUN	_	_	_	_	_	Trad=aguacate
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5038,7 +5038,7 @@
 # tagged = true
 1	Dayan	_	NOUN	_	_	_	_	_	Trad=mis.hijos
 2	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3SG.HUM
-3	kunenoñ	_	VERB	_	_	_	_	_	Trad=cuidar
+3	kunenoñ	_	VERB	_	_	_	_	_	Trad=cuidar|Gloss=?-cuidar-?
 4	baʼam	_	NOUN	_	_	_	_	_	Trad=casa
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5329,7 +5329,7 @@
 # tagged = true
 1	Am	_	NUM	_	_	_	_	_	Trad=uno
 2	amas	_	NUM	_	_	_	_	_	Trad=en.uno
-3	kanós	_	VERB	_	_	_	_	_	Trad=salieron
+3	kanós	_	VERB	_	_	_	_	_	Trad=salieron|Gloss=?-salir-?
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -5344,7 +5344,7 @@
 # tagged = true
 1	Ob	_	NUM	_	_	_	_	_	Trad=dos
 2	obes	_	NUM	_	_	_	_	_	Trad=en.dos
-3	kanós	_	VERB	_	_	_	_	_	Trad=salieron
+3	kanós	_	VERB	_	_	_	_	_	Trad=salieron|Gloss=?-salir-?
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -5359,7 +5359,7 @@
 # tagged = true
 1	In	_	NUM	_	_	_	_	_	Trad=tres
 2	inus	_	NUM	_	_	_	_	_	Trad=en.tres
-3	kanós	_	VERB	_	_	_	_	_	Trad=salieron
+3	kanós	_	VERB	_	_	_	_	_	Trad=salieron|Gloss=?-salir-?
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
@@ -5372,7 +5372,7 @@
 # alimg = ¡Agarren una piedra cada uno!
 # hash = 42f17f585ad62a5396c8c0146e29b785
 # tagged = true
-1	Kutoʼon	_	VERB	_	_	_	_	_	Trad=agarren
+1	Kutoʼon	_	VERB	_	_	_	_	_	Trad=agarren|Gloss=?-agarrar-?
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	tuu	_	NOUN	_	_	_	_	_	Trad=piedra
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -5419,7 +5419,7 @@
 3	it	_	NOUN	_	_	_	_	_	Trad=animal
 4	dítuu	_	NOUN	_	_	_	_	_	Trad=orilla
 5	tumin	_	SCONJ	_	_	_	_	_	Trad=para.que
-6	techkó	_	VERB	_	_	_	_	_	Trad=lleva
+6	techkó	_	VERB	_	_	_	_	_	Trad=lleva|Gloss=?-llevar-?
 7	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
 8	nukut	_	NOUN	_	NounType=Relat	_	_	_	Trad=con.él
 9	.	.	PUNCT	_	_	_	_	_	_
@@ -5436,7 +5436,7 @@
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	burru	_	NOUN	_	_	_	_	_	Trad=burro
 4	tumin	_	SCONJ	_	_	_	_	_	Trad=para.que
-5	techkód	_	VERB	_	_	_	_	_	Trad=lleves
+5	techkód	_	VERB	_	_	_	_	_	Trad=lleves|Gloss=?-llevar-2SG
 6	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
 7	nukut	_	NOUN	_	NounType=Relat	_	_	_	Trad=con.él
 8	.	.	PUNCT	_	_	_	_	_	_
@@ -5566,7 +5566,7 @@
 # hash = 84c5adb44c3bbdc59ec876bcd496aa18
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	kudadus	_	VERB	_	_	_	_	_	Trad=va.a.dormir
+2	kudadus	_	VERB	_	_	_	_	_	Trad=va.a.dormir|Gloss=?-dormir-?
 3	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 4	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -5611,7 +5611,7 @@
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	koʼös	_	VERB	_	_	_	_	_	Trad=va
-3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar
+3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5625,7 +5625,7 @@
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
-3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar
+3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 5	,	,	PUNCT	_	_	_	_	_	_
 6	un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -5641,7 +5641,7 @@
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar
+3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	,	,	PUNCT	_	_	_	_	_	_
 5	un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	kunú	_	INTJ	_	_	_	_	_	Trad=sí|UPOS=Guessed
@@ -5700,7 +5700,7 @@
 3	kabiö	_	ADV	_	_	_	_	_	Trad=mañana
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kadi	_	NOUN	_	_	_	_	_	Trad=peso($)
-6	dì	_	VERB	_	_	_	_	_	Trad=hacer
+6	dì	_	VERB	_	_	_	_	_	Trad=hacer|Gloss=?-hacer-?
 7	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5771,7 +5771,7 @@
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	kanii	_	ADJ	_	_	_	_	_	Trad=rápido|UPOS=Guessed
-3	jikás	_	VERB	_	_	_	_	_	Trad=caminar
+3	jikás	_	VERB	_	_	_	_	_	Trad=caminar|Gloss=?-caminar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:587
@@ -5798,7 +5798,7 @@
 1	Mniñu	_	ADV	_	_	_	_	_	Trad=ahora
 2	a	a	PART	_	_	_	_	_	Gloss=QST
 3	kutea	_	_	_	_	_	_	_	Trad=no.hay
-4	jinichiʼuu	_	VERB	_	_	_	_	_	Trad=conocemos
+4	jinichiʼuu	_	VERB	_	_	_	_	_	Trad=conocemos|Gloss=?-conocer-?
 5	it	_	NOUN	_	_	_	_	_	Trad=animal
 6	cheanu	_	VERB	_	_	_	_	_	Trad=corrió
 7	.	.	PUNCT	_	_	_	_	_	_
