@@ -1927,7 +1927,7 @@
 # hash = 01989992160aa9bf39f850bc940d5f83
 # tagged = true
 1	Duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
-2	ná	_	VERB	_	_	_	_	_	Trad=tiene.|Gloss=?-tener-?
+2	ná	_	VERB	_	_	_	_	_	Trad=tiene|Gloss=?-tener-?
 3	machetem	_	NOUN	_	_	_	_	_	Trad=machete
 4	?	?	PUNCT	_	_	_	_	_	_
 
@@ -4387,7 +4387,7 @@
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
 3	a	a	PART	_	_	_	_	_	Gloss=QST
 4	ti	_	DET	_	_	_	_	_	Trad=ese
-5	koʼös	_	VERB	_	_	_	_	_	Trad=va
+5	koʼös	_	VERB	_	_	_	_	_	Trad=va|Gloss=?-ir-?
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:256
@@ -4401,7 +4401,7 @@
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
 3	ku	_	DET	_	_	_	_	_	Trad=este
 4	ti	_	DET	_	_	_	_	_	Trad=ese
-5	kuchis	_	VERB	_	_	_	_	_	Trad=vino
+5	kuchis	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:257
@@ -4415,7 +4415,7 @@
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-SG1
 3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 4	ti	_	DET	_	_	_	_	_	Trad=ese
-5	kuchis	_	VERB	_	_	_	_	_	Trad=vino
+5	kuchis	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:258
@@ -4551,7 +4551,7 @@
 3	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 4	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
 5	jinuku	_	VERB	_	_	_	_	_	Trad=vende|Gloss=?-vender-?
-6	yakut	_	VERB	_	_	_	_	_	Trad=volar
+6	yakut	_	VERB	_	_	_	_	_	Trad=volar|Gloss=?-volar-?
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:269
@@ -4801,7 +4801,7 @@
 # hash = c623d3e2d5f0c641cd0f3338f0aeee7f
 # tagged = false
 1	Nikua	_	_	_	_	_	_	_	Trad=no
-2	ndininu	_	VERB	_	_	_	_	_	Trad=acostumbro|Gloss=?-acostombrar-?
+2	ndininu	_	VERB	_	_	_	_	_	Trad=acostumbro|Gloss=?-acostumbrar-?
 3	comida	_	NOUN	_	_	_	_	_	Trad=comida
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3SG
 5	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
@@ -4814,7 +4814,7 @@
 # alimg = Lo acostumbró a levantarse temprano.
 # hash = a4cac0abc7841ccf732017174d63a4c7
 # tagged = true
-1	Ndininus	_	VERB	_	_	_	_	_	Trad=acostumbró|Gloss=?-acostombrar-3SG.MSC
+1	Ndininus	_	VERB	_	_	_	_	_	Trad=acostumbró|Gloss=?-acostumbrar-3SG.MSC
 2	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 3	temprano	_	ADV	_	_	_	_	_	Trad=temprano
 4	jinankués	_	VERB	_	_	_	_	_	Trad=levantarse|Gloss=?-levantar-?
@@ -5525,7 +5525,7 @@
 # hash = 6ac74ad5d570b96bd67bcbd2979ee9cf
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	koʼös	_	VERB	_	_	_	_	_	Trad=va
+2	koʼös	_	VERB	_	_	_	_	_	Trad=va|Gloss=?-ir-?
 3	dimos	_	ADV	_	_	_	_	_	Trad=sólo
 4	ti	_	DET	_	_	_	_	_	Trad=ese
 5	böʼos	_	NOUN	_	_	_	_	_	Trad=miedo
@@ -5539,7 +5539,7 @@
 # hash = ea2173e8d7ab324d598196757266a940
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo
+2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo|Gloss=?-dormir-?
 3	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 4	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -5552,7 +5552,7 @@
 # hash = 78ba02b6e53b9ce6f43ef9a960742306
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo
+2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo|Gloss=?-dormir-?
 3	ni	_	ADV	_	_	_	_	_	Trad=hasta
 4	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 5	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
@@ -5580,7 +5580,7 @@
 # tagged = true
 # note = (Después se va a levantar)
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo
+2	kayadus	_	VERB	_	_	_	_	_	Trad=estaba.durmiendo|Gloss=?-dormir-?
 3	ni	_	ADV	_	_	_	_	_	Trad=hasta
 4	tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 5	ndod	_	VERB	_	_	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
@@ -5610,7 +5610,7 @@
 # hash = c5a462e9d832cf8a09dc30477db0ff5b
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
-2	koʼös	_	VERB	_	_	_	_	_	Trad=va
+2	koʼös	_	VERB	_	_	_	_	_	Trad=va|Gloss=?-ir-?
 3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 5	.	.	PUNCT	_	_	_	_	_	_

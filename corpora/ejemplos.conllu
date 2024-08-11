@@ -220,7 +220,7 @@
 # author = lilia
 1	It	_	NOUN	_	_	_	_	_	Trad=animal
 2	koon	_	DET	_	_	_	_	_	Trad=ese
-3	at	_	VERB	_	_	_	_	_	Trad=grita
+3	at	_	VERB	_	_	_	_	_	Trad=grita|Gloss=?-gritar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0019
@@ -1055,7 +1055,7 @@
 # tagged = true
 # author = lilia
 1	Un	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	yaʼa	_	VERB	_	_	_	_	_	Trad=duele
+2	yaʼa	_	VERB	_	_	_	_	_	Trad=duele|Gloss=?-doler-?
 3	cheete	_	NOUN	_	_	_	_	_	Trad=estómago
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1273,7 +1273,7 @@
 # tagged = false
 # author = lilia
 1	Chiduu	_	NOUN	_	_	_	_	_	Trad=sacerdote
-2	joʼó	_	VERB	_	_	_	_	_	Trad=pican
+2	joʼó	_	VERB	_	_	_	_	_	Trad=pican|Gloss=?-picar-?
 3	booy	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1867,7 +1867,7 @@
 # text[spa] = Me duele el cuello.
 # tagged = true
 # author = lilia
-1	Yaʼa	_	VERB	_	_	_	_	_	Trad=duele
+1	Yaʼa	_	VERB	_	_	_	_	_	Trad=duele|Gloss=?-doler-?
 2	dantu	_	NOUN	_	_	_	_	_	Trad=cuello
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2268,7 +2268,7 @@
 # text[spa] = Me duele el talón.
 # tagged = true
 # author = lilia
-1	Yagii	_	VERB	_	_	_	_	_	Trad=duele|UPOS=Guessed
+1	Yagii	_	VERB	_	_	_	_	_	Trad=duele|Gloss=?-doler-?|UPOS=Guessed
 2	dinuu	_	NOUN	_	_	_	_	_	Trad=talón
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3409,7 +3409,7 @@
 1	Tilï	_	_	_	_	_	_	_	_
 2	kó	_	DET	_	_	_	_	_	Trad=ese
 3	yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
-4	áta	_	VERB	_	_	_	_	_	Trad=llora
+4	áta	_	VERB	_	_	_	_	_	Trad=llora|Gloss=?-llorar-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0284
@@ -3445,7 +3445,7 @@
 1	Tecolote	_	NOUN	_	_	_	_	_	Trad=tecolote
 2	yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
 3	kaba	_	ADJ	_	_	_	_	_	Trad=feo|UPOS=Guessed
-4	át	_	VERB	_	_	_	_	_	Trad=grita
+4	át	_	VERB	_	_	_	_	_	Trad=grita|Gloss=?-gritar-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0287
@@ -3518,7 +3518,7 @@
 # text[spa] = Me duele la cintura.
 # tagged = true
 # author = lucy
-1	Yaʼa	_	VERB	_	_	_	_	_	Trad=duele
+1	Yaʼa	_	VERB	_	_	_	_	_	Trad=duele|Gloss=?-doler-?
 2	tíku	_	NOUN	_	_	_	_	_	Trad=chapulín
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3748,7 +3748,7 @@
 2	dínud	_	VERB	_	_	_	_	_	Trad=apretas|Gloss=?-apretar-2SG
 3	koʼo	_	NOUN	_	_	_	_	_	Trad=pie
 4	kat	_	SCONJ	_	_	_	_	_	Trad=porque
-5	yaʼa	_	VERB	_	_	_	_	_	Trad=duele
+5	yaʼa	_	VERB	_	_	_	_	_	Trad=duele|Gloss=?-doler-?
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0312
@@ -3758,7 +3758,7 @@
 # tagged = true
 # author = lucy
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	yaʼa	_	VERB	_	_	_	_	_	Trad=duele
+2	yaʼa	_	VERB	_	_	_	_	_	Trad=duele|Gloss=?-doler-?
 3	toʼo	_	NOUN	_	_	_	_	_	Trad=mano
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3953,7 +3953,7 @@
 2	dínud	_	VERB	_	_	_	_	_	Trad=apretas|Gloss=?-apretar-2SG
 3	koʼo	_	NOUN	_	_	_	_	_	Trad=pie
 4	kat	_	SCONJ	_	_	_	_	_	Trad=porque
-5	yagii	_	VERB	_	_	_	_	_	Trad=duele|UPOS=Guessed
+5	yagii	_	VERB	_	_	_	_	_	Trad=duele|Gloss=?-doler-?|UPOS=Guessed
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0329
@@ -4967,7 +4967,7 @@
 # author = mazali
 1	Yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
 2	inuu	_	ADJ	_	_	_	_	_	Trad=caliente|UPOS=Guessed
-3	damid	_	VERB	_	_	_	_	_	Trad=acusó
+3	damid	_	VERB	_	_	_	_	_	Trad=acusó|Gloss=?-acusar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0411
@@ -5070,7 +5070,7 @@
 # tagged = true
 # author = mazali
 1	Intieʼë	_	NOUN	_	_	_	_	_	Trad=autoridad
-2	ay	_	VERB	_	_	_	_	_	Trad=llama|UPOS=Guessed
+2	ay	_	VERB	_	_	_	_	_	Trad=llama|Gloss=?-llamar-?|UPOS=Guessed
 3	dí	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5256,7 +5256,7 @@
 # text[spa] = Se acerca la semana santa.
 # tagged = true
 # author = mazali
-1	Ná	_	VERB	_	_	_	_	_	Trad=tiene.
+1	Ná	_	VERB	_	_	_	_	_	Trad=tiene|Gloss=?-tener-?
 2	kuchi	_	NOUN	_	_	_	_	_	Trad=marrano
 3	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
 4	inbíku	_	NOUN	_	_	_	_	_	Trad=semana.santa
@@ -7071,7 +7071,7 @@
 # tagged = true
 # author = paula
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	yaaʼa	_	VERB	_	_	_	_	_	Trad=duele|UPOS=Guessed
+2	yaaʼa	_	VERB	_	_	_	_	_	Trad=duele|Gloss=?-doler-?|UPOS=Guessed
 3	lantiku	_	NOUN	_	_	_	_	_	Trad=costilla|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
