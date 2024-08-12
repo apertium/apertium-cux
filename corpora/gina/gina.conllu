@@ -251,7 +251,7 @@
 # tagged = true
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
-3	tes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
+3	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	burru	_	NOUN	_	_	_	_	_	Trad=burro
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -264,7 +264,7 @@
 # tagged = true
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
-3	tes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
+3	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	burrru	_	NOUN	_	Typo=Yes	_	_	_	Trad=burro
 6	uú	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -278,7 +278,7 @@
 # tagged = true
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
-3	tes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
+3	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	burru	_	NOUN	_	_	_	_	_	Trad=burro
 6	di	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
@@ -292,7 +292,7 @@
 # tagged = true
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
-3	tes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
+3	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	burru	_	NOUN	_	_	_	_	_	Trad=burro
 6	ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
@@ -362,7 +362,7 @@
 # tagged = true
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
-3	tes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
+3	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	burro	_	NOUN	_	_	_	_	_	Trad=burro
 6	nsu	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.EXC
@@ -651,7 +651,7 @@
 # text[ipa] = luistɛsamaβuro̤
 # tagged = true
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
-2	tes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
+2	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	burro	_	NOUN	_	_	_	_	_	Trad=burro
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -663,7 +663,7 @@
 # text[ipa] = luistesamaburudi
 # tagged = true
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
-2	tes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
+2	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	burro	_	NOUN	_	_	_	_	_	Trad=burro
 5	di	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
@@ -676,7 +676,7 @@
 # text[ipa] = luistesamburoⁿdiʰ
 # tagged = true
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
-2	tes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
+2	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	burro	_	NOUN	_	_	_	_	_	Trad=burro
 5	ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
@@ -1237,7 +1237,7 @@
 # text[ipa] = la3ʝo3nte2snda2xi2βa3nnsũ1
 # tagged = true
 1	Láyó	_	PROPN	_	_	_	_	_	Trad=Layo
-2	tes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
+2	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 3	ndajibán	_	NOUN	_	_	_	_	_	Trad=guayabas
 4	nsun	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.EXC
 5	.	.	PUNCT	_	_	_	_	_	_

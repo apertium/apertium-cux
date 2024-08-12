@@ -2024,7 +2024,7 @@
 2	ka	_	ADV	_	_	_	_	_	Trad=aún
 3	machete	_	NOUN	_	_	_	_	_	Trad=machete
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+5	ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 7	.	.	PUNCT	_	_	_	_	_	_
 
