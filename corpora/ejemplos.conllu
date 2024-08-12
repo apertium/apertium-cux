@@ -457,7 +457,7 @@
 # tagged = false
 # author = lilia
 1	Chikuún	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=abuela,mi.abuelita
-2	bee	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ciego,oreja
+2	bee	_	NOUN	_	_	_	_	_	Trad=oreja
 3	noy	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1965,11 +1965,11 @@
 # text = Uu yeabean deakea tïi.
 # text[orig] = Uu yeabean deakea tïi.
 # text[spa] = Estoy despeinada.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Uu	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-3	deakea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=despeinado(a),nido
+3	deakea	_	NOUN	_	_	_	_	_	Trad=nido
 4	tïi	_	NOUN	_	_	_	_	_	Trad=cabeza
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1977,11 +1977,11 @@
 # text = Naka ama deakea yáda.
 # text[orig] = Naka ama deakea yáda.
 # text[spa] = Encontré el nido de un pájaro.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Naka	_	VERB	_	VerbForm=Fin	_	_	_	Trad=encontré|Gloss=?-encontrar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-3	deakea	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=despeinado(a),nido
+3	deakea	_	NOUN	_	_	_	_	_	Trad=nido
 4	yáda	_	NOUN	_	_	_	_	_	Trad=pájaro
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2003,11 +2003,11 @@
 # text = Snú dechea bee.
 # text[orig] = Snú dechea bee.
 # text[spa] = Tengo mugre en la oreja.
-# tagged = false
+# tagged = true
 # author = lilia
 1	Snú	_	VERB	_	_	_	_	_	Trad=tengo|Gloss=?-tener-1SG
 2	dechea	_	NOUN	_	_	_	_	_	Trad=mugre
-3	bee	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ciego,oreja
+3	bee	_	NOUN	_	_	_	_	_	Trad=oreja
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0169
@@ -2071,7 +2071,7 @@
 1	Tano	_	_	_	_	_	_	_	_
 2	díi	_	NOUN	_	_	_	_	_	Trad=tamo|UPOS=Guessed
 3	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
-4	ne	_	VERB	_	_	_	_	_	Trad=se.necesita|UPOS=Guessed
+4	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0174
@@ -5045,10 +5045,10 @@
 # text = Yeabean bee itsó.
 # text[orig] = Yeabean bee itsó.
 # text[spa] = Hay muchos sapos.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	bee	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ciego,oreja
+2	bee	_	NOUN	_	_	_	_	_	Trad=oreja
 3	itsó	_	NOUN	_	_	_	_	_	Trad=sapo
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5832,11 +5832,11 @@
 # text = Tanod káa ñe acha ñeʼë.
 # text[orig] = Tanod káa ñe acha ñeʼë.
 # text[spa] = Sacale filo a mi acha.
-# tagged = false
+# tagged = true
 # author = mazali
 1	Tanod	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sácale|Gloss=?-sacar-2SG
 2	káa	_	NOUN	_	_	_	_	_	Trad=filo
-3	ñe	_	_	_	_	_	_	_	_
+3	ñe	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.ustedes|Gloss=base-2PL
 4	acha	acha	NOUN	_	_	_	_	_	Trad=hacha
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -6140,7 +6140,7 @@
 # text[spa] = Te quiero cargar.
 # tagged = true
 # author = mazali
-1	Ne	_	VERB	_	_	_	_	_	Trad=se.necesita|UPOS=Guessed
+1	Ne	_	PART	_	_	_	_	_	Gloss=EMPH
 2	kanú	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cargar|Gloss=?-cargar-?
 3	dií	_	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -6753,11 +6753,11 @@
 # text = Min yeabean bee kulanto.
 # text[orig] = Min yeabean bee kulanto.
 # text[spa] = Ahí hay mucho cilantro.
-# tagged = false
+# tagged = true
 # author = paula
 1	Min	_	DET	_	_	_	_	_	Trad=esta
 2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-3	bee	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ciego,oreja
+3	bee	_	NOUN	_	_	_	_	_	Trad=oreja
 4	kulanto	_	NOUN	_	_	_	_	_	Trad=cilantro
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7082,7 +7082,7 @@
 # tagged = false
 # author = paula
 1	Chinjikuu	_	_	_	_	_	_	_	_
-2	bee	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ciego,oreja
+2	bee	_	NOUN	_	_	_	_	_	Trad=oreja
 3	lantuu	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8523,7 +8523,7 @@
 1	Ñoo	_	NOUN	_	_	_	_	_	Trad=pueblo
 2	inun	_	_	_	_	_	_	_	_
 3	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
-4	bee	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=ciego,oreja
+4	bee	_	NOUN	_	_	_	_	_	Trad=oreja
 5	nuna	_	NOUN	_	_	_	_	_	Trad=pitalla
 6	.	.	PUNCT	_	_	_	_	_	_
 

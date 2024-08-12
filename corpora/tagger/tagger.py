@@ -175,7 +175,7 @@ class Tagger:
 		elif form == 'kaaka':
 			new_analyses = choose_if_else(analyses, 'papel', 'NOUN', 'VERB')
 		elif form == 'kueta':
-			new_analyses = choose_if_else(analyses, 'cohete', 'NOUN', 'VERB')
+			new_analyses = choose_or_remove(analyses, 'cohete', 'cohete')
 		elif form.lower() == 'bea':
 			new_analyses = choose_if(analyses, r'(tengo|tiene|tienes|tenemos|tienen)', 'VERB')
 			new_analyses = choose_if_not(new_analyses, r'sentad[oa]', 'VERB')

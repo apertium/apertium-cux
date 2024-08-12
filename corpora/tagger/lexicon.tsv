@@ -1,4 +1,4 @@
-GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1655	1641	1646
+GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1670	1656	1660
 _	a	a	ADV		ya				
 _	a	a	PART			QST			
 _	áa		VERB		resuena				
@@ -1653,21 +1653,21 @@ _	tàsèʼ		PRON	PronType=Prs	ellas	3PL.FEM
 _	neen		NOUN		mole				
 _	nadàtun		VERB	VerbForm=Fin	cocinaron	?-cocinar-?			
 _	kueté		NOUN		campo				
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
+_	tákòʼ		PRON	PronType=Prs	ella	3.FEM			
+_	nes		VERB	VerbForm=Fin	quiere	?-querer-3.MSC			
+_	ndajibán		NOUN		guayabas				
+_	yúntùn		NOUN		silla				
+_	nobakián		NOUN		palacio municipal				
+_	nunyàdi		NOUN		refresco				
+_	nauneta		VERB		regresaron	?-regresar-?			
+_	nanduchin		VERB		despertaron	?-despertar-?			
+x	ndin		ADP		hasta				
+_	achet		VERB	VerbForm=Fin	ya comió	?-comer-?			
+_	ìtì		PRON	PronType=Prs		3.AML			
+_	ìtì		NOUN		animal				
+_	kanét		VERB		está	?-estar-?			
+_	tulíʼ		NOUN		pollito				
+_	yabès		VERB	VerbForm=Fin	saludó				
 									
 									
 									
