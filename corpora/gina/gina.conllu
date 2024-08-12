@@ -789,7 +789,7 @@
 # text[spa] = usted llegó al pueblo ayer
 # text[ipa] = nḭi4n i3ku2 ndõ2n ɲo3
 # tagged = false
-1	Nii	_	_	_	_	_	_	_	_
+1	Nii	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
 4	ndon	_	_	_	_	_	_	_	_

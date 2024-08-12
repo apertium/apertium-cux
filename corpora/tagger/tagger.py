@@ -243,8 +243,8 @@ class Tagger:
 			new_analyses = choose_if_not_trad(analyses, 'veinte', 'viejo')
 		elif form == 'di':
 			new_analyses = choose_if_not_trad(analyses, '(haces|hacer|trabajo|trabajar|trabajas)', 'tú')
-		elif form == 'din' or form == 'ndi':
-			new_analyses = choose_if_not_trad(analyses, 'hay', 'usted')
+		elif form == 'din' or form == 'ndi' or form == 'nii'.lower():
+			new_analyses = choose_or_remove(analyses, 'hay', 'hay')
 		elif form == 'chidi':
 			new_analyses = choose_or_remove(analyses, 'estornudamos', 'estornudamos')
 			new_analyses = choose_or_remove(new_analyses, 'estornudó', 'estornudó')
