@@ -1,4 +1,4 @@
-GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1670	1656	1660
+GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1625	1611	1615
 _	a	a	ADV		ya				
 _	a	a	PART			QST			
 _	áa		VERB		resuena				
@@ -90,9 +90,9 @@ _	deache		NOUN		resina
 _	deachea		NOUN		mugre				
 x	deakea		ADJ		despeinado(a)				
 _	deakea		NOUN		nido				
-_	dí		PRON	PronType=Prs	tú	2SG			
+									
 _	dibi		NOUN		estiércol				
-_	dii		PRON	PronType=Prs	tú	2SG			
+									
 x	dii		ADJ		resistente				
 _	díi		NOUN		caspa				
 x	díi		NOUN		tamo				
@@ -380,9 +380,9 @@ _	núuku		NOUN		vara
 _	nuutii		NOUN		bolita				
 _	obe		NUM		dos				
 x	ráti		ADJ		rasposo				
-_	uu	uu	PRON	PronType=Prs	yo	1SG			
-_	un	uu	PRON	PronType=Prs	yo	1SG			
-_	ú	uu	PRON	PronType=Prs	yo	1SG			
+									
+									
+									
 _	tuʼú		NOUN		pollo				
 _	tuʼu		NOUN		pollo				
 _	yaʼa		VERB		duele	?-doler-?			
@@ -460,15 +460,15 @@ _	yuudu		NOUN		metate
 _	yuuna		NOUN		aire				
 _	yuuni		NOUN		pasto				
 _	yuunu		NOUN		cigarro				
-_	takoon	takoo	PRON	PronType=Prs	ella	3.FEM			
-_	takon	takoo	PRON	PronType=Prs	ella	3.FEM			
-_	takoo	takoo	PRON	PronType=Prs	ella	3.FEM			
-_	sakoon	sakoo	PRON	PronType=Prs	él	3.MSC			
-_	sakon	sakoo	PRON	PronType=Prs	él	3.MSC			
-_	sakó	sakoo	PRON	PronType=Prs	él	3.MSC			
-_	sako	sakoo	PRON	PronType=Prs	él	3.MSC			
-_	sakoo	sakoo	PRON	PronType=Prs	él	3.MSC			
-_	insen	insen	PRON	PronType=Prs	ustedes	2PL			
+									
+									
+									
+									
+									
+									
+									
+									
+									
 _	mozo		NOUN		mozo				
 _	nóyota		NOUN		años				
 _	Kukoo		PROPN		Tepeuxila	LOC			
@@ -763,8 +763,8 @@ _	díta		NOUN		pájaro carpintero
 _	dínud		VERB		apretas	?-apretar-2SG			
 _	dikuoʼoo		NOUN		bebé				
 _	dijinuy		NOUN		nieto				
-_	din		PRON	PronType=Prs	tú	2SG			
-_	dií		PRON	PronType=Prs	tú	2SG			
+									
+									
 _	dayay		NOUN		su hijo(a)	hijo-POSS.3.HUM			
 _	chúntii		NOUN		grillo				
 _	chinuñ		VERB	VerbForm=Fin	mató	?-matar-?			
@@ -816,7 +816,7 @@ _	tiäa		NOUN		chicozapote
 x	tatioo		ADV		mañana				
 _	tamoʼo		VERB		abrazar	?-abrazar-?			
 x	tama		ADJ		otra				
-_	takoó		NOUN		esa mujer				
+									
 _	taka	taka	ADV		cómo				
 _	tadin		NOUN		niña				
 _	tadii		NOUN		niña				
@@ -890,7 +890,7 @@ _	nguay		VERB	VerbForm=Fin	traer	?-traer-?
 _	neʼëñ		VERB	VerbForm=Fin	quiere				
 _	neʼéd		VERB	VerbForm=Fin	necesitas				
 _	neʼed		VERB	VerbForm=Fin	quieres	?-querer-2SG			
-_	iñsee		PRON	PronType=Prs	ellos	3PL			
+									
 _	neés		VERB	VerbForm=Fin	quiere	?-querer-3.MSC			
 _	nede		NOUN		barranca				
 _	neatu		NOUN		tomate				
@@ -1197,7 +1197,7 @@ _	tiʼö		NOUN		árbol
 _	per		CCONJ		pero				
 _	lápiz		NOUN		lápiz				
 _	noʼod		VERB		vayas	?-ir-2SG			
-_	iñsë		NOUN		esa gente				
+									
 _	jinangaku		VERB		extraño	?-extrañar-?			
 _	jinankués		VERB		levantarse	?-levantar-?			
 _	jobku		ADV		hoy				
@@ -1249,7 +1249,7 @@ _	chimjinu		VERB		me olvidé	?-olvidarse-1SG
 _	chichí		VERB		sembrar	?-sembrar-?			
 _	chitokoʼo		VERB		empecé	?-empezar-1SG			
 x	yunu		ADJ		joven				
-_	takó		PRON		ella				
+									
 _	tabea		PRON		cuánto				
 _	silï		NOUN		niño				
 _	ño		ADP		en				
@@ -1260,7 +1260,7 @@ _	Marian		PROPN		María
 _	nangakud		VERB		acuérdate	?-acordarse-2SG			
 _	nád		VERB		tienes	?-tener-2SG			
 _	ná		VERB		tiene	?-tener-?			
-_	insë		PRON		ustedes				
+									
 x	duytï		NOUN		pelo				
 _	dín		PRON		tú				
 _	màà		NOUN		noche				
@@ -1300,10 +1300,10 @@ _	toʼod		NOUN		tu mano
 _	tò		ADV		ahí				
 _	komida		NOUN		comida				
 _	sopa		NOUN		sopa				
-_	tako		PRON		ella				
+									
 _	soʼös		NOUN		hombre				
-_	soʼön		PRON		él				
-_	sakón		PRON		él				
+									
+									
 _	obes		NUM		en dos				
 _	inus		NUM		en tres				
 _	amas		NUM		en uno				
@@ -1312,10 +1312,10 @@ _	nujinu		VERB		tengo prisa
 _	noʼös		NOUN		maestro				
 _	nèta		VERB		ordenó	?-ordenar-?			
 _	diyadus		VERB		duerme	?-dormir-?			
-_	insën		PRON		ustedes				
-_	insén		PRON		ustedes				
-_	insé		PRON		ustedes				
-_	insú		PRON		nosotros				
+									
+									
+									
+									
 _	noʼöm		NOUN		maestro				
 _	nòò		NUM		nueve				
 _	neachea		NUM		siete				
@@ -1481,7 +1481,7 @@ x	bíchan		ADJ		gordo
 x	bíchad		ADJ		gordo				
 x	bícha		ADJ		gordo				
 x	kúëd		ADJ		flaco				
-_	iñsén		PRON		ellos				
+									
 _	chíy		VERB		cortaron	?-cortar-?			
 _	kuʼuu		VERB		tenemos que				
 _	joʼó		VERB		pican	?-picar-?			
@@ -1587,73 +1587,73 @@ _	chidi		VERB	VerbForm=Fin	estornudamos	?-estornudar-1PL.INC
 _	chidin		VERB	VerbForm=Fin	estornudamos	?-estornudar-1PL.EXC			
 _	chichinsee		VERB	VerbForm=Fin	estornudaron	?-estornudar-3PL			
 _	chidi		VERB	VerbForm=Fin	estornudaron	?-estornudar-3PL			
-_	ikó		PRON	PronType=Prs	él	3.HUM			
+									
 _	nunsun		PRON	PronType=Prs	nosotros	1PL.INC			
-_	tasee		PRON	PronType=Prs	ellas	3PL.FEM			
-_	sasee		PRON	PronType=Prs	ellos	3PL.MSC			
-_	ndi		PRON	PronType=Prs	usted	2SG.RES			
-_	taká		PRON	PronType=Prs	ella	3.FEM			
+									
+									
+									
+									
 _	dichi		VERB	VerbForm=Fin	vio	?-ver-?			
 _	kos		VERB	VerbForm=Fin	vendió	?-vender-?			
 _	dichit		VERB	VerbForm=Fin	vio	?-ver-?			
-_	nse		PRON	PronType=Prs	ustedes	2PL.RES			
+									
 _	chidiña		VERB	VerbForm=Fin	vio a alguien	?-ver-?			
 _	dichindi		VERB	VerbForm=Fin	vio a usted	?-ver-?			
-_	yisee		PRON	PronType=Prs	nosotros	1PL.INC			
-_	iñed		PRON	PronType=Prs	nosotros	1PL.EXC			
+									
+									
 _	ñe		NOUN	NounType=Relat	de ustedes	base-2PL			
 _	chidí		VERB	VerbForm=Fin	estornudé	?-estornudar-1SG			
 x	cabchi		SCONJ		porque				
-_	dìn		PRON	PronType=Prs	tú	2SG			
+									
 _	cheta		VERB	VerbForm=Fin	fue	?-ir-3.FEM			
 x	bakut		VERB	VerbForm=Fin	vive	?-vivir-3.AML			
-_	úuu		PRON	PronType=Prs	nosotros	1PL.INC			
+									
 _	chanun		VERB	VerbForm=Fin	corrimos	?-correr-?			
-_	nsu		PRON	PronType=Prs	nosotros	1PL.EXC			
+									
 _	martes		NOUN		martes				
-_	íʼsen		PRON	PronType=Prs	ellos	3PL			
+									
 _	bàʼá		NOUN		casa				
 _	chìí		VERB	VerbForm=Fin	pinté	?-pintar-?			
-_	níìʼ		PRON	PronType=Prs	usted	2SG.RES			
+									
 _	chinun		VERB	VerbForm=Fin	sembró	?-sembrar-?			
 _	jingò		NOUN		milpa				
 _	dìs		VERB	VerbForm=Fin	hace	?-hacer-3.MSC			
 _	ntiño		NOUN		trabajo				
-_	ìkòʼ		PRON	PronType=Prs	él	3.HUM			
+									
 _	nàndáì		VERB	VerbForm=Fin	hizo	?-hacer-?			
 _	síyá		NOUN		silla				
-_	snsun		PRON	PronType=Prs	nosotros	1PL.EXC			
-_	nsen		PRON	PronType=Prs	ustedes	2PL			
-_	nsun		PRON	PronType=Prs	nosotros	1PL.EXC			
+									
+									
+									
 _	chánun		VERB	VerbForm=Fin	corrimos	?-correr-?			
-_	tákòʼò		PRON	PronType=Prs	ella	3.FEM			
-_	sakoʼò		PRON	PronType=Prs	él	3.MSC			
+									
+									
 _	ndikus		VERB	VerbForm=Fin	vendió				
-_	ikóʼó		PRON	PronType=Prs	él	3.HUM			
+									
 _	chindoì		VERB	VerbForm=Fin	entraron	?-entrar-?			
-_	sáko		PRON	PronType=Prs	él	3.MSC			
-_	táko		PRON	PronType=Prs	ella	3.FEM			
+									
+									
 _	ndátá		VERB	VerbForm=Fin	bordó	?-bordar-?			
 _	ínù		NUM		tres				
 _	nàmí		NOUN		barda				
 _	kostál		NOUN		costal				
 _	kandé		VERB	VerbForm=Fin	cargaron	?-cargar-?			
-_	nsèn		PRON	PronType=Prs	ustedes	2PL			
+									
 _	chen		VERB	VerbForm=Fin	comimos	?-comer-?			
 _	bà		NOUN		casa				
-_	nsé		PRON	PronType=Prs	ustedes	2PL			
+									
 _	kàndèn		VERB	VerbForm=Fin	cargaron	?-cargar-?			
-_	sasèn		PRON	PronType=Prs	ellos	3PL.MSC			
+									
 _	chikas		VERB	VerbForm=Fin	cortaron	?-cortar-?			
 _	non		NOUN		leña				
 _	poón		NOUN		pan				
-_	taʼsé		PRON	PronType=Prs	ellas	3PL.FEM			
+									
 _	chìka		VERB	VerbForm=Fin	pedí	?-pedir-?			
-_	tàsèʼ		PRON	PronType=Prs	ellas	3PL.FEM			
+									
 _	neen		NOUN		mole				
 _	nadàtun		VERB	VerbForm=Fin	cocinaron	?-cocinar-?			
 _	kueté		NOUN		campo				
-_	tákòʼ		PRON	PronType=Prs	ella	3.FEM			
+									
 _	nes		VERB	VerbForm=Fin	quiere	?-querer-3.MSC			
 _	ndajibán		NOUN		guayabas				
 _	yúntùn		NOUN		silla				
@@ -1663,18 +1663,22 @@ _	nauneta		VERB		regresaron	?-regresar-?
 _	nanduchin		VERB		despertaron	?-despertar-?			
 x	ndin		ADP		hasta				
 _	achet		VERB	VerbForm=Fin	ya comió	?-comer-?			
-_	ìtì		PRON	PronType=Prs		3.AML			
+									
 _	ìtì		NOUN		animal				
 _	kanét		VERB		está	?-estar-?			
 _	tulíʼ		NOUN		pollito				
 _	yabès		VERB	VerbForm=Fin	saludó				
-									
-									
-									
-									
-									
-									
-									
-									
-									
+_	ʼuu	ʼuu	PRON	PronType=Prs	nosotros	1PL.INC			
+_	sasë	sasë	PRON	PronType=Prs	ellos	3PL.MSC			
+_	tasë	tasë	PRON	PronType=Prs	ellas	3PL.FEM			
+_	dí	dí	PRON	PronType=Prs	tú	2SG			
+_	ú	uu	PRON	PronType=Prs	yo	1SG			
+_	takó	takó	PRON	PronType=Prs	ella	3.FEM			
+_	sakó	sakó	PRON	PronType=Prs	él	3.MSC			
+_	insë	insë	PRON	PronType=Prs	ustedes	2PL			
+_	iñsë	iñsë	PRON	PronType=Prs	ellos	3PL			
+_	insú	insú	PRON	PronType=Prs	nosotros	1PL.EXC			
+_	ikó	ikó	PRON	PronType=Prs	él	3.HUM			
+_	inti	inti	PRON	PronType=Prs	usted	2SG.RES			
+_	itsë	itsë	PRON	PronType=Prs		3.AML			
 									
