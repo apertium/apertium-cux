@@ -1,4 +1,4 @@
-GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1515	1501	1507
+GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1574	1560	1566
 _	a	a	ADV		ya				
 _	a	a	PART			QST			
 _	áa		VERB		resuena				
@@ -1403,6 +1403,7 @@ _	nès		VERB		ordenó	?-ordenar-?
 _	neʼeta		VERB		quiere	?-querer-?			
 _	techkód		VERB		lleves	?-llevar-2SG			
 _	techkó		VERB		lleva	?-llevar-?			
+_	tá		NOUN	NounType=Clf	señora				
 _	ta		NOUN	NounType=Clf	señora				
 _	ninubita		VERB		se parece	?-parecerse-?			
 _	ninubis		VERB		se parece	?-parecerse-?			
@@ -1513,64 +1514,64 @@ x	guad		X		no estás
 x	dea		PRON		que				
 x	daʼa		PRON		que				
 x	nduk		PRON		quién				
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
+_	Juan		PROPN		Juan				
+_	dichis		VERB		vio	?-ver-3.MSC			
+_	Álicia		PROPN		Alicia				
+_	Láyó		PROPN		Layo				
+_	Julió		PROPN		Julio				
+_	Paúla		PROPN		Paula				
+_	Amalia		PROPN		Amalia				
+_	Franscísca		PROPN		Francisca				
+_	Ramón		PROPN		Ramón				
+_	Ngùyùgù		PROPN		México				
+_	Ngùyùgu		PROPN		México				
+_	Jorge		PROPN		Jorge				
+_	Pedrón		PROPN		Pedro				
+_	Marion		PROPN		Mario				
+_	Felipé		PROPN		Felipe				
+_	José		PROPN		José				
+_	Juán		PROPN		Juan				
+_	Álisía		PROPN		Alicia				
+_	Ndova		PROPN		Oaxaca				
+_	nuní̀		NOUN		agua				
+_	kòt		VERB	VerbForm=Fin	dio	?-dar-?			
+_	Anan		PROPN		Ana				
+_	yundu		NOUN		tortilla				
+_	dikut		VERB	VerbForm=Fin	vendió	?-vender-3.FEM			
+_	kan		PRON		Usted				
+_	jíkù		NOUN		río				
+_	Tomás		PROPN		Tomás				
+_	nàtà		NOUN		flores				
+_	ndíchìs		VERB	VerbForm=Fin	vio	?-ver-3.MSC			
+_	chivo		NOUN		chivo				
+_	tumnes		VERB	VerbForm=Fin	prestó	?-prestar-3.MSC			
+_	saʼsén		PRON		ellos				
+_	chìkàt		VERB	VerbForm=Fin	pidió	?-pedir-?			
+_	nínúñèn		NOUN		maíz				
+_	kás		VERB	VerbForm=Fin	compró	?-comprar-3.MSC			
+_	kóʼós		VERB	VerbForm=Fin	pegó	?-pegar-3.MSC			
+_	ndichit		VERB	VerbForm=Fin	vio	?-ver-3.FEM			
+_	uuu		PRON		nosotros	1PL.INC			
+_	yakù		NOUN		iglesia	?-ver-3.FEM			
+_	ndichita		VERB	VerbForm=Fin	vio				
+_	Manuél		PROPN		Manuel				
+_	kas		VERB		compró	?-comprar-3.MSC			
+_	chibàʼà		NOUN		patio				
+_	bíkù		NOUN		fiesta				
+_	ndichìs		VERB	VerbForm=Fin	vio	?-ver-3.MSC			
+_	chinyàkù		NOUN		puerta de la igelsia				
+_	nani		VERB	VerbForm=Fin	abrieron	?-abrir-?			
+_	kòstál		NOUN		costal				
+_	servilleta		NOUN		servilleta				
+_	burro		NOUN		burro				
+_	chijinuʼu		VERB	VerbForm=Fin	estornudé	?-estornudar-1SG			
+_	chin		VERB	VerbForm=Fin	estornudaste	?-estornudar-2SG			
+_	chijinun		VERB	VerbForm=Fin	estornudó	?-estornudar-2SG.RES			
+_	chijinus		VERB	VerbForm=Fin	estornudó	?-estornudar-3.MSC			
+_	chijinuy		VERB	VerbForm=Fin	estornudó	?-estornudar-3.HUM			
+_	chijinuta		VERB	VerbForm=Fin	estornudó	?-estornudar-3.FEM			
+_	chijinuʼuu		VERB	VerbForm=Fin	estornudamos	?-estornudar-1PL.INC			
+_	chijinu		VERB	VerbForm=Fin	estornudaron	?-estornudar-2PL			
 									
 									
 									

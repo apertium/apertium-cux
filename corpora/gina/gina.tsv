@@ -1,0 +1,970 @@
+ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL	TRANSCRIPCIÓN		
+1	Úu	yo	úu ne chidi	Yo estornudé	ˀuntʃidi		
+2			di ne chidid	tú estornudaste	dintʃidɛd ̴dintʃidi̴d		
+3			din ne chidin	Usted estornudó	dintʃidin		
+4			sakó ne chidis	Él estornudó	sakontʃidis		
+5			ikó ne chidi	él estornudo	ikontʃidi		
+6			takoo ne chidita	Ella estornudó	takontʃidita		
+7			nunsun chidi	nosotros estornudamos	nunsuntʃidi		
+8			úu ndu tako chidin	yo y ella estornudamos	undutako		
+9			chichinsee	ellos estornudaron	tʃitʃinsɛ̰		
+10			Uu nu isee	yo y ellos	uˀnuisɛ̰		
+11			isee ne chidi	ellos estornudarón	isɛntʃidi		
+12			tasee ne chidita 	ellas estornudaron	tasɛntʃidita		
+13			Juan dichis úu	Juan me vió	xuãdiʃisˀu		
+14			Juan dichis dí	Juan te vio	xuãnditʃisdi		
+15			Juan dichis ndi	Juan lo vio a usted	xuãnditʃisndi		
+16			Juan ne dichis sakó	xuan lo vio a él	xuãnditʃisasako̰		
+17			juan ne dichis ikó	Juan lo vio a él (resp)	xuãnditʃisiko̰		
+18			Juan ne dichit taká	Juan la vio a ella	xuanditʃitaka̰		
+19			Juan ne dichi nsu	Juan nos vio	xuanditʃisnsu		
+20			Juan ne dichia isee	Juan los vio a ellos	xuanditʃisaisɛ̰		
+21			Juan dichis sasee	Juan los vio a ellos	xuanditʃisasasɛ		
+22			Juan dichit tasee	Juan las vio a ellas	xuanditʃiatasɛ		
+23			Luis ne tes ama burru	Luis me dio un burro	luisntesamburṵ		
+24			Luis ne tes ama burrru uú	Luis me dio a mí un burro	luisntesamburuˀu		
+25			Luis ne tes ama burru di	Luis te dio un burro	luisntesamburudi		
+26			Luis ne tes ama burru ndi	Luis le dio un burro a	luisntesamburoⁿdi		
+27			Luis ne kos ama burru sakó	Luis le dio un burro a él	luissnko̰samburosako̰		
+28			Luis ne kos ama burro takó	Luis le dio un burro a ella	luisnkosamburotako̰		
+29			Luis ne kos ama burro ikó	Luis le dio un burro a él (resp)	luisnkoamburoinko̰		
+30			Luis ne kos ama burro isee	luis le dio un burro a ustedes	luisnkosamburoisɛ̰		
+31			Luis ne tes ama burro nsu	Luis nos dio un burro	luisntɛsamburonsõ		
+32			Luis ne kos ama burro sasee	Luis les dio un burro a ellos	luisnkosamburosasɛˀ		
+33			Luis ne kos ama burro tasee	Luis le dio un burro a ella	luisnkosamburotasɛˀ		
+34			Úu ne chijinu'u	yo estornudé	untʃixinuˀuʰ		
+35			di ne chin	tú estornudaste	dintʃixinu		
+36			ndi ne chijinun	Usted estornudó	ⁿdintʃixinun		
+37			ikó ne chijinuy	Él estornudó (resp)	ikontʃixinui		
+38			isee ne  chijinuy	Ellos ̴ él estornudó	iʃɛntʃixinui		
+39			takó ne chijinuta 	Ella estornudó	takontʃixinuta		
+40			Uuu ne chijinu'uu	Nosotros (incl) estornudamos	uˑntʃixinuˀuː		
+41			nse  chijinu	ustedes estornudaron	nsetʃixinu		
+42			isee ne chijinuy	ellos estornudaron	isɛntʃixinui		
+43			sasee ne chijinus	Ellos estornudaron	sasɛntʃixinus		
+44			tasee ne chijinuta	ellas estornudaron	tasɛntʃixinuta		
+45			Juan ne dichis úu	Juan me vio	xuanditʃisuˀ		
+46			Juan ne chidiña	Juan vio a alguien ̴Juan vio a una persona)	xuanditʃiɲa̰		
+47			Juan ne dichindi	Juan lo vio a usted	xuanditʃindiˀ		
+48			Juan ne dichis ikó	Juan lo vio a él (resp)	xuanditʃisiko̰		
+49			Juan ne dichis sakó	Juan la vio a ella	xuanditʃistako̰		
+50			Juan  ne  dichis isee	Juan nos vio ̴ Juan las vio a ellas ̴ ellos	xuanditʃisisɛ		
+51			Juan ne dichis uuu	Juan nos vio (incl)	xuanditʃiuˑ		
+52			Juan ne dichis isee 	Juan los vio a ustedes	xuanditʃisisɛ		
+53			Juan ne dichis isee 	Juan los vio a ellos	xuanditʃisisɛ		
+54			Juan ne dichisdatsee 	Juan vio a las mujeres	xuanditʃisdatsɛ̰		
+55			Juan ne dichisasee	Juan los vio a ellos ̴ Juan vio a los hombres	xuanditʃisasɛ̰		
+56			Luis tes ama burro	Luis te dio un burro ̴Luis dio un burro	luistɛsamaβuro̤		
+57			Luis tes ama burro di	Luis te dio un burro	luistesamaburudi		
+58			Luis tes ama burro ndi	Luis le dio un burro a usted	luistesamburoⁿdiʰ		
+59			Luis ama burro  ikó 	Luis de dio un burro a él (resp)	luisosamburoiko		
+60			Luis ama burro takó	Luis le dio un burro a ella	luiskosamburotakoˀ		
+61			Luis ama burro yisee	Luis nos dio un burro ̴Luis les dio un burro a todos	luiskosamaburoʝisɛ		
+62			Luis ama burrro  iñed 	Luis nos dio un burro (excl) ̴ Luis te dio su burro	luistesamburuiɲed		
+63			Luis kos ama buro ñe isee	luis les dio un burro a ustedes ̴ Luis les dio un burro (el burro de ustedes)	luistesamaburoɲenisɛ		
+64			Luis kos ama burro ñe isee	luis les dio un burro a ellos ̴ Luis les dio un burro ( el burro de ellos)	luiskosamburoɲeisɛ		
+65			Úu ne chidí cabchi icha	yo estornudé porque hace frío	u4 ne tʃḭ1ði4 ka3btʃḭˀ 1ḭ1tʃaʰ1		
+66			dìn yà yebe nde	tú bailas muy bien	ðḭ1n ʝa̰1 ʝe2βe2 nðɛ2		
+67			nii ne iku ndon ño	usted llegó al pueblo ayer	nḭi4n i3ku2 ndõ2n ɲo3		
+68			sakó  ne yebendí tudi dibis	él silbó muy fuerte	sa̰1ko̰o12nʝe1βe1nði4tu2ði2ðḭ1βi2s		
+69			takó ne kerta Ndova	ella se fue a Oaxaca	ta̰1ko̰o12n kʷe2ta1 nðo1βaʰ1		
+70			takó ne cheta Ndova 	ella fue a Oaxaca	ta̰3ko'on tʃḛˀḛ1taʰ1 ndo1βaʰ1		
+71			ikó ne bitiocuey  kuete 	él salió al campo temprano	i2ko3n βi3tio̰ kʷei1 kʷe1teʰ1		
+72			iti kó ne kuete bakut	el animal vive en el monte	i4ti3ko3nkʷe3te4βa2ku1t		
+73			úuu chanun ndin jiku	nosotros (incl) corrimos hasta el río 	ṵːː1 tʃa3nu1ndi3nxi3kṵ1		
+74			nsu ne chanun ndin jiku	nosotros (excl) corrimos hasta el río	nsũ1n tʃa3nũ1n ði1n xi3kṵ1		
+75			nse ne nanduchin nditaye	ustedes despertaron en la madrugada	nse2nã2ndu1tʃi1ndi1ta1ʝɵ1		
+76			isee ne  bakuñe'é namtieyo	ellos viven en el Girasol	isenβakuɲe1na2mtie2ʝo4		
+77			tasee ne nauneta  martess ni	ellas regresaron el martes	ta̰1se3nau1ne2taʰma2rte1sniʰ		
+78			í'sen chindoì yàku	ellos entraron a la iglesia	iḭ4se3ntʃi2ndoi21ʝa1ku̻		
+79			úu chìí bà'á	yo pinté la casa	ʔu4 chi2i3 ba1ʔa1ˈ		
+80			níì' chinun núni	usted sembró frijol	niḭ31tʃi2nu2nnu2ni2		
+81			sáko dìs ntiño no jingò	él trabajó en la milpa	sa4ko43 di1s nti2ɲo2 no2 xĩ3ngo̰1		
+82			ìkò' nàndáì síyá	él hizo la silla (resp)	ḭ1koˀ1 na1ndai41 si4ja4		
+83			táko ndátá ínù serbijeta	ella bordó tres servilletas	ta3ˌkoʰ4nða3ta3i4nu1se1rβi1je2taʰ2		
+84			snsun nàkwén nàmí	Nosotros (exc) construimos la barda	nsuː3 na1kʷe4 na1mi4		
+85			nsèn kandé kostál	ustedes cargaron los costales	nse2 ka2nde3n ko1sta3l		
+86			nsun chen bà tá Álisía	nosotros (exc) comimos en casa de Alicia	nsu2ntʃe3nβa1ta4li3sja3		
+87			ù káù nunyàdi	nosotros (incl) compramos los refrescos	uː1kau41nu1nʝa1ði2		
+88			nsé kàndèn kòstál	ustedes cargaron los costales	nse3ka1nðe1nko1stal4		
+89			sasèn chikas non	ellos cortaron la leña	sa2sḛ1ntʃi2ka2snõː2		
+90			ú chìka poón ta'sé	yo le pedí pan a ellas	uˀ4tʃi1ka2põ23ta2seeʰ3		
+91			tàsè' nadàtun neen	ellas cocinaron el mole	ta1sḛ2na2nda̰1tũ2nẽː2		
+92			isen nani chinyàkù	ellos abrieron la puerta de la iglesia	i2se2nna̰2nḭ2ʧĩ1nʝa1ku̥		
+93			na ba'ǎ íñu dichèt tulí'	bajo el gavilán y se comió el pollito/ por abajo el gavilan se comió el pollito	na2βa2ˀa13i3ɲu2ði2tʃḛ1ttu2lḭˀ3		
+94			di kadiě toskachika kueté	Tú me gritaste cuando estaba en el campo	ði3ka21ðie14to2ʃka1tʃi2ka3kʷe3te3		
+95			José ndichìs dí no bíkù	José te vio en la fiesta	ho2se4nði2tʃi1sði3no2βi3ku1		
+96			Juán yabès ní' non íbà'	Juan lo saludó (a usted) en la plaza	xwã3nʝa2βe1sniḭ31no2ni3βa1		
+97			Felipé nis recibir nì' to snòn ño'	Felipe lo recibió cuando llegó al pueblo (3 respeto)	Felipé nis recibir nì' to snòn ño'		
+98			manuél kas tulí' mán kanét chibà'à	Manuel compró un pollito él(pollito) está en el patió	ma2nue4lnka2stu2lĩ4mã3nka3ne4ttʃi2βa̰ː1		
+99			Ramón nes tákò'	Ramón la quiere a ella	ra1mo5ne2sta3ko̰1		
+100			Tá Amalia ndichita uuu yakù	Amalia nos vio en la iglesia INCL	ta3ma2lia21ndi4tʃi1tnuː2 nja2ku̻1		
+101			Tá Paúla ndichit uuu  ndòvà'	Paula nos vio en Oaxaca (incl)	ta2pau3la2nditʃiteuːːndo1βa̰1		
+102			Julió  kó'ós sa'sén	Julio le pegó a ellos	xu3lio4nko̰ˀo1ssa2seˀe3		
+103			Juan kás nínúñèn	Juan te compró maíz/ Juan compró tu maíz	xua42nkasninuɲen2		
+104			Láyó tes ndajibán nsun	Layo nos dio guayabas (excl)	la3ʝo3nte2snda2xi2βa3nnsũ1		
+105			Álicia chìkàt yúntùn nsen	Alicia les pidió las sillas a ustedes	a3li2sia2ntʃi1ka1tʝu3ntu1nnsẽeʰ		
+106			Tá María kata nyadi jie'e sa'sén	María le compró refrescos a ellos (hombres)	tamaɾiankatⁱnʝadiʰxie'eskatinʝaðiʝeˀeʰsasḛ		
+107			Marion tumnes machete sa'sén	Mario le prestó un machete a ellos	máɾióntumnesmaʧetesaseˀ		
+108			tútò'ò achet ú kó ninù ìtì	La gallina ya comió, yo le di de comer a ella /la gallina ya comió, yo le di maíz a ella	tu3to1naʧetu3koː14ni2nu1i1ti1		
+109			Jorge ndikus chivo ka ikó'ó	Jorge le vendió el chivo a él (3a de respeto)	ho2rxe3n͡di2ku2s ʧi2βo2kai1koʰ3		
+110			Pedrón ndíchìs sako'ò nobakián	Pedro lo vio en el palacio municipal	pe2dro3nði3ʧi1sa1ko1ˀno1βa1kiə1		
+111			Tomás ne kǒs nàtà tákò'ò	Tomás le regaló flores a ella	to1ma3snkoˑ12sna1nta1ta̰1ko3		
+112			nsun chánun ndin jíkù	nosotros corrimos hasta el río	nsu2nʧa4nu2nd̥inxi3kṵ1		
+113			Nsen chìsnén yojen Ngùyùgù	Ustedes que estan en México	nseː2nʧi1sne3nyo2xenɣu1yu1ɣu1		
+114			Ta Anan  dikut yudu kan	Ana le vendió el caballo a usted	taʔanandikutʝuðuʔukan		
+115			Ta Anan chikata yundu	Ana me pidió tortillas	taʔananʧikatjunðu		
+116			Tá Franscísca kòt nuní̀ sakó	Francisca le dio agua a él	ta3fra2nsi3ska2nko1tnunisakoʰ		
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							

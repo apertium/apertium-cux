@@ -177,12 +177,16 @@ class Tagger:
 		elif form.lower() == 'bea':
 			new_analyses = choose_if(analyses, r'(tengo|tiene|tienes|tenemos|tienen)', 'VERB')
 			new_analyses = choose_if_not(new_analyses, r'sentad[oa]', 'VERB')
+		elif form == 'jiku':
+			new_analyses = choose_or_remove(analyses, 'río', 'río')
 		elif form == 'iyu':
 			new_analyses = choose_if_not_trad(analyses, 'luna', 'mes')
 		elif form == 'ñoʼö':
 			new_analyses = choose_if_not_trad(analyses, r'(árbol|árboles)', 'pueblo')
 		elif form == 'cheʼed':
 			new_analyses = choose_if_not_trad(analyses, 'come', 'fuiste')
+		elif form.lower() == 'chin':
+			new_analyses = choose_or_remove(analyses, 'estornudaste', 'estornudaste')
 		elif form.lower() == 'mi':
 			new_analyses = choose_or_remove(analyses, 'ahí', 'ahí')
 		elif form == 'díi':
