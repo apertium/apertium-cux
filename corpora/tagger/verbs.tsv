@@ -1,0 +1,6 @@
+chi	chis		VERB	VerbForm=Fin|Subcat=Intr	vendrá	POT-venir-3.MSC		Mood=Pot|Person=3|Gender=Masc
+chi	chíd		VERB	VerbForm=Fin|Subcat=Intr	vendrás	POT-venir-2SG		Mood=Pot|Person=2|Number=Sing
+chi	kuchis		VERB	VerbForm=Fin|Subcat=Intr	vino	CPL-venir-3.MSC		Aspect=Perf|Person=3|Gender=Masc
+chi	kuchid		VERB	VerbForm=Fin|Subcat=Intr	ven	CPL-venir-2SG		Aspect=Perf|Person=2|Number=Sing
+chi	jichis		VERB	VerbForm=Fin|Subcat=Intr	viene	PROG-venir-3.MSC	Aspect=Prog|Person=3|Gender=Masc
+chi	jichid		VERB	VerbForm=Fin|Subcat=Intr	vienes	PROG-venir-2SG		Aspect=Prog|Person=2|Number=Sing

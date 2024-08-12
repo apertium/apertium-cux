@@ -37,7 +37,7 @@ tokens_lex = 0
 
 last_sent_id = ''
 
-tagger = Tagger('../tagger/lexicon.tsv', '../tagger/corrections.tsv')
+tagger = Tagger('../tagger/lexicon.tsv', '../tagger/corrections.tsv', '../tagger/verbs.tsv')
 
 for line in open(sys.argv[1]):
 

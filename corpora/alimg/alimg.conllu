@@ -3292,7 +3292,7 @@
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	koʼos	_	VERB	_	_	_	_	_	Trad=dijo|Gloss=?-decir-3.MSC
-3	chis	_	VERB	_	_	_	_	_	Trad=vendrá|Gloss=?-venir-3.MSC
+3	chis	chi	VERB	_	Gender=Masc|Mood=Pot|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=vendrá|Gloss=POT-venir-3.MSC
 4	tonto	_	ADJ	_	_	_	_	_	Trad=tonto
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -4226,7 +4226,7 @@
 # hash = 1efb5dc6563150591ab420170fb8e0ec
 # tagged = true
 1	Koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
-2	chíd	_	VERB	_	_	_	_	_	Trad=vendrás|Gloss=?-venir-2SG
+2	chíd	chi	VERB	_	Mood=Pot|Number=Sing|Person=2|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=vendrás|Gloss=POT-venir-2SG
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kanad	_	VERB	_	_	_	_	_	Trad=traerías|Gloss=?-traer-2SG
@@ -4242,7 +4242,7 @@
 # hash = bdfd34e7e989811da97ba8826df81f16
 # tagged = true
 1	Koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
-2	chíd	_	VERB	_	_	_	_	_	Trad=vendrás|Gloss=?-venir-2SG
+2	chíd	chi	VERB	_	Mood=Pot|Number=Sing|Person=2|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=vendrás|Gloss=POT-venir-2SG
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kanad	_	VERB	_	_	_	_	_	Trad=traerías|Gloss=?-traer-2SG
@@ -4355,7 +4355,7 @@
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
 3	ku	_	DET	_	_	_	_	_	Trad=este
 4	ti	_	DET	_	_	_	_	_	Trad=ese
-5	kuchis	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
+5	kuchis	chi	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=vino|Gloss=CPL-venir-3.MSC
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:257
@@ -4369,7 +4369,7 @@
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
 3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 4	ti	_	DET	_	_	_	_	_	Trad=ese
-5	kuchis	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
+5	kuchis	chi	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=vino|Gloss=CPL-venir-3.MSC
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:258
@@ -4411,7 +4411,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-4	kuchid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ven|Gloss=?-venir-2SG
+4	kuchid	chi	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=ven|Gloss=CPL-venir-2SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:261
@@ -4932,7 +4932,7 @@
 # tagged = true
 1	Job	_	NOUN	_	_	_	_	_	Trad=día
 2	jobe	_	NOUN	_	_	_	_	_	Trad=día
-3	jichis	_	VERB	_	_	_	_	_	Trad=viene|Gloss=?-venir-3.MSC
+3	jichis	chi	VERB	_	Aspect=Prog|Gender=Masc|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=viene|Gloss=PROG-venir-3.MSC
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	yuduu	_	NOUN	_	_	_	_	_	Trad=caballo
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -5752,7 +5752,7 @@
 1	Nigua	_	_	_	_	_	_	_	Trad=no
 2	mniñu	_	ADV	_	_	_	_	_	Trad=ahora
 3	a	a	PART	_	_	_	_	_	Gloss=QST
-4	chis	_	VERB	_	_	_	_	_	Trad=vendrá|Gloss=?-venir-3.MSC
+4	chis	chi	VERB	_	Gender=Masc|Mood=Pot|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=vendrá|Gloss=POT-venir-3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:592

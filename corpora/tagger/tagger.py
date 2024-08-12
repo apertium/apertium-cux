@@ -7,9 +7,10 @@ import sys, re, unicodedata
 
 class Tagger:
 
-	def __init__(self, lexfn, corrfn):
+	def __init__(self, lexfn, corrfn, verbsfn):
 		self.lexicon = self.load_lexicon(lexfn)
 		self.corrections = self.load_corrections(corrfn)
+		self.verbs = self.load_verbs(verbsfn)
 	
 	def load_lexicon(self, fn):
 		lexicon = {}
@@ -51,6 +52,27 @@ class Tagger:
 				print('WARNING:', orig,'→', self.lexicon[orig], file=sys.stderr)
 			corrections[orig.strip()] = repl.strip()
 		return corrections
+
+	def load_verbs(self,fn):
+		verbs = {}
+		#0	 1		 2	 3		 4	 5			 6	
+		#chi     chíd            VERB    VerbForm=Fin    vendrás POT-venir-2SG           Mood=Pot|Person=2|Number=Sing
+		for line in open(fn).readlines():
+			if line.strip() == '':
+				continue
+			if line[0] == '#':
+				continue
+			lema, form, tag, tipus, trad, glosa, feats = re.sub('\t\t*', '\t', line).strip('\n').split('\t')
+			uf = []
+			for i in feats.split('|'): uf.append(i)
+			for i in tipus.split('|'): uf.append(i)
+			uf.sort()
+			ufeats = '|'.join(uf)
+			if form not in verbs:
+				verbs[form] = []
+			# ('_', 'PRON', 'PronType=Prs', 'tú', '2SG', '')
+			verbs[form].append((lema, tag, ufeats, trad, glosa, ''))
+		return verbs
 	
 	def add_featval(self,exist, feat, val):
 		if val.strip() == '':
@@ -279,7 +301,9 @@ class Tagger:
 
 		# first look up the token, if not lower case, if not the correction 
 		k = token
-		if k in self.lexicon:
+		if k in self.verbs:
+			analyses = self.verbs[k]
+		elif k in self.lexicon:
 			analyses = self.lexicon[k]	
 		elif k.lower() in self.lexicon:
 			analyses = self.lexicon[k.lower()]	

@@ -27,7 +27,7 @@ n_tagged_sents = 0
 n_tagged_tokens = 0
 tokens_lex = 0
 
-tagger = Tagger('../tagger/lexicon.tsv', '../tagger/corrections.tsv')
+tagger = Tagger('../tagger/lexicon.tsv', '../tagger/corrections.tsv', '../tagger/verbs.tsv')
 
 sent_id = 1
 for line in sys.stdin.readlines():
