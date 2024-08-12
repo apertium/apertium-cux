@@ -25,8 +25,8 @@
 # text[orig] = din ne chidin.
 # text[spa] = Usted estornudó
 # text[ipa] = dintʃidin
-# tagged = false
-1	Din	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=hay,usted
+# tagged = true
+1	Din	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chidin	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudó|Gloss=?-estornudar-2SG.RES
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -155,10 +155,10 @@
 # text[orig] = Juan dichis ndi.
 # text[spa] = Juan lo vio a usted
 # text[ipa] = xuãnditʃisndi
-# tagged = false
+# tagged = true
 1	Juan	_	PROPN	_	_	_	_	_	Trad=Juan
 2	dichis	_	VERB	_	_	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
-3	ndi	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=hay,usted
+3	ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:16
@@ -261,12 +261,12 @@
 # text[orig] = Luis ne tes ama burrru uú.
 # text[spa] = Luis me dio a mí un burro
 # text[ipa] = luisntesamburuˀu
-# tagged = false
+# tagged = true
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	tes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-5	burrru	_	_	_	_	_	_	_	_
+5	burrru	_	NOUN	_	Typo=Yes	_	_	_	Trad=burro
 6	uú	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -289,13 +289,13 @@
 # text[orig] = Luis ne tes ama burru ndi.
 # text[spa] = Luis le dio un burro a
 # text[ipa] = luisntesamburoⁿdi
-# tagged = false
+# tagged = true
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	tes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	burru	_	NOUN	_	_	_	_	_	Trad=burro
-6	ndi	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=hay,usted
+6	ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:27
@@ -423,8 +423,8 @@
 # text[orig] = ndi ne chijinun.
 # text[spa] = Usted estornudó
 # text[ipa] = ⁿdintʃixinun
-# tagged = false
-1	Ndi	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=hay,usted
+# tagged = true
+1	Ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chijinun	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudó|Gloss=?-estornudar-2SG.RES
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -674,12 +674,12 @@
 # text[orig] = Luis tes ama burro ndi.
 # text[spa] = Luis le dio un burro a usted
 # text[ipa] = luistesamburoⁿdiʰ
-# tagged = false
+# tagged = true
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
 2	tes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	burro	_	NOUN	_	_	_	_	_	Trad=burro
-5	ndi	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=hay,usted
+5	ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:59
@@ -814,10 +814,10 @@
 # text[orig] = takó ne kerta Ndova.
 # text[spa] = ella se fue a Oaxaca
 # text[ipa] = ta̰1ko̰o12n kʷe2ta1 nðo1βaʰ1
-# tagged = false
+# tagged = true
 1	Takó	takó	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
-3	kerta	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=cohete,fue
+3	kerta	_	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=fue|Gloss=?-ir-3.FEM
 4	Ndova	_	PROPN	_	_	_	_	_	Trad=Oaxaca
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1029,9 +1029,9 @@
 # text[orig] = ù káù nunyàdi.
 # text[spa] = nosotros (incl) compramos los refrescos
 # text[ipa] = uː1kau41nu1nʝa1ði2
-# tagged = false
+# tagged = true
 1	Ù	ʼuu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.INC
-2	káù	_	_	_	_	_	_	_	_
+2	káù	_	VERB	_	VerbForm=Fin	_	_	_	Trad=compramos|Gloss=?-comprar-1PL.INC
 3	nunyàdi	_	NOUN	_	_	_	_	_	Trad=refresco
 4	.	.	PUNCT	_	_	_	_	_	_
 

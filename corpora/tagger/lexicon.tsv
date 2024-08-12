@@ -1,4 +1,4 @@
-GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1625	1611	1615
+GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1626	1612	1616
 _	a	a	ADV		ya				
 _	a	a	PART			QST			
 _	áa		VERB		resuena				
@@ -1663,7 +1663,7 @@ _	nauneta		VERB		regresaron	?-regresar-?
 _	nanduchin		VERB		despertaron	?-despertar-?			
 x	ndin		ADP		hasta				
 _	achet		VERB	VerbForm=Fin	ya comió	?-comer-?			
-									
+_	káù		VERB	VerbForm=Fin	compramos	?-comprar-1PL.INC			
 _	ìtì		NOUN		animal				
 _	kanét		VERB		está	?-estar-?			
 _	tulíʼ		NOUN		pollito				

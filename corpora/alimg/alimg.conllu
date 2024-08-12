@@ -484,8 +484,8 @@
 # text[spa] = Tú eres gordo
 # alimg = Tú eres gordo
 # hash = 58d0b3c957a3b5f1bcda9ba968add650
-# tagged = false
-1	Din	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=hay,usted
+# tagged = true
+1	Din	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
 2	rúʼu	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -506,8 +506,8 @@
 # text[spa] = Tú eres gordo
 # alimg = Tú eres gordo
 # hash = 58d0b3c957a3b5f1bcda9ba968add650
-# tagged = false
-1	Din	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=hay,usted
+# tagged = true
+1	Din	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
 2	bíchad	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 

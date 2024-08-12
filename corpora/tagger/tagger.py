@@ -174,7 +174,7 @@ class Tagger:
 			new_analyses = choose_if_else(analyses, r'rel[aá]mpago', 'NOUN', 'VERB')
 		elif form == 'kaaka':
 			new_analyses = choose_if_else(analyses, 'papel', 'NOUN', 'VERB')
-		elif form == 'kueta':
+		elif form == 'kueta' or form == 'kerta':
 			new_analyses = choose_or_remove(analyses, 'cohete', 'cohete')
 		elif form.lower() == 'bea':
 			new_analyses = choose_if(analyses, r'(tengo|tiene|tienes|tenemos|tienen)', 'VERB')
@@ -243,6 +243,8 @@ class Tagger:
 			new_analyses = choose_if_not_trad(analyses, 'veinte', 'viejo')
 		elif form == 'di':
 			new_analyses = choose_if_not_trad(analyses, '(haces|hacer|trabajo|trabajar|trabajas)', 'tú')
+		elif form == 'din' or form == 'ndi':
+			new_analyses = choose_if_not_trad(analyses, 'hay', 'usted')
 		elif form == 'chidi':
 			new_analyses = choose_or_remove(analyses, 'estornudamos', 'estornudamos')
 			new_analyses = choose_or_remove(new_analyses, 'estornudó', 'estornudó')
