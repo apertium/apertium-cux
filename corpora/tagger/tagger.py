@@ -1,4 +1,4 @@
-import sys, re
+import sys, re, unicodedata
 
 
 # Palabra	Lema	POS	Feats	Significado	Glosa	
@@ -22,6 +22,8 @@ class Tagger:
 			misc = ''		
 			if pos == '': pos = '_'
 			if lema == '': lema = '_'
+
+			token = unicodedata.normalize('NFKC', token)
 
 			if guessed == 'x':
 				misc = 'Guessed'	
@@ -239,12 +241,35 @@ class Tagger:
 			new_analyses = choose_if_not_trad(analyses, 'mucho', 'muy')
 		elif form == 'niku':
 			new_analyses = choose_if_not_trad(analyses, 'veinte', 'viejo')
-	
+		elif form == 'di':
+			new_analyses = choose_if_not_trad(analyses, '(haces|hacer|trabajo|trabajar|trabajas)', 'tú')
+		elif form == 'chidi':
+			new_analyses = choose_or_remove(analyses, 'estornudamos', 'estornudamos')
+			new_analyses = choose_or_remove(new_analyses, 'estornudó', 'estornudó')
+			new_analyses = choose_or_remove(new_analyses, 'estornudé', 'estornudé')
+		elif form == 'chidin':
+			new_analyses = choose_or_remove(analyses, 'estornudamos', 'estornudamos')
+			new_analyses = choose_or_remove(new_analyses, 'estornudó', 'estornudó')
+
+		if len(new_analyses) > 1:
+			unguessed = []
+			guessed = []
+			for a in new_analyses:
+				if a[5] == 'Guessed':
+					guessed.append(a)
+					continue
+				unguessed.append(a)
+			if new_analyses != unguessed:
+				print('\tremoved guessed:', len(new_analyses)-len(unguessed), '||', guessed, file=sys.stderr)
+			new_analyses = unguessed
+			
+		
 		if new_analyses == analyses:
 			print('\tremaining:', form, '|', analyses,'|', '|', cux, spa, file=sys.stderr)
 		else:	
 			print('\tselected:', form, '|', new_analyses,'|', file=sys.stderr)
-	
+
+
 		return new_analyses
 
 	def tag(self, token, ufeat):

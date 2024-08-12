@@ -1,4 +1,4 @@
-GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1574	1560	1566
+GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1655	1641	1646
 _	a	a	ADV		ya				
 _	a	a	PART			QST			
 _	áa		VERB		resuena				
@@ -1572,6 +1572,106 @@ _	chijinuy		VERB	VerbForm=Fin	estornudó	?-estornudar-3.HUM
 _	chijinuta		VERB	VerbForm=Fin	estornudó	?-estornudar-3.FEM			
 _	chijinuʼuu		VERB	VerbForm=Fin	estornudamos	?-estornudar-1PL.INC			
 _	chijinu		VERB	VerbForm=Fin	estornudaron	?-estornudar-2PL			
+_	ne		PART			EMPH			
+x	nu	ndu	CCONJ		y				
+x	ndu	ndu	CCONJ		y				
+_	tes		VERB	VerbForm=Fin	dio	CPL-dar-3.MSC			
+_	di		PRON	PronType=Prs	tú	2SG			
+_	chidi		VERB	VerbForm=Fin	estornudé	?-estornudar-1SG			
+_	chidid		VERB	VerbForm=Fin	estornudaste	?-estornudar-2SG			
+_	chidin		VERB	VerbForm=Fin	estornudó	?-estornudar-2SG.RES			
+_	chidis		VERB	VerbForm=Fin	estornudó	?-estornudar-3.MSC			
+_	chidi		VERB	VerbForm=Fin	estornudó	?-estornudar-3.HUM			
+_	chidita		VERB	VerbForm=Fin	estornudó	?-estornudar-3.FEM			
+_	chidi		VERB	VerbForm=Fin	estornudamos	?-estornudar-1PL.INC			
+_	chidin		VERB	VerbForm=Fin	estornudamos	?-estornudar-1PL.EXC			
+_	chichinsee		VERB	VerbForm=Fin	estornudaron	?-estornudar-3PL			
+_	chidi		VERB	VerbForm=Fin	estornudaron	?-estornudar-3PL			
+_	ikó		PRON	PronType=Prs	él	3.HUM			
+_	nunsun		PRON	PronType=Prs	nosotros	1PL.INC			
+_	tasee		PRON	PronType=Prs	ellas	3PL.FEM			
+_	sasee		PRON	PronType=Prs	ellos	3PL.MSC			
+_	ndi		PRON	PronType=Prs	usted	2SG.RES			
+_	taká		PRON	PronType=Prs	ella	3.FEM			
+_	dichi		VERB	VerbForm=Fin	vio	?-ver-?			
+_	kos		VERB	VerbForm=Fin	vendió	?-vender-?			
+_	dichit		VERB	VerbForm=Fin	vio	?-ver-?			
+_	nse		PRON	PronType=Prs	ustedes	2PL.RES			
+_	chidiña		VERB	VerbForm=Fin	vio a alguien	?-ver-?			
+_	dichindi		VERB	VerbForm=Fin	vio a usted	?-ver-?			
+_	yisee		PRON	PronType=Prs	nosotros	1PL.INC			
+_	iñed		PRON	PronType=Prs	nosotros	1PL.EXC			
+_	ñe		NOUN	NounType=Relat	de ustedes	base-2PL			
+_	chidí		VERB	VerbForm=Fin	estornudé	?-estornudar-1SG			
+x	cabchi		SCONJ		porque				
+_	dìn		PRON	PronType=Prs	tú	2SG			
+_	cheta		VERB	VerbForm=Fin	fue	?-ir-3.FEM			
+x	bakut		VERB	VerbForm=Fin	vive	?-vivir-3.AML			
+_	úuu		PRON	PronType=Prs	nosotros	1PL.INC			
+_	chanun		VERB	VerbForm=Fin	corrimos	?-correr-?			
+_	nsu		PRON	PronType=Prs	nosotros	1PL.EXC			
+_	martes		NOUN		martes				
+_	íʼsen		PRON	PronType=Prs	ellos	3PL			
+_	bàʼá		NOUN		casa				
+_	chìí		VERB	VerbForm=Fin	pinté	?-pintar-?			
+_	níìʼ		PRON	PronType=Prs	usted	2SG.RES			
+_	chinun		VERB	VerbForm=Fin	sembró	?-sembrar-?			
+_	jingò		NOUN		milpa				
+_	dìs		VERB	VerbForm=Fin	hace	?-hacer-3.MSC			
+_	ntiño		NOUN		trabajo				
+_	ìkòʼ		PRON	PronType=Prs	él	3.HUM			
+_	nàndáì		VERB	VerbForm=Fin	hizo	?-hacer-?			
+_	síyá		NOUN		silla				
+_	snsun		PRON	PronType=Prs	nosotros	1PL.EXC			
+_	nsen		PRON	PronType=Prs	ustedes	2PL			
+_	nsun		PRON	PronType=Prs	nosotros	1PL.EXC			
+_	chánun		VERB	VerbForm=Fin	corrimos	?-correr-?			
+_	tákòʼò		PRON	PronType=Prs	ella	3.FEM			
+_	sakoʼò		PRON	PronType=Prs	él	3.MSC			
+_	ndikus		VERB	VerbForm=Fin	vendió				
+_	ikóʼó		PRON	PronType=Prs	él	3.HUM			
+_	chindoì		VERB	VerbForm=Fin	entraron	?-entrar-?			
+_	sáko		PRON	PronType=Prs	él	3.MSC			
+_	táko		PRON	PronType=Prs	ella	3.FEM			
+_	ndátá		VERB	VerbForm=Fin	bordó	?-bordar-?			
+_	ínù		NUM		tres				
+_	nàmí		NOUN		barda				
+_	kostál		NOUN		costal				
+_	kandé		VERB	VerbForm=Fin	cargaron	?-cargar-?			
+_	nsèn		PRON	PronType=Prs	ustedes	2PL			
+_	chen		VERB	VerbForm=Fin	comimos	?-comer-?			
+_	bà		NOUN		casa				
+_	nsé		PRON	PronType=Prs	ustedes	2PL			
+_	kàndèn		VERB	VerbForm=Fin	cargaron	?-cargar-?			
+_	sasèn		PRON	PronType=Prs	ellos	3PL.MSC			
+_	chikas		VERB	VerbForm=Fin	cortaron	?-cortar-?			
+_	non		NOUN		leña				
+_	poón		NOUN		pan				
+_	taʼsé		PRON	PronType=Prs	ellas	3PL.FEM			
+_	chìka		VERB	VerbForm=Fin	pedí	?-pedir-?			
+_	tàsèʼ		PRON	PronType=Prs	ellas	3PL.FEM			
+_	neen		NOUN		mole				
+_	nadàtun		VERB	VerbForm=Fin	cocinaron	?-cocinar-?			
+_	kueté		NOUN		campo				
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
 									
 									
 									

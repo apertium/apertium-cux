@@ -2263,7 +2263,7 @@
 # alimg = Tengo sueño.
 # hash = 8a316070c58b7971abb8c57c63e4cb61
 # tagged = true
-1	Ne	_	VERB	_	_	_	_	_	Trad=se.necesita|UPOS=Guessed
+1	Ne	_	PART	_	_	_	_	_	Gloss=EMPH
 2	kuyadu	_	VERB	_	_	_	_	_	Trad=dormir|Gloss=?-dormir-?
 3	.	.	PUNCT	_	_	_	_	_	_
 

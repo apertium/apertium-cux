@@ -1,5 +1,5 @@
 import sys, re, os, inspect, hashlib
-
+import unicodedata
 
 
 currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
@@ -19,7 +19,7 @@ def clean(s):
 	o = o.replace(' ?', '?')
 	o = o.replace('¿ ', '¿')
 	o = re.sub('  *', ' ', o)
-	return o
+	return unicodedata.normalize('NFKC', o)
 
 def clean_sent(s):
 	o = s

@@ -1,21 +1,21 @@
-ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL	TRANSCRIPCIÓN		
+ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL	TRANSCRIPCIÓN	NOTAS	
 1	Úu	yo	úu ne chidi	Yo estornudé	ˀuntʃidi		
-2			di ne chidid	tú estornudaste	dintʃidɛd ̴dintʃidi̴d		
+2			di ne chidid	Tú estornudaste	dintʃidɛd ̴dintʃidi̴d		
 3			din ne chidin	Usted estornudó	dintʃidin		
 4			sakó ne chidis	Él estornudó	sakontʃidis		
-5			ikó ne chidi	él estornudo	ikontʃidi		
+5			ikó ne chidi	Él estornudó	ikontʃidi	respeto	
 6			takoo ne chidita	Ella estornudó	takontʃidita		
-7			nunsun chidi	nosotros estornudamos	nunsuntʃidi		
-8			úu ndu tako chidin	yo y ella estornudamos	undutako		
+7			nunsun chidi	Nosotros estornudamos	nunsuntʃidi	inclusivo	
+8			úu ndu tako chidin	Yo y ella estornudamos	undutako	exclusivo	
 9			chichinsee	ellos estornudaron	tʃitʃinsɛ̰		
-10			Uu nu isee	yo y ellos	uˀnuisɛ̰		
-11			isee ne chidi	ellos estornudarón	isɛntʃidi		
+10			Uu nu isee	Yo y ellos	uˀnuisɛ̰		
+11			isee ne chidi	ellos estornudaron	isɛntʃidi		
 12			tasee ne chidita 	ellas estornudaron	tasɛntʃidita		
 13			Juan dichis úu	Juan me vió	xuãdiʃisˀu		
 14			Juan dichis dí	Juan te vio	xuãnditʃisdi		
 15			Juan dichis ndi	Juan lo vio a usted	xuãnditʃisndi		
-16			Juan ne dichis sakó	xuan lo vio a él	xuãnditʃisasako̰		
-17			juan ne dichis ikó	Juan lo vio a él (resp)	xuãnditʃisiko̰		
+16			Juan ne dichis sakó	Juan lo vio a él	xuãnditʃisasako̰		
+17			juan ne dichis ikó	Juan lo vio a él	xuãnditʃisiko̰	respeto	
 18			Juan ne dichit taká	Juan la vio a ella	xuanditʃitaka̰		
 19			Juan ne dichi nsu	Juan nos vio	xuanditʃisnsu		
 20			Juan ne dichia isee	Juan los vio a ellos	xuanditʃisaisɛ̰		
@@ -44,11 +44,11 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL	TRANSCRIPCIÓN
 43			sasee ne chijinus	Ellos estornudaron	sasɛntʃixinus		
 44			tasee ne chijinuta	ellas estornudaron	tasɛntʃixinuta		
 45			Juan ne dichis úu	Juan me vio	xuanditʃisuˀ		
-46			Juan ne chidiña	Juan vio a alguien ̴Juan vio a una persona)	xuanditʃiɲa̰		
+46			Juan ne chidiña	Juan vio a alguien ~ Juan vio a una persona)	xuanditʃiɲa̰		
 47			Juan ne dichindi	Juan lo vio a usted	xuanditʃindiˀ		
 48			Juan ne dichis ikó	Juan lo vio a él (resp)	xuanditʃisiko̰		
 49			Juan ne dichis sakó	Juan la vio a ella	xuanditʃistako̰		
-50			Juan  ne  dichis isee	Juan nos vio ̴ Juan las vio a ellas ̴ ellos	xuanditʃisisɛ		
+50			Juan  ne  dichis isee	Juan nos vio ~ Juan las vio a ellas ~ ellos	xuanditʃisisɛ		
 51			Juan ne dichis uuu	Juan nos vio (incl)	xuanditʃiuˑ		
 52			Juan ne dichis isee 	Juan los vio a ustedes	xuanditʃisisɛ		
 53			Juan ne dichis isee 	Juan los vio a ellos	xuanditʃisisɛ		
@@ -91,7 +91,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL	TRANSCRIPCIÓN
 90			ú chìka poón ta'sé	yo le pedí pan a ellas	uˀ4tʃi1ka2põ23ta2seeʰ3		
 91			tàsè' nadàtun neen	ellas cocinaron el mole	ta1sḛ2na2nda̰1tũ2nẽː2		
 92			isen nani chinyàkù	ellos abrieron la puerta de la iglesia	i2se2nna̰2nḭ2ʧĩ1nʝa1ku̥		
-93			na ba'ǎ íñu dichèt tulí'	bajo el gavilán y se comió el pollito/ por abajo el gavilan se comió el pollito	na2βa2ˀa13i3ɲu2ði2tʃḛ1ttu2lḭˀ3		
+93			na ba'ǎ íñu dichèt tulí'	bajo el gavilán y se comió el pollito/ por abajo el gavilán se comió el pollito	na2βa2ˀa13i3ɲu2ði2tʃḛ1ttu2lḭˀ3		
 94			di kadiě toskachika kueté	Tú me gritaste cuando estaba en el campo	ði3ka21ðie14to2ʃka1tʃi2ka3kʷe3te3		
 95			José ndichìs dí no bíkù	José te vio en la fiesta	ho2se4nði2tʃi1sði3no2βi3ku1		
 96			Juán yabès ní' non íbà'	Juan lo saludó (a usted) en la plaza	xwã3nʝa2βe1sniḭ31no2ni3βa1		
@@ -111,7 +111,7 @@ ID	PALABRA	SIGNIFICADO	ORACION EN CUICATECO	ORACION EN ESPAÑOL	TRANSCRIPCIÓN
 110			Pedrón ndíchìs sako'ò nobakián	Pedro lo vio en el palacio municipal	pe2dro3nði3ʧi1sa1ko1ˀno1βa1kiə1		
 111			Tomás ne kǒs nàtà tákò'ò	Tomás le regaló flores a ella	to1ma3snkoˑ12sna1nta1ta̰1ko3		
 112			nsun chánun ndin jíkù	nosotros corrimos hasta el río	nsu2nʧa4nu2nd̥inxi3kṵ1		
-113			Nsen chìsnén yojen Ngùyùgù	Ustedes que estan en México	nseː2nʧi1sne3nyo2xenɣu1yu1ɣu1		
+113			Nsen chìsnén yojen Ngùyùgù	Ustedes que están en México	nseː2nʧi1sne3nyo2xenɣu1yu1ɣu1		
 114			Ta Anan  dikut yudu kan	Ana le vendió el caballo a usted	taʔanandikutʝuðuʔukan		
 115			Ta Anan chikata yundu	Ana me pidió tortillas	taʔananʧikatjunðu		
 116			Tá Franscísca kòt nuní̀ sakó	Francisca le dio agua a él	ta3fra2nsi3ska2nko1tnunisakoʰ		
