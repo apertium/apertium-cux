@@ -35,6 +35,7 @@ n_tagged_sents = 0
 n_tagged_tokens = 0
 tokens_lex = 0
 
+sent_id_idx = 0
 last_sent_id = ''
 
 tagger = Tagger('../tagger/lexicon.tsv', '../tagger/corrections.tsv', '../tagger/verbs.tsv')
@@ -46,6 +47,11 @@ for line in open(sys.argv[1]):
 
 	row = line.split('\t')
 
+	if row[6].strip() == '': # alimg_orig
+		continue
+	else:
+		sent_id_idx += 1
+	
 	cux = row[3].strip()
 	if cux == '':
 		continue
@@ -139,10 +145,10 @@ for line in open(sys.argv[1]):
 		fully_tagged = True
 
 	if nota_orig in 'abcdefghijklmnopqrstuvwxyz':
-		print('# sent_id = alimg:%s' % (sent_id + nota)) 
+		print('# sent_id = alimg:%s:%s' % (sent_id_idx, sent_id + nota_orig)) 
 		nota_orig = ''
 	else:
-		print('# sent_id = alimg:%s' % (sent_id))
+		print('# sent_id = alimg:%s:%s' % (sent_id_idx, sent_id))
 	print('# text = %s' % (cux))
 	print('# text[orig] = %s' % (orig_cux))
 	print('# text[spa] = %s' % (spa))

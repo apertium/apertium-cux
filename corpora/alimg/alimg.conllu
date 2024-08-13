@@ -1,4 +1,4 @@
-# sent_id = alimg:1
+# sent_id = alimg:1:1
 # text = Baʼa kun cheatea.
 # text[orig] = Ba'a kun cheatea.
 # text[spa] = Esta casa es grande.
@@ -10,7 +10,7 @@
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:1
+# sent_id = alimg:2:1a
 # text = Baʼa kun gua cheatea.
 # text[orig] = Ba'a kun gua cheatea.
 # text[spa] = Esta casa no es grande.
@@ -23,7 +23,7 @@
 4	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:1
+# sent_id = alimg:3:1b
 # text = Baʼa kun lï.
 # text[orig] = Ba'a kun lï.
 # text[spa] = Esta casa es chica.
@@ -35,7 +35,7 @@
 3	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:1
+# sent_id = alimg:4:1c
 # text = Baʼa kun gua lï.
 # text[orig] = ba'a kun gua lï.
 # text[spa] = Esta casa no es chica.
@@ -48,7 +48,7 @@
 4	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:1
+# sent_id = alimg:5:1d
 # text = Baʼa kun já.
 # text[orig] = Ba'a kun já.
 # text[spa] = Esta casa es nueva.
@@ -60,7 +60,7 @@
 3	já	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:1
+# sent_id = alimg:6:1e
 # text = Baʼa kun gua já.
 # text[orig] = Ba'a kun gua já.
 # text[spa] = Esta casa no es nueva
@@ -73,7 +73,7 @@
 4	já	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:1
+# sent_id = alimg:7:1f
 # text = Baʼa kun niku.
 # text[orig] = Ba'a kun niku.
 # text[spa] = Esta casa es vieja.
@@ -85,7 +85,7 @@
 3	niku	_	ADJ	_	_	_	_	_	Trad=viejo
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:1
+# sent_id = alimg:8:1g
 # text = Baʼa kun gua niku.
 # text[orig] = Ba'a kun gua niku.
 # text[spa] = Esta casa no es vieja.
@@ -98,7 +98,7 @@
 4	niku	_	ADJ	_	_	_	_	_	Trad=viejo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:1
+# sent_id = alimg:9:1h
 # text = Baʼa kun kuea.
 # text[orig] = Ba'a kun kuea.
 # text[spa] = Esta casa es blanca.
@@ -110,7 +110,7 @@
 3	kuea	_	ADJ	_	_	_	_	_	Trad=blanco|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:1
+# sent_id = alimg:10:1i
 # text = Baʼa kun gua kuea.
 # text[orig] = Ba'a kun gua kuea.
 # text[spa] = Esta casa no es blanca.
@@ -123,7 +123,7 @@
 4	kuea	_	ADJ	_	_	_	_	_	Trad=blanco|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:2
+# sent_id = alimg:11:2
 # text = ¿A taka baʼa mi?
 # text[orig] = ¿A taka ba'a mi?
 # text[spa] = ¿Cómo es esa casa?
@@ -137,7 +137,7 @@
 5	mi	_	DET	_	_	_	_	_	Trad=esa
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:3
+# sent_id = alimg:12:3
 # text = ¿A cheatea baʼa mi?
 # text[orig] = ¿A cheatea ba'a mi?
 # text[spa] = ¿Es grande esa casa?
@@ -151,7 +151,7 @@
 5	mi	_	DET	_	_	_	_	_	Trad=esa
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:4
+# sent_id = alimg:13:4
 # text = ¿A já baʼa mi?
 # text[orig] = ¿A já ba'a mi?
 # text[spa] = ¿Es nueva esa casa?
@@ -165,7 +165,7 @@
 5	mi	_	DET	_	_	_	_	_	Trad=esa
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:5
+# sent_id = alimg:14:5
 # text = Tika, já.
 # text[orig] = Tika, já.
 # text[spa] = Sí, es nueva.
@@ -177,7 +177,7 @@
 3	já	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:5
+# sent_id = alimg:15:5
 # text = Jú, já.
 # text[orig] = Jú, já.
 # text[spa] = Sí, es nueva.
@@ -189,7 +189,7 @@
 3	já	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:6
+# sent_id = alimg:16:6
 # text = Gua, gua já.
 # text[orig] = Gua, gua já.
 # text[spa] = No, no es nueva.
@@ -202,7 +202,7 @@
 4	já	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:7
+# sent_id = alimg:17:7
 # text = Tika.
 # text[orig] = Tika.
 # text[spa] = Sí.
@@ -212,7 +212,7 @@
 1	Tika	_	NOUN	_	_	_	_	_	Trad=ropa
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:7
+# sent_id = alimg:18:7
 # text = Jú.
 # text[orig] = Jú.
 # text[spa] = Sí.
@@ -222,7 +222,7 @@
 1	Jú	_	INTJ	_	_	_	_	_	Trad=sí|UPOS=Guessed
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:7
+# sent_id = alimg:19:7
 # text = Gua.
 # text[orig] = Gua.
 # text[spa] = No.
@@ -232,7 +232,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:20:8
 # text = Un yaku.
 # text[orig] = Un yaku.
 # text[spa] = Yo soy alto.
@@ -243,7 +243,7 @@
 2	yaku	_	ADJ	_	_	_	_	_	Trad=alto|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:21:8
 # text = Ú yaku.
 # text[orig] = Ú yaku.
 # text[spa] = Yo soy alto.
@@ -254,7 +254,7 @@
 2	yaku	_	ADJ	_	_	_	_	_	Trad=alto|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:22:8
 # text = Dín yakud.
 # text[orig] = Dín yakud.
 # text[spa] = Tú eres alto.
@@ -265,7 +265,7 @@
 2	yakud	_	ADJ	_	_	_	_	_	Trad=alto
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:23:8
 # text = Intin yakun.
 # text[orig] = Intin yakun.
 # text[spa] = Usted es alto.
@@ -276,7 +276,7 @@
 2	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:24:8
 # text = Sakó yakus.
 # text[orig] = Sakó yakus.
 # text[spa] = El es alto.
@@ -287,7 +287,7 @@
 2	yakus	_	ADJ	_	_	_	_	_	Trad=alto
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:25:8
 # text = Takó yakuta.
 # text[orig] = Takó yakuta.
 # text[spa] = Ella es alta.
@@ -298,7 +298,7 @@
 2	yakuta	_	ADJ	_	_	_	_	_	Trad=alta
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:26:8
 # text = ʼUu yakuʼuu.
 # text[orig] = 'Uu yaku'uu.
 # text[spa] = Nosotros somos altos.
@@ -310,7 +310,7 @@
 2	yakuʼuu	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:27:8
 # text = ʼUu yakuʼuu.
 # text[orig] = 'Uu yaku'uu.
 # text[spa] = Nosotros somos altos.
@@ -322,7 +322,7 @@
 2	yakuʼuu	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:28:8
 # text = Insën yakun.
 # text[orig] = Insën yakun.
 # text[spa] = Ustedes son altos
@@ -333,7 +333,7 @@
 2	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:29:8
 # text = Iñsé yakuy.
 # text[orig] = Iñsé yakuy.
 # text[spa] = Ellos son altos.
@@ -344,7 +344,7 @@
 2	yakuy	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:30:8
 # text = Ú iyú.
 # text[orig] = Ú iyú.
 # text[spa] = Yo soy chaparro.
@@ -355,7 +355,7 @@
 2	iyú	_	ADJ	_	_	_	_	_	Trad=chaparro|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:31:8
 # text = Un iyú.
 # text[orig] = Un iyú.
 # text[spa] = Yo soy chaparro.
@@ -366,7 +366,7 @@
 2	iyú	_	ADJ	_	_	_	_	_	Trad=chaparro|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:32:8
 # text = Dín iyúd.
 # text[orig] = Dín iyúd.
 # text[spa] = Tú eres chaparro.
@@ -377,7 +377,7 @@
 2	iyúd	_	ADJ	_	_	_	_	_	Trad=chaparro|Gloss=chaparro-COP.2SG
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:33:8
 # text = Sakó iyús.
 # text[orig] = Sakó iyús.
 # text[spa] = El es chaparro.
@@ -388,7 +388,7 @@
 2	iyús	_	ADJ	_	_	_	_	_	Trad=chaparro
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:34:8
 # text = ʼUu iyúʼuu.
 # text[orig] = 'Uu iyú'uu.
 # text[spa] = Nosotros somos chaparros.
@@ -400,7 +400,7 @@
 2	iyúʼuu	_	ADJ	_	_	_	_	_	Trad=chaparros
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:35:8
 # text = ʼUu iyúʼuu.
 # text[orig] = 'Uu iyú'uu.
 # text[spa] = Nosotros somos chaparros.
@@ -412,7 +412,7 @@
 2	iyúʼuu	_	ADJ	_	_	_	_	_	Trad=chaparros
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:36:8
 # text = Insën iyún.
 # text[orig] = Insën iyún.
 # text[spa] = Ustedes son chaparros.
@@ -423,7 +423,7 @@
 2	iyún	_	ADJ	_	_	_	_	_	Trad=chaparro
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:37:8
 # text = Iñsé iyún.
 # text[orig] = Iñsé iyún.
 # text[spa] = Ellos son chaparros.
@@ -434,7 +434,7 @@
 2	iyún	_	ADJ	_	_	_	_	_	Trad=chaparro
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:38:8
 # text = Un rúʼu.
 # text[orig] = Un rú'u.
 # text[spa] = Yo soy gordo.
@@ -445,7 +445,7 @@
 2	rúʼu	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:39:8
 # text = Ú rúʼu.
 # text[orig] = Ú rú'u.
 # text[spa] = Yo soy gordo.
@@ -456,7 +456,7 @@
 2	rúʼu	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:40:8
 # text = Un bícha.
 # text[orig] = Un bícha.
 # text[spa] = Yo soy gordo.
@@ -467,7 +467,7 @@
 2	bícha	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:41:8
 # text = Ú bícha.
 # text[orig] = Ú bícha.
 # text[spa] = Yo soy gordo.
@@ -478,7 +478,7 @@
 2	bícha	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:43:8
 # text = Din rúʼu.
 # text[orig] = Din rú'u.
 # text[spa] = Tú eres gordo
@@ -489,7 +489,7 @@
 2	rúʼu	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:44:8
 # text = Dí bíchad.
 # text[orig] = Dí bíchad.
 # text[spa] = Tú eres gordo
@@ -500,7 +500,7 @@
 2	bíchad	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:45:8
 # text = Din bíchad.
 # text[orig] = Din bíchad.
 # text[spa] = Tú eres gordo
@@ -511,7 +511,7 @@
 2	bíchad	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:46:8
 # text = Sakó rúʼus.
 # text[orig] = Sakó rú'us.
 # text[spa] = El es gordo
@@ -522,7 +522,7 @@
 2	rúʼus	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:47:8
 # text = Sakón rúʼus.
 # text[orig] = Sakón rú'us.
 # text[spa] = El es gordo
@@ -533,7 +533,7 @@
 2	rúʼus	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:48:8
 # text = Sakó bíchas.
 # text[orig] = Sakó bíchas.
 # text[spa] = El es gordo
@@ -544,7 +544,7 @@
 2	bíchas	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:49:8
 # text = Sakón bíchas.
 # text[orig] = Sakón bíchas.
 # text[spa] = El es gordo
@@ -555,7 +555,7 @@
 2	bíchas	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:50:8
 # text = ʼUu rúʼuu.
 # text[orig] = 'Uu rú'uu.
 # text[spa] = Nosotros somos gordos.
@@ -568,7 +568,7 @@
 2	rúʼuu	_	ADJ	_	_	_	_	_	Trad=gordos|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:51:8
 # text = Uu bíchaʼuu.
 # text[orig] = Uu bícha'uu.
 # text[spa] = Nosotros somos gordos.
@@ -580,7 +580,7 @@
 2	bíchaʼuu	_	ADJ	_	_	_	_	_	Trad=gordos|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:52:8
 # text = Insën rúʼun.
 # text[orig] = Insën rú'un.
 # text[spa] = Ustedes son gordos.
@@ -591,7 +591,7 @@
 2	rúʼun	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:53:8
 # text = Insën bíchan.
 # text[orig] = Insën bíchan.
 # text[spa] = Ustedes son gordos.
@@ -602,7 +602,7 @@
 2	bíchan	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:54:8
 # text = Iñsén rúʼun.
 # text[orig] = Iñsén rú'un.
 # text[spa] = Ellos son gordos.
@@ -613,7 +613,7 @@
 2	rúʼun	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:55:8
 # text = Iñsén bíchan.
 # text[orig] = Iñsén bíchan.
 # text[spa] = Ellos son gordos.
@@ -624,7 +624,7 @@
 2	bíchan	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:56:8
 # text = Un kúë.
 # text[orig] = Un kúë.
 # text[spa] = Yo soy flaco.
@@ -635,7 +635,7 @@
 2	kúë	_	ADJ	_	_	_	_	_	Trad=delgado|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:57:8
 # text = Ú kúë.
 # text[orig] = Ú kúë.
 # text[spa] = Yo soy flaco.
@@ -646,7 +646,7 @@
 2	kúë	_	ADJ	_	_	_	_	_	Trad=delgado|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:58:8
 # text = Dí kúëd.
 # text[orig] = Dí kúëd.
 # text[spa] = Tu eres flaco.
@@ -657,7 +657,7 @@
 2	kúëd	_	ADJ	_	_	_	_	_	Trad=flaco|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:59:8
 # text = Dín kúëd.
 # text[orig] = Dín kúëd.
 # text[spa] = Tu eres flaco.
@@ -668,7 +668,7 @@
 2	kúëd	_	ADJ	_	_	_	_	_	Trad=flaco|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:60:8
 # text = Sakó kúës.
 # text[orig] = Sakó kúës.
 # text[spa] = El es flaco.
@@ -679,7 +679,7 @@
 2	kúës	_	ADJ	_	_	_	_	_	Trad=flaco
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:8
+# sent_id = alimg:62:8
 # text = Insú kúën.
 # text[orig] = Insú kúën.
 # text[spa] = Nosotros somos flacos.
@@ -692,7 +692,7 @@
 2	kúën	_	ADJ	_	_	_	_	_	Trad=flacos
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:9
+# sent_id = alimg:64:9
 # text = Bakun cheatea.
 # text[orig] = Bakun cheatea.
 # text[spa] = Mi casa es grande.
@@ -703,7 +703,7 @@
 2	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:9
+# sent_id = alimg:65:9
 # text = Bakud cheatea.
 # text[orig] = Bakud cheatea.
 # text[spa] = Tu casa es grande.
@@ -714,7 +714,7 @@
 2	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:9
+# sent_id = alimg:66:9
 # text = Baku sakón cheatea.
 # text[orig] = Baku sakón cheatea.
 # text[spa] = La casa de él es grande.
@@ -726,7 +726,7 @@
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:9
+# sent_id = alimg:67:9
 # text = Bakuʼuu cheatea.
 # text[orig] = Baku'uu cheatea.
 # text[spa] = Nuestra casa es grande.
@@ -738,7 +738,7 @@
 2	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:9
+# sent_id = alimg:69:9
 # text = Baku insén cheatea.
 # text[orig] = Baku insén cheatea.
 # text[spa] = La casa de ustedes es grande.
@@ -750,7 +750,7 @@
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:9(no es plural)
+# sent_id = alimg:70:9
 # text = Yudú ñeʼë cheatea.
 # text[orig] = Yudú ñe'ë cheatea.
 # text[spa] = Mis metates son grandes.
@@ -763,7 +763,7 @@
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:9(no es plural)
+# sent_id = alimg:71:9
 # text = Yudú ñeʼed cheatea.
 # text[orig] = Yudú ñe'ed cheatea.
 # text[spa] = Tus metates son grandes.
@@ -776,7 +776,7 @@
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:10
+# sent_id = alimg:76:10
 # text = Íyaan kuoʼo.
 # text[orig] = Íyaan kuo'o.
 # text[spa] = El chile es rojo.
@@ -787,7 +787,7 @@
 2	kuoʼo	_	ADJ	_	_	_	_	_	Trad=rojo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:11
+# sent_id = alimg:77:11
 # text = Íyaam na kuoʼo.
 # text[orig] = Íyaam na kuo'o.
 # text[spa] = Los chiles ya están rojos.
@@ -799,7 +799,7 @@
 3	kuoʼo	_	ADJ	_	_	_	_	_	Trad=rojo|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:12
+# sent_id = alimg:78:12
 # text = Íyaam nikua kuoʼo.
 # text[orig] = Íyaam nikua kuo'o.
 # text[spa] = Los chiles todavía no están rojos.
@@ -811,7 +811,7 @@
 3	kuoʼo	_	ADJ	_	_	_	_	_	Trad=rojo|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:13
+# sent_id = alimg:79:13
 # text = Tioʼö kun cheatea.
 # text[orig] = Tio'ö kun cheatea.
 # text[spa] = Este árbol es grande
@@ -823,7 +823,7 @@
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:14
+# sent_id = alimg:80:14
 # text = Tioʼö kun kub cheatea.
 # text[orig] = Tio'ö kun kub cheatea.
 # text[spa] = Este árbol va a ser grande
@@ -836,7 +836,7 @@
 4	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:15
+# sent_id = alimg:81:15
 # text = Tioʼö kun na cheatea.
 # text[orig] = Tio'ö kun na cheatea.
 # text[spa] = Este árbol ya es grande
@@ -850,7 +850,7 @@
 4	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:16
+# sent_id = alimg:82:16
 # text = Tioʼö min na chi cheatea.
 # text[orig] = Tio'ö min na chi cheatea.
 # text[spa] = Ese árbol se volvió grande.
@@ -864,7 +864,7 @@
 5	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:18
+# sent_id = alimg:84:18
 # text = Sï kun dama nuku ñeʼed.
 # text[orig] = Sï kun dama nuku ñe'ed.
 # text[spa] = Este sombrero es igual al tuyo.
@@ -878,7 +878,7 @@
 5	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:18
+# sent_id = alimg:85:18
 # text = Sï kun gua dama kunu ñeʼed.
 # text[orig] = Sï kun gua dama kunu ñe'ed.
 # text[spa] = Este sombrero no es igual al tuyo.
@@ -893,7 +893,7 @@
 6	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:19
+# sent_id = alimg:86:19
 # text = Sï sen gua dama.
 # text[orig] = Sï sen gua dama.
 # text[spa] = Estos sombreros no son iguales
@@ -906,7 +906,7 @@
 4	dama	_	ADJ	_	_	_	_	_	Trad=igual|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:20
+# sent_id = alimg:87:20
 # text = ¿Dae color yada mi?
 # text[orig] = ¿Dae color yada mi?
 # text[spa] = ¿De qué color es esa falda?
@@ -920,7 +920,7 @@
 5	mi	_	DET	_	_	_	_	_	Trad=esa
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:21
+# sent_id = alimg:88:21
 # text = Yada min kuea nuku kuä.
 # text[orig] = Yada min kuea nuku kuä.
 # text[spa] = Esa falda es blanca y negra.
@@ -934,7 +934,7 @@
 5	kuä	_	ADJ	_	_	_	_	_	Trad=negro|UPOS=Guessed
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:22
+# sent_id = alimg:89:22
 # text = ¿yúduu ñeʼed a kuät o kueat?
 # text[orig] = ¿yúduu ñe'ed a kuät o kueat?
 # text[spa] = ¿Tu caballo es negro o blanco?
@@ -950,7 +950,7 @@
 7	kueat	_	ADJ	_	_	_	_	_	Trad=blanco|UPOS=Guessed
 8	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:25
+# sent_id = alimg:92:25
 # text = Inuu comida.
 # text[orig] = Inuu comida.
 # text[spa] = La comida está caliente.
@@ -961,7 +961,7 @@
 2	comida	_	NOUN	_	_	_	_	_	Trad=comida
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:25
+# sent_id = alimg:93:25
 # text = Icha comida.
 # text[orig] = Icha comida.
 # text[spa] = La comida está fría.
@@ -972,7 +972,7 @@
 2	comida	_	NOUN	_	_	_	_	_	Trad=comida
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:26
+# sent_id = alimg:94:26
 # text = Yeabean icha nuni.
 # text[orig] = yeabean icha nuni.
 # text[spa] = El agua está muy fría.
@@ -984,7 +984,7 @@
 3	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:27
+# sent_id = alimg:97:27
 # text = Kutu min ñá.
 # text[orig] = Kutu min ñá.
 # text[spa] = Esa olla está sucia.
@@ -996,7 +996,7 @@
 3	ñá	_	ADJ	_	_	_	_	_	Trad=sucio|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:27
+# sent_id = alimg:98:27
 # text = Kutu min gua ñá.
 # text[orig] = kutu min gua ñá.
 # text[spa] = Esa olla no está sucia
@@ -1009,7 +1009,7 @@
 4	ñá	_	ADJ	_	_	_	_	_	Trad=sucio|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:27
+# sent_id = alimg:99:27
 # text = Kutu min deabea.
 # text[orig] = kutu min deabea.
 # text[spa] = Esa olla está limpia.
@@ -1021,7 +1021,7 @@
 3	deabea	_	NOUN	_	_	_	_	_	Trad=alumbrado
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:27
+# sent_id = alimg:100:27
 # text = Kutu min gua deabea.
 # text[orig] = kutu min gua deabea.
 # text[spa] = Esa olla no está limpia.
@@ -1034,7 +1034,7 @@
 4	deabea	_	NOUN	_	_	_	_	_	Trad=alumbrado
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:28
+# sent_id = alimg:101:28
 # text = Ñoo min nìnuu nuku muʼu.
 # text[orig] = Ñoo min nìnuu nuku mu'u.
 # text[spa] = Ese pueblo está cerca de aquí
@@ -1048,7 +1048,7 @@
 5	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:28
+# sent_id = alimg:102:28
 # text = Ñoo min ñaʼa nuku muʼu.
 # text[orig] = Ñoo min ña'a nuku mu'u.
 # text[spa] = Ese pueblo está lejos de aquí
@@ -1062,7 +1062,7 @@
 5	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:29
+# sent_id = alimg:103:29
 # text = ¿A ñaʼa ñoom?
 # text[orig] = ¿A ña'a ñoom?
 # text[spa] = ¿Está lejos el pueblo?
@@ -1075,7 +1075,7 @@
 4	ñoom	_	NOUN	_	Typo=Yes	_	_	_	Normal=ñoo|Trad=pueblo
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:30
+# sent_id = alimg:104:30
 # text = Fom kanes Jibaku.
 # text[orig] = Fom kanes Jibaku.
 # text[spa] = Juan está en Cuicatlán
@@ -1087,7 +1087,7 @@
 3	Jibaku	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:31
+# sent_id = alimg:105:31
 # text = ¿A ti kane Fom mniñu?
 # text[orig] = ¿A ti kane Fom mniñu?
 # text[spa] = ¿Dónde está Juan ahora?
@@ -1102,7 +1102,7 @@
 6	mniñu	_	ADV	_	_	_	_	_	Trad=ahora
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:32
+# sent_id = alimg:106:32
 # text = ¿A kanés Jibaku?
 # text[orig] = ¿A kanés Jibaku?
 # text[spa] = ¿Está en Cuicatlán?
@@ -1115,7 +1115,7 @@
 4	Jibaku	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:34(sujeto masculino)
+# sent_id = alimg:108:34
 # text = ¿A iku chi kenés Jibaku?
 # text[orig] = ¿A iku chi kenés Jibaku?
 # text[spa] = ¿Ayer estaba en Cuicatlán?
@@ -1131,7 +1131,7 @@
 6	Jibaku	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:36
+# sent_id = alimg:110:36
 # text = ¿A ti kane chidad?
 # text[orig] = ¿A ti kane chidad?
 # text[spa] = ¿Dónde está tu papá?
@@ -1145,7 +1145,7 @@
 5	chidad	_	NOUN	_	_	_	_	_	Trad=tu.papá|Gloss=papá-POSS.2SG
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:37
+# sent_id = alimg:111:37
 # text = ¿A kanu chidad baʼa?
 # text[orig] = ¿A kanu chidad ba'a?
 # text[spa] = ¿Tu papá está en la casa?
@@ -1159,7 +1159,7 @@
 5	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:37
+# sent_id = alimg:112:37
 # text = ¿A gua kanu chidad baʼa?
 # text[orig] = ¿A gua kanu chidad ba'a?
 # text[spa] = ¿Tu papá no está en la casa?
@@ -1174,7 +1174,7 @@
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:38
+# sent_id = alimg:113:38
 # text = Kanu chida baʼa.
 # text[orig] = Kanu chida ba'a.
 # text[spa] = Mi papá está en la casa.
@@ -1186,7 +1186,7 @@
 3	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:38
+# sent_id = alimg:114:38
 # text = Chidan guay baʼa.
 # text[orig] = Chidan guay ba'a.
 # text[spa] = Mi papá no está en la casa.
@@ -1198,7 +1198,7 @@
 3	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:39
+# sent_id = alimg:115:39
 # text = Kanu kuedama chida baʼa.
 # text[orig] = Kanu kuedama chida ba'a.
 # text[spa] = Mi papá siempre está en la casa.
@@ -1211,7 +1211,7 @@
 4	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:40
+# sent_id = alimg:116:40
 # text = Chidan kanuñ bö jingö.
 # text[orig] = Chidan kanuñ bö jingö.
 # text[spa] = Mi papá está en la milpa.
@@ -1224,7 +1224,7 @@
 4	jingö	_	NOUN	_	_	_	_	_	Trad=milpa
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:40
+# sent_id = alimg:117:40
 # text = Chida kaneñ no nʼiba.
 # text[orig] = Chida kaneñ no n'iba.
 # text[spa] = Mi papá está en el mercado.
@@ -1237,7 +1237,7 @@
 4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:40
+# sent_id = alimg:118:40
 # text = Chida kueʼeñ chin jíku.
 # text[orig] = Chida kue'eñ chin jíku.
 # text[spa] = Mi papá está en el río.
@@ -1250,7 +1250,7 @@
 4	jíku	_	NOUN	_	_	_	_	_	Trad=río
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:41
+# sent_id = alimg:119:41
 # text = Chidan kaneñ nuku kambo ñeʼeñ.
 # text[orig] = Chidan kaneñ nuku kambo ñe'eñ.
 # text[spa] = Mi papá está con su compadre
@@ -1264,7 +1264,7 @@
 5	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:42
+# sent_id = alimg:120:42
 # text = ¿Nuku duʼu kane chidad?
 # text[orig] = ¿Nuku du'u kane chidad?
 # text[spa] = ¿Con quién está tu papá?
@@ -1278,7 +1278,7 @@
 5	chidad	_	NOUN	_	_	_	_	_	Trad=tu.papá|Gloss=papá-POSS.2SG
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:43
+# sent_id = alimg:121:43
 # text = ¿A kanú chidad?
 # text[orig] = ¿A kanú chidad?
 # text[spa] = ¿Está tu papá?
@@ -1292,7 +1292,7 @@
 4	chidad	_	NOUN	_	_	_	_	_	Trad=tu.papá|Gloss=papá-POSS.2SG
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:44
+# sent_id = alimg:122:44
 # text = ¿A ti kane kutum?
 # text[orig] = ¿A ti kane kutum?
 # text[spa] = ¿Dónde está la olla?
@@ -1306,7 +1306,7 @@
 5	kutum	_	NOUN	_	_	_	_	_	Trad=olla
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:44
+# sent_id = alimg:123:44
 # text = ¿A ti kane machetem?
 # text[orig] = ¿A ti kane machetem?
 # text[spa] = ¿Dónde está el machete?
@@ -1320,7 +1320,7 @@
 5	machetem	_	NOUN	_	_	_	_	_	Trad=machete
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:45
+# sent_id = alimg:124:45
 # text = Kutum kane nioo.
 # text[orig] = Kutum kane nioo.
 # text[spa] = La olla está en el suelo.
@@ -1332,7 +1332,7 @@
 3	nioo	_	ADV	_	_	_	_	_	Trad=en.el.suelo|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:45
+# sent_id = alimg:125:45
 # text = Machetem kane nioo.
 # text[orig] = Machetem kane nioo.
 # text[spa] = El machete está en el suelo.
@@ -1344,7 +1344,7 @@
 3	nioo	_	ADV	_	_	_	_	_	Trad=en.el.suelo|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:45
+# sent_id = alimg:126:45
 # text = Kutum kane ku koʼo baʼa mi.
 # text[orig] = Kutum kane ku ko'o ba'a mi.
 # text[spa] = La olla está en ese rincón.
@@ -1359,7 +1359,7 @@
 6	mi	_	DET	_	_	_	_	_	Trad=esa
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:45
+# sent_id = alimg:127:45
 # text = Machetem kane ku koʼo baʼa mi.
 # text[orig] = Machetem kane ku ko'o ba'a mi.
 # text[spa] = El machete está en ese rincón.
@@ -1374,7 +1374,7 @@
 6	mi	_	DET	_	_	_	_	_	Trad=esa
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:46
+# sent_id = alimg:128:46
 # text = Kutum kane nuku chéam.
 # text[orig] = Kutum kane nuku chéam.
 # text[spa] = La olla está con el comal
@@ -1387,7 +1387,7 @@
 4	chéam	_	NOUN	_	_	_	_	_	Trad=comal
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:47
+# sent_id = alimg:129:47
 # text = ¿A ti kane yanam.
 # text[orig] = ¿A ti kane yanam.
 # text[spa] = ¿Dónde está el perro?
@@ -1401,7 +1401,7 @@
 5	yanam	_	NOUN	_	_	_	_	_	Trad=perro
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:48
+# sent_id = alimg:130:48
 # text = Kane kuch baʼa.
 # text[orig] = Kane kuch ba'a.
 # text[spa] = Está fuera de la casa.
@@ -1413,7 +1413,7 @@
 3	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:48
+# sent_id = alimg:131:48
 # text = Kane chete baʼa.
 # text[orig] = Kane chete ba'a.
 # text[spa] = Está dentro de la casa.
@@ -1425,7 +1425,7 @@
 3	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:49
+# sent_id = alimg:132:49
 # text = ¿A ti kane yákum?
 # text[orig] = ¿A ti kane yákum?
 # text[spa] = ¿Dónde está la iglesia?
@@ -1439,7 +1439,7 @@
 5	yákum	_	NOUN	_	_	_	_	_	Trad=iglesia
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:49
+# sent_id = alimg:133:49
 # text = ¿A ti kane nʼíba?
 # text[orig] = ¿A ti kane n'íba?
 # text[spa] = ¿Dónde está el mercado?
@@ -1453,7 +1453,7 @@
 5	nʼíba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:49
+# sent_id = alimg:134:49
 # text = ¿A ti kane bakud?
 # text[orig] = ¿A ti kane bakud?
 # text[spa] = ¿Dónde está tu casa?
@@ -1467,7 +1467,7 @@
 5	bakud	_	NOUN	_	_	_	_	_	Trad=tu.casa|Gloss=casa-POSS.2SG
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:50
+# sent_id = alimg:135:50
 # text = Yáku kane nano baʼa mi.
 # text[orig] = Yáku kane nano ba'a mi.
 # text[spa] = La iglesia está enfrente de aquella casa.
@@ -1481,7 +1481,7 @@
 5	mi	_	DET	_	_	_	_	_	Trad=esa
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:51
+# sent_id = alimg:136:51
 # text = Ku laka kane yáku.
 # text[orig] = Ku laka kane yáku.
 # text[spa] = Por allá está la iglesia
@@ -1494,7 +1494,7 @@
 4	yáku	_	NOUN	_	_	_	_	_	Trad=iglesia
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:52
+# sent_id = alimg:137:52
 # text = ¿A ti kane.
 # text[orig] = ¿A ti kane.
 # text[spa] = ¿Dónde está el corral de las chivas?
@@ -1507,7 +1507,7 @@
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:55(ya los puso a cocer)
+# sent_id = alimg:142:55
 # text = Na chinu núnim niʼö.
 # text[orig] = Na chinu núnim ni'ö.
 # text[spa] = Ya puse los frijoles.
@@ -1521,7 +1521,7 @@
 4	niʼö	_	NOUN	_	_	_	_	_	Trad=en.la.olla
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:56
+# sent_id = alimg:143:56
 # text = Yada kon kanut no tiʼö ko.
 # text[orig] = Yada kon kanut no ti'ö ko.
 # text[spa] = Ese pájaro está en ese árbol
@@ -1536,7 +1536,7 @@
 6	ko	_	DET	_	_	_	_	_	Trad=ese
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:57
+# sent_id = alimg:144:57
 # text = Joʼó yàaku ú.
 # text[orig] = Jo'ó yàaku ú.
 # text[spa] = Me pican los mosquitos
@@ -1548,7 +1548,7 @@
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:59
+# sent_id = alimg:146:59
 # text = ¿A tabea yana bea ñeʼed?
 # text[orig] = ¿A tabea yana bea ñe'ed?
 # text[spa] = ¿Cuántos perros tienes?
@@ -1563,7 +1563,7 @@
 6	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:147:60
 # text = Un bea ama yana ñeʼë.
 # text[orig] = Un bea ama yana ñe'ë.
 # text[spa] = Tengo un perro.
@@ -1577,7 +1577,7 @@
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:148:60
 # text = Bea ama yana ñeʼed.
 # text[orig] = Bea ama yana ñe'ed.
 # text[spa] = Tienes un perro.
@@ -1590,7 +1590,7 @@
 4	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:149:60
 # text = Bea ama yana ñeʼes.
 # text[orig] = Bea ama yana ñe'es.
 # text[spa] = El tiene un perro.
@@ -1603,7 +1603,7 @@
 4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:150:60
 # text = Bea ama yana ñuʼuu.
 # text[orig] = Bea ama yana ñu'uu.
 # text[spa] = Tenemos un perro.
@@ -1617,7 +1617,7 @@
 4	ñuʼuu	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:151:60
 # text = Bea ama yana ñeʼen.
 # text[orig] = Bea ama yana ñe'en.
 # text[spa] = Tenemos un perro.
@@ -1631,7 +1631,7 @@
 4	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:152:60
 # text = Bea ama yana ñeʼen.
 # text[orig] = Bea ama yana ñe'en.
 # text[spa] = Ustedes tienen un perro.
@@ -1644,7 +1644,7 @@
 4	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:153:60
 # text = Insë bea ama yana ñeʼen.
 # text[orig] = Insë bea ama yana ñe'en.
 # text[spa] = Ustedes tienen un perro.
@@ -1658,7 +1658,7 @@
 5	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:154:60
 # text = Bea ama yana ñeʼe insë.
 # text[orig] = Bea ama yana ñe'e insë.
 # text[spa] = Ustedes tienen un perro.
@@ -1672,7 +1672,7 @@
 5	insë	insë	PRON	_	PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:155:60
 # text = Bea ama yana ñeʼeñ.
 # text[orig] = Bea ama yana ñe'eñ.
 # text[spa] = Ellos tienen un perro.
@@ -1685,7 +1685,7 @@
 4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:156:60
 # text = Iñsé bea ama yana ñeʼeñ.
 # text[orig] = Iñsé bea ama yana ñe'eñ.
 # text[spa] = Ellos tienen un perro.
@@ -1699,7 +1699,7 @@
 5	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:157:60
 # text = Bea ama yana ñeʼe iñsé.
 # text[orig] = Bea ama yana ñe'e iñsé.
 # text[spa] = Ellos tienen un perro.
@@ -1713,7 +1713,7 @@
 5	iñsé	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:158:60
 # text = Un bea obe yana ñeʼë.
 # text[orig] = Un bea obe yana ñe'ë.
 # text[spa] = Tengo dos perros.
@@ -1727,7 +1727,7 @@
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:159:60
 # text = Bea obe yana ñeʼed.
 # text[orig] = Bea obe yana ñe'ed.
 # text[spa] = Tienes dos perros.
@@ -1740,7 +1740,7 @@
 4	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:160:60
 # text = Bea obe yana ñeʼes.
 # text[orig] = Bea obe yana ñe'es.
 # text[spa] = El tiene dos perros.
@@ -1753,7 +1753,7 @@
 4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:161:60
 # text = Bea obe yana ñeʼes.
 # text[orig] = Bea obe yana ñe'es.
 # text[spa] = El tiene dos perros.
@@ -1766,7 +1766,7 @@
 4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:162:60
 # text = Bea obe yana ñeʼen.
 # text[orig] = Bea obe yana ñe'en.
 # text[spa] = Tenemos dos perros.
@@ -1780,7 +1780,7 @@
 4	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:163:60
 # text = Bea obe yana ñuʼuu.
 # text[orig] = Bea obe yana ñu'uu.
 # text[spa] = Tenemos dos perros.
@@ -1794,7 +1794,7 @@
 4	ñuʼuu	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:164:60
 # text = Insú bea obe yana ñeʼen.
 # text[orig] = Insú bea obe yana ñe'en.
 # text[spa] = Tenemos dos perros.
@@ -1809,7 +1809,7 @@
 5	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:165:60
 # text = Insë bea obe yana ñeʼen.
 # text[orig] = Insë bea obe yana ñe'en.
 # text[spa] = Ustedes tienen dos perros.
@@ -1823,7 +1823,7 @@
 5	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:60
+# sent_id = alimg:166:60
 # text = Iñsé bea obe yana ñeʼeñ.
 # text[orig] = Iñsé bea obe yana ñe'eñ.
 # text[spa] = Ellos tienen dos perros.
@@ -1837,7 +1837,7 @@
 5	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:61
+# sent_id = alimg:167:61
 # text = Tochi kane yuudum ñeʼe.
 # text[orig] = Tochi kane yuudum ñe'e.
 # text[spa] = Cuanto estaba mi caballo
@@ -1852,7 +1852,7 @@
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:63
+# sent_id = alimg:169:63
 # text = Gua yana ñeʼë.
 # text[orig] = Gua yana ñe'ë.
 # text[spa] = No tengo perro.
@@ -1864,7 +1864,7 @@
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:64
+# sent_id = alimg:170:64
 # text = Gua ni ama kadi ñeʼë.
 # text[orig] = Gua ni ama kadi ñe'ë.
 # text[spa] = No tengo ninguna moneda.
@@ -1878,7 +1878,7 @@
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:65
+# sent_id = alimg:171:65
 # text = Gua nuni chi kuʼú.
 # text[orig] = Gua nuni chi ku'ú.
 # text[spa] = Tengo agua para tomar.
@@ -1891,7 +1891,7 @@
 4	kuʼú	_	VERB	_	_	_	_	_	Trad=tomar|Gloss=?-tomar-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:66
+# sent_id = alimg:172:66
 # text = ¿Dae nád tò?
 # text[orig] = ¿Dae nád tò?
 # text[spa] = ¿Qué tienes ahí?
@@ -1905,7 +1905,7 @@
 4	tò	_	ADV	_	_	_	_	_	Trad=ahí
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:67
+# sent_id = alimg:173:67
 # text = Duʼu ná machetem?
 # text[orig] = Du'u ná machetem?
 # text[spa] = ¿Quién tiene el machete?
@@ -1917,7 +1917,7 @@
 3	machetem	_	NOUN	_	_	_	_	_	Trad=machete
 4	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:71
+# sent_id = alimg:177:71
 # text = ¿A bea nduk daʼa yana?
 # text[orig] = ¿A bea nduk da'a yana?
 # text[spa] = ¿Tienen cola los perros?
@@ -1932,7 +1932,7 @@
 6	yana	_	NOUN	_	_	_	_	_	Trad=perro
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:73
+# sent_id = alimg:179:73
 # text = Chíy nduk daʼa yana ñeʼë.
 # text[orig] = Chíy nduk da'a yana ñe'ë.
 # text[spa] = Le cortaron la cola a mi perro
@@ -1946,7 +1946,7 @@
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:74
+# sent_id = alimg:180:74
 # text = Gua chimbaʼa baʼa ko.
 # text[orig] = Gua chimba'a ba'a ko.
 # text[spa] = Esa casa no tiene puerta.
@@ -1959,7 +1959,7 @@
 4	ko	_	DET	_	_	_	_	_	Trad=ese
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:74
+# sent_id = alimg:182:74
 # text = Yeabean ndee duytï Fo.
 # text[orig] = Yeabean ndee duytï Fo.
 # text[spa] = Juan tiene mucho pelo.
@@ -1972,7 +1972,7 @@
 4	Fo	_	PROPN	_	_	_	_	_	Trad=Juan
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:76
+# sent_id = alimg:183:76
 # text = ¿A taka duytï Fo?
 # text[orig] = ¿A taka duytï Fo?
 # text[spa] = ¿Cómo es el pelo de Juan?
@@ -1986,7 +1986,7 @@
 5	Fo	_	PROPN	_	_	_	_	_	Trad=Juan
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:77
+# sent_id = alimg:184:77
 # text = Yudtï Fo kuä.
 # text[orig] = Yudtï Fo kuä.
 # text[spa] = El pelo de Juan es negro.
@@ -1998,7 +1998,7 @@
 3	kuä	_	ADJ	_	_	_	_	_	Trad=negro|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:78
+# sent_id = alimg:185:78
 # text = Ndá machete chi tubnéd ú.
 # text[orig] = Ndá machete chi tubnéd ú.
 # text[spa] = Tengo el machete que me prestaste.
@@ -2012,7 +2012,7 @@
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:79Está aún el machete que me diste para mi.
+# sent_id = alimg:186:79
 # text = Kane ka machete chi ted ñeʼë.
 # text[orig] = Kane ka machete chi ted ñe'ë.
 # text[spa] = Todavía tengo el machete que me regalaste.
@@ -2028,7 +2028,7 @@
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:80
+# sent_id = alimg:187:80
 # text = No baʼa kane ama machete chi gua ñeʼë.
 # text[orig] = No ba'a kane ama machete chi gua ñe'ë.
 # text[spa] = En casa tengo un machete que no es mío.
@@ -2045,7 +2045,7 @@
 8	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:81
+# sent_id = alimg:188:81
 # text = Cheá tika.
 # text[orig] = Cheá tika.
 # text[spa] = Se pintó en mi ropa
@@ -2056,7 +2056,7 @@
 2	tika	_	NOUN	_	_	_	_	_	Trad=ropa
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:82
+# sent_id = alimg:190:82
 # text = Gua chid jima ñeʼe komida.
 # text[orig] = Gua chid jima ñe'e komida.
 # text[spa] = La comida tiene sal.
@@ -2070,7 +2070,7 @@
 5	komida	_	NOUN	_	_	_	_	_	Trad=comida
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:82
+# sent_id = alimg:191:82
 # text = ¿A chid jima ñeʼe kantu?
 # text[orig] = ¿A chid jima ñe'e kantu?
 # text[spa] = No le echaste sal a la comida
@@ -2085,7 +2085,7 @@
 6	kantu	_	NOUN	_	_	_	_	_	Trad=comida
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:83
+# sent_id = alimg:192:83
 # text = Díni comida.
 # text[orig] = Díni comida.
 # text[spa] = ¿Le echaste sal a la comida?
@@ -2096,7 +2096,7 @@
 2	comida	_	NOUN	_	_	_	_	_	Trad=comida
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:84
+# sent_id = alimg:193:84
 # text = Yaduu sopa.
 # text[orig] = Yaduu sopa.
 # text[spa] = Está picante la comida
@@ -2107,7 +2107,7 @@
 2	sopa	_	NOUN	_	_	_	_	_	Trad=sopa
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:85
+# sent_id = alimg:194:85
 # text = Snú nuni kutu.
 # text[orig] = Snú nuni kutu.
 # text[spa] = Hay agua en la olla
@@ -2119,7 +2119,7 @@
 3	kutu	_	NOUN	_	_	_	_	_	Trad=olla
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:85
+# sent_id = alimg:195:85
 # text = Gua snú nuni kutu.
 # text[orig] = Gua snú nuni kutu.
 # text[spa] = La olla no tiene agua.
@@ -2132,7 +2132,7 @@
 4	kutu	_	NOUN	_	_	_	_	_	Trad=olla
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:89
+# sent_id = alimg:199:89
 # text = Bea obe soʼö biʼi.
 # text[orig] = Bea obe so'ö bi'i.
 # text[spa] = Tengo dos hermanos.
@@ -2145,7 +2145,7 @@
 4	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:90
+# sent_id = alimg:200:90
 # text = ¿A tabea biʼid bea?
 # text[orig] = ¿A tabea bi'id bea?
 # text[spa] = ¿Cuántos hermanos tienes?
@@ -2159,7 +2159,7 @@
 5	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:92
+# sent_id = alimg:202:92
 # text = Chitoʼo inuu ú.
 # text[orig] = Chito'o inuu ú.
 # text[spa] = Tengo gripa.
@@ -2171,7 +2171,7 @@
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:93
+# sent_id = alimg:203:93
 # text = Chitoʼo inuu ú.
 # text[orig] = Chito'o inuu ú.
 # text[spa] = Tuve gripa.
@@ -2183,7 +2183,7 @@
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:94
+# sent_id = alimg:204:94
 # text = ¿A ichad?
 # text[orig] = ¿A ichad?
 # text[spa] = ¿Tienes frío?
@@ -2195,7 +2195,7 @@
 3	ichad	_	VERB	_	_	_	_	_	Trad=tienes.frío
 4	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:95
+# sent_id = alimg:205:95
 # text = Tika.
 # text[orig] = Tika.
 # text[spa] = Sí.
@@ -2205,7 +2205,7 @@
 1	Tika	_	NOUN	_	_	_	_	_	Trad=ropa
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:95
+# sent_id = alimg:206:95
 # text = Gua.
 # text[orig] = Gua.
 # text[spa] = No.
@@ -2215,7 +2215,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:96
+# sent_id = alimg:207:96
 # text = Yaʼa tï.
 # text[orig] = Ya'a tï.
 # text[spa] = Tengo dolor de cabeza.
@@ -2226,7 +2226,7 @@
 2	tï	_	NOUN	_	_	_	_	_	Trad=cabeza
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:97
+# sent_id = alimg:208:97
 # text = Nujinu.
 # text[orig] = Nujinu.
 # text[spa] = Tengo prisa.
@@ -2236,7 +2236,7 @@
 1	Nujinu	_	VERB	_	_	_	_	_	Trad=tengo.prisa
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:98
+# sent_id = alimg:209:98
 # text = Kuiku.
 # text[orig] = Kuiku.
 # text[spa] = Tengo hambre.
@@ -2246,7 +2246,7 @@
 1	Kuiku	_	VERB	_	_	_	_	_	Trad=tengo.hambre|UPOS=Guessed
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:98
+# sent_id = alimg:210:98
 # text = Yàka.
 # text[orig] = Yàka.
 # text[spa] = Tengo sed.
@@ -2256,7 +2256,7 @@
 1	Yàka	_	VERB	_	_	_	_	_	Trad=tengo.sed
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:98
+# sent_id = alimg:211:98
 # text = Ne kuyadu.
 # text[orig] = Ne kuyadu.
 # text[spa] = Quiero dormir
@@ -2267,7 +2267,7 @@
 2	kuyadu	_	VERB	_	_	_	_	_	Trad=dormir|Gloss=?-dormir-?
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:98
+# sent_id = alimg:212:98
 # text = Dànti.
 # text[orig] = Dànti.
 # text[spa] = Tengo flojera.
@@ -2277,7 +2277,7 @@
 1	Dànti	_	VERB	_	_	_	_	_	Trad=tengo.flojera
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:99
+# sent_id = alimg:213:99
 # text = Bea ntiñu ñeʼë.
 # text[orig] = Bea ntiñu ñe'ë.
 # text[spa] = Tengo trabajo.
@@ -2289,7 +2289,7 @@
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:100
+# sent_id = alimg:214:100
 # text = Kuenó.
 # text[orig] = Kuenó.
 # text[spa] = Tengo pena.
@@ -2299,7 +2299,7 @@
 1	Kuenó	_	VERB	_	_	_	_	_	Trad=tengo.pena
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:101
+# sent_id = alimg:215:101
 # text = Gua kuenód.
 # text[orig] = Gua kuenód.
 # text[spa] = No tengas pena
@@ -2310,7 +2310,7 @@
 2	kuenód	_	VERB	_	_	_	_	_	Trad=tienes.pena
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:102
+# sent_id = alimg:216:102
 # text = Snú núni no kutum.
 # text[orig] = Snú núni no kutum.
 # text[spa] = En la olla hay frijoles.
@@ -2323,7 +2323,7 @@
 4	kutum	_	NOUN	_	_	_	_	_	Trad=olla
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:102
+# sent_id = alimg:217:102
 # text = Snú nuni no kutum.
 # text[orig] = Snú nuni no kutum.
 # text[spa] = En la olla hay agua.
@@ -2336,7 +2336,7 @@
 4	kutum	_	NOUN	_	_	_	_	_	Trad=olla
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:102
+# sent_id = alimg:218:102
 # text = Kutea núni no kutum.
 # text[orig] = Kutea núni no kutum.
 # text[spa] = En la olla no hay frijoles.
@@ -2349,7 +2349,7 @@
 4	kutum	_	NOUN	_	_	_	_	_	Trad=olla
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:102
+# sent_id = alimg:219:102
 # text = Kutea nuni no kutum.
 # text[orig] = Kutea nuni no kutum.
 # text[spa] = En la olla no hay agua.
@@ -2362,7 +2362,7 @@
 4	kutum	_	NOUN	_	_	_	_	_	Trad=olla
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:103
+# sent_id = alimg:220:103
 # text = ¿A snú núni no kutum?
 # text[orig] = ¿A snú núni no kutum?
 # text[spa] = ¿Hay frijoles en la olla?
@@ -2377,7 +2377,7 @@
 6	kutum	_	NOUN	_	_	_	_	_	Trad=olla
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:104
+# sent_id = alimg:221:104
 # text = ¿A kutea núni no kutum?
 # text[orig] = ¿A kutea núni no kutum?
 # text[spa] = ¿No hay frijoles en la olla?
@@ -2392,7 +2392,7 @@
 6	kutum	_	NOUN	_	_	_	_	_	Trad=olla
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:105
+# sent_id = alimg:222:105
 # text = Beaka.
 # text[orig] = Beaka.
 # text[spa] = Todavía hay
@@ -2402,7 +2402,7 @@
 1	Beaka	_	_	_	_	_	_	_	Trad=sí.hay
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:106
+# sent_id = alimg:223:106
 # text = Gua, kutea.
 # text[orig] = Gua, kutea.
 # text[spa] = No, ya no hay
@@ -2414,7 +2414,7 @@
 3	kutea	_	_	_	_	_	_	_	Trad=no.hay
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:107
+# sent_id = alimg:224:107
 # text = ¿A bea itcheanu kuete?
 # text[orig] = ¿A bea itcheanu kuete?
 # text[spa] = ¿Hay venados en el campo?
@@ -2428,7 +2428,7 @@
 5	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:108
+# sent_id = alimg:225:108
 # text = No baʼa bea iña.
 # text[orig] = No ba'a bea iña.
 # text[spa] = En la casa hay gente.
@@ -2441,7 +2441,7 @@
 4	iña	_	NOUN	_	_	_	_	_	Trad=gente
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:108
+# sent_id = alimg:226:108
 # text = No baʼa gua iña.
 # text[orig] = No ba'a gua iña.
 # text[spa] = En la casa no hay gente.
@@ -2454,7 +2454,7 @@
 4	iña	_	NOUN	_	_	_	_	_	Trad=gente
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:110
+# sent_id = alimg:228:110
 # text = Muʼu bea kùù yuntu.
 # text[orig] = Mu'u bea kùù yuntu.
 # text[spa] = Aquí hay cuatro tortillas.
@@ -2467,7 +2467,7 @@
 4	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:111
+# sent_id = alimg:229:111
 # text = Muʼu bea yuntu.
 # text[orig] = Mu'u bea yuntu.
 # text[spa] = Aquí hay una tortilla.
@@ -2479,7 +2479,7 @@
 3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:112
+# sent_id = alimg:230:112
 # text = Muʼu bea nuni.
 # text[orig] = Mu'u bea nuni.
 # text[spa] = Aquí hay agua.
@@ -2491,7 +2491,7 @@
 3	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:112
+# sent_id = alimg:231:112
 # text = Gua nuni.
 # text[orig] = Gua nuni.
 # text[spa] = Aquí no hay agua.
@@ -2502,7 +2502,7 @@
 2	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:113
+# sent_id = alimg:232:113
 # text = Mí bea tiʼö.
 # text[orig] = Mí bea ti'ö.
 # text[spa] = Allá hay árboles.
@@ -2514,7 +2514,7 @@
 3	tiʼö	_	NOUN	_	_	_	_	_	Trad=árbol
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:115
+# sent_id = alimg:234:115
 # text = Ño baku bea nʼíba.
 # text[orig] = Ño baku bea n'íba.
 # text[spa] = En mi pueblo hay mercado.
@@ -2527,7 +2527,7 @@
 4	nʼíba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:116
+# sent_id = alimg:235:116
 # text = Ño kon bea baʼa eatea.
 # text[orig] = Ño kon bea ba'a eatea.
 # text[spa] = En ese pueblo hay casas grandes.
@@ -2541,7 +2541,7 @@
 5	eatea	_	ADJ	_	_	_	_	_	Trad=grandes|UPOS=Guessed
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:119
+# sent_id = alimg:239:119
 # text = ¿Daë yada chó?
 # text[orig] = ¿Daë yada chó?
 # text[spa] = ¿Qué pájaro es ese?
@@ -2554,7 +2554,7 @@
 4	chó	_	DET	_	_	_	_	_	Trad=aquello|UPOS=Guessed
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:120
+# sent_id = alimg:240:120
 # text = Juó noʼös.
 # text[orig] = Juó no'ös.
 # text[spa] = Juan es maestro.
@@ -2565,7 +2565,7 @@
 2	noʼös	_	NOUN	_	_	_	_	_	Trad=maestro
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:120
+# sent_id = alimg:241:120
 # text = Juó gua noʼös.
 # text[orig] = Juó gua no'ös.
 # text[spa] = Juan no es maestro.
@@ -2577,7 +2577,7 @@
 3	noʼös	_	NOUN	_	_	_	_	_	Trad=maestro
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:122
+# sent_id = alimg:244:122
 # text = ¿A duʼu noʼö?
 # text[orig] = ¿A du'u no'ö?
 # text[spa] = ¿Quién es maestro?
@@ -2590,7 +2590,7 @@
 4	noʼö	_	NOUN	_	_	_	_	_	Trad=maestro
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:123
+# sent_id = alimg:245:123
 # text = ¿Duʼu noʼöm?
 # text[orig] = ¿Du'u no'öm?
 # text[spa] = ¿Quién es el maestro?
@@ -2602,7 +2602,7 @@
 3	noʼöm	_	NOUN	_	_	_	_	_	Trad=maestro
 4	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:124
+# sent_id = alimg:246:124
 # text = Juó daya.
 # text[orig] = Juó daya.
 # text[spa] = Juan es hijo mío.
@@ -2613,7 +2613,7 @@
 2	daya	_	NOUN	_	_	_	_	_	Trad=hijo(a)
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:124
+# sent_id = alimg:247:124
 # text = Juó daya soʼö.
 # text[orig] = Juó daya so'ö.
 # text[spa] = Juan es hijo mío.
@@ -2625,7 +2625,7 @@
 3	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:127
+# sent_id = alimg:249:127
 # text = ¿A noʼö Juó?
 # text[orig] = ¿A no'ö Juó?
 # text[spa] = ¿Juan es maestro?
@@ -2638,7 +2638,7 @@
 4	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:128
+# sent_id = alimg:250:128
 # text = Daya chë Manuel ú.
 # text[orig] = Daya chë Manuel ú.
 # text[spa] = Yo soy hijo de don Manuel.
@@ -2651,7 +2651,7 @@
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:128
+# sent_id = alimg:251:128
 # text = Gua daya chë Manuel ú.
 # text[orig] = Gua daya chë Manuel ú.
 # text[spa] = Yo no soy hijo de don Manuel.
@@ -2665,7 +2665,7 @@
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:129
+# sent_id = alimg:252:129
 # text = Juó kúeas.
 # text[orig] = Juó kúeas.
 # text[spa] = Juan es brujo.
@@ -2676,7 +2676,7 @@
 2	kúeas	_	NOUN	_	_	_	_	_	Trad=brujo
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:254:131
 # text = Kuetíchi kon ñeʼë.
 # text[orig] = Kuetíchi kon ñe'ë.
 # text[spa] = Esa canasta es mía.
@@ -2688,7 +2688,7 @@
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:255:131
 # text = Kuetíchi kon ñeʼed.
 # text[orig] = Kuetíchi kon ñe'ed.
 # text[spa] = Esa canasta es tuya.
@@ -2700,7 +2700,7 @@
 3	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:256:131
 # text = Kuetíchi kon ñeʼes.
 # text[orig] = Kuetíchi kon ñe'es.
 # text[spa] = Esa canasta es de él
@@ -2712,7 +2712,7 @@
 3	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:257:131
 # text = Kuetíchi kon gua ñeʼed.
 # text[orig] = Kuetíchi kon gua ñe'ed.
 # text[spa] = Esa canasta no es tuya.
@@ -2725,7 +2725,7 @@
 4	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ti|Gloss=base-POSS.2SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:258:131
 # text = Kuetíchi kon gua ñeʼes.
 # text[orig] = Kuetíchi kon gua ñe'es.
 # text[spa] = Esa canasta no es de él.
@@ -2738,7 +2738,7 @@
 4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:259:131
 # text = Kuetíchi kon gua ñeʼen.
 # text[orig] = Kuetíchi kon gua ñe'en.
 # text[spa] = Esa canasta no es nuestra.
@@ -2752,7 +2752,7 @@
 4	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:260:131
 # text = Kuetíchi kun gua ñeʼen.
 # text[orig] = Kuetíchi kun gua ñe'en.
 # text[spa] = Esta canasta no es nuestra.
@@ -2766,7 +2766,7 @@
 4	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:261:131
 # text = Kuetíchi kon gua ñeʼën.
 # text[orig] = Kuetíchi kon gua ñe'ën.
 # text[spa] = Esa canasta no es de ustedes
@@ -2779,7 +2779,7 @@
 4	ñeʼën	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:262:131
 # text = Kuetíchi kon ñeʼen.
 # text[orig] = Kuetíchi kon ñe'en.
 # text[spa] = Esa canasta es nuestra.
@@ -2792,7 +2792,7 @@
 3	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:264:131
 # text = Kuetíchi kon ñeʼën.
 # text[orig] = Kuetíchi kon ñe'ën.
 # text[spa] = Esa canasta es de ustedes.
@@ -2804,7 +2804,7 @@
 3	ñeʼën	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:265:131
 # text = Kuetíchi kon ñeʼey.
 # text[orig] = Kuetíchi kon ñe'ey.
 # text[spa] = Esa canasta es de ellos.
@@ -2816,7 +2816,7 @@
 3	ñeʼey	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ellos|Gloss=base-POSS.3PL
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:266:131
 # text = Kuetíchi kon gua ñeʼë.
 # text[orig] = Kuetíchi kon gua ñe'ë.
 # text[spa] = Esa canasta no es mía.
@@ -2829,7 +2829,7 @@
 4	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:131
+# sent_id = alimg:267:131
 # text = Kuetíchi kon gua ñeʼey.
 # text[orig] = Kuetíchi kon gua ñe'ey.
 # text[spa] = Esa canasta no es de ellos.
@@ -2842,7 +2842,7 @@
 4	ñeʼey	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.ellos|Gloss=base-POSS.3PL
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:133
+# sent_id = alimg:270:133
 # text = ¿Ñeʼe duʼu kuetíchi ko?
 # text[orig] = ¿Ñe'e du'u kuetíchi ko?
 # text[spa] = ¿De quién es esa canasta?
@@ -2856,7 +2856,7 @@
 5	ko	_	DET	_	_	_	_	_	Trad=ese
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:134
+# sent_id = alimg:271:134
 # text = ¿A ñeʼed kuetíchi ko?
 # text[orig] = ¿A ñe'ed kuetíchi ko?
 # text[spa] = ¿Es tuya esa canasta?
@@ -2870,7 +2870,7 @@
 5	ko	_	DET	_	_	_	_	_	Trad=ese
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:134
+# sent_id = alimg:272:134
 # text = ¿A gua ñeʼed kuetíchi ko?
 # text[orig] = ¿A gua ñe'ed kuetíchi ko?
 # text[spa] = ¿No es tuya esa canasta?
@@ -2885,7 +2885,7 @@
 6	ko	_	DET	_	_	_	_	_	Trad=ese
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:136
+# sent_id = alimg:274:136
 # text = Chu yuni.
 # text[orig] = Chu yuni.
 # text[spa] = Este es el camino
@@ -2897,7 +2897,7 @@
 2	yuni	_	NOUN	_	_	_	_	_	Trad=camino
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:137
+# sent_id = alimg:275:137
 # text = Juó ñeʼe Jidiba soʼö.
 # text[orig] = Juó ñe'e Jidiba so'ö.
 # text[spa] = Juan es de la Mixteca
@@ -2910,7 +2910,7 @@
 4	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:138
+# sent_id = alimg:276:138
 # text = ¿Ñeʼe ti Juó?
 # text[orig] = ¿Ñe'e ti Juó?
 # text[spa] = ¿De dónde es Juan?
@@ -2923,7 +2923,7 @@
 4	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:139
+# sent_id = alimg:277:139
 # text = ¿Ñeʼe ti dí?
 # text[orig] = ¿Ñe'e ti dí?
 # text[spa] = ¿De dónde eres?
@@ -2936,7 +2936,7 @@
 4	dí	dí	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:141
+# sent_id = alimg:279:141
 # text = Juó ama soʼö nda.
 # text[orig] = Juó ama so'ö nda.
 # text[spa] = Juan es un hombre bueno.
@@ -2949,7 +2949,7 @@
 4	nda	_	ADV	_	_	_	_	_	Trad=muy|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:143
+# sent_id = alimg:281:143
 # text = ¿A dae kubi Juó?
 # text[orig] = ¿A dae kubi Juó?
 # text[spa] = ¿Qué va a ser Juan?
@@ -2963,7 +2963,7 @@
 5	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:147
+# sent_id = alimg:285:147
 # text = Juó soʼös.
 # text[orig] = Juó so'ös.
 # text[spa] = Juan es hombre.
@@ -2974,7 +2974,7 @@
 2	soʼös	_	NOUN	_	_	_	_	_	Trad=hombre
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:148
+# sent_id = alimg:286:148
 # text = Ta Marian ndatata.
 # text[orig] = Ta Marian ndatata.
 # text[spa] = María es mujer.
@@ -2986,7 +2986,7 @@
 3	ndatata	_	NOUN	_	_	_	_	_	Trad=mujer
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:149
+# sent_id = alimg:287:149
 # text = Ú soʼö ú.
 # text[orig] = Ú so'ö ú.
 # text[spa] = Yo soy hombre.
@@ -2998,7 +2998,7 @@
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:150
+# sent_id = alimg:288:150
 # text = Ú ndata ú.
 # text[orig] = Ú ndata ú.
 # text[spa] = Yo soy mujer.
@@ -3010,7 +3010,7 @@
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:151
+# sent_id = alimg:289:151
 # text = ¿Dae comida cho?
 # text[orig] = ¿Dae comida cho?
 # text[spa] = ¿Qué es esa comida?
@@ -3023,7 +3023,7 @@
 4	cho	_	DET	_	_	_	_	_	Trad=esa|UPOS=Guessed
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:152
+# sent_id = alimg:290:152
 # text = Comida kun yuta kuchi.
 # text[orig] = Comida kun yuta kuchi.
 # text[spa] = Esta comida es carne de puerco.
@@ -3036,7 +3036,7 @@
 4	kuchi	_	NOUN	_	_	_	_	_	Trad=marrano
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:153
+# sent_id = alimg:291:153
 # text = Ún yunu.
 # text[orig] = Ún yunu.
 # text[spa] = Yo soy joven
@@ -3047,7 +3047,7 @@
 2	yunu	_	ADJ	_	_	_	_	_	Trad=joven|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:153
+# sent_id = alimg:292:153
 # text = Ún kutea yunu.
 # text[orig] = Ún kutea yunu.
 # text[spa] = Yo ya no soy joven
@@ -3059,7 +3059,7 @@
 3	yunu	_	ADJ	_	_	_	_	_	Trad=joven|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:155
+# sent_id = alimg:294:155
 # text = Juó beajukus.
 # text[orig] = Juó beajukus.
 # text[spa] = Juan es el que está sentado.
@@ -3071,7 +3071,7 @@
 2	beajukus	_	_	_	_	_	_	_	Trad=el.que.está.sentado
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:158
+# sent_id = alimg:297:158
 # text = Eduviges chi jobe ndata.
 # text[orig] = Eduviges chi jobe ndata.
 # text[spa] = Eduviges es nombre de mujer.
@@ -3084,7 +3084,7 @@
 4	ndata	_	NOUN	_	_	_	_	_	Trad=mujer
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:160
+# sent_id = alimg:300:160
 # text = ¿Dae cho?
 # text[orig] = ¿Dae cho?
 # text[spa] = ¿Qué es eso?
@@ -3097,7 +3097,7 @@
 3	cho	_	DET	_	_	_	_	_	Trad=esa|UPOS=Guessed
 4	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:164
+# sent_id = alimg:304:164
 # text = Ta juana ninubita chakuta.
 # text[orig] = Ta juana ninubita chakuta.
 # text[spa] = Juana se parece a su madre.
@@ -3110,7 +3110,7 @@
 4	chakuta	_	NOUN	_	_	_	_	_	Trad=su.mamá
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:165
+# sent_id = alimg:305:165
 # text = Yadan ninubis intï.
 # text[orig] = Yadan ninubis intï.
 # text[spa] = Su hijo se parece a usted
@@ -3122,7 +3122,7 @@
 3	intï	_	_	_	Typo=Yes	_	_	_	Normal=inti|Ambiguous=Yes|Trad=hay,usted
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:166
+# sent_id = alimg:306:166
 # text = Juó a niku injobes.
 # text[orig] = Juó a niku injobes.
 # text[spa] = Juan parece viejo.
@@ -3135,7 +3135,7 @@
 4	injobes	_	VERB	_	_	_	_	_	Trad=se.ve|Gloss=?-verse-3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:168
+# sent_id = alimg:308:168
 # text = ¿A taka jobed?
 # text[orig] = ¿A taka jobed?
 # text[spa] = ¿Cómo te llamas?
@@ -3148,7 +3148,7 @@
 4	jobed	_	NOUN	_	_	_	_	_	Trad=tu.nombre
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:169
+# sent_id = alimg:309:169
 # text = Ún jobe Pedro.
 # text[orig] = Ún jobe Pedro.
 # text[spa] = Me llamo Pedro.
@@ -3160,7 +3160,7 @@
 3	Pedro	_	PROPN	_	_	_	_	_	Trad=Pedro
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:170
+# sent_id = alimg:310:170
 # text = Icha.
 # text[orig] = Icha.
 # text[spa] = Hace calor.
@@ -3170,7 +3170,7 @@
 1	Icha	_	ADJ	_	_	_	_	_	Trad=frío|UPOS=Guessed
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:170
+# sent_id = alimg:311:170
 # text = Ínuu.
 # text[orig] = Ínuu.
 # text[spa] = Hace frío.
@@ -3180,7 +3180,7 @@
 1	Ínuu	_	NOUN	_	_	_	_	_	Trad=calor
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:170T.l:Corre viento
+# sent_id = alimg:312:170
 # text = Jeanu yuna.
 # text[orig] = Jeanu yuna.
 # text[spa] = Hace viento.
@@ -3192,7 +3192,7 @@
 2	yuna	_	NOUN	_	_	_	_	_	Trad=zorro
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:171
+# sent_id = alimg:314:171
 # text = Jè kubi.
 # text[orig] = Jè kubi.
 # text[spa] = Está lloviendo.
@@ -3203,7 +3203,7 @@
 2	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:172
+# sent_id = alimg:315:172
 # text = Kuè kubi.
 # text[orig] = Kuè kubi.
 # text[spa] = Va a llover.
@@ -3214,7 +3214,7 @@
 2	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:173
+# sent_id = alimg:316:173
 # text = ¿Nuku dae jidiñ yuntu?
 # text[orig] = ¿Nuku dae jidiñ yuntu?
 # text[spa] = ¿Con qué se hacen las tortillas?
@@ -3228,7 +3228,7 @@
 5	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:174
+# sent_id = alimg:317:174
 # text = Nuku beayee jidiñ yuntu.
 # text[orig] = Nuku beayee jidiñ yuntu.
 # text[spa] = Las tortillas se hacen con nixtamal.
@@ -3241,7 +3241,7 @@
 4	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:175
+# sent_id = alimg:318:175
 # text = ¿A taka kadi koʼö ñoo bakud?
 # text[orig] = ¿A taka kadi ko'ö ñoo bakud?
 # text[spa] = ¿Cómo puedo ir a tu pueblo?
@@ -3257,7 +3257,7 @@
 7	bakud	_	NOUN	_	_	_	_	_	Trad=tu.casa|Gloss=casa-POSS.2SG
 8	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:176
+# sent_id = alimg:319:176
 # text = ¿A ti jinukuy chiadi?
 # text[orig] = ¿A ti jinukuy chiadi?
 # text[spa] = ¿Dónde venden azucar?
@@ -3271,7 +3271,7 @@
 5	chiadi	_	NOUN	_	_	_	_	_	Trad=azúcar
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:177
+# sent_id = alimg:320:177
 # text = Mi ndenó jinikuy.
 # text[orig] = Mi ndenó jinikuy.
 # text[spa] = Ahí venden muchas cosas.
@@ -3283,7 +3283,7 @@
 3	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vende|Gloss=?-vender-3.HUM
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:179
+# sent_id = alimg:322:179
 # text = Juó koʼos chis tonto ú.
 # text[orig] = Juó ko'os chis tonto ú.
 # text[spa] = Juan me llamó tonto.
@@ -3297,7 +3297,7 @@
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:180
+# sent_id = alimg:323:180
 # text = Kayadu.
 # text[orig] = Kayadu.
 # text[spa] = Estoy durmiendo.
@@ -3307,7 +3307,7 @@
 1	Kayadu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=dormir|Gloss=?-dormir-?
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:180
+# sent_id = alimg:326:180
 # text = Kadayuʼuu.
 # text[orig] = Kadayu'uu.
 # text[spa] = Estamos durmiendo
@@ -3318,7 +3318,7 @@
 1	Kadayuʼuu	_	VERB	_	_	_	_	_	Trad=estamos.durmiendo|Gloss=?-dormir-?
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:182
+# sent_id = alimg:331:182
 # text = Lï jiyaduy.
 # text[orig] = Lï jiyaduy.
 # text[spa] = Duerme poco.
@@ -3329,7 +3329,7 @@
 2	jiyaduy	kiyadu	VERB	_	Animacy=Hum|Aspect=Prog|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=duerme|Gloss=PROG-dormir-3.HUM
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:183
+# sent_id = alimg:333:183
 # text = Jiyadu jobe.
 # text[orig] = Jiyadu jobe.
 # text[spa] = De día yo duermo
@@ -3340,7 +3340,7 @@
 2	jobe	_	NOUN	_	_	_	_	_	Trad=día
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:183
+# sent_id = alimg:334:183
 # text = Yeabean jiyadus chi jobe.
 # text[orig] = Yeabean jiyadus chi jobe.
 # text[spa] = Duerme mucho de día.
@@ -3353,7 +3353,7 @@
 4	jobe	_	NOUN	_	_	_	_	_	Trad=día
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:183
+# sent_id = alimg:335:183
 # text = Yeabean jiyadus chi màà.
 # text[orig] = Yeabean jiyadus chi màà.
 # text[spa] = Duerme mucho de noche.
@@ -3366,7 +3366,7 @@
 4	màà	_	NOUN	_	_	_	_	_	Trad=noche
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:183
+# sent_id = alimg:336:183
 # text = Gua jiyadus chi jobe.
 # text[orig] = Gua jiyadus chi jobe.
 # text[spa] = No duerme de día.
@@ -3379,7 +3379,7 @@
 4	jobe	_	NOUN	_	_	_	_	_	Trad=día
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:183
+# sent_id = alimg:337:183
 # text = Gua diyadus chi màà.
 # text[orig] = Gua diyadus chi màà.
 # text[spa] = No duerme de noche.
@@ -3392,7 +3392,7 @@
 4	màà	_	NOUN	_	_	_	_	_	Trad=noche
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:184
+# sent_id = alimg:338:184
 # text = Kayadu silïm.
 # text[orig] = Kayadu silïm.
 # text[spa] = El niño se durmió.
@@ -3403,7 +3403,7 @@
 2	silïm	_	NOUN	_	_	_	_	_	Trad=niño
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:185
+# sent_id = alimg:339:185
 # text = Kayadu silïm.
 # text[orig] = Kayadu silïm.
 # text[spa] = El niño se está durmiendo.
@@ -3414,7 +3414,7 @@
 2	silïm	_	NOUN	_	_	_	_	_	Trad=niño
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:186
+# sent_id = alimg:340:186
 # text = Koʼö kuyadu silï.
 # text[orig] = Ko'ö kuyadu silï.
 # text[spa] = El niño se ve a dormir.
@@ -3426,7 +3426,7 @@
 3	silï	_	NOUN	_	_	_	_	_	Trad=niño
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:187
+# sent_id = alimg:341:187
 # text = Nauné kayadu silïm.
 # text[orig] = Nauné kayadu silïm.
 # text[spa] = El niño se durmió de nuevo.
@@ -3438,7 +3438,7 @@
 3	silïm	_	NOUN	_	_	_	_	_	Trad=niño
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:188
+# sent_id = alimg:342:188
 # text = Gua yeabea kayadu silï yabi.
 # text[orig] = Gua yeabea kayadu silï yabi.
 # text[spa] = El niño no durmió bien anodche.
@@ -3452,7 +3452,7 @@
 5	yabi	_	ADV	_	_	_	_	_	Trad=anoche
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:189
+# sent_id = alimg:343:189
 # text = Tatlin gua kayaku silí no camión mi.
 # text[orig] = Tatlin gua kayaku silí no camión mi.
 # text[spa] = El niño casi se durmió en el camión.
@@ -3468,7 +3468,7 @@
 7	mi	_	DET	_	_	_	_	_	Trad=esa
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:193
+# sent_id = alimg:375:193
 # text = Tako chikata yuntu ú chi cheʼe chakuta.
 # text[orig] = Tako chikata yuntu ú chi che'e chakuta.
 # text[spa] = Ella me pidió tortillas para que comiera su mamá
@@ -3484,7 +3484,7 @@
 7	chakuta	_	NOUN	_	_	_	_	_	Trad=su.mamá
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:194
+# sent_id = alimg:376:194
 # text = ¿A chikata yuntu dí?
 # text[orig] = ¿A chikata yuntu dí?
 # text[spa] = ¿Ella te pidió tortillas?
@@ -3498,7 +3498,7 @@
 5	dí	dí	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:195
+# sent_id = alimg:377:195
 # text = Jù, chikata yuntu ú.
 # text[orig] = Jù, chikata yuntu ú.
 # text[spa] = Sí ella me pidió tortillas.
@@ -3512,7 +3512,7 @@
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:196
+# sent_id = alimg:378:196
 # text = ¿A duʼu chika yuntu dí?
 # text[orig] = ¿A du'u chika yuntu dí?
 # text[spa] = ¿Quién te pidió tortillas?
@@ -3527,7 +3527,7 @@
 6	dí	dí	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:197
+# sent_id = alimg:379:197
 # text = ¿A dae chikata dí?
 # text[orig] = ¿A dae chikata dí?
 # text[spa] = ¿Qué te pidió ella?
@@ -3541,7 +3541,7 @@
 5	dí	dí	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:198
+# sent_id = alimg:380:198
 # text = Gua chikata yuntu ú.
 # text[orig] = Gua chikata yuntu ú.
 # text[spa] = Ella no me pidió tortillas.
@@ -3554,7 +3554,7 @@
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:199
+# sent_id = alimg:381:199
 # text = Nokuó jikata yuntu ú.
 # text[orig] = Nokuó jikata yuntu ú.
 # text[spa] = Ella a veces me pide tortillas.
@@ -3567,7 +3567,7 @@
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:202
+# sent_id = alimg:384:202
 # text = Takó chikueta ú.
 # text[orig] = Takó chikueta ú.
 # text[spa] = Ella me enseñó
@@ -3579,7 +3579,7 @@
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:203
+# sent_id = alimg:385:203
 # text = Taka chikueta ú a taka jiduchiy ñoʼo jindeʼe.
 # text[orig] = Taka chikueta ú a taka jiduchiy ño'o jinde'e.
 # text[spa] = Ella me enseñó como se juega el trompo
@@ -3596,7 +3596,7 @@
 8	jindeʼe	_	VERB	_	_	_	_	_	Trad=habla|Gloss=?-hablar-?
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204
+# sent_id = alimg:386:204
 # text = Nichi dí iku.
 # text[orig] = Nichi dí iku.
 # text[spa] = Te vi ayer en el mercado.
@@ -3608,7 +3608,7 @@
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204sujeto masculino
+# sent_id = alimg:387:204
 # text = Nichi soʼö iku nʼiba.
 # text[orig] = Nichi so'ö iku n'iba.
 # text[spa] = Lo vi ayer en el mercado.
@@ -3622,7 +3622,7 @@
 4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204
+# sent_id = alimg:388:204
 # text = Nichi insë iku no nʼiba.
 # text[orig] = Nichi insë iku no n'iba.
 # text[spa] = Los vi a ustedes ayer en el mercado.
@@ -3636,7 +3636,7 @@
 5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204
+# sent_id = alimg:389:204
 # text = Nichi iñsé iku no nʼiba.
 # text[orig] = Nichi iñsé iku no n'iba.
 # text[spa] = Los vi a ellos ayer en el mercado.
@@ -3650,7 +3650,7 @@
 5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204
+# sent_id = alimg:390:204
 # text = A nichid ú iku nʼiba.
 # text[orig] = A nichid ú iku n'iba.
 # text[spa] = Me viste ayer en el mercado.
@@ -3664,7 +3664,7 @@
 5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204
+# sent_id = alimg:391:204
 # text = A nichid toʼö iku nʼiba.
 # text[orig] = A nichid to'ö iku n'iba.
 # text[spa] = Lo viste ayer en el mercado.
@@ -3678,7 +3678,7 @@
 5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204
+# sent_id = alimg:392:204
 # text = Nichid insú iku no nʼiba.
 # text[orig] = Nichid insú iku no n'iba.
 # text[spa] = Nos viste ayer en el mercado.
@@ -3692,7 +3692,7 @@
 5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204
+# sent_id = alimg:394:204
 # text = Nichis ú iku nʼiba.
 # text[orig] = Nichis ú iku n'iba.
 # text[spa] = Me vio ayer en el mercado
@@ -3705,7 +3705,7 @@
 4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204
+# sent_id = alimg:395:204
 # text = Nichis dí iku nʼiba.
 # text[orig] = Nichis dí iku n'iba.
 # text[spa] = Te vio ayer en el mercado.
@@ -3718,7 +3718,7 @@
 4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204
+# sent_id = alimg:397:204
 # text = Nichiy ʼuu iku no nʼiba.
 # text[orig] = Nichiy 'uu iku no n'iba.
 # text[spa] = Nos vio ayer en el mercado.
@@ -3732,7 +3732,7 @@
 5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204
+# sent_id = alimg:398:204
 # text = Nichiy insë.
 # text[orig] = Nichiy insë.
 # text[spa] = Los vio ayer en el mercado.
@@ -3744,7 +3744,7 @@
 2	insë	insë	PRON	_	PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204
+# sent_id = alimg:399:204
 # text = Nichiy iñsé.
 # text[orig] = Nichiy iñsé.
 # text[spa] = Los vio ayer en el mercado.
@@ -3756,7 +3756,7 @@
 2	iñsé	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:204
+# sent_id = alimg:400:204
 # text = Nichin dí iku nʼiba.
 # text[orig] = Nichin dí iku n'iba.
 # text[spa] = Te vimos ayer en el mercado.
@@ -3769,7 +3769,7 @@
 4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:206
+# sent_id = alimg:415:206
 # text = ¿A nichi ú iku nʼiba?
 # text[orig] = ¿A nichi ú iku n'iba?
 # text[spa] = ¿Me viste ayer en el mercado?
@@ -3784,7 +3784,7 @@
 6	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:207
+# sent_id = alimg:416:207
 # text = ¿A duʼu nichid iku nʼiba?
 # text[orig] = ¿A du'u nichid iku n'iba?
 # text[spa] = ¿A quién viste ayer en el mercado?
@@ -3799,7 +3799,7 @@
 6	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:208
+# sent_id = alimg:417:208
 # text = ¿A dae nochid iku nʼiba?
 # text[orig] = ¿A dae nochid iku n'iba?
 # text[spa] = ¿Qué viste ayer en el mercado?
@@ -3814,7 +3814,7 @@
 6	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:209
+# sent_id = alimg:418:209
 # text = ¿A ti nichid ú?
 # text[orig] = ¿A ti nichid ú?
 # text[spa] = ¿Dónde me viste?
@@ -3828,7 +3828,7 @@
 5	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:210
+# sent_id = alimg:419:210
 # text = Kuá ama snï ñeʼes.
 # text[orig] = Kuá ama snï ñe'es.
 # text[spa] = Compraré un sombrero para ella
@@ -3842,7 +3842,7 @@
 4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:211
+# sent_id = alimg:420:211
 # text = Kuá ama snï ñeʼe chidata.
 # text[orig] = Kuá ama snï ñe'e chidata.
 # text[spa] = Compraré un sombrero para su papá
@@ -3856,7 +3856,7 @@
 5	chidata	_	NOUN	_	_	_	_	_	Trad=su.papá
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:212
+# sent_id = alimg:421:212
 # text = Nès dí chi koʼöd Jibaku.
 # text[orig] = Nès dí chi ko'öd Jibaku.
 # text[spa] = Te ordenó qué fueras a Cuicatlán
@@ -3870,7 +3870,7 @@
 5	Jibaku	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:213
+# sent_id = alimg:422:213
 # text = Nèta dí chi koʼöd Jibaku.
 # text[orig] = Nèta dí chi ko'öd Jibaku.
 # text[spa] = El te ordenó ir a Huamantla.
@@ -3884,7 +3884,7 @@
 5	Jibaku	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:214
+# sent_id = alimg:423:214
 # text = Chineta damid chi dí dukud chi ñeʼeta.
 # text[orig] = Chineta damid chi dí dukud chi ñe'eta.
 # text[spa] = Ella te acusó de haberle robado.
@@ -3900,7 +3900,7 @@
 7	ñeʼeta	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.ella|UPOS=Guessed
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:215
+# sent_id = alimg:424:215
 # text = ¿Dae jikadi jidid?
 # text[orig] = ¿Dae jikadi jidid?
 # text[spa] = ¿Qué puedes hacer?
@@ -3913,7 +3913,7 @@
 4	jidid	_	VERB	_	_	_	_	_	Trad=hacer|Gloss=?-hacer-2SG
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:216
+# sent_id = alimg:425:216
 # text = Un guadbea jikadi jidi.
 # text[orig] = Un guadbea jikadi jidi.
 # text[spa] = No puedo hacer nada
@@ -3926,7 +3926,7 @@
 4	jidi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:217
+# sent_id = alimg:426:217
 # text = Gua deanu.
 # text[orig] = Gua deanu.
 # text[spa] = No sé
@@ -3937,7 +3937,7 @@
 2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sé|Gloss=?-saber-1SG
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:219
+# sent_id = alimg:428:219
 # text = Juó dimo beade jines.
 # text[orig] = Juó dimo beade jines.
 # text[spa] = Juan sólo habla español
@@ -3950,7 +3950,7 @@
 4	jines	_	VERB	_	_	_	_	_	Trad=habla|Gloss=?-hablar-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:220
+# sent_id = alimg:429:220
 # text = ¿A jined beade?
 # text[orig] = ¿A jined beade?
 # text[spa] = ¿Sabes español?
@@ -3963,7 +3963,7 @@
 4	beade	_	NOUN	_	_	_	_	_	Trad=español
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:221
+# sent_id = alimg:430:221
 # text = Jiné beade.
 # text[orig] = Jiné beade.
 # text[spa] = Sé español.
@@ -3974,7 +3974,7 @@
 2	beade	_	NOUN	_	_	_	_	_	Trad=español
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:223
+# sent_id = alimg:432:223
 # text = ¿A chikadinud chi a ndo?
 # text[orig] = ¿A chikadinud chi a ndo?
 # text[spa] = ¿Cuándo supiste que yo había llegado?
@@ -3989,7 +3989,7 @@
 6	ndo	_	VERB	_	_	_	_	_	Trad=había.llegado|Gloss=?-llegar-?
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:224
+# sent_id = alimg:433:224
 # text = ¿A taka chikadinud chi a ndo?
 # text[orig] = ¿A taka chikadinud chi a ndo?
 # text[spa] = ¿Cómo supiste que yo había llegado?
@@ -4005,7 +4005,7 @@
 7	ndo	_	VERB	_	_	_	_	_	Trad=había.llegado|Gloss=?-llegar-?
 8	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:225tl:te doy para que sepas, pero hace referencia a la frase
+# sent_id = alimg:434:225
 # text = Jite chi kadinud.
 # text[orig] = Jite chi kadinud.
 # text[spa] = Te lo digo para que lo sepas.
@@ -4018,7 +4018,7 @@
 3	kadinud	_	VERB	_	_	_	_	_	Trad=sepas|Gloss=?-saber-2SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:226
+# sent_id = alimg:435:226
 # text = ¿A chèd beade?
 # text[orig] = ¿A chèd beade?
 # text[spa] = ¿Aprendiste español?
@@ -4031,7 +4031,7 @@
 4	beade	_	NOUN	_	_	_	_	_	Trad=español
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:226
+# sent_id = alimg:437:226
 # text = Chikuʼu gua chikueñ ú c.
 # text[orig] = Chiku'u gua chikueñ ú c.
 # text[spa] = Mi abuela no me enseñó a cantar.
@@ -4045,7 +4045,7 @@
 5	c	_	_	_	_	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:229
+# sent_id = alimg:439:229
 # text = Kakued ú yuni.
 # text[orig] = Kakued ú yuni.
 # text[spa] = ¡Enséñame el camino!
@@ -4057,7 +4057,7 @@
 3	yuni	_	NOUN	_	_	_	_	_	Trad=camino
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:230
+# sent_id = alimg:440:230
 # text = Kakued ú dae nád toʼod.
 # text[orig] = Kakued ú dae nád to'od.
 # text[spa] = ¡Enséñame que tienes en la mano!
@@ -4071,7 +4071,7 @@
 5	toʼod	_	NOUN	_	_	_	_	_	Trad=tu.mano
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:231
+# sent_id = alimg:441:231
 # text = Nichi ndee iti yuni.
 # text[orig] = Nichi ndee iti yuni.
 # text[spa] = Vi muchos animales en el camino.
@@ -4084,7 +4084,7 @@
 4	yuni	_	NOUN	_	_	_	_	_	Trad=camino
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:232
+# sent_id = alimg:442:232
 # text = Nichi dae chi no baʼa ko.
 # text[orig] = Nichi dae chi no ba'a ko.
 # text[spa] = Vi lo que pasó en esa casa.
@@ -4099,7 +4099,7 @@
 6	ko	_	DET	_	_	_	_	_	Trad=ese
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:233
+# sent_id = alimg:443:233
 # text = Nichi chi dimod jeʼed yuntu.
 # text[orig] = Nichi chi dimod je'ed yuntu.
 # text[spa] = Vi que estabas comiendo solo.
@@ -4113,7 +4113,7 @@
 5	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:234
+# sent_id = alimg:444:234
 # text = Neʼe yuntu.
 # text[orig] = Ne'e yuntu.
 # text[spa] = Quiero tortillas.
@@ -4124,7 +4124,7 @@
 2	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:235
+# sent_id = alimg:445:235
 # text = Neʼe koʼö nʼiba.
 # text[orig] = Ne'e ko'ö n'iba.
 # text[spa] = Quiero ir temprano al mercado.
@@ -4136,7 +4136,7 @@
 3	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:236
+# sent_id = alimg:446:236
 # text = ¿A dae neʼe did?
 # text[orig] = ¿A dae ne'e did?
 # text[spa] = ¿Qué quieres hacer?
@@ -4150,7 +4150,7 @@
 5	did	_	VERB	_	VerbForm=Fin	_	_	_	Trad=haces|Gloss=?-hacer-2SG
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:237
+# sent_id = alimg:447:237
 # text = Neʼë kune muʼu.
 # text[orig] = Ne'ë kune mu'u.
 # text[spa] = Quiero quedarme aquí.
@@ -4162,7 +4162,7 @@
 3	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:238
+# sent_id = alimg:448:238
 # text = Neʼë chi kuned muʼu.
 # text[orig] = Ne'ë chi kuned mu'u.
 # text[spa] = Quiero que te quedes aquí.
@@ -4175,7 +4175,7 @@
 4	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:239
+# sent_id = alimg:449:239
 # text = Gua neʼë chi kuned dimod muʼu.
 # text[orig] = Gua ne'ë chi kuned dimod mu'u.
 # text[spa] = No quiero que te quedes solo aquí.
@@ -4190,7 +4190,7 @@
 6	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:240
+# sent_id = alimg:450:240
 # text = Juó neʼes chi kune bakus.
 # text[orig] = Juó ne'es chi kune bakus.
 # text[spa] = Juan quería que me quedara en su casa.
@@ -4204,7 +4204,7 @@
 5	bakus	_	NOUN	_	_	_	_	_	Trad=su.casa
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:241
+# sent_id = alimg:451:241
 # text = Juó gua neʼes chi kune.
 # text[orig] = Juó gua ne'es chi kune.
 # text[spa] = Juan no quería que yo me quedara.
@@ -4218,7 +4218,7 @@
 5	kune	_	VERB	_	_	_	_	_	Trad=quedarse|Gloss=?-quedarse-?
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:242
+# sent_id = alimg:452:242
 # text = Koʼöd chíd ú chi kanad ama bíʼi.
 # text[orig] = Ko'öd chíd ú chi kanad ama bí'i.
 # text[spa] = Me dijiste que traerias una fruta
@@ -4234,7 +4234,7 @@
 7	bíʼi	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:243
+# sent_id = alimg:453:243
 # text = Koʼöd chíd ú chi kanad ama bíʼi cheʼe.
 # text[orig] = Ko'öd chíd ú chi kanad ama bí'i che'e.
 # text[spa] = Me dijiste que traerias una fruta para que yo comiera
@@ -4251,7 +4251,7 @@
 8	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:245
+# sent_id = alimg:455:245
 # text = ¿A jitenud Ndios?
 # text[orig] = ¿A jitenud Ndios?
 # text[spa] = ¿Crees en Dios?
@@ -4264,7 +4264,7 @@
 4	Ndios	_	NOUN	_	_	_	_	_	Trad=dios
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:246
+# sent_id = alimg:456:246
 # text = Nigua kueʼes nuku Juó.
 # text[orig] = Nigua kue'es nuku Juó.
 # text[spa] = Creo que él se fue con Juan.
@@ -4277,7 +4277,7 @@
 4	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:247
+# sent_id = alimg:457:247
 # text = Nigua ni gua ndos.
 # text[orig] = Nigua ni gua ndos.
 # text[spa] = Dudo que venga Juan.
@@ -4290,7 +4290,7 @@
 4	ndos	_	VERB	_	_	_	_	_	Trad=llegó|Gloss=?-llegar-3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:248
+# sent_id = alimg:459:248
 # text = Gua jitenu ñeʼes.
 # text[orig] = Gua jitenu ñe'es.
 # text[spa] = No le creo
@@ -4302,7 +4302,7 @@
 3	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.MSC
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:252
+# sent_id = alimg:463:252
 # text = ¿A denud duʼu gua ndo?
 # text[orig] = ¿A denud du'u gua ndo?
 # text[spa] = ¿Sabes quién no viene?
@@ -4317,7 +4317,7 @@
 6	ndo	_	VERB	_	_	_	_	_	Trad=había.llegado|Gloss=?-llegar-?
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:253
+# sent_id = alimg:464:253
 # text = Gua deanu duʼu ndo.
 # text[orig] = Gua deanu du'u ndo.
 # text[spa] = No sé quién vino.
@@ -4330,7 +4330,7 @@
 4	ndo	_	VERB	_	_	_	_	_	Trad=había.llegado|Gloss=?-llegar-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:255
+# sent_id = alimg:466:255
 # text = Gua deanu a ti koʼös.
 # text[orig] = Gua deanu a ti ko'ös.
 # text[spa] = No sé a dónde va.
@@ -4344,7 +4344,7 @@
 5	koʼös	_	VERB	_	_	_	_	_	Trad=va|Gloss=?-ir-?
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:256
+# sent_id = alimg:467:256
 # text = Gua deanu ku ti kuchis.
 # text[orig] = Gua deanu ku ti kuchis.
 # text[spa] = No sé por qué vino.
@@ -4358,7 +4358,7 @@
 5	kuchis	chi	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=vino|Gloss=CPL-venir-3.MSC
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:257
+# sent_id = alimg:468:257
 # text = Gua deanu ñeʼe ti kuchis.
 # text[orig] = Gua deanu ñe'e ti kuchis.
 # text[spa] = No sé de dónde vino.
@@ -4372,7 +4372,7 @@
 5	kuchis	chi	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=vino|Gloss=CPL-venir-3.MSC
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:258
+# sent_id = alimg:469:258
 # text = Gua deanu a taka nandinda chimbaʼa.
 # text[orig] = Gua deanu a taka nandinda chimba'a.
 # text[spa] = No sé cómo arreglar la puerta.
@@ -4387,7 +4387,7 @@
 6	chimbaʼa	_	NOUN	_	_	_	_	_	Trad=puerta
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:259
+# sent_id = alimg:470:259
 # text = Gua deanu dae jinuku Juó.
 # text[orig] = Gua deanu dae jinuku Juó.
 # text[spa] = No sé qué vende Juan.
@@ -4401,7 +4401,7 @@
 5	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:260
+# sent_id = alimg:471:260
 # text = Gua deanu chi kuchid.
 # text[orig] = Gua deanu chi kuchid.
 # text[spa] = No sabía que venías.
@@ -4414,7 +4414,7 @@
 4	kuchid	chi	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=ven|Gloss=CPL-venir-2SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:261
+# sent_id = alimg:472:261
 # text = Gua chikadinu duʼu ndó.
 # text[orig] = Gua chikadinu du'u ndó.
 # text[spa] = No supe quién vino.
@@ -4427,7 +4427,7 @@
 4	ndó	_	VERB	_	_	_	_	_	Trad=vino|Gloss=?-venir-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:262
+# sent_id = alimg:473:262
 # text = Chimjinu nangadí chimbaʼam.
 # text[orig] = Chimjinu nangadí chimba'am.
 # text[spa] = Me olvidé de cerrar la puerta.
@@ -4439,7 +4439,7 @@
 3	chimbaʼam	_	NOUN	_	_	_	_	_	Trad=puerta
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:263
+# sent_id = alimg:474:263
 # text = Chimjinu chi ndod jobeku.
 # text[orig] = Chimjinu chi ndod jobeku.
 # text[spa] = Me olvidé de que llegabas hoy.
@@ -4452,7 +4452,7 @@
 4	jobeku	_	ADV	_	_	_	_	_	Trad=hoy
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:264
+# sent_id = alimg:475:264
 # text = Chimjinu chi a taka jobed.
 # text[orig] = Chimjinu chi a taka jobed.
 # text[spa] = Me olvidé de tu nombre.
@@ -4466,7 +4466,7 @@
 5	jobed	_	NOUN	_	_	_	_	_	Trad=tu.nombre
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:265
+# sent_id = alimg:476:265
 # text = ¿Dae chimjinud?
 # text[orig] = ¿Dae chimjinud?
 # text[spa] = ¿Qué olvidaste?
@@ -4478,7 +4478,7 @@
 3	chimjinud	_	VERB	_	_	_	_	_	Trad=olvidaste|Gloss=?-olvidar-?
 4	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:267
+# sent_id = alimg:478:267
 # text = Yeabean jinuku yaku yada ko.
 # text[orig] = Yeabean jinuku yaku yada ko.
 # text[spa] = Vuela muy alto ese pájaro
@@ -4492,7 +4492,7 @@
 5	ko	_	DET	_	_	_	_	_	Trad=ese
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:268
+# sent_id = alimg:479:268
 # text = Yada kon gua jikadi jinuku yakut.
 # text[orig] = Yada kon gua jikadi jinuku yakut.
 # text[spa] = Ese pájaro  no puede volar.
@@ -4507,7 +4507,7 @@
 6	yakut	_	VERB	_	_	_	_	_	Trad=volar|Gloss=?-volar-?
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:269
+# sent_id = alimg:480:269
 # text = Gua jikadi jea tiʼö.
 # text[orig] = Gua jikadi jea ti'ö.
 # text[spa] = No puedo subirme al árbol.
@@ -4520,7 +4520,7 @@
 4	tiʼö	_	NOUN	_	_	_	_	_	Trad=árbol
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:271
+# sent_id = alimg:482:271
 # text = Kadi choʼod chinjíku tochi dùbii nuni.
 # text[orig] = Kadi cho'od chinjíku tochi dùbii nuni.
 # text[spa] = Vas a poder cruzar el río cuando tenga poca agua.
@@ -4535,7 +4535,7 @@
 6	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:272
+# sent_id = alimg:483:272
 # text = Jikadi jidijù per gua lápiz ñoʼö.
 # text[orig] = Jikadi jidijù per gua lápiz ño'ö.
 # text[spa] = Sé escribir, pero no puedo porque no tengo lápiz.
@@ -4550,7 +4550,7 @@
 6	ñoʼö	_	NOUN	_	_	_	_	_	Trad=pueblo
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:273
+# sent_id = alimg:484:273
 # text = Neʼë kó tiʼö ko, per gua jikadi geá.
 # text[orig] = Ne'ë kó ti'ö ko, per gua jikadi geá.
 # text[spa] = Quiero subirme a ese árbol pero no puedo.
@@ -4568,7 +4568,7 @@
 9	geá	_	VERB	_	_	_	_	_	Trad=subirme|Gloss=?-subirse-1SG
 10	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:274
+# sent_id = alimg:485:274
 # text = Kadi kó tiʼö ko, per gua neʼe.
 # text[orig] = Kadi kó ti'ö ko, per gua ne'e.
 # text[spa] = Puedo subirme a ese árbol, pero no quiero.
@@ -4585,7 +4585,7 @@
 8	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:275
+# sent_id = alimg:486:275
 # text = Neʼe chi koʼö di ntiñu.
 # text[orig] = Ne'e chi ko'ö di ntiñu.
 # text[spa] = Es necesario que vaya a trabajar
@@ -4599,7 +4599,7 @@
 5	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:276
+# sent_id = alimg:487:276
 # text = Iku yeaben dí ntiñu.
 # text[orig] = Iku yeaben dí ntiñu.
 # text[spa] = Ayer tuve que trabajar mucho.
@@ -4612,7 +4612,7 @@
 4	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:277
+# sent_id = alimg:488:277
 # text = Neʼe chi koʼöd did ntiñu.
 # text[orig] = Ne'e chi ko'öd did ntiñu.
 # text[spa] = Tienes que trabajar.
@@ -4626,7 +4626,7 @@
 5	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:278
+# sent_id = alimg:489:278
 # text = Neʼe chi koʼö kakiö jideaku.
 # text[orig] = Ne'e chi ko'ö kakiö jideaku.
 # text[spa] = Hay que quemar la basura.
@@ -4640,7 +4640,7 @@
 5	jideaku	_	VERB	_	_	_	_	_	Trad=quemar|Gloss=?-quemar-?
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:280
+# sent_id = alimg:491:280
 # text = Gua eanu chi noʼod.
 # text[orig] = Gua eanu chi no'od.
 # text[spa] = No me gusta que te vayas.
@@ -4653,7 +4653,7 @@
 4	noʼod	_	VERB	_	_	_	_	_	Trad=vayas|Gloss=?-ir-2SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:281
+# sent_id = alimg:492:281
 # text = Nangakud chi neʼe chi kuʼuu diuu ntiñu.
 # text[orig] = Nangakud chi ne'e chi ku'uu diuu ntiñu.
 # text[spa] = Acuérdate de que tenemos que trabajar.
@@ -4669,7 +4669,7 @@
 7	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:282
+# sent_id = alimg:493:282
 # text = Gua eanu iñsë.
 # text[orig] = Gua eanu iñsë.
 # text[spa] = No me gusta esa gente.
@@ -4681,7 +4681,7 @@
 3	iñsë	iñsë	PRON	_	PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:282
+# sent_id = alimg:494:282
 # text = Gua eanu comida ku.
 # text[orig] = Gua eanu comida ku.
 # text[spa] = No me gusta esta comida.
@@ -4694,7 +4694,7 @@
 4	ku	_	DET	_	_	_	_	_	Trad=este
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:283
+# sent_id = alimg:495:283
 # text = Nangakud neachead baʼa.
 # text[orig] = Nangakud neachead ba'a.
 # text[spa] = Acuérdate de barrer la casa.
@@ -4706,7 +4706,7 @@
 3	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:284sujeto masculino
+# sent_id = alimg:496:284
 # text = Tumgoʼos dae neʼe.
 # text[orig] = Tumgo'os dae ne'e.
 # text[spa] = Me preguntó qué quería yo.
@@ -4719,7 +4719,7 @@
 3	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:285
+# sent_id = alimg:497:285
 # text = Jinangaku íñ ñeʼe.
 # text[orig] = Jinangaku íñ ñe'e.
 # text[spa] = Extraño a mi familia.
@@ -4731,7 +4731,7 @@
 3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:287
+# sent_id = alimg:499:287
 # text = Gua deanu chea neʼeta.
 # text[orig] = Gua deanu chea ne'eta.
 # text[spa] = No sé cuál quere.
@@ -4744,7 +4744,7 @@
 4	neʼeta	_	VERB	_	_	_	_	_	Trad=quiere|Gloss=?-querer-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:289
+# sent_id = alimg:501:289
 # text = Nikua ndininu comida ñeʼe muʼu.
 # text[orig] = Nikua ndininu comida ñe'e mu'u.
 # text[spa] = No me acostumbro a la comida de aquí.
@@ -4758,7 +4758,7 @@
 5	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:290
+# sent_id = alimg:502:290
 # text = Ndininus chi temprano jinankués.
 # text[orig] = Ndininus chi temprano jinankués.
 # text[spa] = Lo acostumbró a levantarse temprano.
@@ -4771,7 +4771,7 @@
 4	jinankués	_	VERB	_	_	_	_	_	Trad=levantarse|Gloss=?-levantar-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:291
+# sent_id = alimg:503:291
 # text = Jobku kutokoʼo kùchi.
 # text[orig] = Jobku kutoko'o kùchi.
 # text[spa] = Hoy empiezo a sembrar.
@@ -4783,7 +4783,7 @@
 3	kùchi	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:292
+# sent_id = alimg:504:292
 # text = Iku chitokoʼo chichí.
 # text[orig] = Iku chitoko'o chichí.
 # text[spa] = Ayer empecé a sembrar.
@@ -4795,7 +4795,7 @@
 3	chichí	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:293
+# sent_id = alimg:505:293
 # text = Kabiö kutokoʼo kùchi.
 # text[orig] = kabiö kutoko'o kùchi.
 # text[spa] = Mañana voy a empezar a sembrar.
@@ -4807,7 +4807,7 @@
 3	kùchi	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:294
+# sent_id = alimg:506:294
 # text = Jobku kutokoʼo biku.
 # text[orig] = Jobku kutoko'o biku.
 # text[spa] = Hoy empieza la fiesta.
@@ -4819,7 +4819,7 @@
 3	biku	_	NOUN	_	Typo=Yes	_	_	_	Normal=bíku|Trad=fiesta
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:295
+# sent_id = alimg:507:295
 # text = Jobku kuin kùchi.
 # text[orig] = Jobku kuin kùchi.
 # text[spa] = Hoy acabo de sembrar.
@@ -4831,7 +4831,7 @@
 3	kùchi	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:296
+# sent_id = alimg:508:296
 # text = Iku chinu chichí.
 # text[orig] = Iku chinu chichí.
 # text[spa] = Ayer acabé de sembrar.
@@ -4843,7 +4843,7 @@
 3	chichí	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:297
+# sent_id = alimg:509:297
 # text = Kabiö kuin kùchi.
 # text[orig] = Kabiö kuin kùchi.
 # text[spa] = Mañana voy a acabar de sembrar.
@@ -4855,7 +4855,7 @@
 3	kùchi	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:298
+# sent_id = alimg:510:298
 # text = Jobku kùchi ka.
 # text[orig] = Jobku kùchi ka.
 # text[spa] = Hoy voy a seguir sembrando.
@@ -4867,7 +4867,7 @@
 3	ka	_	ADV	_	_	_	_	_	Trad=aún
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:299
+# sent_id = alimg:511:299
 # text = Iku chichí ka.
 # text[orig] = Iku chichí ka.
 # text[spa] = Ayer seguí sembrando.
@@ -4879,7 +4879,7 @@
 3	ka	_	ADV	_	_	_	_	_	Trad=aún
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:301
+# sent_id = alimg:513:301
 # text = Cheʼë nichi soʼö no bakus.
 # text[orig] = Che'ë nichi so'ö no bakus.
 # text[spa] = Fui a verlo a su casa.
@@ -4893,7 +4893,7 @@
 5	bakus	_	NOUN	_	_	_	_	_	Trad=su.casa
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:302
+# sent_id = alimg:514:302
 # text = ¿A neʼéd ama née Jiguyum?
 # text[orig] = ¿A ne'éd ama née Jiguyum?
 # text[spa] = ¿Has ido alguna vez a México?
@@ -4908,7 +4908,7 @@
 6	Jiguyum	_	PROPN	_	_	_	_	_	Trad=México
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:303
+# sent_id = alimg:515:303
 # text = ¿Takue chi gua cheʼë insé?
 # text[orig] = ¿Takue chi gua che'ë insé?
 # text[spa] = Por qué no fueron ustedes?
@@ -4923,7 +4923,7 @@
 6	insé	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insë|Trad=ustedes|Gloss=2PL
 7	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:304
+# sent_id = alimg:516:304
 # text = Job jobe jichis ñeʼe yuduu.
 # text[orig] = Job jobe jichis ñe'e yuduu.
 # text[spa] = Viene todos los días por los caballos.
@@ -4937,7 +4937,7 @@
 5	yuduu	_	NOUN	_	_	_	_	_	Trad=caballo
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:305
+# sent_id = alimg:517:305
 # text = Kód tumad naídii.
 # text[orig] = Kód tumad naídii.
 # text[spa] = Súbete a cortar ese aguacate.
@@ -4949,7 +4949,7 @@
 3	naídii	_	NOUN	_	_	_	_	_	Trad=aguacate
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:306
+# sent_id = alimg:518:306
 # text = Kuchid kuned ú.
 # text[orig] = Kuchid kuned ú.
 # text[spa] = Ven a ayudarme.
@@ -4961,7 +4961,7 @@
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:307
+# sent_id = alimg:519:307
 # text = Kuchid kuned ú chi kutoʼuu burru.
 # text[orig] = Kuchid kuned ú chi kuto'uu burru.
 # text[spa] = Ven a ayudarme a atrapar al burro.
@@ -4976,7 +4976,7 @@
 6	burru	_	NOUN	_	_	_	_	_	Trad=burro
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:308
+# sent_id = alimg:520:308
 # text = Dayan kaneñ kunenoñ baʼam.
 # text[orig] = Dayan kaneñ kunenoñ ba'am.
 # text[spa] = Mis hijos se quedaron a cuidar la casa.
@@ -4989,7 +4989,7 @@
 4	baʼam	_	NOUN	_	_	_	_	_	Trad=casa
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:502
+# sent_id = alimg:733:502
 # text = !Ted botella chi snú nuni ú!
 # text[orig] = !Ted botella chi snú nuni ú!
 # text[spa] = ¡Dame la botella que tiene agua!
@@ -5005,7 +5005,7 @@
 7	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 8	!	!	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:503
+# sent_id = alimg:734:503
 # text = ¡Ted ama botella ñeʼe nuni ú!
 # text[orig] = ¡Ted ama botella ñe'e nuni ú!
 # text[spa] = ¡Dame una botella de agua!
@@ -5021,7 +5021,7 @@
 7	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 8	!	!	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:504
+# sent_id = alimg:735:504
 # text = ¡Ted kaja nochi jinabad kerillo ú!
 # text[orig] = ¡Ted kaja nochi jinabad kerillo ú!
 # text[spa] = ¡Dame la caja donde guardas los cerillos!
@@ -5037,7 +5037,7 @@
 7	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 8	!	!	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:505
+# sent_id = alimg:736:505
 # text = ¡Ted gikuu nuku chi íkad yuta ú!
 # text[orig] = ¡Ted gikuu nuku chi íkad yuta ú!
 # text[spa] = ¡Dame el cuchillo con que cortas la carne!
@@ -5054,7 +5054,7 @@
 8	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 9	!	!	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:506
+# sent_id = alimg:737:506
 # text = Gua jinichí chë nuku chi ndod.
 # text[orig] = Gua jinichí chë nuku chi ndod.
 # text[spa] = No conozco al señor con el que viniste.
@@ -5069,7 +5069,7 @@
 6	ndod	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:507
+# sent_id = alimg:738:507
 # text = Nichi chë.
 # text[orig] = Nichi chë.
 # text[spa] = Vi al señor al que le vendiste las gallinas.
@@ -5080,7 +5080,7 @@
 2	chë	_	NOUN	_	_	_	_	_	Trad=señor
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:786:546
 # text = Ama.
 # text[orig] = Ama.
 # text[spa] = uno
@@ -5090,7 +5090,7 @@
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:787:546
 # text = Obe.
 # text[orig] = Obe.
 # text[spa] = dos
@@ -5100,7 +5100,7 @@
 1	Obe	_	NUM	_	_	_	_	_	Trad=dos
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:788:546
 # text = Inu.
 # text[orig] = Inu.
 # text[spa] = tres
@@ -5110,7 +5110,7 @@
 1	Inu	inu	NUM	_	NumType=Card	_	_	_	Trad=tres
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:789:546
 # text = Kùù.
 # text[orig] = Kùù.
 # text[spa] = cuatro
@@ -5120,7 +5120,7 @@
 1	Kùù	_	NUM	_	_	_	_	_	Trad=cuatro
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:790:546
 # text = Juʼu.
 # text[orig] = Ju'u.
 # text[spa] = cinco
@@ -5130,7 +5130,7 @@
 1	Juʼu	_	NUM	_	Typo=Yes	_	_	_	Normal=juʼü|Trad=cinco
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:791:546
 # text = Joo.
 # text[orig] = Joo.
 # text[spa] = seis
@@ -5140,7 +5140,7 @@
 1	Joo	_	NUM	_	_	_	_	_	Trad=seis
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:792:546
 # text = Neachea.
 # text[orig] = Neachea.
 # text[spa] = siete
@@ -5150,7 +5150,7 @@
 1	Neachea	_	NUM	_	_	_	_	_	Trad=siete
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:793:546
 # text = Nini.
 # text[orig] = Nini.
 # text[spa] = ocho
@@ -5160,7 +5160,7 @@
 1	Nini	_	NUM	_	NumType=Card	_	_	_	Trad=ocho
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:794:546
 # text = Nòò.
 # text[orig] = Nòò.
 # text[spa] = nueve
@@ -5170,7 +5170,7 @@
 1	Nòò	_	NUM	_	_	_	_	_	Trad=nueve
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:795:546
 # text = Nichi.
 # text[orig] = Nichi.
 # text[spa] = diez
@@ -5180,7 +5180,7 @@
 1	Nichi	_	NUM	_	_	_	_	_	Trad=díez
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:796:546
 # text = Nichama.
 # text[orig] = Nichama.
 # text[spa] = once
@@ -5190,7 +5190,7 @@
 1	Nichama	_	NUM	_	_	_	_	_	Trad=once
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:797:546
 # text = Niku.
 # text[orig] = Niku.
 # text[spa] = veinte
@@ -5200,7 +5200,7 @@
 1	Niku	_	NUM	_	_	_	_	_	Trad=veinte
 2	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:546
+# sent_id = alimg:798:546
 # text = Juʼu jeku.
 # text[orig] = Ju'u jeku.
 # text[spa] = cien
@@ -5211,7 +5211,7 @@
 2	jeku	_	NOUN	_	_	_	_	_	Trad=pohual
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:547
+# sent_id = alimg:799:547
 # text = Bea ama yuduu ñeʼë.
 # text[orig] = Bea ama yuduu ñe'ë.
 # text[spa] = Tengo un caballo.
@@ -5224,7 +5224,7 @@
 4	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:548
+# sent_id = alimg:800:548
 # text = Bea obe itintu kuä ñeʼë.
 # text[orig] = Bea obe itintu kuä ñe'ë.
 # text[spa] = Tengo dos bueyes negros.
@@ -5238,7 +5238,7 @@
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:549
+# sent_id = alimg:801:549
 # text = A cheʼë ama nèè bakud.
 # text[orig] = A che'ë ama nèè bakud.
 # text[spa] = Fui a tu casa una vez.
@@ -5252,7 +5252,7 @@
 5	bakud	_	NOUN	_	_	_	_	_	Trad=tu.casa|Gloss=casa-POSS.2SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:549
+# sent_id = alimg:802:549
 # text = A cheʼë obe nèè bakud.
 # text[orig] = A che'ë obe nèè bakud.
 # text[spa] = Fui a tu casa dos veces
@@ -5266,7 +5266,7 @@
 5	bakud	_	NOUN	_	_	_	_	_	Trad=tu.casa|Gloss=casa-POSS.2SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:550
+# sent_id = alimg:804:550
 # text = Am amas kanós ñeʼe no baʼa.
 # text[orig] = Am amas kanós ñe'e no ba'a.
 # text[spa] = Los hombres salieron de la casa uno por uno.
@@ -5281,7 +5281,7 @@
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:550
+# sent_id = alimg:805:550
 # text = Ob obes kanós ñeʼe no baʼa.
 # text[orig] = Ob obes kanós ñe'e no ba'a.
 # text[spa] = Los hombres salieron de la casa de dos en dos.
@@ -5296,7 +5296,7 @@
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:550
+# sent_id = alimg:806:550
 # text = In inus kanós ñeʼe no baʼa.
 # text[orig] = In inus kanós ñe'e no ba'a.
 # text[spa] = Los hombres salieron de la casa de tres en tres.
@@ -5311,7 +5311,7 @@
 6	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:551
+# sent_id = alimg:807:551
 # text = Kutoʼon ama tuu.
 # text[orig] = Kuto'on ama tuu.
 # text[spa] = ¡Agarren una piedra cada uno!
@@ -5323,7 +5323,7 @@
 3	tuu	_	NOUN	_	_	_	_	_	Trad=piedra
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:553
+# sent_id = alimg:809:553
 # text = Juóm kunoʼos tum gua nichid soʼö.
 # text[orig] = Juóm kuno'os tum gua nichid so'ö.
 # text[spa] = Juan se fue para que no lo vieras.
@@ -5338,7 +5338,7 @@
 6	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:554
+# sent_id = alimg:810:554
 # text = Ndó Juó tum nichid soʼö.
 # text[orig] = Ndó Juó tum nichid so'ö.
 # text[spa] = Juan vino para que lo vieras.
@@ -5352,7 +5352,7 @@
 5	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:555
+# sent_id = alimg:811:555
 # text = Ká ama it dítuu tumin techkó noʼo nukut.
 # text[orig] = Ká ama it dítuu tumin techkó no'o nukut.
 # text[spa] = Compre una mula para acarrear leña
@@ -5369,7 +5369,7 @@
 8	nukut	_	NOUN	_	NounType=Relat	_	_	_	Trad=con.él
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:556
+# sent_id = alimg:812:556
 # text = Ká ama burru tumin techkód noʼo nukut.
 # text[orig] = Ká ama burru tumin techkód no'o nukut.
 # text[spa] = Compre un burro para que acarrees leña
@@ -5385,7 +5385,7 @@
 7	nukut	_	NOUN	_	NounType=Relat	_	_	_	Trad=con.él
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:557
+# sent_id = alimg:813:557
 # text = Koʼö a ndar gea kubi.
 # text[orig] = Ko'ö a ndar gea kubi.
 # text[spa] = Voy a ir aunque está lloviendo.
@@ -5399,7 +5399,7 @@
 5	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:559
+# sent_id = alimg:815:559
 # text = Nichi koʼöd tum nub kanid.
 # text[orig] = Nichi ko'öd tum nub kanid.
 # text[spa] = Si vas a ir apúrate.
@@ -5413,7 +5413,7 @@
 5	kanid	_	VERB	_	_	_	_	_	Trad=apúrate|Gloss=?-apurarse-2SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:560
+# sent_id = alimg:816:560
 # text = Nichi nichi soʼö tum kaka machetem soʼö.
 # text[orig] = Nichi nichi so'ö tum kaka machetem so'ö.
 # text[spa] = Si lo veo le pido el machete.
@@ -5429,7 +5429,7 @@
 7	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:562
+# sent_id = alimg:818:562
 # text = Nichi nichi soʼön tumin chika machetem soʼö.
 # text[orig] = Nichi nichi so'ön tumin chika machetem so'ö.
 # text[spa] = Si lo hubera visto le habría pedido el machete.
@@ -5445,7 +5445,7 @@
 7	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:563
+# sent_id = alimg:819:563
 # text = Nigua noʼö ti gua jidí ntiñu.
 # text[orig] = Nigua no'ö ti gua jidí ntiñu.
 # text[spa] = Creo que me voy a ir porque no estoy trabajando
@@ -5460,7 +5460,7 @@
 6	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:564
+# sent_id = alimg:820:564
 # text = Gua koʼös dimos ti böʼos.
 # text[orig] = Gua ko'ös dimos ti bö'os.
 # text[spa] = No va solo porque tiene miedo.
@@ -5474,7 +5474,7 @@
 5	böʼos	_	NOUN	_	_	_	_	_	Trad=miedo
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:565
+# sent_id = alimg:821:565
 # text = Juó kayadus tochi ndod.
 # text[orig] = Juó kayadus tochi ndod.
 # text[spa] = Juan estaba durmiendo cuando llegaste.
@@ -5487,7 +5487,7 @@
 4	ndod	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:566
+# sent_id = alimg:822:566
 # text = Juó kayadus ni tochi ndod.
 # text[orig] = Juó kayadus ni tochi ndod.
 # text[spa] = Juan estuvo durmiendo hasta que llegaste.
@@ -5501,7 +5501,7 @@
 5	ndod	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:569
+# sent_id = alimg:825:569
 # text = Juó kudadus tochi ndod.
 # text[orig] = Juó kudadus tochi ndod.
 # text[spa] = Juan va a dormir cuando llegues.
@@ -5514,7 +5514,7 @@
 4	ndod	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:570
+# sent_id = alimg:826:570
 # text = Juó kayadus ni tochi ndod.
 # text[orig] = Juó kayadus ni tochi ndod.
 # text[spa] = Juan va a dormir hasta que llegues.
@@ -5529,7 +5529,7 @@
 5	ndod	_	VERB	_	VerbForm=Fin	_	_	_	Trad=llegaste|Gloss=?-llegar-2SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:572
+# sent_id = alimg:828:572
 # text = Dí kuned ti jeʼe yuntu.
 # text[orig] = Dí kuned ti je'e yuntu.
 # text[spa] = Quédate quieto porque estoy comiendo
@@ -5543,7 +5543,7 @@
 5	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:575
+# sent_id = alimg:831:575
 # text = Juó koʼös kunus nata.
 # text[orig] = Juó ko'ös kunus nata.
 # text[spa] = Juan va a sembrar maiz
@@ -5556,7 +5556,7 @@
 4	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:576
+# sent_id = alimg:832:576
 # text = Juó koʼö kunus nata, un gua.
 # text[orig] = Juó ko'ö kunus nata, un gua.
 # text[spa] = Juan va a sembrar maíz pero yo no.
@@ -5572,7 +5572,7 @@
 7	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:577
+# sent_id = alimg:833:577
 # text = Juó gua kunus, un kunú.
 # text[orig] = Juó gua kunus, un kunú.
 # text[spa] = Juan no va a sembrar, pero yo sí.
@@ -5587,7 +5587,7 @@
 6	kunú	_	INTJ	_	_	_	_	_	Trad=sí|UPOS=Guessed
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:578
+# sent_id = alimg:834:578
 # text = Guad bea neʼë.
 # text[orig] = Guad bea ne'ë.
 # text[spa] = No quiero nada
@@ -5599,7 +5599,7 @@
 3	neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:579
+# sent_id = alimg:835:579
 # text = ¿A neʼed ama dea ñeʼë chu?
 # text[orig] = ¿A ne'ed ama dea ñe'ë chu?
 # text[spa] = ¿Quiere algo de esto?
@@ -5615,7 +5615,7 @@
 7	chu	_	PRON	_	_	_	_	_	Trad=este
 8	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:580
+# sent_id = alimg:836:580
 # text = Gua jikadi jika dime.
 # text[orig] = Gua jikadi jika dime.
 # text[spa] = No puedo caminar solo.
@@ -5628,7 +5628,7 @@
 4	dime	_	ADV	_	_	_	_	_	Trad=sólo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:581
+# sent_id = alimg:837:581
 # text = A tan kabiö chi kadi dì ntiñu.
 # text[orig] = A tan kabiö chi kadi dì ntiñu.
 # text[spa] = Ya sólo puedo trabajar en la mañana.
@@ -5644,7 +5644,7 @@
 7	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:583
+# sent_id = alimg:839:583
 # text = Chi jinu ñeʼë ntiñu.
 # text[orig] = Chi jinu ñe'ë ntiñu.
 # text[spa] = Me atrasé con el trabajo
@@ -5657,7 +5657,7 @@
 4	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:584
+# sent_id = alimg:841:584
 # text = Yata kun ndá jeʼë.
 # text[orig] = Yata kun ndá je'ë.
 # text[spa] = Esta planta es buena para comer.
@@ -5670,7 +5670,7 @@
 4	jeʼë	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=comer|Gloss=PROG-comer-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:585
+# sent_id = alimg:842:585
 # text = Yata kun ndá ñeʼe káa mi.
 # text[orig] = Yata kun ndá ñe'e káa mi.
 # text[spa] = Esta planta es buena para esa enfermedad.
@@ -5685,7 +5685,7 @@
 6	mi	_	DET	_	_	_	_	_	Trad=esa
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:585
+# sent_id = alimg:843:585
 # text = Yata kun gua ndá ñeʼe káa mi.
 # text[orig] = Yata kun gua ndá ñe’e káa mi.
 # text[spa] = Esta planta es mala para esa enfermedad.
@@ -5701,7 +5701,7 @@
 7	mi	_	DET	_	_	_	_	_	Trad=esa
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:586
+# sent_id = alimg:844:586
 # text = Juó kanii jikás.
 # text[orig] = Juó kanii jikás.
 # text[spa] = Juan es rápido para caminar.
@@ -5713,7 +5713,7 @@
 3	jikás	_	VERB	_	_	_	_	_	Trad=caminar|Gloss=?-caminar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:587
+# sent_id = alimg:845:587
 # text = Yeabean chéche ñeʼe chi kùchi.
 # text[orig] = Yeabean chéche ñe'e chi kùchi.
 # text[spa] = Esta tierra es demasiado dura para sembrar.
@@ -5727,7 +5727,7 @@
 5	kùchi	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:588
+# sent_id = alimg:846:588
 # text = Mniñu a kutea jinichiʼuu it cheanu.
 # text[orig] = Mniñu a kutea jinichi'uu it cheanu.
 # text[spa] = Ahora es raro ver venados en el monte.
@@ -5742,7 +5742,7 @@
 6	cheanu	_	VERB	_	_	_	_	_	Trad=corrió
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:591
+# sent_id = alimg:849:591
 # text = Nigua mniñu a chis.
 # text[orig] = Nigua mniñu a chis.
 # text[spa] = Puede que venga pronto.
@@ -5755,7 +5755,7 @@
 4	chis	chi	VERB	_	Gender=Masc|Mood=Pot|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=vendrá|Gloss=POT-venir-3.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:592
+# sent_id = alimg:850:592
 # text = Lï ka ten ú.
 # text[orig] = lï ka ten ú.
 # text[spa] = No deme menos.
@@ -5769,7 +5769,7 @@
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:593
+# sent_id = alimg:851:593
 # text = ¿A ndee neʼed?
 # text[orig] = ¿A ndee ne'ed?
 # text[spa] = ¿Quiere mucho?
@@ -5782,7 +5782,7 @@
 4	neʼed	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quieres|Gloss=?-querer-2SG
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = alimg:594
+# sent_id = alimg:852:594
 # text = Gua, lïn ten ú.
 # text[orig] = Gua, lïn ten ú.
 # text[spa] = No, deme poco.
