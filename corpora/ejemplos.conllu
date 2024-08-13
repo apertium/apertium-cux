@@ -961,7 +961,7 @@
 # text[spa] = Colocaron un cercado en mi casa.
 # tagged = true
 # author = lilia
-1	Chinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3.HUM
+1	Chinuy	kanu	VERB	_	Animacy=Hum|Aspect=Perf|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=mató|Gloss=CPL-matar-3.HUM
 2	chëe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=aprendí|Gloss=?-aprender-1SG
 3	baku	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1248,7 +1248,7 @@
 # text[spa] = Maté una cucaracha.
 # tagged = true
 # author = lilia
-1	Chínu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=maté|Gloss=?-matar-1SG
+1	Chínu	kanu	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=maté|Gloss=CPL-matar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	chidúbi	_	NOUN	_	_	_	_	_	Trad=cucaracha
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1612,7 +1612,7 @@
 # tagged = true
 # author = lilia
 1	Diya	_	NOUN	_	_	_	_	_	Trad=mi.tío
-2	chinuñ	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-?
+2	chinuñ	kanu	VERB	_	Animacy=Hum|Aspect=Perf|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=mató|Gloss=CPL-matar-3.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	chibatu	_	NOUN	_	_	_	_	_	Trad=chivo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -1690,7 +1690,7 @@
 # text[spa] = Yo maté un grillo.
 # tagged = true
 # author = lilia
-1	Chinu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=maté|Gloss=?-matar-1SG
+1	Chinu	kanu	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=maté|Gloss=CPL-matar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	chúntii	_	NOUN	_	_	_	_	_	Trad=grillo
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3542,7 +3542,7 @@
 # tagged = true
 # author = lucy
 1	Sakó	sakó	PRON	_	PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
-2	chìnus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3.MSC
+2	chìnus	kanu	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=mató|Gloss=CPL-matar-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	tíntu	_	NOUN	_	_	_	_	_	Trad=colibrí
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4376,7 +4376,7 @@
 # tagged = true
 # author = lucy
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
-2	chinuñ	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-?
+2	chinuñ	kanu	VERB	_	Animacy=Hum|Aspect=Perf|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=mató|Gloss=CPL-matar-3.HUM
 3	yukuu	_	NOUN	_	_	_	_	_	Trad=calabaza
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4740,7 +4740,7 @@
 # author = mazali
 1	Nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 2	gikuu	_	NOUN	_	_	_	_	_	Trad=cuchillo
-3	ínu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mato|Gloss=?-matar-1SG
+3	ínu	kanu	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=mato|Gloss=PROG-matar-1SG
 4	itintu	_	NOUN	_	_	_	_	_	Trad=toro
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5003,7 +5003,7 @@
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	itduza	_	NOUN	_	_	_	_	_	Trad=puerco.espín
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-6	chinu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=maté|Gloss=?-matar-1SG
+6	chinu	kanu	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=maté|Gloss=CPL-matar-1SG
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0414
@@ -5107,7 +5107,7 @@
 # text[spa] = Maté a un insecto tijerilla.
 # tagged = true
 # author = mazali
-1	Chínu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=maté|Gloss=?-matar-1SG
+1	Chínu	kanu	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=maté|Gloss=CPL-matar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	itkudintaa	_	NOUN	_	_	_	_	_	Trad=tijerilla(insecto)
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -5219,7 +5219,7 @@
 # tagged = true
 # author = mazali
 1	Diyan	_	NOUN	_	_	_	_	_	Trad=su.tío
-2	chinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3.HUM
+2	chinuy	kanu	VERB	_	Animacy=Hum|Aspect=Perf|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=mató|Gloss=CPL-matar-3.HUM
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	íma	_	NOUN	_	_	_	_	_	Trad=zorrillo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -6781,7 +6781,7 @@
 # author = paula
 1	Sadii	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 2	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
-3	chinus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=mató|Gloss=?-matar-3.MSC
+3	chinus	kanu	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=mató|Gloss=CPL-matar-3.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	kunette	_	NOUN	_	_	_	_	_	Trad=cienpies
 6	.	.	PUNCT	_	_	_	_	_	_

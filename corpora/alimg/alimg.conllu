@@ -1516,7 +1516,7 @@
 # hash = b5cf382b2e2605a7273873d85e73a8ec
 # tagged = true
 1	Na	_	ADV	_	_	_	_	_	Trad=ya
-2	chinu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=maté|Gloss=?-matar-1SG
+2	chinu	kanu	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=maté|Gloss=CPL-matar-1SG
 3	núnim	_	NOUN	_	_	_	_	_	Trad=frijol
 4	niʼö	_	NOUN	_	_	_	_	_	Trad=en.la.olla
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4839,7 +4839,7 @@
 # hash = 42ac1df1de69bb20f1b43f402376a769
 # tagged = true
 1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-2	chinu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=maté|Gloss=?-matar-1SG
+2	chinu	kanu	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=maté|Gloss=CPL-matar-1SG
 3	chichí	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
 

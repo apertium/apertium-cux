@@ -22,3 +22,10 @@ ku¹nu¹		kunu	jínuñ		VERB	VerbForm=Fin|Subcat=Tran	siembra		PROG-sembrar-3.HU
 ku¹nu¹		kunu	jínus		VERB	VerbForm=Fin|Subcat=Tran	siembra		PROG-sembrar-3.MSC	Aspect=Prog|Person=3|Gender=Masc	
 ku¹nu¹		kunu	kunus		VERB	VerbForm=Fin|Subcat=Tran	sembrar		POT-sembrar-3.MSC	Mood=Pot|Person=3|Gender=Masc
 ku¹nu¹		kunu	chinun		VERB	VerbForm=Fin|Subcat=Tran	sembró		CPL-sembrar-2SG.RES	Aspect=Perf|Person=2|Number=Sing|Polite=Elev
+kʔa¹nʔu¹	kanu	ínu		VERB	VerbForm=Fin|Subcat=Tran	mato		PROG-matar-1SG		Aspect=Prog|Person=1|Number=Sing
+kʔa¹nʔu¹	kanu	chinus		VERB	VerbForm=Fin|Subcat=Tran	mató		CPL-matar-3.MSC		Aspect=Perf|Person=3|Gender=Masc
+kʔa¹nʔu¹	kanu	chìnus		VERB	VerbForm=Fin|Subcat=Tran	mató		CPL-matar-3.MSC		Aspect=Perf|Person=3|Gender=Masc
+kʔa¹nʔu¹	kanu	chínu		VERB	VerbForm=Fin|Subcat=Tran	maté		CPL-matar-1SG		Aspect=Perf|Person=1|Number=Sing	
+kʔa¹nʔu¹	kanu	chinu		VERB	VerbForm=Fin|Subcat=Tran	maté		CPL-matar-1SG		Aspect=Perf|Person=1|Number=Sing	
+kʔa¹nʔu¹	kanu	chinuy		VERB	VerbForm=Fin|Subcat=Tran	mató		CPL-matar-3.HUM		Aspect=Perf|Person=3|Animacy=Hum
+kʔa¹nʔu¹	kanu	chinuñ		VERB	VerbForm=Fin|Subcat=Tran	mató		CPL-matar-3.HUM		Aspect=Perf|Person=3|Animacy=Hum
