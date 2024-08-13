@@ -1320,7 +1320,7 @@
 # text[spa] = Me corté un dedo.
 # tagged = true
 # author = lilia
-1	Chíika	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+1	Chíika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	nutoʼo	_	NOUN	_	_	_	_	_	Trad=dedo
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2461,7 +2461,7 @@
 # text[spa] = Me corté la uña con una piedra.
 # tagged = true
 # author = lilia
-1	Chika	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+1	Chika	kaka	VERB	_	Typo=Yes|Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 2	duú	_	NOUN	_	_	_	_	_	Trad=uña
 3	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -3102,7 +3102,7 @@
 # tagged = true
 # author = lucy
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-2	chika	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+2	chika	kaka	VERB	_	Typo=Yes|Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 3	toʼo	_	NOUN	_	_	_	_	_	Trad=mano
 4	kanó	_	VERB	_	VerbForm=Fin	_	_	_	Trad=salí|Gloss=?-salir-1SG
 5	ñuu	_	NOUN	_	_	_	_	_	Trad=mazorca
@@ -3470,7 +3470,7 @@
 2	nínaa	_	ADJ	_	_	_	_	_	Trad=maduro|UPOS=Guessed
 3	tiaka	_	NOUN	_	_	_	_	_	Trad=plátano
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	chíka	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+5	chíka	kaka	VERB	_	Typo=Yes|Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 6	moneatea	_	ADV	_	_	_	_	_	Trad=semana.pasada
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5759,7 +5759,7 @@
 # text[spa] = Corta una estaca para mi animal.
 # tagged = true
 # author = mazali
-1	Kakad	kaka	VERB	_	Mood=Pot|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corta|Gloss=POT-cortar-2SG
+1	Kakad	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corta|Gloss=POT-cortar-2SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	júku	_	NOUN	_	_	_	_	_	Trad=estaca
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3

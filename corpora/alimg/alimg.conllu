@@ -1939,7 +1939,7 @@
 # alimg = Mi perro no tiene cola.
 # hash = 9d32586d14976004a2636eee9c3dd0c2
 # tagged = true
-1	Chíy	kaka	VERB	_	Animacy=Hum|Aspect=Perf|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=cortaron|Gloss=CPL-cortar-3.HUM
+1	Chíy	_	VERB	_	_	_	_	_	Trad=cortaron|Gloss=?-cortar-?
 2	nduk	_	PRON	_	_	_	_	_	Trad=quién|UPOS=Guessed
 3	daʼa	_	PRON	_	_	_	_	_	Trad=que|UPOS=Guessed
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -3522,7 +3522,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
-4	chika	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+4	chika	kaka	VERB	_	Typo=Yes|Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 5	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 6	dí	dí	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 7	?	?	PUNCT	_	_	_	_	_	_
@@ -5440,7 +5440,7 @@
 2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 3	soʼön	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 4	tumin	_	SCONJ	_	_	_	_	_	Trad=para.que
-5	chika	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+5	chika	kaka	VERB	_	Typo=Yes|Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 6	machetem	_	NOUN	_	_	_	_	_	Trad=machete
 7	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 8	.	.	PUNCT	_	_	_	_	_	_

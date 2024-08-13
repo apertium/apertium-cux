@@ -780,7 +780,7 @@
 1	Dìn	dí	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 2	yà	_	_	_	_	_	_	_	_
 3	yebe	_	_	_	_	_	_	_	_
-4	nde	_	_	_	_	_	_	_	_
+4	nde	_	VERB	_	VerbForm=Fin	_	_	_	Trad=bailas|Gloss=?-bailar-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:67
@@ -1064,7 +1064,7 @@
 # text[ipa] = uˀ4tʃi1ka2põ23ta2seeʰ3
 # tagged = true
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-2	chìka	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pedí|Gloss=?-pedir-?
+2	chìka	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 3	poón	_	NOUN	_	_	_	_	_	Trad=pan
 4	taʼsé	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellas|Gloss=3PL.FEM
 5	.	.	PUNCT	_	_	_	_	_	_

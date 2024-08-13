@@ -313,10 +313,16 @@ class Tagger:
 		elif k in self.corrections:	
 			ufeat = self.add_featval(ufeat, 'Typo', 'Yes')
 			k = self.corrections[k]
-			analyses = self.lexicon[k]	
+			if k in self.verbs:
+				analyses = self.verbs[k]
+			else:
+				analyses = self.lexicon[k]	
 		elif k.lower() in self.corrections:	
 			ufeat = self.add_featval(ufeat, 'Typo', 'Yes')
 			k = self.corrections[k.lower()]
-			analyses = self.lexicon[k.lower()]	
+			if k in self.verbs:
+				analyses = self.verbs[k]
+			else:
+				analyses = self.lexicon[k]	
 		return analyses, ufeat
 

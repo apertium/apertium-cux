@@ -10,13 +10,10 @@ kia¹du²		kiyadu	jiyadus		VERB	VerbForm=Fin|Subcat=Intr	duerme		PROG-dormir-3.M
 kia¹du²		kiyadu	jiyaduy		VERB	VerbForm=Fin|Subcat=Intr	duerme		PROG-dormir-3.HUM	Aspect=Prog|Person=3|Animacy=Hum
 kia¹du²		kiyadu	jiyadu		VERB	VerbForm=Fin|Subcat=Intr	duermo		PROG-dormir-1SG		Aspect=Prog|Person=1|Number=Sing
 kʔa²ka²		kaka	kàkad		VERB	VerbForm=Fin|Subcat=Tran	cortar		POT-cortar-2SG		Mood=Pot|Person=2|Number=Sing
-kʔa²ka²		kaka	kakad		VERB	VerbForm=Fin|Subcat=Tran	corta		POT-cortar-2SG		Mood=Pot|Person=2|Number=Sing
 kʔa²ka²		kaka	íkad		VERB	VerbForm=Fin|Subcat=Tran	cortas		PROG-cortar-2SG		Aspect=Prog|Person=2|Number=Sing
-kʔa²ka²		kaka	chíka		VERB	VerbForm=Fin|Subcat=Tran	corté		CPL-cortar-1SG		Aspect=Perf|Person=1|Number=Sing	
-kʔa²ka²		kaka	chika		VERB	VerbForm=Fin|Subcat=Tran	corté		CPL-cortar-1SG		Aspect=Perf|Person=1|Number=Sing	
-kʔa²ka²		kaka	chíika		VERB	VerbForm=Fin|Subcat=Tran	corté		CPL-cortar-1SG		Aspect=Perf|Person=1|Number=Sing	
+kʔa²ka²		kaka	chìka		VERB	VerbForm=Fin|Subcat=Tran	corté		CPL-cortar-1SG		Aspect=Perf|Person=1|Number=Sing	
 kʔa²ka²		kaka	chikas		VERB	VerbForm=Fin|Subcat=Tran	cortaron	CPL-cortar-3.MSC	Aspect=Perf|Person=3|Gender=Masc
-kʔa²ka²		kaka	chíy		VERB	VerbForm=Fin|Subcat=Tran	cortaron	CPL-cortar-3.HUM	Aspect=Perf|Person=3|Animacy=Hum
+kʔa²ka²		kaka	chìkay		VERB	VerbForm=Fin|Subcat=Tran	cortaron	CPL-cortar-3.HUM	Aspect=Perf|Person=3|Animacy=Hum
 ku¹nu¹		kunu	jiinuy		VERB	VerbForm=Fin|Subcat=Tran	siembra		PROG-sembrar-3.HUM	Aspect=Prog|Person=3|Animacy=Hum
 ku¹nu¹		kunu	jínuñ		VERB	VerbForm=Fin|Subcat=Tran	siembra		PROG-sembrar-3.HUM	Aspect=Prog|Person=3|Animacy=Hum
 ku¹nu¹		kunu	jínus		VERB	VerbForm=Fin|Subcat=Tran	siembra		PROG-sembrar-3.MSC	Aspect=Prog|Person=3|Gender=Masc	
