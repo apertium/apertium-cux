@@ -1,4 +1,4 @@
-GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1626	1612	1616
+GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1622	1608	1612
 _	a	a	ADV		ya				
 _	a	a	PART			QST			
 _	áa		VERB		resuena				
@@ -1243,7 +1243,7 @@ _	koʼös		VERB		va	?-ir-?
 _	kayadus		VERB		estaba durmiendo	?-dormir-?			
 _	jiyadus		VERB		duerme	?-dormir-3.MSC			
 _	jinuku		VERB		vende	?-vender-?			
-_	iñsé		PRON		ellos				
+									
 _	Fo		PROPN		Juan				
 _	chimjinu		VERB		me olvidé	?-olvidarse-1SG			
 _	chichí		VERB		sembrar	?-sembrar-?			
@@ -1385,8 +1385,8 @@ _	iyúʼuu		ADJ		chaparros
 _	iyús		ADJ		chaparro				
 _	iyúd		ADJ		chaparro	chaparro-COP.2SG			
 _	na		ADV		ya				
-_	intin		PRON		usted				
-_	intï		PRON		usted				
+									
+									
 _	jeʼed		VERB		estás comiendo				
 _	jeʼë		VERB		comer				
 _	kanut		VERB		está				
@@ -1545,7 +1545,7 @@ _	nàtà		NOUN		flores
 _	ndíchìs		VERB	VerbForm=Fin	vio	?-ver-3.MSC			
 _	chivo		NOUN		chivo				
 _	tumnes		VERB	VerbForm=Fin	prestó	?-prestar-3.MSC			
-_	saʼsén		PRON		ellos				
+									
 _	chìkàt		VERB	VerbForm=Fin	pidió	?-pedir-?			
 _	nínúñèn		NOUN		maíz				
 _	kás		VERB	VerbForm=Fin	compró	?-comprar-3.MSC			

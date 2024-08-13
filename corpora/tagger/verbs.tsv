@@ -26,3 +26,37 @@ kʔa¹nʔu¹	kanu	chínu		VERB	VerbForm=Fin|Subcat=Tran	maté		CPL-matar-1SG		As
 kʔa¹nʔu¹	kanu	chinu		VERB	VerbForm=Fin|Subcat=Tran	maté		CPL-matar-1SG		Aspect=Perf|Person=1|Number=Sing	
 kʔa¹nʔu¹	kanu	chinuy		VERB	VerbForm=Fin|Subcat=Tran	mató		CPL-matar-3.HUM		Aspect=Perf|Person=3|Animacy=Hum
 kʔa¹nʔu¹	kanu	chinuñ		VERB	VerbForm=Fin|Subcat=Tran	mató		CPL-matar-3.HUM		Aspect=Perf|Person=3|Animacy=Hum
+
+che³ʔe³		cheʼe	jeʼe		VERB	VerbForm=Fin|Subcat=Tran	como		PROG-comer-1SG		Aspect=Prog|Person=1|Number=Sing
+
+che³ʔe³		cheʼe	jeʼet		VERB	VerbForm=Fin|Subcat=Tran	come		PROG-comer-3.AML 	Aspect=Prog|Person=3|Animacy=Aml		
+che³ʔe³		cheʼe	jeét		VERB	VerbForm=Fin|Subcat=Tran	come		PROG-comer-3.AML 	Aspect=Prog|Person=3|Animacy=Aml
+
+che³ʔe³		cheʼe	jeéta		VERB	VerbForm=Fin|Subcat=Tran	come		PROG-comer-3.FEM	Aspect=Prog|Person=3|Gender=Fem		
+
+che³ʔe³		cheʼe	jeʼey		VERB	VerbForm=Fin|Subcat=Tran	comen		PROG-comer-3.HUM	Aspect=Prog|Person=3|Animacy=Hum
+che³ʔe³		cheʼe	jeéy		VERB	VerbForm=Fin|Subcat=Tran	come		PROG-comer-3.HUM	Aspect=Prog|Person=3|Animacy=Hum		
+che³ʔe³		cheʼe	jeeya		VERB	VerbForm=Fin|Subcat=Tran	come		PROG-comer-3.HUM	Aspect=Prog|Person=3|Animacy=Hum
+
+che³ʔe³		cheʼe	jeʼë		VERB	VerbForm=Fin|Subcat=Tran	comer		PROG-comer-?		_
+
+che³ʔe³		cheʼe	chee		VERB	VerbForm=Fin|Subcat=Tran	comer		?-comer-1SG		_
+che³ʔe³		cheʼe	cheé		VERB	VerbForm=Fin|Subcat=Tran	como		?-comer-1SG		_
+che³ʔe³		cheʼe	cheʼe		VERB	VerbForm=Fin|Subcat=Tran	como		?-comer-1SG		_
+
+che³ʔe³		cheʼe	cheed		VERB	VerbForm=Fin|Subcat=Tran	come		?-comer-2SG		_
+che³ʔe³		cheʼe	cheéd		VERB	VerbForm=Fin|Subcat=Tran	comes		?-comer-2SG		_
+
+che³ʔe³		cheʼe	cheʼet		VERB	VerbForm=Fin|Subcat=Tran	comió		?-comer-3.AML		_
+
+che³ʔe³		cheʼe	cheʼes		VERB	VerbForm=Fin|Subcat=Tran	come		?-comer-3.MSC		_
+
+che³ʔe³		cheʼe	cheeta		VERB	VerbForm=Fin|Subcat=Tran	come		?-comer-3.FEM		_
+
+che³ʔe³		cheʼe	cheʼey		VERB	VerbForm=Fin|Subcat=Tran	come		?-comer-3.HUM		_
+
+che³ʔe³		cheʼe	chuʼuu		VERB	VerbForm=Fin|Subcat=Tran	comemos		?-comer-1PL.INC		_
+
+che³ʔe³		cheʼe	chen		VERB	VerbForm=Fin|Subcat=Tran	comimos		?-comer-1PL.EXC		_
+
+

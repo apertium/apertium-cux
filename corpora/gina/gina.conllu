@@ -1018,7 +1018,7 @@
 # text[ipa] = nsu2ntʃe3nβa1ta4li3sja3
 # tagged = true
 1	Nsun	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insú|Trad=nosotros|Gloss=1PL.EXC
-2	chen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comimos|Gloss=?-comer-?
+2	chen	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=comimos|Gloss=?-comer-1PL.EXC
 3	bà	_	NOUN	_	_	_	_	_	Trad=casa
 4	tá	_	NOUN	_	NounType=Clf	_	_	_	Trad=señora
 5	Álisía	_	PROPN	_	_	_	_	_	Trad=Alicia
@@ -1216,7 +1216,7 @@
 # tagged = true
 1	Julió	_	PROPN	_	_	_	_	_	Trad=Julio
 2	kóʼós	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pegó|Gloss=?-pegar-3.MSC
-3	saʼsén	_	PRON	_	_	_	_	_	Trad=ellos
+3	saʼsén	sasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sasë|Trad=ellos|Gloss=3PL.MSC
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:103
@@ -1265,7 +1265,7 @@
 3	kata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=canta|Gloss=?-cantar-?
 4	nyadi	_	_	_	_	_	_	_	_
 5	jieʼe	_	_	_	_	_	_	_	_
-6	saʼsén	_	PRON	_	_	_	_	_	Trad=ellos
+6	saʼsén	sasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sasë|Trad=ellos|Gloss=3PL.MSC
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:107
@@ -1277,7 +1277,7 @@
 1	Marion	_	PROPN	_	_	_	_	_	Trad=Mario
 2	tumnes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=prestó|Gloss=?-prestar-3.MSC
 3	machete	_	NOUN	_	_	_	_	_	Trad=machete
-4	saʼsén	_	PRON	_	_	_	_	_	Trad=ellos
+4	saʼsén	sasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sasë|Trad=ellos|Gloss=3PL.MSC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:108

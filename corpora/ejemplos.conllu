@@ -183,7 +183,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	Adeea	_	PRON	_	PronType=Int	_	_	_	Trad=qué
 3	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-4	cheed	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-2SG
+4	cheed	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-2SG
 5	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0016
@@ -229,7 +229,7 @@
 # text[spa] = Estoy comiendo chícharo.
 # tagged = true
 # author = lilia
-1	Jeʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=estoy.comiendo|Gloss=?-comer-1SG
+1	Jeʼe	cheʼe	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=PROG-comer-1SG
 2	alberga	_	NOUN	_	_	_	_	_	Trad=chícharo
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -370,7 +370,7 @@
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	tadii	_	NOUN	_	_	_	_	_	Trad=niña
 3	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-4	cheeta	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.FEM
+4	cheeta	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.FEM
 5	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 6	beâ	_	NOUN	_	_	_	_	_	Trad=naranja
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -812,7 +812,7 @@
 # text[spa] = Fui a correr en la mañana.
 # tagged = false
 # author = lilia
-1	Chee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
+1	Chee	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
 2	cheanu	_	VERB	_	_	_	_	_	Trad=corrió
 3	nabaa	_	_	_	_	_	_	_	_
 4	tatioo	_	ADV	_	_	_	_	_	Trad=mañana|UPOS=Guessed
@@ -1504,7 +1504,7 @@
 # tagged = true
 # author = lilia
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
-2	jeʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=estoy.comiendo|Gloss=?-comer-1SG
+2	jeʼe	cheʼe	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=PROG-comer-1SG
 3	chiní	_	NOUN	_	_	_	_	_	Trad=hígado
 4	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -1669,7 +1669,7 @@
 # author = lilia
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	ADV	_	_	_	_	_	Trad=ya
-3	chuʼuu	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=comemos|Gloss=?-comer-1PL
+3	chuʼuu	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=comemos|Gloss=?-comer-1PL.INC
 4	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0141
@@ -2365,7 +2365,7 @@
 # tagged = true
 # author = lilia
 1	Nee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quería|Gloss=?-querer-?
-2	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+2	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 3	dü	_	NOUN	_	_	_	_	_	Trad=manteca
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Normal=ñeʼë|Trad=de.mí|Gloss=base-POSS.1SG
 5	kuchii	_	NOUN	_	_	_	_	_	Trad=puerco
@@ -2476,7 +2476,7 @@
 # author = lilia
 1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	duuʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
-3	chee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
+3	chee	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
 4	míi	míi	ADV	_	_	_	_	_	Trad=ahí
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2593,7 +2593,7 @@
 1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
 2	joʼoy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=da|Gloss=?-dar-?
 3	nínu	nínu	NOUN	_	_	_	_	_	Trad=maíz
-4	jeʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=estoy.comiendo|Gloss=?-comer-1SG
+4	jeʼe	cheʼe	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=PROG-comer-1SG
 5	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
 6	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -3189,7 +3189,7 @@
 # author = lucy
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼey	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
+3	cheʼey	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
 4	raabu	_	NOUN	_	_	_	_	_	Trad=mostaza
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3285,7 +3285,7 @@
 # tagged = true
 # author = lucy
 1	Saíkuu	_	NOUN	_	_	_	_	_	Trad=buitre
-2	jeʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3
+2	jeʼet	cheʼe	VERB	_	Animacy=Aml|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=PROG-comer-3.AML
 3	yuta	_	NOUN	_	_	_	_	_	Trad=carne
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	iti	_	NOUN	_	_	_	_	_	Trad=animal
@@ -3324,7 +3324,7 @@
 # tagged = true
 # author = lucy
 1	Sangoʼoo	_	NOUN	_	_	_	_	_	Trad=arriera
-2	jeʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3
+2	jeʼet	cheʼe	VERB	_	Animacy=Aml|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=PROG-comer-3.AML
 3	jingö	_	NOUN	_	_	_	_	_	Trad=milpa
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3383,7 +3383,7 @@
 1	Bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 2	iña	_	NOUN	_	_	_	_	_	Trad=gente
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-4	jeʼey	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comen|Gloss=?-comer-?
+4	jeʼey	cheʼe	VERB	_	Animacy=Hum|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=comen|Gloss=PROG-comer-3.HUM
 5	stebe	_	NOUN	_	_	_	_	_	Trad=corazón
 6	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 7	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
@@ -3456,7 +3456,7 @@
 # author = lucy
 1	Dínu	_	NOUN	_	_	_	_	_	Trad=hermano
 2	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼes	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.MSC
+3	cheʼes	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.MSC
 4	tiäa	_	NOUN	_	_	_	_	_	Trad=chicozapote
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3481,7 +3481,7 @@
 # tagged = true
 # author = lucy
 1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-2	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+2	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 3	tiba	_	NOUN	_	_	_	_	_	Trad=empanada
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
 5	dutit	_	NOUN	_	_	_	_	_	Trad=huevo
@@ -3614,7 +3614,7 @@
 # tagged = true
 # author = lucy
 1	Tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
-2	cheʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=comio|Gloss=?-comer-3.AML
+2	cheʼet	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=comió|Gloss=?-comer-3.AML
 3	kulantro	_	NOUN	_	_	_	_	_	Trad=cilantro
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3832,7 +3832,7 @@
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	yata	_	NOUN	_	_	_	_	_	Trad=hierba
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-4	chee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
+4	chee	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
 5	itñeʼë	_	NOUN	_	_	_	_	_	Trad=mis.animales|Gloss=animal#base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3865,7 +3865,7 @@
 # tagged = true
 # author = lucy
 1	Yabi	_	ADV	_	_	_	_	_	Trad=anoche
-2	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+2	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 3	baku	_	NOUN	_	_	_	_	_	Trad=casa
 4	chikuʼu	_	NOUN	_	_	_	_	_	Trad=mi.abuelita
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3926,7 +3926,7 @@
 # author = lucy
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+3	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	yadnuni	_	NOUN	_	_	_	_	_	Trad=pato
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -4015,7 +4015,7 @@
 1	Nee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quería|Gloss=?-querer-?
 2	yama	_	NOUN	_	_	_	_	_	Trad=zacate
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-4	chee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
+4	chee	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
 5	iti	_	NOUN	_	_	_	_	_	Trad=animal
 6	ñëe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Normal=ñeʼë|Trad=de.mí|Gloss=base-POSS.1SG
 7	.	.	PUNCT	_	_	_	_	_	_
@@ -4175,7 +4175,7 @@
 # tagged = true
 # author = lucy
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	cheéd	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comes|Gloss=?-comer-2SG
+2	cheéd	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=comes|Gloss=?-comer-2SG
 3	si	_	PRON	_	_	_	_	_	Trad=eso
 4	,	,	PUNCT	_	_	_	_	_	_
 5	kat	_	SCONJ	_	_	_	_	_	Trad=porque
@@ -4275,7 +4275,7 @@
 # text[spa] = Mi abuelito tiene elote.
 # tagged = true
 # author = lucy
-1	Cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+1	Cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	yudii	_	ADJ	_	_	_	_	_	Trad=arrugado|UPOS=Guessed
 4	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3.HUM
@@ -4351,7 +4351,7 @@
 # author = lucy
 1	Dinuu	_	NOUN	_	_	_	_	_	Trad=mi.hermano
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼes	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.MSC
+3	cheʼes	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.MSC
 4	yukjaʼa	_	NOUN	_	_	_	_	_	Trad=chilacayota
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4389,7 +4389,7 @@
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 2	yuna	_	NOUN	_	_	_	_	_	Trad=zorro
 3	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-4	jeét	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3
+4	jeét	cheʼe	VERB	_	Animacy=Aml|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=PROG-comer-3.AML
 5	yúdii	_	NOUN	_	_	_	_	_	Trad=elote
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4451,7 +4451,7 @@
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
 2	bikun	_	NOUN	_	Typo=Yes	_	_	_	Normal=bíku|Trad=fiesta
 3	iñan	_	NOUN	_	_	_	_	_	Trad=gente
-4	jeeya	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
+4	jeeya	cheʼe	VERB	_	Animacy=Hum|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=PROG-comer-3.HUM
 5	yuta	_	NOUN	_	_	_	_	_	Trad=carne
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -4499,7 +4499,7 @@
 # author = lucy
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 2	yuuni	_	NOUN	_	_	_	_	_	Trad=pasto
-3	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+3	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 4	iti	_	NOUN	_	_	_	_	_	Trad=animal
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Normal=ñeʼë|Trad=de.mí|Gloss=base-POSS.1SG
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -4919,7 +4919,7 @@
 # tagged = true
 # author = mazali
 1	Chivatun	_	NOUN	_	_	_	_	_	Trad=chivo
-2	jeʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3
+2	jeʼet	cheʼe	VERB	_	Animacy=Aml|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=PROG-comer-3.AML
 3	itñoʼo	_	NOUN	_	_	_	_	_	Trad=insecto.palo
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5245,7 +5245,7 @@
 # tagged = true
 # author = mazali
 1	Neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
-2	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+2	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	iyaa	_	NOUN	_	_	_	_	_	Trad=chile
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -5370,7 +5370,7 @@
 # author = mazali
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiero|Gloss=?-querer-1SG
-3	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+3	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 4	yata	_	NOUN	_	_	_	_	_	Trad=paloma
 5	ícha	_	NOUN	_	_	_	_	_	Trad=tipo.de.quelite
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -6532,7 +6532,7 @@
 # text[spa] = Fui a cortar un canasto de tomates.
 # tagged = true
 # author = mazali
-1	Cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+1	Cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 2	tumaa	_	VERB	_	_	_	_	_	Trad=cortar|Gloss=?-cortar-?
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	kueatea	_	NOUN	_	_	_	_	_	Trad=canasto
@@ -7118,7 +7118,7 @@
 # tagged = true
 # author = paula
 1	Leeko	_	NOUN	_	_	_	_	_	Trad=coyote
-2	jeʼet	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3
+2	jeʼet	cheʼe	VERB	_	Animacy=Aml|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=PROG-comer-3.AML
 3	iti	_	NOUN	_	_	_	_	_	Trad=animal
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7184,7 +7184,7 @@
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+3	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 4	yuta	_	NOUN	_	_	_	_	_	Trad=carne
 5	ñëe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Normal=ñeʼë|Trad=de.mí|Gloss=base-POSS.1SG
 6	lunchi	_	NOUN	_	_	_	_	_	Trad=borrego
@@ -7279,7 +7279,7 @@
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+3	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 4	mï	_	NOUN	_	_	_	_	_	Trad=camote
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7302,7 +7302,7 @@
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+3	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 4	mïn	_	_	_	_	_	_	_	_
 5	góo	_	_	_	_	_	_	_	_
 6	naá	_	_	_	_	_	_	_	_
@@ -7438,7 +7438,7 @@
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	chee	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
+3	chee	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=comer|Gloss=?-comer-1SG
 4	naboʼoo	_	NOUN	_	_	_	_	_	Trad=cereza,.capulín
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7514,7 +7514,7 @@
 # author = paula
 1	Kákud	_	VERB	_	VerbForm=Fin	_	_	_	Trad=haz|Gloss=?-hacer-2SG
 2	naiyaa	_	NOUN	_	_	_	_	_	Trad=salsa
-3	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+3	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 4	chikuʼu	_	NOUN	_	_	_	_	_	Trad=mi.abuelita
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7768,7 +7768,7 @@
 # tagged = true
 # author = paula
 1	Takoo	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=takó|Trad=ella|Gloss=3.FEM
-2	jeéta	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.FEM
+2	jeéta	cheʼe	VERB	_	Aspect=Prog|Gender=Fem|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=PROG-comer-3.FEM
 3	ndete	_	NOUN	_	_	_	_	_	Trad=ejote
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7869,7 +7869,7 @@
 2	në	_	NOUN	_	_	_	_	_	Trad=mole
 3	kat	_	SCONJ	_	_	_	_	_	Trad=porque
 4	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-5	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+5	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0646
@@ -7956,7 +7956,7 @@
 2	jinaá	_	VERB	_	VerbForm=Fin	_	_	_	Trad=preparo|Gloss=?-preparar-1SG
 3	nibii	_	NOUN	_	_	_	_	_	Trad=papa
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	cheé	_	VERB	_	_	_	_	_	Trad=comer|Gloss=?-comer-?
+5	cheé	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0653
@@ -8103,7 +8103,7 @@
 # author = paula
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼey	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
+3	cheʼey	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
 4	níitu	_	NOUN	_	_	_	_	_	Trad=nopal
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8266,7 +8266,7 @@
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 3	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Normal=nínu|Trad=maíz
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	cheé	_	VERB	_	_	_	_	_	Trad=comer|Gloss=?-comer-?
+5	cheé	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 6	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
 7	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Normal=ñeʼë|Trad=de.mí|Gloss=base-POSS.1SG
 8	.	.	PUNCT	_	_	_	_	_	_
@@ -8476,7 +8476,7 @@
 # tagged = false
 # author = paula
 1	Chichee	_	_	_	_	_	_	_	_
-2	jeéy	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
+2	jeéy	cheʼe	VERB	_	Animacy=Hum|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=PROG-comer-3.HUM
 3	nukyanti	_	NOUN	_	_	_	_	_	Trad=guanábana
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8499,7 +8499,7 @@
 # author = paula
 1	Chiduu	_	NOUN	_	_	_	_	_	Trad=sacerdote
 2	neé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
-3	cheʼey	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
+3	cheʼey	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=come|Gloss=?-comer-3.HUM
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	nukyoo	_	NOUN	_	_	_	_	_	Trad=membrillo
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -8775,7 +8775,7 @@
 # author = paula
 1	Yeabea	_	ADJ	_	_	_	_	_	Trad=bonito(a)|UPOS=Guessed
 2	nda	_	ADV	_	_	_	_	_	Trad=muy|UPOS=Guessed
-3	jeʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=estoy.comiendo|Gloss=?-comer-1SG
+3	jeʼe	cheʼe	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=PROG-comer-1SG
 4	nutñoo	_	NOUN	_	_	_	_	_	Trad=zarzamora
 5	juchi	_	NOUN	_	_	_	_	_	Trad=sobrina
 6	.	.	PUNCT	_	_	_	_	_	_

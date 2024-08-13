@@ -271,8 +271,8 @@
 # text[spa] = Usted es alto.
 # alimg = Usted es alto.
 # hash = 8c953edd635fda2dd694be434658f1f1
-# tagged = true
-1	Intin	_	PRON	_	_	_	_	_	Trad=usted
+# tagged = false
+1	Intin	_	_	_	Typo=Yes	_	_	_	Normal=inti|Ambiguous=Yes|Trad=hay,usted
 2	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -340,7 +340,7 @@
 # alimg = Ellos son altos.
 # hash = bfed9e86fab7ae248f0373a04e90f5c9
 # tagged = true
-1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
+1	Iñsé	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 2	yakuy	_	ADJ	_	_	_	_	_	Trad=altos
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -430,7 +430,7 @@
 # alimg = Ellos son chaparros.
 # hash = d8afae21beffa4a0adc656d517fd7637
 # tagged = true
-1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
+1	Iñsé	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 2	iyún	_	ADJ	_	_	_	_	_	Trad=chaparro
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1692,7 +1692,7 @@
 # alimg = Ellos tienen un perro.
 # hash = c28b437e735a53872adfe23fd809254f
 # tagged = true
-1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
+1	Iñsé	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -1710,7 +1710,7 @@
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yana	_	NOUN	_	_	_	_	_	Trad=perro
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
-5	iñsé	_	PRON	_	_	_	_	_	Trad=ellos
+5	iñsé	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:60
@@ -1830,7 +1830,7 @@
 # alimg = Ellos tienen dos perros.
 # hash = 71c827b21f806f814ac3b0d6c14cfc35
 # tagged = true
-1	Iñsé	_	PRON	_	_	_	_	_	Trad=ellos
+1	Iñsé	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -3116,10 +3116,10 @@
 # text[spa] = Su hijo se parece a usted
 # alimg = Usted y su hijo se parecen mucho.
 # hash = 6d91e2987b2629de1be814d98c153f47
-# tagged = true
+# tagged = false
 1	Yadan	_	NOUN	_	_	_	_	_	Trad=su.hijo
 2	ninubis	_	VERB	_	_	_	_	_	Trad=se.parece|Gloss=?-parecerse-?
-3	intï	_	PRON	_	_	_	_	_	Trad=usted
+3	intï	_	_	_	Typo=Yes	_	_	_	Normal=inti|Ambiguous=Yes|Trad=hay,usted
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:166
@@ -3480,7 +3480,7 @@
 3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-6	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+6	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 7	chakuta	_	NOUN	_	_	_	_	_	Trad=su.mamá
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3644,7 +3644,7 @@
 # hash = 40e86acf8f5919e1b8cb1be4a49a1e77
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
-2	iñsé	_	PRON	_	_	_	_	_	Trad=ellos
+2	iñsé	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
 5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
@@ -3753,7 +3753,7 @@
 # hash = a5f04a01c300022d7cf30534ce5bc106
 # tagged = true
 1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.HUM
-2	iñsé	_	PRON	_	_	_	_	_	Trad=ellos
+2	iñsé	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204
@@ -4248,7 +4248,7 @@
 5	kanad	_	VERB	_	_	_	_	_	Trad=traerías|Gloss=?-traer-2SG
 6	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 7	bíʼi	_	NOUN	_	_	_	_	_	Trad=mi.hermano
-8	cheʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
+8	cheʼe	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=?-comer-1SG
 9	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:245
@@ -5539,7 +5539,7 @@
 1	Dí	dí	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 2	kuned	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ayuda|Gloss=?-ayudar-2SG
 3	ti	_	DET	_	_	_	_	_	Trad=ese
-4	jeʼe	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Trad=estoy.comiendo|Gloss=?-comer-1SG
+4	jeʼe	cheʼe	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=como|Gloss=PROG-comer-1SG
 5	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5667,7 +5667,7 @@
 1	Yata	_	NOUN	_	_	_	_	_	Trad=paloma
 2	kun	_	PRON	_	_	_	_	_	Trad=esto
 3	ndá	_	ADJ	_	_	_	_	_	Trad=bueno|UPOS=Guessed
-4	jeʼë	_	VERB	_	_	_	_	_	Trad=comer
+4	jeʼë	cheʼe	VERB	_	Subcat=Tran|VerbForm=Fin	_	_	_	Trad=comer|Gloss=PROG-comer-?
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:585
