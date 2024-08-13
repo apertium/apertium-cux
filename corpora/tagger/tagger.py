@@ -298,7 +298,7 @@ class Tagger:
 
 	def tag(self, token, ufeat):
 		analyses = []
-
+		misc = ''
 		# first look up the token, if not lower case, if not the correction 
 		k = token
 		if k in self.verbs:
@@ -311,18 +311,20 @@ class Tagger:
 			analyses = self.lexicon[k.lower()]	
 			k = k.lower()
 		elif k in self.corrections:	
-			ufeat = self.add_featval(ufeat, 'Typo', 'Yes')
 			k = self.corrections[k]
+			ufeat = self.add_featval(ufeat, 'Typo', 'Yes')
+			misc = self.add_featval(misc, 'Normal', k)
 			if k in self.verbs:
 				analyses = self.verbs[k]
 			else:
 				analyses = self.lexicon[k]	
 		elif k.lower() in self.corrections:	
-			ufeat = self.add_featval(ufeat, 'Typo', 'Yes')
 			k = self.corrections[k.lower()]
+			ufeat = self.add_featval(ufeat, 'Typo', 'Yes')
+			misc = self.add_featval(misc, 'Normal', k)
 			if k in self.verbs:
 				analyses = self.verbs[k]
 			else:
 				analyses = self.lexicon[k]	
-		return analyses, ufeat
+		return analyses, ufeat, misc
 

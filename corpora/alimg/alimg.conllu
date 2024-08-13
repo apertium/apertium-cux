@@ -239,7 +239,7 @@
 # alimg = Yo soy alto.
 # hash = 9ae3b74d9771833417664618cfb4e245
 # tagged = true
-1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	yaku	_	ADJ	_	_	_	_	_	Trad=alto|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -329,7 +329,7 @@
 # alimg = Ustedes son altos
 # hash = ef5901be6e814f9550ab24350279da0a
 # tagged = true
-1	Insën	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
+1	Insën	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insë|Trad=ustedes|Gloss=2PL
 2	yakun	_	NOUN	_	_	_	_	_	Trad=iglesia
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -362,7 +362,7 @@
 # alimg = Yo soy chaparro.
 # hash = f183cc43b6fea7810834b8de06559435
 # tagged = true
-1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	iyú	_	ADJ	_	_	_	_	_	Trad=chaparro|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -419,7 +419,7 @@
 # alimg = Ustedes son chaparros.
 # hash = 58da16966c73641eff913f71db40f832
 # tagged = true
-1	Insën	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
+1	Insën	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insë|Trad=ustedes|Gloss=2PL
 2	iyún	_	ADJ	_	_	_	_	_	Trad=chaparro
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -441,7 +441,7 @@
 # alimg = Yo soy gordo.
 # hash = 5a583ba92ab8226183c755bb33ad9817
 # tagged = true
-1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	rúʼu	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -463,7 +463,7 @@
 # alimg = Yo soy gordo.
 # hash = 5a583ba92ab8226183c755bb33ad9817
 # tagged = true
-1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	bícha	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -485,7 +485,7 @@
 # alimg = Tú eres gordo
 # hash = 58d0b3c957a3b5f1bcda9ba968add650
 # tagged = true
-1	Din	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
+1	Din	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=inti|Trad=usted|Gloss=2SG.RES
 2	rúʼu	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -507,7 +507,7 @@
 # alimg = Tú eres gordo
 # hash = 58d0b3c957a3b5f1bcda9ba968add650
 # tagged = true
-1	Din	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
+1	Din	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=inti|Trad=usted|Gloss=2SG.RES
 2	bíchad	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -529,7 +529,7 @@
 # alimg = El es gordo
 # hash = 69b5edfb2c0ef707d87d74efa14316f4
 # tagged = true
-1	Sakón	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+1	Sakón	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sakó|Trad=él|Gloss=3.MSC
 2	rúʼus	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -551,7 +551,7 @@
 # alimg = El es gordo
 # hash = 69b5edfb2c0ef707d87d74efa14316f4
 # tagged = true
-1	Sakón	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+1	Sakón	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sakó|Trad=él|Gloss=3.MSC
 2	bíchas	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -576,7 +576,7 @@
 # alimg = Nosotros somos gordos. (inclusivo)
 # hash = bbf0f1028f341037c19d008aec6174a5
 # tagged = true
-1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	bíchaʼuu	_	ADJ	_	_	_	_	_	Trad=gordos|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -587,7 +587,7 @@
 # alimg = Ustedes son gordos.
 # hash = 51b63e7506a9b1ef8e9bdafd9b272eb1
 # tagged = true
-1	Insën	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
+1	Insën	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insë|Trad=ustedes|Gloss=2PL
 2	rúʼun	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -598,7 +598,7 @@
 # alimg = Ustedes son gordos.
 # hash = 51b63e7506a9b1ef8e9bdafd9b272eb1
 # tagged = true
-1	Insën	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
+1	Insën	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insë|Trad=ustedes|Gloss=2PL
 2	bíchan	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -609,7 +609,7 @@
 # alimg = Ellos son gordos.
 # hash = 58555b1c64c18b37bffe8ad9dfe9622f
 # tagged = true
-1	Iñsén	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+1	Iñsén	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 2	rúʼun	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -620,7 +620,7 @@
 # alimg = Ellos son gordos.
 # hash = 58555b1c64c18b37bffe8ad9dfe9622f
 # tagged = true
-1	Iñsén	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+1	Iñsén	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 2	bíchan	_	ADJ	_	_	_	_	_	Trad=gordo|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -631,7 +631,7 @@
 # alimg = Yo soy flaco.
 # hash = f21b2188a350e1edecd825cbcc9ea770
 # tagged = true
-1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	kúë	_	ADJ	_	_	_	_	_	Trad=delgado|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -722,7 +722,7 @@
 # hash = c43f7f396cdbb3ecc9af7ca8688fdb9e
 # tagged = true
 1	Baku	_	NOUN	_	_	_	_	_	Trad=casa
-2	sakón	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+2	sakón	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sakó|Trad=él|Gloss=3.MSC
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -746,7 +746,7 @@
 # hash = bac2823b51decdf01300f24ea47fe21e
 # tagged = true
 1	Baku	_	NOUN	_	_	_	_	_	Trad=casa
-2	insén	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
+2	insén	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insë|Trad=ustedes|Gloss=2PL
 3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -794,7 +794,7 @@
 # alimg = Los chiles ya están rojos.
 # hash = 4836e5b97051ac510c38c189428449ab
 # tagged = true
-1	Íyaam	_	NOUN	_	Typo=Yes	_	_	_	Trad=chile
+1	Íyaam	_	NOUN	_	Typo=Yes	_	_	_	Normal=íyaan|Trad=chile
 2	na	_	ADV	_	_	_	_	_	Trad=ya
 3	kuoʼo	_	ADJ	_	_	_	_	_	Trad=rojo|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -806,7 +806,7 @@
 # alimg = Los chiles todavía no están rojos.
 # hash = be601e9dc95103783906dc48868c1251
 # tagged = false
-1	Íyaam	_	NOUN	_	Typo=Yes	_	_	_	Trad=chile
+1	Íyaam	_	NOUN	_	Typo=Yes	_	_	_	Normal=íyaan|Trad=chile
 2	nikua	_	_	_	_	_	_	_	Trad=no
 3	kuoʼo	_	ADJ	_	_	_	_	_	Trad=rojo|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1072,7 +1072,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ñaʼa	_	ADJ	_	_	_	_	_	Trad=lejos|UPOS=Guessed
-4	ñoom	_	NOUN	_	Typo=Yes	_	_	_	Trad=pueblo
+4	ñoom	_	NOUN	_	Typo=Yes	_	_	_	Normal=ñoo|Trad=pueblo
 5	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:30
@@ -1111,7 +1111,7 @@
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	kanés	_	VERB	_	Typo=Yes	_	_	_	Trad=está|Gloss=?-estar-?|UPOS=Guessed
+3	kanés	_	VERB	_	Typo=Yes	_	_	_	Normal=kanes|Trad=está|Gloss=?-estar-?|UPOS=Guessed
 4	Jibaku	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
 5	?	?	PUNCT	_	_	_	_	_	_
 
@@ -1125,7 +1125,7 @@
 # tagged = true
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
-3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
+3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	kenés	_	VERB	_	_	_	_	_	Trad=estaba
 6	Jibaku	_	PROPN	_	_	_	_	_	Trad=Cuicatlán|Gloss=LOC
@@ -1234,7 +1234,7 @@
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 2	kaneñ	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-3.HUM
 3	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
-4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:40
@@ -1450,7 +1450,7 @@
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	ti	_	DET	_	_	_	_	_	Trad=ese
 4	kane	_	VERB	_	_	_	_	_	Trad=está|Gloss=?-estar-?
-5	nʼíba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+5	nʼíba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:49
@@ -1570,7 +1570,7 @@
 # alimg = Tengo un perro.
 # hash = 5f1704770986fc9d4e0bf97c5149c7ef
 # tagged = true
-1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -1720,7 +1720,7 @@
 # alimg = Tengo dos perros.
 # hash = 1dcc544c053d2e42e1ef1025d7083f72
 # tagged = true
-1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
 3	obe	_	NUM	_	_	_	_	_	Trad=dos
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -2524,7 +2524,7 @@
 1	Ño	_	ADP	_	_	_	_	_	Trad=en
 2	baku	_	NOUN	_	_	_	_	_	Trad=casa
 3	bea	_	VERB	_	_	_	_	_	Trad=hay|Gloss=?-existir-3
-4	nʼíba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+4	nʼíba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:116
@@ -3043,7 +3043,7 @@
 # alimg = Yo soy el más joven.
 # hash = 02acad743dc3520e25454e5fe6d0046f
 # tagged = true
-1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	yunu	_	ADJ	_	_	_	_	_	Trad=joven|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3054,7 +3054,7 @@
 # alimg = Yo no soy el más joven.
 # hash = 205a1cb3174dae5224340e1bcd5bda84
 # tagged = false
-1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	kutea	_	_	_	_	_	_	_	Trad=no.hay
 3	yunu	_	ADJ	_	_	_	_	_	Trad=joven|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3155,7 +3155,7 @@
 # alimg = Me llamo Pedro.
 # hash = 9b36b7986f1ff31b4ff84c0f25245371
 # tagged = true
-1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	jobe	_	NOUN	_	_	_	_	_	Trad=día
 3	Pedro	_	PROPN	_	_	_	_	_	Trad=Pedro
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -3475,7 +3475,7 @@
 # alimg = Ella me pidió tortilas para su madre.
 # hash = ea952f840646bf7848939f2672110697
 # tagged = true
-1	Tako	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
+1	Tako	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=takó|Trad=ella|Gloss=3.FEM
 2	chikata	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-3.FEM
 3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -3522,7 +3522,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
-4	chika	kaka	VERB	_	Typo=Yes|Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+4	chika	kaka	VERB	_	Typo=Yes|Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Normal=chìka|Trad=corté|Gloss=CPL-cortar-1SG
 5	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 6	dí	dí	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 7	?	?	PUNCT	_	_	_	_	_	_
@@ -3605,7 +3605,7 @@
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	dí	dí	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
-3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
+3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204sujeto masculino
@@ -3618,8 +3618,8 @@
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
-3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
+4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204
@@ -3631,9 +3631,9 @@
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	insë	insë	PRON	_	PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
-3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
+3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
-5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204
@@ -3645,9 +3645,9 @@
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	iñsé	_	PRON	_	_	_	_	_	Trad=ellos
-3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
+3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
-5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204
@@ -3660,8 +3660,8 @@
 1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-4	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+4	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
+5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204
@@ -3674,8 +3674,8 @@
 1	A	a	PART	_	_	_	_	_	Gloss=QST
 2	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
 3	toʼö	_	PRON	_	_	_	_	_	Trad=él
-4	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+4	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
+5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204
@@ -3687,9 +3687,9 @@
 # tagged = true
 1	Nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
 2	insú	insú	PRON	_	PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.EXC
-3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
+3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
-5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204
@@ -3701,8 +3701,8 @@
 # tagged = true
 1	Nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
 2	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
+4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204
@@ -3714,8 +3714,8 @@
 # tagged = true
 1	Nichis	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
 2	dí	dí	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
-3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
+4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204
@@ -3727,9 +3727,9 @@
 # tagged = true
 1	Nichiy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.HUM
 2	ʼuu	ʼuu	PRON	_	PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.INC
-3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
+3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
-5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+5	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:204
@@ -3765,8 +3765,8 @@
 # tagged = true
 1	Nichin	_	VERB	_	_	_	_	_	Trad=vimos|Gloss=?-ver-1PL
 2	dí	dí	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
-3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
+4	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:206
@@ -3780,8 +3780,8 @@
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
-5	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-6	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+5	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
+6	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 7	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:207
@@ -3795,8 +3795,8 @@
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
 4	nichid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=viste|Gloss=?-ver-2SG
-5	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-6	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+5	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
+6	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 7	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:208
@@ -3810,8 +3810,8 @@
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	dae	_	PRON	_	_	_	_	_	Trad=que
 4	nochid	_	VERB	_	_	_	_	_	Trad=viste|Gloss=?-ver-2SG
-5	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-6	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+5	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
+6	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 7	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:209
@@ -3920,7 +3920,7 @@
 # alimg = Yo no sé hacer nada.
 # hash = d5840ae70ca693023f8b60ed6341cb35
 # tagged = true
-1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	guadbea	_	PRON	_	_	_	_	_	Trad=nada|UPOS=Guessed
 3	jikadi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=puede|Gloss=?-poder-?
 4	jidi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-?
@@ -4133,7 +4133,7 @@
 # tagged = true
 1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
 2	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
-3	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Trad=mercado
+3	nʼiba	_	NOUN	_	Typo=Yes	_	_	_	Normal=naíba|Trad=mercado
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:236
@@ -4606,8 +4606,8 @@
 # alimg = Ayer tuve que trabajar mucho.
 # hash = 7eddff04698295110b24f4db202075ef
 # tagged = true
-1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
-2	yeaben	_	ADV	_	Typo=Yes	_	_	_	Trad=mucho,.muy
+1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
+2	yeaben	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
 3	dí	dí	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 4	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -4790,7 +4790,7 @@
 # alimg = Ayer empecé a sembrar.
 # hash = 012b9a66a13decdf28b7cb7a078d3d6e
 # tagged = true
-1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
+1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
 2	chitokoʼo	_	VERB	_	_	_	_	_	Trad=empecé|Gloss=?-empezar-1SG
 3	chichí	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4816,7 +4816,7 @@
 # tagged = true
 1	Jobku	_	ADV	_	_	_	_	_	Trad=hoy
 2	kutokoʼo	_	VERB	_	_	_	_	_	Trad=empezar|Gloss=?-empezar-?
-3	biku	_	NOUN	_	Typo=Yes	_	_	_	Trad=fiesta
+3	biku	_	NOUN	_	Typo=Yes	_	_	_	Normal=bíku|Trad=fiesta
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:295
@@ -4838,7 +4838,7 @@
 # alimg = Ayer acabé de sembrar.
 # hash = 42ac1df1de69bb20f1b43f402376a769
 # tagged = true
-1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
+1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
 2	chinu	kanu	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=maté|Gloss=CPL-matar-1SG
 3	chichí	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4874,7 +4874,7 @@
 # alimg = Ayer seguí sembrando.
 # hash = fe2258577fada439535dae89fc316f93
 # tagged = true
-1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
+1	Iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
 2	chichí	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-?
 3	ka	_	ADV	_	_	_	_	_	Trad=aún
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4920,7 +4920,7 @@
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 5	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=fui|Gloss=CPL-ir-1SG
-6	insé	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
+6	insé	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insë|Trad=ustedes|Gloss=2PL
 7	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:304
@@ -5127,7 +5127,7 @@
 # alimg = cinco
 # hash = 64e38e70efb84f926568d0522a105c33
 # tagged = true
-1	Juʼu	_	NUM	_	Typo=Yes	_	_	_	Trad=cinco
+1	Juʼu	_	NUM	_	Typo=Yes	_	_	_	Normal=juʼü|Trad=cinco
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:546
@@ -5207,7 +5207,7 @@
 # alimg = cien
 # hash = 871b115082eb9f9bcd9467cb1e7c3434
 # tagged = true
-1	Juʼu	_	NUM	_	Typo=Yes	_	_	_	Trad=cinco
+1	Juʼu	_	NUM	_	Typo=Yes	_	_	_	Normal=juʼü|Trad=cinco
 2	jeku	_	NOUN	_	_	_	_	_	Trad=pohual
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5438,9 +5438,9 @@
 # tagged = true
 1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
-3	soʼön	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+3	soʼön	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sakó|Trad=él|Gloss=3.MSC
 4	tumin	_	SCONJ	_	_	_	_	_	Trad=para.que
-5	chika	kaka	VERB	_	Typo=Yes|Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+5	chika	kaka	VERB	_	Typo=Yes|Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Normal=chìka|Trad=corté|Gloss=CPL-cortar-1SG
 6	machetem	_	NOUN	_	_	_	_	_	Trad=machete
 7	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 8	.	.	PUNCT	_	_	_	_	_	_
@@ -5568,7 +5568,7 @@
 3	kunus	kunu	VERB	_	Gender=Masc|Mood=Pot|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=sembrar|Gloss=POT-sembrar-3.MSC
 4	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 5	,	,	PUNCT	_	_	_	_	_	_
-6	un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+6	un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 7	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5583,7 +5583,7 @@
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
 3	kunus	kunu	VERB	_	Gender=Masc|Mood=Pot|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=sembrar|Gloss=POT-sembrar-3.MSC
 4	,	,	PUNCT	_	_	_	_	_	_
-5	un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+5	un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 6	kunú	_	INTJ	_	_	_	_	_	Trad=sí|UPOS=Guessed
 7	.	.	PUNCT	_	_	_	_	_	_
 

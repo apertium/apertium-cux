@@ -62,9 +62,10 @@ for line in sys.stdin.readlines():
 			ulem = token
 			upos = 'PUNCT'
 
-
-		analyses, ufeat = tagger.tag(token, ufeat)
+		analyses, ufeat, new_misc = tagger.tag(token, ufeat)
 		analyses = tagger.disambiguate(token, analyses, tokens, tokens_spa)
+
+		misc += new_misc
 
 		print('!!!', analyses, file=sys.stderr)
 

@@ -4,7 +4,7 @@
 # text[spa] = Yo estornudé
 # text[ipa] = ˀuntʃidi
 # tagged = true
-1	Úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chidi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudé|Gloss=?-estornudar-1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -26,7 +26,7 @@
 # text[spa] = Usted estornudó
 # text[ipa] = dintʃidin
 # tagged = true
-1	Din	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
+1	Din	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=inti|Trad=usted|Gloss=2SG.RES
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chidin	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudó|Gloss=?-estornudar-2SG.RES
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -59,7 +59,7 @@
 # text[spa] = Ella estornudó
 # text[ipa] = takontʃidita
 # tagged = true
-1	Takoo	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
+1	Takoo	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=takó|Trad=ella|Gloss=3.FEM
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chidita	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudó|Gloss=?-estornudar-3.FEM
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -80,9 +80,9 @@
 # text[spa] = Yo y ella estornudamos
 # text[ipa] = undutako
 # tagged = true
-1	Úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	ndu	ndu	CCONJ	_	_	_	_	_	Trad=y|UPOS=Guessed
-3	tako	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
+3	tako	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=takó|Trad=ella|Gloss=3.FEM
 4	chidin	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudamos|Gloss=?-estornudar-1PL.EXC
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -101,9 +101,9 @@
 # text[spa] = Yo y ellos
 # text[ipa] = uˀnuisɛ̰
 # tagged = true
-1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	nu	ndu	CCONJ	_	_	_	_	_	Trad=y|UPOS=Guessed
-3	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+3	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:11
@@ -112,7 +112,7 @@
 # text[spa] = ellos estornudaron
 # text[ipa] = isɛntʃidi
 # tagged = true
-1	Isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+1	Isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chidi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudaron|Gloss=?-estornudar-3PL
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -123,7 +123,7 @@
 # text[spa] = ellas estornudaron
 # text[ipa] = tasɛntʃidita
 # tagged = true
-1	Tasee	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellas|Gloss=3PL.FEM
+1	Tasee	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=tasë|Trad=ellas|Gloss=3PL.FEM
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chidita	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudó|Gloss=?-estornudar-3.FEM
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -136,7 +136,7 @@
 # tagged = true
 1	Juan	_	PROPN	_	_	_	_	_	Trad=Juan
 2	dichis	_	VERB	_	_	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
-3	úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+3	úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:14
@@ -158,7 +158,7 @@
 # tagged = true
 1	Juan	_	PROPN	_	_	_	_	_	Trad=Juan
 2	dichis	_	VERB	_	_	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
-3	ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
+3	ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=inti|Trad=usted|Gloss=2SG.RES
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:16
@@ -194,7 +194,7 @@
 1	Juan	_	PROPN	_	_	_	_	_	Trad=Juan
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	dichit	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-?
-4	taká	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
+4	taká	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=takó|Trad=ella|Gloss=3.FEM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:19
@@ -206,7 +206,7 @@
 1	Juan	_	PROPN	_	_	_	_	_	Trad=Juan
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	dichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-?
-4	nsu	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.EXC
+4	nsu	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insú|Trad=nosotros|Gloss=1PL.EXC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:20
@@ -217,8 +217,8 @@
 # tagged = true
 1	Juan	_	PROPN	_	_	_	_	_	Trad=Juan
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
-3	dichia	_	VERB	_	Typo=Yes	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
-4	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+3	dichia	_	VERB	_	Typo=Yes	_	_	_	Normal=dichis|Trad=vio|Gloss=?-ver-3.MSC
+4	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:21
@@ -229,7 +229,7 @@
 # tagged = true
 1	Juan	_	PROPN	_	_	_	_	_	Trad=Juan
 2	dichis	_	VERB	_	_	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
-3	sasee	sasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL.MSC
+3	sasee	sasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sasë|Trad=ellos|Gloss=3PL.MSC
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:22
@@ -240,7 +240,7 @@
 # tagged = true
 1	Juan	_	PROPN	_	_	_	_	_	Trad=Juan
 2	dichit	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-?
-3	tasee	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellas|Gloss=3PL.FEM
+3	tasee	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=tasë|Trad=ellas|Gloss=3PL.FEM
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:23
@@ -266,8 +266,8 @@
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-5	burrru	_	NOUN	_	Typo=Yes	_	_	_	Trad=burro
-6	uú	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+5	burrru	_	NOUN	_	Typo=Yes	_	_	_	Normal=burru|Trad=burro
+6	uú	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:25
@@ -295,7 +295,7 @@
 3	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	burru	_	NOUN	_	_	_	_	_	Trad=burro
-6	ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
+6	ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=inti|Trad=usted|Gloss=2SG.RES
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:27
@@ -351,7 +351,7 @@
 3	kos	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vendió|Gloss=?-vender-?
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	burro	_	NOUN	_	_	_	_	_	Trad=burro
-6	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+6	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:31
@@ -365,7 +365,7 @@
 3	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	burro	_	NOUN	_	_	_	_	_	Trad=burro
-6	nsu	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.EXC
+6	nsu	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insú|Trad=nosotros|Gloss=1PL.EXC
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:32
@@ -379,7 +379,7 @@
 3	kos	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vendió|Gloss=?-vender-?
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	burro	_	NOUN	_	_	_	_	_	Trad=burro
-6	sasee	sasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL.MSC
+6	sasee	sasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sasë|Trad=ellos|Gloss=3PL.MSC
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:33
@@ -393,7 +393,7 @@
 3	kos	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vendió|Gloss=?-vender-?
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 5	burro	_	NOUN	_	_	_	_	_	Trad=burro
-6	tasee	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellas|Gloss=3PL.FEM
+6	tasee	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=tasë|Trad=ellas|Gloss=3PL.FEM
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:34
@@ -402,7 +402,7 @@
 # text[spa] = yo estornudé
 # text[ipa] = untʃixinuˀuʰ
 # tagged = true
-1	Úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chijinuʼu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudé|Gloss=?-estornudar-1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -424,7 +424,7 @@
 # text[spa] = Usted estornudó
 # text[ipa] = ⁿdintʃixinun
 # tagged = true
-1	Ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
+1	Ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=inti|Trad=usted|Gloss=2SG.RES
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chijinun	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudó|Gloss=?-estornudar-2SG.RES
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -446,7 +446,7 @@
 # text[spa] = Ellos ̴ él estornudó
 # text[ipa] = iʃɛntʃixinui
 # tagged = true
-1	Isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+1	Isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chijinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudó|Gloss=?-estornudar-3.HUM
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -479,7 +479,7 @@
 # text[spa] = ustedes estornudaron
 # text[ipa] = nsetʃixinu
 # tagged = true
-1	Nse	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
+1	Nse	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insë|Trad=ustedes|Gloss=2PL
 2	chijinu	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudaron|Gloss=?-estornudar-2PL
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -489,7 +489,7 @@
 # text[spa] = ellos estornudaron
 # text[ipa] = isɛntʃixinui
 # tagged = true
-1	Isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+1	Isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chijinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudó|Gloss=?-estornudar-3.HUM
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -500,7 +500,7 @@
 # text[spa] = Ellos estornudaron
 # text[ipa] = sasɛntʃixinus
 # tagged = true
-1	Sasee	sasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL.MSC
+1	Sasee	sasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sasë|Trad=ellos|Gloss=3PL.MSC
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chijinus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudó|Gloss=?-estornudar-3.MSC
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -511,7 +511,7 @@
 # text[spa] = ellas estornudaron
 # text[ipa] = tasɛntʃixinuta
 # tagged = true
-1	Tasee	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellas|Gloss=3PL.FEM
+1	Tasee	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=tasë|Trad=ellas|Gloss=3PL.FEM
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chijinuta	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudó|Gloss=?-estornudar-3.FEM
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -525,7 +525,7 @@
 1	Juan	_	PROPN	_	_	_	_	_	Trad=Juan
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	dichis	_	VERB	_	_	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
-4	úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+4	úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:46
@@ -583,7 +583,7 @@
 1	Juan	_	PROPN	_	_	_	_	_	Trad=Juan
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	dichis	_	VERB	_	_	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
-4	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+4	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:51
@@ -607,7 +607,7 @@
 1	Juan	_	PROPN	_	_	_	_	_	Trad=Juan
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	dichis	_	VERB	_	_	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
-4	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+4	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:53
@@ -619,7 +619,7 @@
 1	Juan	_	PROPN	_	_	_	_	_	Trad=Juan
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	dichis	_	VERB	_	_	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
-4	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+4	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:54
@@ -679,7 +679,7 @@
 2	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	burro	_	NOUN	_	_	_	_	_	Trad=burro
-5	ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
+5	ndi	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=inti|Trad=usted|Gloss=2SG.RES
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:59
@@ -715,7 +715,7 @@
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	burro	_	NOUN	_	_	_	_	_	Trad=burro
-4	yisee	ʼuu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.INC
+4	yisee	ʼuu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ʼuu|Trad=nosotros|Gloss=1PL.INC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:62
@@ -726,8 +726,8 @@
 # tagged = true
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-3	burrro	_	NOUN	_	Typo=Yes	_	_	_	Trad=burro
-4	iñed	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.EXC
+3	burrro	_	NOUN	_	Typo=Yes	_	_	_	Normal=burru|Trad=burro
+4	iñed	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insú|Trad=nosotros|Gloss=1PL.EXC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:63
@@ -739,9 +739,9 @@
 1	Luis	Luis	PROPN	_	_	_	_	_	Trad=Luis
 2	kos	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vendió|Gloss=?-vender-?
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
-4	buro	_	NOUN	_	Typo=Yes	_	_	_	Trad=burro
+4	buro	_	NOUN	_	Typo=Yes	_	_	_	Normal=burru|Trad=burro
 5	ñe	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.ustedes|Gloss=base-2PL
-6	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+6	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:64
@@ -755,7 +755,7 @@
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	burro	_	NOUN	_	_	_	_	_	Trad=burro
 5	ñe	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.ustedes|Gloss=base-2PL
-6	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+6	isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:65
@@ -764,7 +764,7 @@
 # text[spa] = yo estornudé porque hace frío
 # text[ipa] = u4 ne tʃḭ1ði4 ka3btʃḭˀ 1ḭ1tʃaʰ1
 # tagged = true
-1	Úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chidí	_	VERB	_	VerbForm=Fin	_	_	_	Trad=estornudé|Gloss=?-estornudar-1SG
 4	cabchi	_	SCONJ	_	_	_	_	_	Trad=porque|UPOS=Guessed
@@ -777,7 +777,7 @@
 # text[spa] = tú bailas muy bien
 # text[ipa] = ðḭ1n ʝa̰1 ʝe2βe2 nðɛ2
 # tagged = false
-1	Dìn	dí	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
+1	Dìn	dí	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=dí|Trad=tú|Gloss=2SG
 2	yà	_	_	_	_	_	_	_	_
 3	yebe	_	_	_	_	_	_	_	_
 4	nde	_	VERB	_	VerbForm=Fin	_	_	_	Trad=bailas|Gloss=?-bailar-?
@@ -789,9 +789,9 @@
 # text[spa] = usted llegó al pueblo ayer
 # text[ipa] = nḭi4n i3ku2 ndõ2n ɲo3
 # tagged = false
-1	Nii	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=usted|Gloss=2SG.RES
+1	Nii	inti	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=inti|Trad=usted|Gloss=2SG.RES
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
-3	iku	íku	ADV	_	Typo=Yes	_	_	_	Trad=ayer
+3	iku	íku	ADV	_	Typo=Yes	_	_	_	Normal=íku|Trad=ayer
 4	ndon	_	_	_	_	_	_	_	_
 5	ño	_	ADP	_	_	_	_	_	Trad=en
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -817,7 +817,7 @@
 # tagged = true
 1	Takó	takó	PRON	_	PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
-3	kerta	_	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=fue|Gloss=?-ir-3.FEM
+3	kerta	_	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Normal=kueta|Trad=fue|Gloss=?-ir-3.FEM
 4	Ndova	_	PROPN	_	_	_	_	_	Trad=Oaxaca
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -864,7 +864,7 @@
 # text[spa] = nosotros (incl) corrimos hasta el río
 # text[ipa] = ṵːː1 tʃa3nu1ndi3nxi3kṵ1
 # tagged = true
-1	Úuu	ʼuu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.INC
+1	Úuu	ʼuu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ʼuu|Trad=nosotros|Gloss=1PL.INC
 2	chanun	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corrimos|Gloss=?-correr-?
 3	ndin	_	ADP	_	_	_	_	_	Trad=hasta|UPOS=Guessed
 4	jiku	_	NOUN	_	_	_	_	_	Trad=río,.cerro
@@ -876,7 +876,7 @@
 # text[spa] = nosotros (excl) corrimos hasta el río
 # text[ipa] = nsũ1n tʃa3nũ1n ði1n xi3kṵ1
 # tagged = true
-1	Nsu	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.EXC
+1	Nsu	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insú|Trad=nosotros|Gloss=1PL.EXC
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	chanun	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corrimos|Gloss=?-correr-?
 4	ndin	_	ADP	_	_	_	_	_	Trad=hasta|UPOS=Guessed
@@ -889,7 +889,7 @@
 # text[spa] = ustedes despertaron en la madrugada
 # text[ipa] = nse2nã2ndu1tʃi1ndi1ta1ʝɵ1
 # tagged = false
-1	Nse	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
+1	Nse	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insë|Trad=ustedes|Gloss=2PL
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	nanduchin	_	VERB	_	_	_	_	_	Trad=despertaron|Gloss=?-despertar-?
 4	nditaye	_	_	_	_	_	_	_	_
@@ -901,7 +901,7 @@
 # text[spa] = ellos viven en el Girasol
 # text[ipa] = isenβakuɲe1na2mtie2ʝo4
 # tagged = false
-1	Isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+1	Isee	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	bakuñeʼé	_	_	_	_	_	_	_	_
 4	namtieyo	_	_	_	_	_	_	_	_
@@ -913,10 +913,10 @@
 # text[spa] = ellas regresaron el martes
 # text[ipa] = ta̰1se3nau1ne2taʰma2rte1sniʰ
 # tagged = true
-1	Tasee	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellas|Gloss=3PL.FEM
+1	Tasee	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=tasë|Trad=ellas|Gloss=3PL.FEM
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
 3	nauneta	_	VERB	_	_	_	_	_	Trad=regresaron|Gloss=?-regresar-?
-4	martess	_	NOUN	_	Typo=Yes	_	_	_	Trad=martes
+4	martess	_	NOUN	_	Typo=Yes	_	_	_	Normal=martes|Trad=martes
 5	ni	_	ADV	_	_	_	_	_	Trad=hasta
 6	.	.	PUNCT	_	_	_	_	_	_
 
@@ -926,7 +926,7 @@
 # text[spa] = ellos entraron a la iglesia
 # text[ipa] = iḭ4se3ntʃi2ndoi21ʝa1ku̻
 # tagged = true
-1	Íʼsen	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+1	Íʼsen	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 2	chindoì	_	VERB	_	VerbForm=Fin	_	_	_	Trad=entraron|Gloss=?-entrar-?
 3	yàku	_	ADJ	_	_	_	_	_	Trad=apestoso|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -937,7 +937,7 @@
 # text[spa] = yo pinté la casa
 # text[ipa] = ʔu4 chi2i3 ba1ʔa1ˈ
 # tagged = true
-1	Úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
+1	Úu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ú|Trad=yo|Gloss=1SG
 2	chìí	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pinté|Gloss=?-pintar-?
 3	bàʼá	_	NOUN	_	_	_	_	_	Trad=casa
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -948,7 +948,7 @@
 # text[spa] = usted sembró frijol
 # text[ipa] = niḭ31tʃi2nu2nnu2ni2
 # tagged = false
-1	Níìʼ	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=hay,usted
+1	Níìʼ	_	_	_	Typo=Yes	_	_	_	Normal=inti|Ambiguous=Yes|Trad=hay,usted
 2	chinun	kunu	VERB	_	Aspect=Perf|Number=Sing|Person=2|Polite=Elev|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=sembró|Gloss=CPL-sembrar-2SG.RES
 3	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -959,7 +959,7 @@
 # text[spa] = él trabajó en la milpa
 # text[ipa] = sa4ko43 di1s nti2ɲo2 no2 xĩ3ngo̰1
 # tagged = true
-1	Sáko	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+1	Sáko	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sakó|Trad=él|Gloss=3.MSC
 2	dìs	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hace|Gloss=?-hacer-3.MSC
 3	ntiño	_	NOUN	_	_	_	_	_	Trad=trabajo
 4	no	no	ADP	_	_	_	_	_	Trad=en|Gloss=LOC
@@ -972,7 +972,7 @@
 # text[spa] = él hizo la silla (resp)
 # text[ipa] = ḭ1koˀ1 na1ndai41 si4ja4
 # tagged = true
-1	Ìkòʼ	ikó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=él|Gloss=3.HUM
+1	Ìkòʼ	ikó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ikó|Trad=él|Gloss=3.HUM
 2	nàndáì	_	VERB	_	VerbForm=Fin	_	_	_	Trad=hizo|Gloss=?-hacer-?
 3	síyá	_	NOUN	_	_	_	_	_	Trad=silla
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -983,10 +983,10 @@
 # text[spa] = ella bordó tres servilletas
 # text[ipa] = ta3ˌkoʰ4nða3ta3i4nu1se1rβi1je2taʰ2
 # tagged = true
-1	Táko	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
+1	Táko	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=takó|Trad=ella|Gloss=3.FEM
 2	ndátá	_	VERB	_	VerbForm=Fin	_	_	_	Trad=bordó|Gloss=?-bordar-?
 3	ínù	_	NUM	_	_	_	_	_	Trad=tres
-4	serbijeta	_	NOUN	_	Typo=Yes	_	_	_	Trad=servilleta
+4	serbijeta	_	NOUN	_	Typo=Yes	_	_	_	Normal=servilleta|Trad=servilleta
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:84
@@ -995,7 +995,7 @@
 # text[spa] = Nosotros (exc) construimos la barda
 # text[ipa] = nsuː3 na1kʷe4 na1mi4
 # tagged = false
-1	Snsun	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.EXC
+1	Snsun	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insú|Trad=nosotros|Gloss=1PL.EXC
 2	nàkwén	_	_	_	_	_	_	_	_
 3	nàmí	_	NOUN	_	_	_	_	_	Trad=barda
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1006,7 +1006,7 @@
 # text[spa] = ustedes cargaron los costales
 # text[ipa] = nse2 ka2nde3n ko1sta3l
 # tagged = true
-1	Nsèn	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
+1	Nsèn	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insë|Trad=ustedes|Gloss=2PL
 2	kandé	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cargaron|Gloss=?-cargar-?
 3	kostál	_	NOUN	_	_	_	_	_	Trad=costal
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1017,7 +1017,7 @@
 # text[spa] = nosotros (exc) comimos en casa de Alicia
 # text[ipa] = nsu2ntʃe3nβa1ta4li3sja3
 # tagged = true
-1	Nsun	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.EXC
+1	Nsun	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insú|Trad=nosotros|Gloss=1PL.EXC
 2	chen	_	VERB	_	VerbForm=Fin	_	_	_	Trad=comimos|Gloss=?-comer-?
 3	bà	_	NOUN	_	_	_	_	_	Trad=casa
 4	tá	_	NOUN	_	NounType=Clf	_	_	_	Trad=señora
@@ -1030,7 +1030,7 @@
 # text[spa] = nosotros (incl) compramos los refrescos
 # text[ipa] = uː1kau41nu1nʝa1ði2
 # tagged = true
-1	Ù	ʼuu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.INC
+1	Ù	ʼuu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ʼuu|Trad=nosotros|Gloss=1PL.INC
 2	káù	_	VERB	_	VerbForm=Fin	_	_	_	Trad=compramos|Gloss=?-comprar-1PL.INC
 3	nunyàdi	_	NOUN	_	_	_	_	_	Trad=refresco
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1052,7 +1052,7 @@
 # text[spa] = ellos cortaron la leña
 # text[ipa] = sa2sḛ1ntʃi2ka2snõː2
 # tagged = true
-1	Sasèn	sasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL.MSC
+1	Sasèn	sasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sasë|Trad=ellos|Gloss=3PL.MSC
 2	chikas	kaka	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=cortaron|Gloss=CPL-cortar-3.MSC
 3	non	_	NOUN	_	_	_	_	_	Trad=leña
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1066,7 +1066,7 @@
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 2	chìka	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 3	poón	_	NOUN	_	_	_	_	_	Trad=pan
-4	taʼsé	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellas|Gloss=3PL.FEM
+4	taʼsé	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=tasë|Trad=ellas|Gloss=3PL.FEM
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:91
@@ -1075,7 +1075,7 @@
 # text[spa] = ellas cocinaron el mole
 # text[ipa] = ta1sḛ2na2nda̰1tũ2nẽː2
 # tagged = true
-1	Tàsèʼ	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellas|Gloss=3PL.FEM
+1	Tàsèʼ	tasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=tasë|Trad=ellas|Gloss=3PL.FEM
 2	nadàtun	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cocinaron|Gloss=?-cocinar-?
 3	neen	_	NOUN	_	_	_	_	_	Trad=mole
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1086,7 +1086,7 @@
 # text[spa] = ellos abrieron la puerta de la iglesia
 # text[ipa] = i2se2nna̰2nḭ2ʧĩ1nʝa1ku̥
 # tagged = true
-1	Isen	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL
+1	Isen	iñsë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=iñsë|Trad=ellos|Gloss=3PL
 2	nani	_	VERB	_	VerbForm=Fin	_	_	_	Trad=abrieron|Gloss=?-abrir-?
 3	chinyàkù	_	NOUN	_	_	_	_	_	Trad=puerta.de.la.igelsia
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1179,7 +1179,7 @@
 # tagged = true
 1	Ramón	_	PROPN	_	_	_	_	_	Trad=Ramón
 2	nes	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-3.MSC
-3	tákòʼ	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
+3	tákòʼ	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=takó|Trad=ella|Gloss=3.FEM
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:100
@@ -1205,7 +1205,7 @@
 2	Paúla	_	PROPN	_	_	_	_	_	Trad=Paula
 3	ndichit	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.FEM
 4	uuu	_	PRON	_	_	_	_	_	Trad=nosotros|Gloss=1PL.INC
-5	ndòvàʼ	_	PROPN	_	Typo=Yes	_	_	_	Trad=Oaxaca
+5	ndòvàʼ	_	PROPN	_	Typo=Yes	_	_	_	Normal=Ndova|Trad=Oaxaca
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:102
@@ -1239,7 +1239,7 @@
 1	Láyó	_	PROPN	_	_	_	_	_	Trad=Layo
 2	tes	te	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-3.MSC
 3	ndajibán	_	NOUN	_	_	_	_	_	Trad=guayabas
-4	nsun	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.EXC
+4	nsun	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insú|Trad=nosotros|Gloss=1PL.EXC
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:105
@@ -1251,7 +1251,7 @@
 1	Álicia	_	PROPN	_	_	_	_	_	Trad=Alicia
 2	chìkàt	_	VERB	_	VerbForm=Fin	_	_	_	Trad=pidió|Gloss=?-pedir-?
 3	yúntùn	_	NOUN	_	_	_	_	_	Trad=silla
-4	nsen	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
+4	nsen	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insë|Trad=ustedes|Gloss=2PL
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:106
@@ -1286,11 +1286,11 @@
 # text[spa] = La gallina ya comió, yo le di de comer a ella /la gallina ya comió, yo le di maíz a ella
 # text[ipa] = tu3to1naʧetu3koː14ni2nu1i1ti1
 # tagged = true
-1	Tútòʼò	_	NOUN	_	Typo=Yes	_	_	_	Trad=gallina
+1	Tútòʼò	_	NOUN	_	Typo=Yes	_	_	_	Normal=tutoʼö|Trad=gallina
 2	achet	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ya.comió|Gloss=?-comer-?
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	kó	_	DET	_	_	_	_	_	Trad=ese
-5	ninù	nínu	NOUN	_	Typo=Yes	_	_	_	Trad=maíz
+5	ninù	nínu	NOUN	_	Typo=Yes	_	_	_	Normal=nínu|Trad=maíz
 6	ìtì	_	NOUN	_	_	_	_	_	Trad=animal
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1304,7 +1304,7 @@
 2	ndikus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vendió
 3	chivo	_	NOUN	_	_	_	_	_	Trad=chivo
 4	ka	_	ADV	_	_	_	_	_	Trad=aún
-5	ikóʼó	ikó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=él|Gloss=3.HUM
+5	ikóʼó	ikó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=ikó|Trad=él|Gloss=3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:110
@@ -1315,7 +1315,7 @@
 # tagged = true
 1	Pedrón	_	PROPN	_	_	_	_	_	Trad=Pedro
 2	ndíchìs	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vio|Gloss=?-ver-3.MSC
-3	sakoʼò	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
+3	sakoʼò	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=sakó|Trad=él|Gloss=3.MSC
 4	nobakián	_	NOUN	_	_	_	_	_	Trad=palacio.municipal
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1327,9 +1327,9 @@
 # tagged = true
 1	Tomás	_	PROPN	_	_	_	_	_	Trad=Tomás
 2	ne	_	PART	_	_	_	_	_	Gloss=EMPH
-3	kǒs	_	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=vendió|Gloss=?-vender-?
+3	kǒs	_	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Normal=kos|Trad=vendió|Gloss=?-vender-?
 4	nàtà	_	NOUN	_	_	_	_	_	Trad=flores
-5	tákòʼò	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ella|Gloss=3.FEM
+5	tákòʼò	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=takó|Trad=ella|Gloss=3.FEM
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = gina:112
@@ -1338,7 +1338,7 @@
 # text[spa] = nosotros corrimos hasta el río
 # text[ipa] = nsu2nʧa4nu2nd̥inxi3kṵ1
 # tagged = true
-1	Nsun	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=nosotros|Gloss=1PL.EXC
+1	Nsun	insú	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insú|Trad=nosotros|Gloss=1PL.EXC
 2	chánun	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corrimos|Gloss=?-correr-?
 3	ndin	_	ADP	_	_	_	_	_	Trad=hasta|UPOS=Guessed
 4	jíkù	_	NOUN	_	_	_	_	_	Trad=río
@@ -1350,7 +1350,7 @@
 # text[spa] = Ustedes que están en México
 # text[ipa] = nseː2nʧi1sne3nyo2xenɣu1yu1ɣu1
 # tagged = false
-1	Nsen	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ustedes|Gloss=2PL
+1	Nsen	insë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Normal=insë|Trad=ustedes|Gloss=2PL
 2	chìsnén	_	_	_	_	_	_	_	_
 3	yojen	_	_	_	_	_	_	_	_
 4	Ngùyùgù	_	PROPN	_	_	_	_	_	Trad=México

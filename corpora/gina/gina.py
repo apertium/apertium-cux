@@ -92,8 +92,10 @@ for line in open(sys.argv[1]):
 			ulem = token
 			upos = 'PUNCT'
 
-		analyses, ufeat = tagger.tag(token, ufeat)
+		analyses, ufeat, new_misc = tagger.tag(token, ufeat)
 		analyses = tagger.disambiguate(token, analyses, tokens, tokens_spa)
+
+		misc += new_misc
 
 		if len(analyses) == 1:
 			ulem = analyses[0][0]
