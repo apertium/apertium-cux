@@ -5552,7 +5552,7 @@
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	koʼös	_	VERB	_	_	_	_	_	Trad=va|Gloss=?-ir-?
-3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-3.MSC
+3	kunus	kunu	VERB	_	Gender=Masc|Mood=Pot|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=sembrar|Gloss=POT-sembrar-3.MSC
 4	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5565,7 +5565,7 @@
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Trad=iré|Gloss=POT-ir-1SG
-3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-3.MSC
+3	kunus	kunu	VERB	_	Gender=Masc|Mood=Pot|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=sembrar|Gloss=POT-sembrar-3.MSC
 4	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 5	,	,	PUNCT	_	_	_	_	_	_
 6	un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -5581,7 +5581,7 @@
 # tagged = true
 1	Juó	_	PROPN	_	_	_	_	_	Trad=Juan
 2	gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-3	kunus	_	VERB	_	_	_	_	_	Trad=sembrar|Gloss=?-sembrar-3.MSC
+3	kunus	kunu	VERB	_	Gender=Masc|Mood=Pot|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=sembrar|Gloss=POT-sembrar-3.MSC
 4	,	,	PUNCT	_	_	_	_	_	_
 5	un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 6	kunú	_	INTJ	_	_	_	_	_	Trad=sí|UPOS=Guessed

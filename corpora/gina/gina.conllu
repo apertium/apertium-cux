@@ -949,7 +949,7 @@
 # text[ipa] = niḭ31tʃi2nu2nnu2ni2
 # tagged = false
 1	Níìʼ	_	_	_	Typo=Yes	_	_	_	Ambiguous=Yes|Trad=hay,usted
-2	chinun	_	VERB	_	VerbForm=Fin	_	_	_	Trad=sembró|Gloss=?-sembrar-?
+2	chinun	kunu	VERB	_	Aspect=Perf|Number=Sing|Person=2|Polite=Elev|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=sembró|Gloss=CPL-sembrar-2SG.RES
 3	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 4	.	.	PUNCT	_	_	_	_	_	_
 

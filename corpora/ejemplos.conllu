@@ -582,7 +582,7 @@
 # tagged = false
 # author = lilia
 1	Biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
-2	jínus	_	VERB	_	VerbForm=Fin	_	_	_	Trad=siembra|Gloss=?-sembrar-3.MSC
+2	jínus	kunu	VERB	_	Aspect=Prog|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=siembra|Gloss=PROG-sembrar-3.MSC
 3	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7915,7 +7915,7 @@
 # tagged = true
 # author = paula
 1	Diya	_	NOUN	_	_	_	_	_	Trad=mi.tío
-2	jiinuy	_	VERB	_	VerbForm=Fin	_	_	_	Trad=siembra|Gloss=?-sembrar-3.HUM
+2	jiinuy	kunu	VERB	_	Animacy=Hum|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=siembra|Gloss=PROG-sembrar-3.HUM
 3	neatuu	_	NOUN	_	_	_	_	_	Trad=tomate
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -8654,7 +8654,7 @@
 # tagged = true
 # author = paula
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
-2	jínuñ	_	VERB	_	VerbForm=Fin	_	_	_	Trad=siembra|Gloss=?-sembrar-?
+2	jínuñ	kunu	VERB	_	Animacy=Hum|Aspect=Prog|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=siembra|Gloss=PROG-sembrar-3.HUM
 3	nutdiku	_	NOUN	_	_	_	_	_	Trad=granadas
 4	.	.	PUNCT	_	_	_	_	_	_
 
