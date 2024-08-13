@@ -1,8 +1,11 @@
-chi	chis		VERB	VerbForm=Fin|Subcat=Intr	vendrá	POT-venir-3.MSC		Mood=Pot|Person=3|Gender=Masc
-chi	chíd		VERB	VerbForm=Fin|Subcat=Intr	vendrás	POT-venir-2SG		Mood=Pot|Person=2|Number=Sing
-chi	kuchis		VERB	VerbForm=Fin|Subcat=Intr	vino	CPL-venir-3.MSC		Aspect=Perf|Person=3|Gender=Masc
-chi	kuchid		VERB	VerbForm=Fin|Subcat=Intr	ven	CPL-venir-2SG		Aspect=Perf|Person=2|Number=Sing
-chi	jichis		VERB	VerbForm=Fin|Subcat=Intr	viene	PROG-venir-3.MSC	Aspect=Prog|Person=3|Gender=Masc
-chi	jichid		VERB	VerbForm=Fin|Subcat=Intr	vienes	PROG-venir-2SG		Aspect=Prog|Person=2|Number=Sing
-te	tes		VERB	VerbForm=Fin|Subcat=Tran	dio	CPL-dar-3.MSC		Aspect=Perf|Person=3|Gender=Masc
-te	ted		VERB	VerbForm=Fin|Subcat=Tran	dio	CPL-dar-2SG		Aspect=Perf|Person=2|Number=Sing
+chi¹	chi	chis		VERB	VerbForm=Fin|Subcat=Intr	vendrá	POT-venir-3.MSC		Mood=Pot|Person=3|Gender=Masc
+chi¹	chi	chíd		VERB	VerbForm=Fin|Subcat=Intr	vendrás	POT-venir-2SG		Mood=Pot|Person=2|Number=Sing
+chi¹	chi	kuchis		VERB	VerbForm=Fin|Subcat=Intr	vino	CPL-venir-3.MSC		Aspect=Perf|Person=3|Gender=Masc
+chi¹	chi	kuchid		VERB	VerbForm=Fin|Subcat=Intr	ven	CPL-venir-2SG		Aspect=Perf|Person=2|Number=Sing
+chi¹	chi	jichis		VERB	VerbForm=Fin|Subcat=Intr	viene	PROG-venir-3.MSC	Aspect=Prog|Person=3|Gender=Masc
+chi¹	chi	jichid		VERB	VerbForm=Fin|Subcat=Intr	vienes	PROG-venir-2SG		Aspect=Prog|Person=2|Number=Sing
+te³	te	tes		VERB	VerbForm=Fin|Subcat=Tran	dio	CPL-dar-3.MSC		Aspect=Perf|Person=3|Gender=Masc
+te³	te	ted		VERB	VerbForm=Fin|Subcat=Tran	dio	CPL-dar-2SG		Aspect=Perf|Person=2|Number=Sing
+kia¹du²	kiyadu	jiyadus		VERB	VerbForm=Fin|Subcat=Intr	duerme	PROG-dormir-3.MSC	Aspect=Prog|Person=3|Gender=Masc
+kia¹du²	kiyadu	jiyaduy		VERB	VerbForm=Fin|Subcat=Intr	duerme	PROG-dormir-3.HUM	Aspect=Prog|Person=3|Animacy=Hum
+kia¹du²	kiyadu	jiyadu		VERB	VerbForm=Fin|Subcat=Intr	duermo	PROG-dormir-1SG		Aspect=Prog|Person=1|Number=Sing

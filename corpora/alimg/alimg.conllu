@@ -3326,7 +3326,7 @@
 # hash = 88ff1468ebc09056b1d2b105b3c41695
 # tagged = true
 1	Lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
-2	jiyaduy	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-?
+2	jiyaduy	kiyadu	VERB	_	Animacy=Hum|Aspect=Prog|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=duerme|Gloss=PROG-dormir-3.HUM
 3	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = alimg:183
@@ -3348,7 +3348,7 @@
 # hash = bbb364f35d8bfd2a86bf683d1f139dbc
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-3.MSC
+2	jiyadus	kiyadu	VERB	_	Aspect=Prog|Gender=Masc|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=duerme|Gloss=PROG-dormir-3.MSC
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	jobe	_	NOUN	_	_	_	_	_	Trad=día
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3361,7 +3361,7 @@
 # hash = f37077b3ad0e59455053a61283897f06
 # tagged = true
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
-2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-3.MSC
+2	jiyadus	kiyadu	VERB	_	Aspect=Prog|Gender=Masc|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=duerme|Gloss=PROG-dormir-3.MSC
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	màà	_	NOUN	_	_	_	_	_	Trad=noche
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -3374,7 +3374,7 @@
 # hash = 4ab797e67b456f3142b4a3b14237e871
 # tagged = true
 1	Gua	_	PART	_	_	_	_	_	Trad=no|Gloss=NEG
-2	jiyadus	_	VERB	_	_	_	_	_	Trad=duerme|Gloss=?-dormir-3.MSC
+2	jiyadus	kiyadu	VERB	_	Aspect=Prog|Gender=Masc|Person=3|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=duerme|Gloss=PROG-dormir-3.MSC
 3	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 4	jobe	_	NOUN	_	_	_	_	_	Trad=día
 5	.	.	PUNCT	_	_	_	_	_	_

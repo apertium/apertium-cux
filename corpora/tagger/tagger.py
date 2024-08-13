@@ -62,7 +62,7 @@ class Tagger:
 				continue
 			if line[0] == '#':
 				continue
-			lema, form, tag, tipus, trad, glosa, feats = re.sub('\t\t*', '\t', line).strip('\n').split('\t')
+			lema_tones, lema, form, tag, tipus, trad, glosa, feats = re.sub('\t\t*', '\t', line).strip('\n\t').split('\t')
 			uf = []
 			for i in feats.split('|'): uf.append(i)
 			for i in tipus.split('|'): uf.append(i)
