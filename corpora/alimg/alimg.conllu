@@ -1939,7 +1939,7 @@
 # alimg = Mi perro no tiene cola.
 # hash = 9d32586d14976004a2636eee9c3dd0c2
 # tagged = true
-1	Chíy	_	VERB	_	_	_	_	_	Trad=cortaron|Gloss=?-cortar-?
+1	Chíy	kaka	VERB	_	Animacy=Hum|Aspect=Perf|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=cortaron|Gloss=CPL-cortar-3.HUM
 2	nduk	_	PRON	_	_	_	_	_	Trad=quién|UPOS=Guessed
 3	daʼa	_	PRON	_	_	_	_	_	Trad=que|UPOS=Guessed
 4	yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -3336,7 +3336,7 @@
 # alimg = Duerme de día.
 # hash = 4114413b1990f0958add812ee2bbd4e8
 # tagged = true
-1	Jiyadu	_	VERB	_	_	_	_	_	Trad=duermo|Gloss=?-dormir-?
+1	Jiyadu	kiyadu	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=duermo|Gloss=PROG-dormir-1SG
 2	jobe	_	NOUN	_	_	_	_	_	Trad=día
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3522,7 +3522,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
-4	chika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+4	chika	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 5	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 6	dí	dí	PRON	_	PronType=Prs	_	_	_	Trad=tú|Gloss=2SG
 7	?	?	PUNCT	_	_	_	_	_	_
@@ -4956,7 +4956,7 @@
 # alimg = Ven a ayudarme.
 # hash = 7c95cb0aa827b98ed80fc1ff791b6da4
 # tagged = true
-1	Kuchid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ven|Gloss=?-venir-2SG
+1	Kuchid	chi	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=ven|Gloss=CPL-venir-2SG
 2	kuned	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ayuda|Gloss=?-ayudar-2SG
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -4968,7 +4968,7 @@
 # alimg = Ven a ayudarme a cargar el burro.
 # hash = 3909566a623f883bb5e11bdd9b341adb
 # tagged = true
-1	Kuchid	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ven|Gloss=?-venir-2SG
+1	Kuchid	chi	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Intr|VerbForm=Fin	_	_	_	Trad=ven|Gloss=CPL-venir-2SG
 2	kuned	_	VERB	_	VerbForm=Fin	_	_	_	Trad=ayuda|Gloss=?-ayudar-2SG
 3	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
@@ -4997,7 +4997,7 @@
 # hash = 25417f5dc2b1c6a85b5493a1ef4924ea
 # tagged = true
 1	!	!	PUNCT	_	_	_	_	_	_
-2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+2	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 3	botella	_	NOUN	_	_	_	_	_	Trad=botella
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
 5	snú	_	VERB	_	_	_	_	_	Trad=tengo|Gloss=?-tener-1SG
@@ -5013,7 +5013,7 @@
 # hash = bf2608edcadc8793502b298bce8c770d
 # tagged = true
 1	¡	¡	PUNCT	_	_	_	_	_	_
-2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+2	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 4	botella	_	NOUN	_	_	_	_	_	Trad=botella
 5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
@@ -5029,7 +5029,7 @@
 # hash = bfc99c6b7c538ab95d62fb2293a5d090
 # tagged = true
 1	¡	¡	PUNCT	_	_	_	_	_	_
-2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+2	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 3	kaja	_	NOUN	_	_	_	_	_	Trad=caja
 4	nochi	_	ADV	_	AdvType=Rel	_	_	_	Trad=donde
 5	jinabad	_	VERB	_	_	_	_	_	Trad=guardas|Gloss=?-guardar-2SG
@@ -5045,11 +5045,11 @@
 # hash = 0d62ec9f9f6cb2614e8179b7f6d3f5ba
 # tagged = true
 1	¡	¡	PUNCT	_	_	_	_	_	_
-2	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+2	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 3	gikuu	_	NOUN	_	_	_	_	_	Trad=cuchillo
 4	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 5	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-6	íkad	_	VERB	_	_	_	_	_	Trad=cortas|Gloss=?-cortar-2SG
+6	íkad	kaka	VERB	_	Aspect=Prog|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=cortas|Gloss=PROG-cortar-2SG
 7	yuta	_	NOUN	_	_	_	_	_	Trad=carne
 8	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
 9	!	!	PUNCT	_	_	_	_	_	_
@@ -5440,7 +5440,7 @@
 2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Trad=vi|Gloss=?-ver-1SG
 3	soʼön	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=él|Gloss=3.MSC
 4	tumin	_	SCONJ	_	_	_	_	_	Trad=para.que
-5	chika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+5	chika	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 6	machetem	_	NOUN	_	_	_	_	_	Trad=machete
 7	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 8	.	.	PUNCT	_	_	_	_	_	_

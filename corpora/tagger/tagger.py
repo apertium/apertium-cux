@@ -303,6 +303,8 @@ class Tagger:
 		k = token
 		if k in self.verbs:
 			analyses = self.verbs[k]
+		elif k.lower() in self.verbs:
+			analyses = self.verbs[k.lower()]
 		elif k in self.lexicon:
 			analyses = self.lexicon[k]	
 		elif k.lower() in self.lexicon:

@@ -1320,7 +1320,7 @@
 # text[spa] = Me corté un dedo.
 # tagged = true
 # author = lilia
-1	Chíika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+1	Chíika	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	nutoʼo	_	NOUN	_	_	_	_	_	Trad=dedo
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -1645,7 +1645,7 @@
 # text[spa] = Dame aquello.
 # tagged = false
 # author = lilia
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	chóo	_	_	_	_	_	_	_	_
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -2461,7 +2461,7 @@
 # text[spa] = Me corté la uña con una piedra.
 # tagged = true
 # author = lilia
-1	Chika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+1	Chika	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 2	duú	_	NOUN	_	_	_	_	_	Trad=uña
 3	nuku	nuku	ADP	_	_	_	_	_	Trad=con|Gloss=con
 4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -3102,7 +3102,7 @@
 # tagged = true
 # author = lucy
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Trad=cuando|Gloss=cuando
-2	chika	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+2	chika	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 3	toʼo	_	NOUN	_	_	_	_	_	Trad=mano
 4	kanó	_	VERB	_	VerbForm=Fin	_	_	_	Trad=salí|Gloss=?-salir-1SG
 5	ñuu	_	NOUN	_	_	_	_	_	Trad=mazorca
@@ -3418,7 +3418,7 @@
 # text[spa] = Pásame otra tortilla.
 # tagged = true
 # author = lucy
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	tama	_	ADJ	_	_	_	_	_	Trad=otra|UPOS=Guessed
 3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -3470,7 +3470,7 @@
 2	nínaa	_	ADJ	_	_	_	_	_	Trad=maduro|UPOS=Guessed
 3	tiaka	_	NOUN	_	_	_	_	_	Trad=plátano
 4	chi	chi	SCONJ	_	_	_	_	_	Trad=que|Gloss=COMPL
-5	chíka	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
+5	chíka	kaka	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corté|Gloss=CPL-cortar-1SG
 6	moneatea	_	ADV	_	_	_	_	_	Trad=semana.pasada
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3816,7 +3816,7 @@
 # text[spa] = Dame la red para hechar mi tortilla.
 # tagged = true
 # author = lucy
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	yàna	_	NOUN	_	_	_	_	_	Trad=red
 3	kuí	_	VERB	_	_	_	_	_	Trad=echar|Gloss=?-echar-?
 4	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
@@ -4161,7 +4161,7 @@
 # text[spa] = Dame un tenate para hechar mazorca.
 # tagged = true
 # author = lucy
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	yuku	_	NOUN	_	_	_	_	_	Trad=tenate.para.cargar
 4	kuí	_	VERB	_	_	_	_	_	Trad=echar|Gloss=?-echar-?
@@ -4189,7 +4189,7 @@
 # text[spa] = Dame dos brazadas de mecate.
 # tagged = true
 # author = lucy
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	obe	_	NUM	_	_	_	_	_	Trad=dos
 3	yoo	_	NOUN	_	_	_	_	_	Trad=brazada
 4	iyu	_	NOUN	_	_	_	_	_	Trad=mes
@@ -4473,7 +4473,7 @@
 # text[spa] = Dame mi metate.
 # tagged = true
 # author = lucy
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	yuudu	_	NOUN	_	_	_	_	_	Trad=metate
 3	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -5759,7 +5759,7 @@
 # text[spa] = Corta una estaca para mi animal.
 # tagged = true
 # author = mazali
-1	Kakad	_	VERB	_	VerbForm=Fin	_	_	_	Trad=corta|Gloss=POT-cortar-2SG
+1	Kakad	kaka	VERB	_	Mood=Pot|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=corta|Gloss=POT-cortar-2SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	júku	_	NOUN	_	_	_	_	_	Trad=estaca
 4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.él|Gloss=base-POSS.3
@@ -5909,7 +5909,7 @@
 # text[spa] = Dame un peso.
 # tagged = true
 # author = mazali
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	kadi	_	NOUN	_	_	_	_	_	Trad=peso($)
 4	uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -5957,7 +5957,7 @@
 # text[spa] = Dame un pedazo de papel.
 # tagged = true
 # author = mazali
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	toó	_	ADV	_	_	_	_	_	Trad=allí|UPOS=Guessed
 4	kaka	_	NOUN	_	_	_	_	_	Trad=papel
@@ -5970,7 +5970,7 @@
 # text[spa] = Dame mi peine.
 # tagged = true
 # author = mazali
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	káka	_	NOUN	_	_	_	_	_	Trad=peine
 3	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -6011,7 +6011,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	kod	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Trad=irás|Gloss=POT-ir-2SG
-4	kàkad	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cortar|Gloss=POT-cortar-2SG
+4	kàkad	kaka	VERB	_	Mood=Pot|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=cortar|Gloss=POT-cortar-2SG
 5	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
 6	?	?	PUNCT	_	_	_	_	_	_
 
@@ -6317,7 +6317,7 @@
 # text[spa] = Dame un plato para servirte de comer.
 # tagged = true
 # author = mazali
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	kuʼu	_	NOUN	_	_	_	_	_	Trad=plato
 3	kui	_	VERB	_	_	_	_	_	Trad=servir|Gloss=?-servir-?
 4	cheʼed	_	VERB	_	_	_	_	_	Trad=come
@@ -6491,7 +6491,7 @@
 # text[spa] = Dame la tijera que quiero cortar este papel.
 # tagged = true
 # author = mazali
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	kudintaa	_	NOUN	_	_	_	_	_	Trad=tijera
 3	kat	_	SCONJ	_	_	_	_	_	Trad=porque
 4	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Trad=quiere|Gloss=?-querer-?
@@ -6506,7 +6506,7 @@
 # text[spa] = Dame una cuchara.
 # tagged = true
 # author = mazali
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	kudubi	_	NOUN	_	_	_	_	_	Trad=cuchara
 4	ú	uu	PRON	_	PronType=Prs	_	_	_	Trad=yo|Gloss=1SG
@@ -6881,7 +6881,7 @@
 # text[spa] = Dame mi molde para hacer comal.
 # tagged = true
 # author = paula
-1	Ted	_	VERB	_	_	_	_	_	Trad=dame|Gloss=?-dar-2SG
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=dio|Gloss=CPL-dar-2SG
 2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
 3	küu	_	NOUN	_	_	_	_	_	Trad=molde.para.hacer.comal
 4	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Trad=de.mí|Gloss=base-POSS.1SG

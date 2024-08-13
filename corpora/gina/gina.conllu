@@ -1053,7 +1053,7 @@
 # text[ipa] = sa2sḛ1ntʃi2ka2snõː2
 # tagged = true
 1	Sasèn	sasë	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Trad=ellos|Gloss=3PL.MSC
-2	chikas	_	VERB	_	VerbForm=Fin	_	_	_	Trad=cortaron|Gloss=?-cortar-?
+2	chikas	kaka	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Trad=cortaron|Gloss=CPL-cortar-3.MSC
 3	non	_	NOUN	_	_	_	_	_	Trad=leña
 4	.	.	PUNCT	_	_	_	_	_	_
 
