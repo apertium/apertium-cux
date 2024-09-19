@@ -99,7 +99,7 @@ for line in sys.stdin.readlines():
 			n_toks_nopunct += 1
 
 		if misc == '': misc = '_'
-		misc = misc.strip()
+		misc = tagger.sort_feats(misc.strip())
 
 		token_lines.append('%d\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s' % (token_id, token, ulem, upos, '_', ufeat, '_', '_', '_', misc))
 		token_id += 1

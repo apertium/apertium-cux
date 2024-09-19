@@ -40,20 +40,12 @@ che³ʔe³		cheʼe	jeeya		VERB	VerbForm=Fin|Subcat=Tran	come		PROG-comer-3.HUM	A
 
 che³ʔe³		cheʼe	jeʼë		VERB	VerbForm=Fin|Subcat=Tran	comer		PROG-comer-?		_
 
-che³ʔe³		cheʼe	chee		VERB	VerbForm=Fin|Subcat=Tran	comer		?-comer-1SG		_
-che³ʔe³		cheʼe	cheé		VERB	VerbForm=Fin|Subcat=Tran	como		?-comer-1SG		_
-che³ʔe³		cheʼe	cheʼe		VERB	VerbForm=Fin|Subcat=Tran	como		?-comer-1SG		_
-
-che³ʔe³		cheʼe	cheed		VERB	VerbForm=Fin|Subcat=Tran	come		?-comer-2SG		_
-che³ʔe³		cheʼe	cheéd		VERB	VerbForm=Fin|Subcat=Tran	comes		?-comer-2SG		_
-
-che³ʔe³		cheʼe	cheʼet		VERB	VerbForm=Fin|Subcat=Tran	comió		?-comer-3.AML		_
-
-che³ʔe³		cheʼe	cheʼes		VERB	VerbForm=Fin|Subcat=Tran	come		?-comer-3.MSC		_
-
-che³ʔe³		cheʼe	cheeta		VERB	VerbForm=Fin|Subcat=Tran	come		?-comer-3.FEM		_
-
-che³ʔe³		cheʼe	cheʼey		VERB	VerbForm=Fin|Subcat=Tran	come		?-comer-3.HUM		_
+che³ʔe³		cheʼe	cheʼe		VERB	VerbForm=Fin|Subcat=Tran	como		POT-comer-1SG		Mood=Pot|Person=1|Number=Sing
+che³ʔe³		cheʼe	cheʼed		VERB	VerbForm=Fin|Subcat=Tran	comes		POT-comer-2SG		Mood=Pot|Person=2|Number=Sing
+che³ʔe³		cheʼe	cheʼet		VERB	VerbForm=Fin|Subcat=Tran	comió		POT-comer-3.AML		Mood=Pot|Person=3|Animacy=Aml
+che³ʔe³		cheʼe	cheʼes		VERB	VerbForm=Fin|Subcat=Tran	come		POT-comer-3.MSC		Mood=Pot|Person=3|Gender=Masc
+che³ʔe³		cheʼe	cheʼeta		VERB	VerbForm=Fin|Subcat=Tran	come		POT-comer-3.FEM		Mood=Pot|Person=3|Gender=Fem
+che³ʔe³		cheʼe	cheʼey		VERB	VerbForm=Fin|Subcat=Tran	come		POT-comer-3.HUM		Mood=Pot|Person=3|Animacy=Hum
 
 che³ʔe³		cheʼe	chuʼuu		VERB	VerbForm=Fin|Subcat=Tran	comemos		?-comer-1PL.INC		_
 

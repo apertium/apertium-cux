@@ -296,6 +296,11 @@ class Tagger:
 
 		return new_analyses
 
+	def sort_feats(self, feats):
+		ff = feats.split('|')
+		ff.sort()
+		return '|'.join(ff)
+
 	def tag(self, token, ufeat):
 		analyses = []
 		misc = ''
@@ -326,5 +331,5 @@ class Tagger:
 				analyses = self.verbs[k]
 			else:
 				analyses = self.lexicon[k]	
-		return analyses, ufeat, misc
+		return analyses, self.sort_feats(ufeat), self.sort_feats(misc)
 

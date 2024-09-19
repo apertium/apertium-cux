@@ -1,5 +1,5 @@
 ID	PALABRA	NOTAS TRADUCTOR	ORACION EN CUICATECO	ORACION EN ESPAÑOL	NOTAS ORIGINAL	ESPAÑOL ORIGINAL		
-1.			Ba'a kun cheatea	Esta casa es grande.		Esta casa es grande.	Traducidas:	464
+1.			Ba'a kun cheatea	Esta casa es grande.		Esta casa es grande.	Traducidas:	599
 			Ba'a kun gua cheatea	Esta casa no es grande.	a	Esta casa no es grande.	Totales:	852
 			Ba'a kun lï	Esta casa es chica.	b	Esta casa es chica.		
 			ba'a kun gua lï	Esta casa no es chica.	c	Esta casa no es chica.		
@@ -519,65 +519,65 @@ ID	PALABRA	NOTAS TRADUCTOR	ORACION EN CUICATECO	ORACION EN ESPAÑOL	NOTAS ORIGIN
 306.			Kuchid kuned ú	Ven a ayudarme.		Ven a ayudarme.		
 307.			Kuchid kuned ú chi kuto'uu burru	Ven a ayudarme a atrapar al burro.		Ven a ayudarme a cargar el burro.		
 308.			Dayan kaneñ kunenoñ ba'am	Mis hijos se quedaron a cuidar la casa.		Mis hijos se quedaron a cuidar la casa.		
-309.				¡Baja a recogerlo!		¡Baja a recogerlo!		
+309.		Baja por el (objeto)	Naba'ad ñe'e 	¡Baja a recogerlo!		¡Baja a recogerlo!		
 310.				Salió de la casa a saludarme.		Salió de la casa a saludarme.		
 311.				Estoy por ir al mercado.		Estoy por ir al mercado.		
 312.				Estaba por ir al mercado, pero me quedé en la casa.		Estaba por ir al mercado, pero me quedé en la casa.		
-313.				Hoy me pongo a trabajar.		Hoy me pongo a trabajar.		
-314.				Dejó aquí la canasta.		Dejó aquí la canasta.		
-315.				Dejó abierta la puerta.		Dejó abierta la puerta.		
-316.				Déjalo entrar.		Déjalo entrar.		
-317.				No dejó de trabajar aunque estaba enfermo.		No dejó de trabajar aunque estaba enfermo.		
-318.				Trabajo todos los días.		Trabajo todos los días.		
-319.				Hace un año que no trabajo.		Hace un año que no trabajo.		
-320.				No trabajo desde ayer.		No trabajo desde ayer.		
-321.				Este año trabajé mucho.		Este año trabajé mucho.		
-322.				Estoy trabajando desde ayer		Estoy trabajando desde ayer		
-323.				Esta mañana trabajé mucho.		Esta mañana trabajé mucho.		
-324.				Siembre trabajo de tarde.		Siembre trabajo de tarde.		
-325.				Mañana trabajo.		Mañana trabajo.		
-326.				¿Trabajarás?	(ahora)	¿Trabajarás (ahora)?		
+313.			Jobe ku ko'o di ntiñu	Hoy me pongo a trabajar.		Hoy me pongo a trabajar.		
+314.			Mu'u kune kuetíchi	Dejó aquí la canasta.		Dejó aquí la canasta.		
+315.		La puerta está abierta	kandá chimbam 	Dejó abierta la puerta.		Dejó abierta la puerta.		
+316.			Teched so'ö kundos	Déjalo entrar.(hombre) 		Déjalo entrar.		
+317.			Gua kanenos dis ntiñu a ndar ya'a ñe'es 	No dejó de trabajar aunque estaba enfermo.		No dejó de trabajar aunque estaba enfermo.		
+318.			Job jobe jidi ntiñu	Trabajo todos los días.		Trabajo todos los días.		
+319.			A am ndoyo chi a kutea jidi ntiñu	Hace un año que no trabajo.		Hace un año que no trabajo.		
+320.			Ni kad iku chi gua di ntiñu 	Apenas ayer que no trabaje		No trabajo desde ayer.		
+321.			Yeabean di ntiñu ndoyo ku	Este año trabajé mucho.		Este año trabajé mucho.		
+322.			Iku chitoko'o di ntiñu	ayer empecé a trabajar		Estoy trabajando desde ayer		
+323.			Che'tiö di ntiñu	Fui a trabajar de mañana		Esta mañana trabajé mucho.		
+324.			Nukue achinu jidi ntiñu	Trabajo todas las tardes		Siembre trabajo de tarde.		
+325.			Kabiö bea ntiñu ñe'e	Mañana tengo trabajo.		Mañana trabajo.		
+326.			¿A did ntiñu?	¿Trabajarás?	(ahora)	¿Trabajarás (ahora)?		
 327.				¿Trabajarás?	(mañana)	¿Trabajarás (mañana)?		
-328.				Me voy a trabajar otra vez.		Me voy a trabajar otra vez.		
-329.				Juan ya está trabajando.		Juan ya está trabajando.		
-330.				¡Empieza a trabajar!		¡Empieza a trabajar!		
-331.				Me dio pena no poder ayudarlo.		Me dio pena no poder ayudarlo.		
-332.				Ese árbol se va a caer pronto.		Ese árbol se va a caer pronto.		
-333.				El árbol se cayó.		El árbol se cayó.		
-334.				Se me hinchó el pie.		Se me hinchó el pie.		
-335.				Tengo el pie hinchado.		Tengo el pie hinchado.		
-336.				Me ensucié la camisa con lodo.		Me ensucié la camisa con lodo.		
+328.			Na ko'ö tu di ntiñu	Me voy a trabajar otra vez.		Me voy a trabajar otra vez.		
+329.			Juó jidis ntiñu	Juan ya está trabajando.		Juan ya está trabajando.		
+330.			¡Kutoko'od did ntiñu!	¡Empieza a trabajar!		¡Empieza a trabajar!		
+331.			Chikuenó chi gua chikadi chiné iña	Me dio pena no poder ayudarlo.		Me dio pena no poder ayudarlo.		
+332.			Tiö kon kuneabea 	Ese árbol se va a caer 		Ese árbol se va a caer pronto.		
+333.			Chineabea tiöm 	El árbol se cayó.		El árbol se cayó.		
+334.			Chinditu ko'o	Se me hinchó el pie.		Se me hinchó el pie.		
+335.			Ninditu ko'o	Tengo el pie hinchado.		Tengo el pie hinchado.		
+336.			Chiñá kiana ñe'e nuku lasi	Me ensucié la camisa con lodo.		Me ensucié la camisa con lodo.		
 337.				Se me ensució la camisa con lodo.		Se me ensució la camisa con lodo.		
-338.				El fuego arde bien.		El fuego arde bien.		
-339.				Tu casa está ardiendo.		Tu casa está ardiendo.		
-340.				Quemé las tortillas.		Quemé las tortillas.		
-341.				Las tortillas se quemaron.		Las tortillas se quemaron.		
+338.		tl: lo agarro bien el fuego	Yeabean ndá chito'o ño'o 	El fuego arde bien.		El fuego arde bien.		
+339.			Jichi bakud	Se esta quemando tu casa		Tu casa está ardiendo.		
+340.			Chikiö yuntum	Queme las tortillas		Quemé las tortillas.		
+341.			Chichi yuntum	Las tortillas se quemaron.		Las tortillas se quemaron.		
 342.				Las tortillas están quemadas.		Las tortillas están quemadas.		
-343.				Me duele la cabeza.		Me duele la cabeza.		
-344.				Mi hijo se enfermó.		Mi hijo se enfermó.		
-345.				Mi hijo está enfermo.		Mi hijo está enfermo.		
-346.				Estoy enfermo.		Estoy enfermo.		
-347.				Estuve enfermo.		Estuve enfermo.		
-348.				Mi tía se murió.		Mi tía se murió.		
-349.				Ese hombre está muerto.		Ese hombre está muerto.		
-350.				Juan se ríe mucho.		Juan se ríe mucho.		
-351.				Juan se ríe de ti.		Juan se ríe de ti.		
-352.				A ese hombre lo mataron ayer.		A ese hombre lo mataron ayer.		
-353.				Me cansé en la subida.		Me cansé en la subida.		
-354.				Ahora estoy cansado.		Ahora estoy cansado.		
-355.				El caballo se cansó.		El caballo se cansó.		
-356.				El caballo está cansado.		El caballo está cansado.		
+343.			Ya'a tï	Me duele la cabeza.		Me duele la cabeza.		
+344.			Chito ka'a daya 	Mi hijo se enfermó.		Mi hijo se enfermó.		
+345.			Na ka'a daya	Mi hijo está enfermo.		Mi hijo está enfermo.		
+346.			Ya'a ñe'e 	Estoy enfermo.		Estoy enfermo.		
+347.			Chito ka'a ú	Estuve enfermo.		Estuve enfermo.		
+348.			Chí dúdi	Mi tía se murió.		Mi tía se murió.		
+349.			Chí so'ö ko	Ese hombre está muerto.		Ese hombre está muerto.		
+350.			Yeaben íñu Juó	Juan se ríe mucho.		Juan se ríe mucho.		
+351.			Juó iñnés dí	Juan se ríe de ti.		Juan se ríe de ti.		
+352.			Chinuñ so'ö ko iku	A ese hombre lo mataron ayer.		A ese hombre lo mataron ayer.		
+353.			Na chikunu ti yeabean gea 	Me cansé por subida.		Me cansé en la subida.		
+354.			Nikaka ú	Ahora estoy cansado.		Ahora estoy cansado.		
+355.			Chikunu yuduu 	El caballo se cansó.		El caballo se cansó.		
+356.			Chikaka yuduu	El caballo está cansado.		El caballo está cansado.		
 357.				Cansó al caballo.		Cansó al caballo.		
-358.				María está durmiendo al nene.		María está durmiendo al nene.		
-359.				María se durmió.		María se durmió.		
+358.			Ta María jiyaduta dikuo'o	María está durmiendo al nene.		María está durmiendo al nene.		
+359.			Kayadu ta Maria	María se durmió.		María se durmió.		
 360.				María hizo dormir al nene.		María hizo dormir al nene.		
-361.				Juan va a agrandar la casa.		Juan va a agrandar la casa.		
-362.				María va a achicar la camisa.		María va a achicar la camisa.		
+361.			Juó nandicheateas bakus	Juan va a agrandar su casa.		Juan va a agrandar la casa.		
+362.			Ta Maria nandilïta kiana	María va a achicar la camisa.		María va a achicar la camisa.		
 363.				Juan agranda la casa todos los años.		Juan agranda la casa todos los años.		
-364.				El chile se pone rojo cuando madura.		El chile se pone rojo cuando madura.		
+364.			Íyan ji kuö tochi ninaa	El chile se pone rojo cuando madura.		El chile se pone rojo cuando madura.		
 365.				Juan blanqueó la casa.		Juan blanqueó la casa.		
-366.				La olla es negra.		La olla es negra.		
-367.				El humo ennegreció la olla.		El humo ennegreció la olla.		
+366.			kuä kutu 	La olla es negra.		La olla es negra.		
+367.			yaami di kuä kutu 	El humo ennegreció la olla.		El humo ennegreció la olla.		
 368.				Eeste niño ahora es malo pero se va a hacer bueno.		Eeste niño ahora es malo pero se va a hacer bueno.		
 369.				Juan me hizo reir.		Juan me hizo reir.		
 370.				Agujeree la tabla.		Agujeree la tabla.		
@@ -587,46 +587,46 @@ ID	PALABRA	NOTAS TRADUCTOR	ORACION EN CUICATECO	ORACION EN ESPAÑOL	NOTAS ORIGIN
 374.				La canasta se enlodó.		La canasta se enlodó.		
 375.				La canasta tiene lodo en el asa.		La canasta tiene lodo en el asa.		
 376.				El asa de la canasta está enlodada.		El asa de la canasta está enlodada.		
-377.				Mi perro se murió.		Mi perro se murió.		
-378.				Juan mató a mi perro.		Juan mató a mi perro.		
-379.				Juan hizo matar a mi perro.		Juan hizo matar a mi perro.		
+377.			Chí yana ñe'e	Mi perro se murió.		Mi perro se murió.		
+378.			Juó chinus yana ñe'e	Juan mató a mi perro.		Juan mató a mi perro.		
+379.			Kab Juó chí yana ñe'e	Por su culpa se murio mi perro		Juan hizo matar a mi perro.		
 380.				El me hizo matar a mi perro.		El me hizo matar a mi perro.		
-381.				El me obligó a matar al perro.		El me obligó a matar al perro.		
-382.				Yo traje la leña.		Yo traje la leña.		
-383.				Me hizo traer la leña.		Me hizo traer la leña.		
-384.				María calentó el agua.		María calentó el agua.		
-385.				El agua está caliente.		El agua está caliente.		
-386.				¡No arrugues ese trapo!		¡No arrugues ese trapo!		
-387.				El trapo está arrugado.		El trapo está arrugado.		
-388.				María lavó los platos.		María lavó los platos.		
-389.				Los platos están lavados.		Los platos están lavados.		
-390.				Juan cerro la puerta.		Juan cerro la puerta.		
-391.				Juan abrió la puerta.		Juan abrió la puerta.		
-				La puerta se cerró.		La puerta se cerró.		
-				La puerta se abrió.		La puerta se abrió.		
-392.				La puerta está cerrada.		La puerta está cerrada.		
-				La puerta está abierta.		La puerta está abierta.		
-393.				El caballo está corriendo.		El caballo está corriendo.		
+381.			Sakó kos chis ú chi kànu yana ñe'e	El me dijo que matara a mi perro		El me obligó a matar al perro.		
+382.			Ú kana no'o 	Yo traje la leña.		Yo traje la leña.		
+383.			Sakó kos chi kana no'o	El me dijo que trajera leña		Me hizo traer la leña.		
+384.			Ta Maria dikututa nuni 	María calentó el agua.		María calentó el agua.		
+385.			Kutuu nuni	El agua está caliente.		El agua está caliente.		
+386.			Ta María nòta tinuu	María lavó ropa		¡No arrugues ese trapo!		
+387.			Ta Maria nòta tikata	María lavo su ropa		El trapo está arrugado.		
+388.			Ta Maria nanuta ku'u	María lavó los platos.		María lavó los platos.		
+389.			A deabea ku'u	Los platos están lavados.		Los platos están lavados.		
+390.			Juó nangadis chimba'am	Juan cerro la puerta.		Juan cerro la puerta.		
+391.			Juó nanda'as chimba'am	Juan abrió la puerta.		Juan abrió la puerta.		
+			Ndudi chimba'am	La puerta se cerró (no estan cerca de la puerta)		La puerta se cerró.		
+			Nanda'á chimba'a	La puerta se abrió.		La puerta se abrió.		
+392.			Ndudí chimba'a	La puerta está cerrada.		La puerta está cerrada.		
+			Kanda'á chimba'a	La puerta está abierta.		La puerta está abierta.		
+393.			Jeanu yuduu	El caballo está corriendo.		El caballo está corriendo.		
 394.				Juan está haciendo correr al caballo.		Juan está haciendo correr al caballo.		
-395.				Juan se sentó.		Juan se sentó.		
-396.				Juan sentó al niño en la mesa.		Juan sentó al niño en la mesa.		
-397.				Esta milpa fue sembrada por mis hijos.		Esta milpa fue sembrada por mis hijos.		
-398.				Llegó cantando.		Llegó cantando.		
-399.				Pasó silbando.		Pasó silbando.		
+395.			Juó chinjukus	Juan se sentó.		Juan se sentó.		
+396.			Juó chinjukus silï no mesa	Juan sentó al niño en la mesa.		Juan sentó al niño en la mesa.		
+397.			Nata kun daya chinus	Esta milpa fue sembrada por mis hijos.		Esta milpa fue sembrada por mis hijos.		
+398.			Jitas tochi ndos	Llegó cantando.		Llegó cantando.		
+399.			Jidibis toci cho'os	Pasó silbando.		Pasó silbando.		
 401.				Llegó cansado.		Llegó cansado.		
 402.				Se rio hasta caerse.		Se rio hasta caerse.		
 403.				Trabaja sin ganas.		Trabaja sin ganas.		
 				Trabaja con ganas.		Trabaja con ganas.		
-404.				Vino a pie.		Vino a pie.		
-405.				Vino a caballo.		Vino a caballo.		
-406.				Juan salió con sombrero.		Juan salió con sombrero.		
-				Juan salió sin sombrero.		Juan salió sin sombrero.		
+404.			Jikas kuchis 	Vino a pie.		Vino a pie.		
+405.			Nuku yuduu kuchis	Vino a caballo.		Vino a caballo.		
+406.			Juó kanos nuku am snï	Juan salió con sombrero.		Juan salió con sombrero.		
+			Juó gua kanos nuku am snï	Juan salió sin sombrero.		Juan salió sin sombrero.		
 407.				Trabaja apurado,		Trabaja apurado,		
-408.				Acaba de amarrar al burro.		Acaba de amarrar al burro.		
-409.				Lo amarró con dificultad.		Lo amarró con dificultad.		
+408.			Kuin kuneyatad burru	Acaba de amarrar al burro.		Acaba de amarrar al burro.		
+409.			Ji'i chineyatas iti	Lo amarró con dificultad.		Lo amarró con dificultad.		
 410.				Me llamó a gritos.		Me llamó a gritos.		
-411.				¡Habla en voz alta!		¡Habla en voz alta!		
-				¡Habla en voz baja!		¡Habla en voz baja!		
+411.			Dituu nded	¡Habla en voz alta!		¡Habla en voz alta!		
+			Kodkó nded	¡Habla en voz baja!		¡Habla en voz baja!		
 412.				¡Mantén el mecate tirante!		¡Mantén el mecate tirante!		
 				¡Mantén el mecate firme!		¡Mantén el mecate firme!		
 413.				¡Mantén el brazo rígido!		¡Mantén el brazo rígido!		
@@ -635,96 +635,96 @@ ID	PALABRA	NOTAS TRADUCTOR	ORACION EN CUICATECO	ORACION EN ESPAÑOL	NOTAS ORIGIN
 415.				¡Siéntate derecho!		¡Siéntate derecho!		
 416.				Arrojó la piedra con fuerza.		Arrojó la piedra con fuerza.		
 				Arrojó la piedra sin fuerza.		Arrojó la piedra sin fuerza.		
-417.				La espina se me clavó profundamente.		La espina se me clavó profundamente.		
-				La espina se me clavó superficialmente.		La espina se me clavó superficialmente.		
+417.			Yeabean yanuu kanu ama ñó to'o	La espina se me clavó profundamente en mi mano		La espina se me clavó profundamente.		
+			Gua yanuu kanu ñóm to'o	La espina se me clavó superficialmente en mi mano		La espina se me clavó superficialmente.		
 418.				¡Frota con suavidad!		¡Frota con suavidad!		
 				¡Frota con energía!		¡Frota con energía!		
 419.				¡Levanta el costal poco a poco!		¡Levanta el costal poco a poco!		
 				¡Levanta el costal de una vez!		¡Levanta el costal de una vez!		
 420.				¡No cierres la puerta de golpe!		¡No cierres la puerta de golpe!		
-421.				De día puedo caminar rápido.		De día puedo caminar rápido.		
-422.				De noche tengo que caminar despacio.		De noche tengo que caminar despacio.		
+421.			Tochi jobe jikadi kanii jika	De día puedo caminar rápido.		De día puedo caminar rápido.		
+422.			Tochi màà kodkó jika	De noche tengo que caminar despacio.		De noche tengo que caminar despacio.		
 423.				Juan usó un mecate como cinturón.		Juan usó un mecate como cinturón.		
-424.				¿De qué murió tu tío?		¿De qué murió tu tío?		
+424.			¿Ñe'e dae chí diäd?	¿De qué murió tu tío?		¿De qué murió tu tío?		
 425.				Murió de viruela.		Murió de viruela.		
-426.				¿Cuánto cuesta esta canasta?		¿Cuánto cuesta esta canasta?		
-427.				Cuesta diez mil.		Cuesta diez mil.		
-428.				¿Cuánto pesa este costal?		¿Cuánto pesa este costal?		
-429.				Pesa diez kilos.		Pesa diez kilos.		
-430.				¡Corta el mecate con el cuchillo!		¡Corta el mecate con el cuchillo!		
-431.				¡Rómpelo con las manos!		¡Rómpelo con las manos!		
-432.				¡Atalo con este mecate!		¡Atalo con este mecate!		
-433.				¿Cómo vas a llevar la leña?		¿Cómo vas a llevar la leña?		
-434.				La voy a llevar en el burro.		La voy a llevar en el burro.		
-435.				¿En que viniste del pueblo?		¿En que viniste del pueblo?		
-436.				Vine en camión.		Vine en camión.		
-437.				Vine en mula.		Vine en mula.		
+426.			¿Tabea chiba kuetíchi ku?	¿Cuánto cuesta esta canasta?		¿Cuánto cuesta esta canasta?		
+427.			Chiba 10000 pesos	Cuesta diez mil.		Cuesta diez mil.		
+428.			¿Tabea iì costal ku?	¿Cuánto pesa este costal?		¿Cuánto pesa este costal?		
+429.			Iì 10 kilos	Pesa diez kilos.		Pesa diez kilos.		
+430.			Kàkad i'yu nuku gikuu	¡Corta el mecate con el cuchillo!		¡Corta el mecate con el cuchillo!		
+431.			Kantèd nuku to'od	¡Rómpelo con las manos!		¡Rómpelo con las manos!		
+432.			¡Kuneyatad nutu i'yu ti!	¡Atalo con este mecate!		¡Atalo con este mecate!		
+433.			¿A taka techkód no'o?	¿Cómo vas acarrear la leña?		¿Cómo vas a llevar la leña?		
+434.			Nuku burru techkó	La voy a llevar en el burro.		La voy a llevar en el burro.		
+435.			¿A taka kunchid mu'u?	¿En que viniste del pueblo?		¿En que viniste del pueblo?		
+436.			No camión kuchi	Vine en camión.		Vine en camión.		
+437.			Nuku it dituu kuchi	Vine en mula.		Vine en mula.		
 438.				Las canastas se hacen de palma.		Las canastas se hacen de palma.		
-439.				Las ollas se hacen de barro.		Las ollas se hacen de barro.		
-440.				¡Llena la olla con agua!		¡Llena la olla con agua!		
+439.			Kutu nuku ñonguku jidinday	Las ollas se hacen de barro.		Las ollas se hacen de barro.		
+440.			Dikutud nuku nuni kutu	¡Llena la olla con agua!		¡Llena la olla con agua!		
 441.				¡Aparta la rama con el pie!		¡Aparta la rama con el pie!		
 442.				¡No golpees la olla con el palo!		¡No golpees la olla con el palo!		
 443.				Para hacer adobe, se mezcla lodo con paja.		Para hacer adobe, se mezcla lodo con paja.		
-444.				Vino con Juan.		Vino con Juan.		
-445.				Vino con mi amigo.		Vino con mi amigo.		
-446.				Vino conmigo.		Vino conmigo.		
-447.				Juan y Pedro trabajan juntos.		Juan y Pedro trabajan juntos.		
+444.			Kuchi Juó 	Vino con Juan.		Vino con Juan.		
+445.			Kuchis nuku ama sï ndá nukus	Vino con mi amigo.(amigo:un muchacho con el que soy bueno)		Vino con mi amigo.		
+446.			Nuku kuchis	Vino conmigo.		Vino conmigo.		
+447.			Juó nuku Pedro dama dijis ntiñu	Juan y Pedro trabajan juntos.		Juan y Pedro trabajan juntos.		
 448.				¿Cuántas veces viniste?		¿Cuántas veces viniste?		
-449.				¿Dónde está sentado el niño?		¿Dónde está sentado el niño?		
-450.				Está sentado enfrente de mí.		Está sentado enfrente de mí.		
-				Está sentado detrás de mí.		Está sentado detrás de mí.		
+449.			¿A ti beakuju silïm?	¿Dónde está sentado el niño?		¿Dónde está sentado el niño?		
+450.			Beajukus nanó	Está sentado enfrente de mí.		Está sentado enfrente de mí.		
+			Beajukus dami	Está sentado detrás de mí.		Está sentado detrás de mí.		
 				Está sentado adelante de mí		Está sentado adelante de mí		
-				Está sentado junto de mí.		Está sentado junto de mí.		
-451.				Mi papá entró a la casa.	(allá)	Mi papá entró a la casa. (allá)		
+			Beajukus nuku	Está sentado conmigo		Está sentado junto de mí.		
+451.			Chida chindos no ba'a	Mi papá entró a la casa.	(allá)	Mi papá entró a la casa. (allá)		
 				Mi papá entró a la casa	(acá)	Mi papá entró a la casa (acá)		
-452.				¿A dónde entró tu papá?		¿A dónde entró tu papá?		
-453.				Mi papá salió de la casa.		Mi papá salió de la casa.		
-454.				¿De dónde salió tu papá?		¿De dónde salió tu papá?		
-455.				El gato se subió al árbol.		El gato se subió al árbol.		
-456.				El gato bajó del árbol		El gato bajó del árbol		
+452.			¿A ti chindo chidad?	¿A dónde entró tu papá?		¿A dónde entró tu papá?		
+453.			Chida kandos ñe'e no ba'a	Mi papá salió de la casa.		Mi papá salió de la casa.		
+454.			¿Ñe'e ti kando chidad?	¿De dónde salió tu papá?		¿De dónde salió tu papá?		
+455.			Bichim cheat no tiö ko	El gato se subió al ese árbol.		El gato se subió al árbol.		
+456.			Bichi naba'at ñe'e tiö ko	El gato bajó de ese árbol		El gato bajó del árbol		
 457.				Puso el dinero en el bolsillo.		Puso el dinero en el bolsillo.		
 458.				Sacó el dinero del bolsillo.		Sacó el dinero del bolsillo.		
 459.				Juan salió por la puerta.		Juan salió por la puerta.		
-460.				Juan se cayó en el pozo.		Juan se cayó en el pozo.		
-461.				Juan se sentó en la silla.		Juan se sentó en la silla.		
-462.				Juan se sentó en el suelo.		Juan se sentó en el suelo.		
-463.				Juan se cayó del techo.		Juan se cayó del techo.		
+460.			Juóm chindonus no pozom	Juan se cayó en el pozo.		Juan se cayó en el pozo.		
+461.			Juóm chinjukus no silla	Juan se sentó en la silla.		Juan se sentó en la silla.		
+462.			Juóm chinjukus niöo	Juan se sentó en el suelo.		Juan se sentó en el suelo.		
+463.			Juóm chinos ñe'e tiba'a	Juan se cayó del techo.		Juan se cayó del techo.		
 464.				Juan se cayó sobre el techo.	(estaba subido en un árbol y...)	Juan se cayó sobre el techo. (estaba subido en un árbol y...)		
-465.				Juan viene de Huamantla.		Juan viene de Huamantla.		
-				Juan viene del pueblo.		Juan viene del pueblo.		
-				Juan viene de la milpa.		Juan viene de la milpa.		
+465.			Juó kuchis ñe'e Huamantla	Juan viene de Huamantla.		Juan viene de Huamantla.		
+			Juó kuchis ñe'e ñom	Juan viene del pueblo.		Juan viene del pueblo.		
+			Juó kuchis ñe'e no jingöm	Juan viene de la milpa.		Juan viene de la milpa.		
 466.				Juan no vino por el camino sino a través de la milpa.		Juan no vino por el camino sino a través de la milpa.		
-467.				Juan se cayó en el río.		Juan se cayó en el río.		
-				Juan se cayó en el agua.		Juan se cayó en el agua.		
+467.			Juó chindonus no chinjíku	Juan se cayó en el río.		Juan se cayó en el río.		
+			Juó chindonus bö nuni	Juan se cayó en el agua.		Juan se cayó en el agua.		
 468.				Juan se tiró al río.		Juan se tiró al río.		
-469.				Juan se está bañando en el río.		Juan se está bañando en el río.		
-470.				Vayamos hasta el río.		Vayamos hasta el río.		
+469.			Juó jinas no chinjíku	Juan se está bañando en el río.		Juan se está bañando en el río.		
+470.			Ku'uu no chinjíku	Vayamos hasta el río.		Vayamos hasta el río.		
 471.				Juan llegó hasta mi casa y no quiso seguir caminando.		Juan llegó hasta mi casa y no quiso seguir caminando.		
 472.				Juan anduvo por mi casa.		Juan anduvo por mi casa.		
 473.				Juan vino por el lado del río.		Juan vino por el lado del río.		
-474.				En medio del camino hay una piedra grnde.		En medio del camino hay una piedra grnde.		
-475.				Al lado del camino hay árboles.		Al lado del camino hay árboles.		
+474.			Nomto'ö yuni kanditi ama tùù cheatea	En medio del camino hay una piedra grnde.		En medio del camino hay una piedra grnde.		
+475.			Ditnó yuni yeabean bea tiö	Al lado del camino hay árboles.		Al lado del camino hay árboles.		
 476.				El centro del comal está quebrado.		El centro del comal está quebrado.		
-477.				Hay una mosca en el centro del comal.		Hay una mosca en el centro del comal.		
+477.			Kane ama ndií no chéa	Hay una mosca en el centro del comal.		Hay una mosca en el centro del comal.		
 478.				El comal se partió por en medio.		El comal se partió por en medio.		
 479.				Juan es el de en medio.	(De esos tres hombres que se acercan)	Juan es el de en medio. (De esos tres hombres que se acercan)		
 480.				Vamos a sembrar de este lado de la casa.		Vamos a sembrar de este lado de la casa.		
 481.				¿Siembran ustedes a la orilla del camino?		¿Siembran ustedes a la orilla del camino?		
 482.				El hombre salió.		El hombre salió.		
-483.				El hombre está borracho.		El hombre está borracho.		
+483.			Kùbi sakó	El hombre está borracho.		El hombre está borracho.		
 484.				El hombre que salió estaba borracho.		El hombre que salió estaba borracho.		
 485.				El hombre salió borracho.		El hombre salió borracho.		
 486.				Vi al hombre que estaba borracho.		Vi al hombre que estaba borracho.		
-487.				Encontré borracho al hombre.		Encontré borracho al hombre.		
+487.			Nantonù ama songubi	Me cruce con un borracho		Encontré borracho al hombre.		
 488.				Vine con el hombre que estaba borracho.		Vine con el hombre que estaba borracho.		
 489.				¿Cuál de los hombres que estaba borracho salió?		¿Cuál de los hombres que estaba borracho salió?		
-490.				El hombre mató al perro		El hombre mató al perro		
-491.				El perro estaba mordiendo al hombre.		El perro estaba mordiendo al hombre.		
+490.			So'ö min chìnus ama yana	El hombre mató al perro		El hombre mató al perro		
+491.			Yana min chenet ama so'ö	El perro estaba mordiendo al hombre.		El perro estaba mordiendo al hombre.		
 492.				El hombre mató al perro que lo estaba mordiendo.		El hombre mató al perro que lo estaba mordiendo.		
 492.				El perro me estaba mordiendo.		El perro me estaba mordiendo.		
-493.				El hombre mató al perro que me estaba mordiendo.		El hombre mató al perro que me estaba mordiendo.		
-494.				El perro estaba enfermo.		El perro estaba enfermo.		
-495.				El perro que mató ese hombre estaba enfermo.		El perro que mató ese hombre estaba enfermo.		
+493.			So'ö min chìnus yana chi chenet so'ö	El hombre mató al perro que me estaba mordiendo.		El hombre mató al perro que me estaba mordiendo.		
+494.			Chito ka'a yanam	El perro estaba enfermo.		El perro estaba enfermo.		
+495.			Yana chi chìnu sako a nda ka'a iti	El perro que mató ese hombre estaba enfermo.		El perro que mató ese hombre estaba enfermo.		
 496.				El perro que mató ese hombre me estaba mordiendo.		El perro que mató ese hombre me estaba mordiendo.		
 497.				¿Cuál de los hombres que mataron al perro salió?		¿Cuál de los hombres que mataron al perro salió?		
 498.				Salió el hombre al que le maté al perro.		Salió el hombre al que le maté al perro.		
@@ -736,7 +736,7 @@ ID	PALABRA	NOTAS TRADUCTOR	ORACION EN CUICATECO	ORACION EN ESPAÑOL	NOTAS ORIGIN
 504.			¡Ted kaja nochi jinabad kerillo ú!	¡Dame la caja donde guardas los cerillos!		¡Dame la caja donde guardas los cerillos!		
 505.			¡Ted gikuu nuku chi íkad yuta ú!	¡Dame el cuchillo con que cortas la carne!		¡Dame el cuchillo con que cortas la carne!		
 506.			Gua jinichí chë nuku chi ndod 	No conozco al señor con el que viniste.		No conozco al señor con el que viniste.		
-507.			Nichi chë 	Vi al señor al que le vendiste las gallinas.		Vi al señor al que le vendiste las gallinas.		
+507.			Nichi chë chi nikud t	Vi al señor al que le vendiste las gallinas.		Vi al señor al que le vendiste las gallinas.		
 508.				Este es el señor que vimos sembrando.	(El que sembraba era el señor)	Este es el señor que vimos sembrando. (El que sembraba era el señor)		
 509.				El es viejo.		El es viejo.		
 510.				El es el más viejo.		El es el más viejo.		

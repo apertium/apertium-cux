@@ -1,4 +1,4 @@
-GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1622	1608	1612
+GuessPOS?	Form	Lema	POS	Feats	Significado	Glosa	1610	1596	1600
 _	a	a	ADV		ya				
 _	a	a	PART			QST			
 _	áa		VERB		resuena				
@@ -32,7 +32,7 @@ _	boʼo		NOUN		miedo
 _	chakun		NOUN		mi mamá				
 _	chakud		NOUN		tu mamá	mamá-POSS.2SG			
 _	chaku		NOUN		mi mamá				
-_	cheʼed		VERB		come				
+									
 _	chea		DET	PronType=Int	cuál				
 _	chéa		NOUN		comal				
 _	chéanu		VERB		gusté	?-gustar-1SG			
@@ -548,16 +548,16 @@ _	jeʼet	cheʼe	VERB	VerbForm=Fin	come	?-comer-3
 _	jeét	cheʼe	VERB	VerbForm=Fin	come	?-comer-3 			
 _	jeéta	cheʼe	VERB	VerbForm=Fin	come	?-comer-3.FEM			
 _	jeéy	cheʼe	VERB	VerbForm=Fin	come	?-comer-3.HUM			
-_	cheʼet	cheʼe	VERB	VerbForm=Fin	comio	?-comer-3.AML			
-_	cheʼe	cheʼe	VERB	VerbForm=Fin	como	?-comer-1SG			
-_	cheʼes	cheʼe	VERB	VerbForm=Fin	come	?-comer-3.MSC			
+									
+									
+									
 _	jeeya	cheʼe	VERB	VerbForm=Fin	come	?-comer-3.HUM			
-_	cheed	cheʼe	VERB	VerbForm=Fin	come	?-comer-2SG			
-_	cheeta	cheʼe	VERB	VerbForm=Fin	come	?-comer-3.FEM			
+									
+									
 _	chuʼuu	cheʼe	VERB	VerbForm=Fin	comemos	?-comer-1PL			
-_	cheʼey	cheʼe	VERB	VerbForm=Fin	come	?-comer-3.HUM			
-_	jeʼe	cheʼe	VERB	VerbForm=Fin	estoy.comiendo	?-comer-1SG			
-_	chuʼuu	cheʼe	VERB	VerbForm=Fin	comemos	?-comer-1PL			
+									
+									
+									
 _	neʼë		VERB	VerbForm=Fin	quiero	?-querer-1SG			
 _	nee		VERB	VerbForm=Fin	quería	?-querer-?			
 _	neʼé		VERB	VerbForm=Fin	quiero	?-querer-1SG			
@@ -616,7 +616,7 @@ _	chines		VERB	VerbForm=Fin	ayudó	?-ayudar-3.MSC
 _	jinikus		VERB	VerbForm=Fin	vende	?-vender-3.MSC			
 _	kákud		VERB	VerbForm=Fin	haz	?-hacer-2SG			
 _	jeé		VERB	VerbForm=Fin	como	?-comer-1SG			
-_	chee		VERB	VerbForm=Fin	comer	?-comer-1SG			
+									
 _	nabeanud		VERB	VerbForm=Fin	recoger	?-recoger-2SG			
 _	kuéd		VERB	VerbForm=Fin	vé	?-ir-2SG			
 _	kued		VERB	VerbForm=Fin	vé	?-ir-2SG			
@@ -773,7 +773,7 @@ _	chikuincháakuu		NOUN		virgen
 _	chií	kúʼu	VERB	VerbForm=Fin	tomé	CPL-tomar-1SG			
 _	chiduu		NOUN		sacerdote				
 _	chiadi		NOUN		azúcar				
-_	cheé		VERB		comer	?-comer-?			
+									
 _	chedee		NOUN		carga				
 x	chéche		ADJ		duro				
 x	chebäa		VERB		comer				
@@ -1096,7 +1096,7 @@ _	chiibat		NOUN		telaraña
 _	chiiba		NOUN		precio				
 _	chiba		NOUN		precio				
 _	chenet		VERB	VerbForm=Fin	morder	?-morder-?			
-_	cheéd		VERB	VerbForm=Fin	comes	?-comer-2SG			
+									
 _	cheebinuy		VERB	VerbForm=Fin	va a cenar	?-cenar-3.HUM			
 x	chebá		NOUN		comida,comer				
 _	cheatu		VERB	VerbForm=Fin	quebré	?-quebrar-1SG			
