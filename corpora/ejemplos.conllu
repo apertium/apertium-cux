@@ -6700,6 +6700,3545 @@
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:0552
+# text = Soʼö íʼm koʼos kotoʼos ñeʼe biku.
+# text[orig] = Soʼö íʼm koʼos kotoʼos ñeʼe biku.
+# text[spa] = El músico va a tocar para las fiestas.
+# tagged = false
+# author = mazali
+1	Soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
+2	íʼm	_	_	_	_	_	_	_	_
+3	koʼos	_	VERB	_	_	_	_	_	Gloss=?-decir-3.MSC|Trad=dijo
+4	kotoʼos	_	_	_	_	_	_	_	_
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+6	biku	_	NOUN	_	Typo=Yes	_	_	_	Normal=bíku|Trad=fiesta
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0553
+# text = Cheʼe bínu.
+# text[orig] = cheʼe bínu.
+# text[spa] = Cené.
+# tagged = false
+# author = mazali
+1	Cheʼe	cheʼe	VERB	_	Mood=Pot|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=POT-comer-1SG|Trad=como
+2	bínu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0554
+# text = ¿Taka chí chi kané iñsú nuku biʼi?
+# text[orig] = ¿Taka chí chi kané iñsú nuku biʼi?
+# text[spa] = ¿Cómo fue qué ellos se casaron?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	Taka	taka	ADV	_	_	_	_	_	Trad=cómo
+3	chí	_	_	_	_	_	_	_	_
+4	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+5	kané	_	VERB	_	_	_	_	_	Gloss=?-estar-?|Trad=está
+6	iñsú	_	_	_	_	_	_	_	_
+7	nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
+8	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
+9	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0555
+# text = Tika jidiñ ni tumi.
+# text[orig] = Tika jidiñ ni tumi.
+# text[spa] = Así lo hacían antes.
+# tagged = true
+# author = mazali
+1	Tika	_	NOUN	_	_	_	_	_	Trad=ropa
+2	jidiñ	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-hacer-?|Trad=está.haciendo
+3	ni	_	ADV	_	_	_	_	_	Trad=hasta
+4	tumi	tumi	NOUN	_	_	_	_	_	Trad=dinero
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0556
+# text = Nabá chikuʼumi dikayam.
+# text[orig] = Nabá chikuʼumi dikayam.
+# text[spa] = Esa señora crío a los niños.
+# tagged = false
+# author = mazali
+1	Nabá	_	_	_	_	_	_	_	_
+2	chikuʼumi	_	_	_	_	_	_	_	_
+3	dikayam	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0557
+# text = Joʼo ché mí ndata ñeʼeñ.
+# text[orig] = Joʼo ché mí ndata ñeʼeñ.
+# text[spa] = Ese señor golpeaba a su mujer.
+# tagged = false
+# author = mazali
+1	Joʼo	_	VERB	_	_	_	_	_	Gloss=?-picar-?|Trad=pica
+2	ché	_	_	_	_	_	_	_	_
+3	mí	_	ADV	_	_	_	_	_	Trad=allá
+4	ndata	_	NOUN	_	_	_	_	_	Trad=mujer
+5	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM|Trad=de.él
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0558
+# text = Kuʼeñ ku jidiba.
+# text[orig] = kuʼeñ ku jidiba.
+# text[spa] = Se fueron por la mixteca.
+# tagged = false
+# author = mazali
+1	Kuʼeñ	_	_	_	_	_	_	_	_
+2	ku	_	DET	_	_	_	_	_	Trad=este
+3	jidiba	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0559
+# text = Soʼö tö sí.
+# text[orig] = Soʼö tö sí.
+# text[spa] = Es hombre malo este.
+# tagged = false
+# author = mazali
+1	Soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
+2	tö	_	ADJ	_	_	_	_	_	Trad=mucho|UPOS=Guessed
+3	sí	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0560
+# text = Dae jinés.
+# text[orig] = Dae jinés.
+# text[spa] = Que habla? (el sujeto es hombre).
+# tagged = false
+# author = mazali
+1	Dae	_	PRON	_	_	_	_	_	Trad=que
+2	jinés	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0561
+# text = Ndañ kuete.
+# text[orig] = ndañ kuete.
+# text[spa] = Trae kuetes.
+# tagged = false
+# author = mazali
+1	Ndañ	_	_	_	_	_	_	_	_
+2	kuete	_	NOUN	_	_	_	_	_	Trad=campo
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0562
+# text = Tòn koʼod.
+# text[orig] = Tòn koʼod.
+# text[spa] = Ahí nomas ve.
+# tagged = false
+# author = mazali
+1	Tòn	_	_	_	_	_	_	_	_
+2	koʼod	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Gloss=POT-ir-2SG|Normal=koʼöd|Trad=irás
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0563
+# text = Kued yàbid iña.
+# text[orig] = kued yàbid iña.
+# text[spa] = Ve a hablarle (iña indica que se le va a hablar a alguien mayor o a alguien que se le debe respeto).
+# tagged = false
+# author = mazali
+1	Kued	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ir-2SG|Trad=vé
+2	yàbid	_	_	_	_	_	_	_	_
+3	iña	_	NOUN	_	_	_	_	_	Trad=gente
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0564
+# text = Kanèkay tli.
+# text[orig] = Kanèkay tli.
+# text[spa] = Se quedo un poco más.
+# tagged = false
+# author = mazali
+1	Kanèkay	_	_	_	_	_	_	_	_
+2	tli	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0565
+# text = Kanèkas tli.
+# text[orig] = kanèkas tli.
+# text[spa] = Se quedo un poco más (el sujeto es hombre).
+# tagged = false
+# author = mazali
+1	Kanèkas	_	_	_	_	_	_	_	_
+2	tli	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0566
+# text = Iñmí chi chí dayay.
+# text[orig] = Iñmí chi chí dayay.
+# text[spa] = Fue ella a la que se le murió el hijo (el sujeto puede ser femenino o masculino).
+# tagged = false
+# author = mazali
+1	Iñmí	_	_	_	_	_	_	_	_
+2	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+3	chí	_	_	_	_	_	_	_	_
+4	dayay	_	NOUN	_	_	_	_	_	Gloss=hijo-POSS.3.HUM|Trad=su.hijo(a)
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0567
+# text = Daer chi chiñeʼe sïm.
+# text[orig] = Daer chi chiñeʼe sïm.
+# text[spa] = Que le habrá pasado al muchacho.
+# tagged = false
+# author = mazali
+1	Daer	_	_	_	_	_	_	_	_
+2	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+3	chiñeʼe	_	_	_	_	_	_	_	_
+4	sïm	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0568
+# text = Chi laʼa yuntu ñeʼe.
+# text[orig] = chi laʼa yuntu ñeʼe.
+# text[spa] = Se endureció mi tortilla.
+# tagged = false
+# author = mazali
+1	Chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+2	laʼa	_	_	_	_	_	_	_	_
+3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0569
+# text = Gua kunjean nuti ñeʼe naídi.
+# text[orig] = Gua kunjean nuti ñeʼe naídi.
+# text[spa] = No tiren las semilla del aguacate.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	kunjean	_	_	_	_	_	_	_	_
+3	nuti	_	_	_	_	_	_	_	_
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+5	naídi	_	_	_	_	_	_	_	_
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0570
+# text = Yabin koʼó ama ká ú.
+# text[orig] = Yabin koʼó ama ká ú.
+# text[spa] = Anoche me picó un zancudo.
+# tagged = false
+# author = mazali
+1	Yabin	_	_	_	_	_	_	_	_
+2	koʼó	_	VERB	_	_	_	_	_	Gloss=?-picar-?|Trad=picó
+3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+4	ká	kua	VERB	_	VerbForm=Fin	_	_	_	Gloss=CPL-comprar-1SG|Trad=comprar
+5	ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0571
+# text = A ndaka chi tika díd.
+# text[orig] = A ndaka chi tika díd.
+# text[spa] = Lo hiciste bien.
+# tagged = false
+# author = mazali
+1	A	a	PART	_	_	_	_	_	Gloss=QST
+2	ndaka	_	_	_	_	_	_	_	_
+3	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+4	tika	_	NOUN	_	_	_	_	_	Trad=ropa
+5	díd	_	_	_	_	_	_	_	_
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0572
+# text = Gua neʼe koʼo kuete.
+# text[orig] = Gua neʼe koʼo kuete.
+# text[spa] = No quiero ir al campo.
+# tagged = true
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-?|Trad=quiere
+3	koʼo	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-ir-1SG|Trad=iré
+4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0573
+# text = • Kabiödma koʼo Ndoba.
+# text[orig] = • Kabiödma koʼo Ndoba.
+# text[spa] = Pasado mañana viajaré a Oaxaca.
+# tagged = false
+# author = mazali
+1	•	_	_	_	_	_	_	_	_
+2	Kabiödma	_	_	_	_	_	_	_	_
+3	koʼo	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-ir-1SG|Trad=iré
+4	Ndoba	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0574
+# text = Koʼo kubi töʼo chi tumgoʼot iña.
+# text[orig] = Koʼo kubi töʼo chi tumgoʼot iña.
+# text[spa] = Le diré que le pregunte.
+# tagged = false
+# author = mazali
+1	Koʼo	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-ir-1SG|Trad=iré
+2	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
+3	töʼo	_	_	_	_	_	_	_	_
+4	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+5	tumgoʼot	_	_	_	_	_	_	_	_
+6	iña	_	NOUN	_	_	_	_	_	Trad=gente
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0575
+# text = Sakon yaʼa tös.
+# text[orig] = Sakon yaʼa tös.
+# text[spa] = El es muy enojon.
+# tagged = true
+# author = mazali
+1	Sakon	sakó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=3.MSC|Normal=sakó|Trad=él
+2	yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
+3	tös	_	ADJ	_	_	_	_	_	Trad=enojado|UPOS=Guessed
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0576
+# text = Gua neʼe nde nukuta.
+# text[orig] = Gua neʼe nde nukuta.
+# text[spa] = No quiero hablar con ella.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-?|Trad=quiere
+3	nde	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-bailar-?|Trad=bailas
+4	nukuta	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0577
+# text = Ted silï kande.
+# text[orig] = Ted silï kande.
+# text[spa] = Dame al niño para cargarlo.
+# tagged = false
+# author = mazali
+1	Ted	te	VERB	_	Aspect=Perf|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=CPL-dar-2SG|Trad=dio
+2	silï	_	NOUN	_	_	_	_	_	Trad=niño
+3	kande	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0578
+# text = Ún neʼe kuä.
+# text[orig] = Ún neʼe kuä.
+# text[spa] = Quiero llorar.
+# tagged = true
+# author = mazali
+1	Ún	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
+2	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-?|Trad=quiere
+3	kuä	_	ADJ	_	_	_	_	_	Trad=negro|UPOS=Guessed
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0579
+# text = Dítu kamad.
+# text[orig] = Dítu kamad.
+# text[spa] = Dilo fuerte.
+# tagged = true
+# author = mazali
+1	Dítu	_	NOUN	_	_	_	_	_	Trad=orilla
+2	kamad	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-leer-2SG|Trad=leer
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0580
+# text = Dindad obe tiba cheʼe.
+# text[orig] = Dindad obe tiba cheʼe.
+# text[spa] = Hazme dos empanadas.
+# tagged = false
+# author = mazali
+1	Dindad	_	_	_	_	_	_	_	_
+2	obe	_	NUM	_	_	_	_	_	Trad=dos
+3	tiba	_	NOUN	_	_	_	_	_	Trad=empanada
+4	cheʼe	cheʼe	VERB	_	Mood=Pot|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=POT-comer-1SG|Trad=como
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0581
+# text = Boʼö màà.
+# text[orig] = Boʼö màà.
+# text[spa] = le tengo miedo a la noche.
+# tagged = false
+# author = mazali
+1	Boʼö	_	_	_	_	_	_	_	_
+2	màà	_	NOUN	_	_	_	_	_	Trad=noche
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0582
+# text = ¡Kadichintid!
+# text[orig] = ¡Kadichintid!
+# text[spa] = ¡Cállate
+# tagged = false
+# author = mazali
+1	¡	¡	PUNCT	_	_	_	_	_	_
+2	Kadichintid	_	_	_	_	_	_	_	_
+3	!	!	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0583
+# text = Ndat chi a ndon.
+# text[orig] = Ndat chi a ndon.
+# text[spa] = Que bueno que ya llegó.
+# tagged = false
+# author = mazali
+1	Ndat	_	_	_	_	_	_	_	_
+2	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+3	a	a	ADV	_	_	_	_	_	Trad=ya
+4	ndon	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0584
+# text = Gua jinebés lae.
+# text[orig] = Gua jinebés lae.
+# text[spa] = No te está escuchando wey.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	jinebés	_	_	_	_	_	_	_	_
+3	lae	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0585
+# text = Kued koʼod cheʼe tuʼum.
+# text[orig] = Kued koʼod cheʼe tuʼum.
+# text[spa] = Ve a darle de comer a los pollos.
+# tagged = false
+# author = mazali
+1	Kued	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ir-2SG|Trad=vé
+2	koʼod	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Gloss=POT-ir-2SG|Normal=koʼöd|Trad=irás
+3	cheʼe	cheʼe	VERB	_	Mood=Pot|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=POT-comer-1SG|Trad=como
+4	tuʼum	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0586
+# text = ¿A joʼon jeʼe tuʼum?
+# text[orig] = ¿A joʼon jeʼe tuʼum?
+# text[spa] = ¿Les han dado de comer a los pollos?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	joʼon	_	_	_	_	_	_	_	_
+4	jeʼe	cheʼe	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=PROG-comer-1SG|Trad=como
+5	tuʼum	_	_	_	_	_	_	_	_
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0587
+# text = Nichid tì jikad tiguan kundid kunï.
+# text[orig] = Nichid tì jikad tiguan kundid kunï.
+# text[spa] = Ve por donde caminas, no vayas a pisar a los guajolotitos.
+# tagged = false
+# author = mazali
+1	Nichid	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ver-2SG|Trad=viste
+2	tì	_	_	_	_	_	_	_	_
+3	jikad	_	_	_	_	_	_	_	_
+4	tiguan	_	_	_	_	_	_	_	_
+5	kundid	_	_	_	_	_	_	_	_
+6	kunï	_	_	_	_	_	_	_	_
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0588
+# text = Kutea noʼo.
+# text[orig] = Kutea noʼo.
+# text[spa] = Ya no hay leña.
+# tagged = false
+# author = mazali
+1	Kutea	_	_	_	_	_	_	_	Trad=no.hay
+2	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0589
+# text = ¿A chid yud tïd?
+# text[orig] = ¿A chid yud tïd?
+# text[spa] = ¿Te cortaste el cabello?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	chid	_	VERB	_	_	_	_	_	Gloss=?-echar-2SG|Trad=echaste
+4	yud	_	_	_	_	_	_	_	_
+5	tïd	_	NOUN	_	_	_	_	_	Gloss=cabello-POSS.2SG|Trad=tu.cabello
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0590
+# text = Tëched ú.
+# text[orig] = Tëched ú.
+# text[spa] = déjame.
+# tagged = false
+# author = mazali
+1	Tëched	_	_	_	_	_	_	_	_
+2	ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0591
+# text = Gua dina chí.
+# text[orig] = Gua dina chí.
+# text[spa] = No hice eso.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	dina	_	_	_	_	_	_	_	_
+3	chí	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0592
+# text = Yeabean yaʼachiy chi tika koʼö.
+# text[orig] = Yeabean yaʼachiy chi tika koʼö.
+# text[spa] = Se ofendió mucho por lo que dije.
+# tagged = false
+# author = mazali
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
+2	yaʼachiy	_	_	_	_	_	_	_	_
+3	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+4	tika	_	NOUN	_	_	_	_	_	Trad=ropa
+5	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-ir-1SG|Trad=iré
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0593
+# text = Cheneabe lïm.
+# text[orig] = Cheneabe lïm.
+# text[spa] = se cayó niño ( lïm se puede usar pra ambos sexos.
+# tagged = false
+# author = mazali
+1	Cheneabe	_	_	_	_	_	_	_	_
+2	lïm	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0594
+# text = A kuʼey bauku?
+# text[orig] = A kuʼey bauku?
+# text[spa] = ¿fue a la carcel?
+# tagged = false
+# author = mazali
+1	A	a	PART	_	_	_	_	_	Gloss=QST
+2	kuʼey	_	_	_	_	_	_	_	_
+3	bauku	_	_	_	_	_	_	_	_
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0595
+# text = Gua duʼu deanu.
+# text[orig] = Gua duʼu deanu.
+# text[spa] = nadie sabe.
+# tagged = true
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
+3	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-saber-1SG|Trad=sé
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0596
+# text = Chíni jingatu.
+# text[orig] = Chíni jingatu.
+# text[spa] = disparó de un rifle.
+# tagged = false
+# author = mazali
+1	Chíni	_	NOUN	_	_	_	_	_	Trad=frijolar
+2	jingatu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0597
+# text = Ko biʼi muʼu.
+# text[orig] = Ko biʼi muʼu.
+# text[spa] = lo voy a pegar aquí.
+# tagged = false
+# author = mazali
+1	Ko	_	DET	_	_	_	_	_	Trad=ese
+2	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
+3	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0598
+# text = Gua tirnó nded.
+# text[orig] = Gua tirnó nded.
+# text[spa] = no hables como sea.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	tirnó	_	_	_	_	_	_	_	_
+3	nded	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0599
+# text = Nanubdamauʼu nuku biʼi.
+# text[orig] = Nanubdamauʼu nuku biʼi.
+# text[spa] = Vamos a reunirnos.
+# tagged = false
+# author = mazali
+1	Nanubdamauʼu	_	_	_	_	_	_	_	_
+2	nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
+3	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0600
+# text = Tika joʼö iña.
+# text[orig] = Tika joʼö iña.
+# text[spa] = Así dice la gente.
+# tagged = true
+# author = mazali
+1	Tika	_	NOUN	_	_	_	_	_	Trad=ropa
+2	joʼö	_	VERB	_	_	_	_	_	Trad=suena
+3	iña	_	NOUN	_	_	_	_	_	Trad=gente
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0601
+# text = ¿A tika jidiñ nitumi?
+# text[orig] = ¿A tika jidiñ nitumi?
+# text[spa] = ¿Así lo hacían antes?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	tika	_	NOUN	_	_	_	_	_	Trad=ropa
+4	jidiñ	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-hacer-?|Trad=está.haciendo
+5	nitumi	_	_	_	_	_	_	_	_
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0602
+# text = Jidiyad ú.
+# text[orig] = Jidiyad ú.
+# text[spa] = Me asustas.
+# tagged = false
+# author = mazali
+1	Jidiyad	_	_	_	_	_	_	_	_
+2	ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0603
+# text = Kutea naune kuyadu chi tika joʼöd.
+# text[orig] = Kutea naune kuyadu chi tika joʼöd.
+# text[spa] = ya no volveré a dormir con lo que me estás diciendo.
+# tagged = false
+# author = mazali
+1	Kutea	_	_	_	_	_	_	_	Trad=no.hay
+2	naune	_	_	_	_	_	_	_	_
+3	kuyadu	_	VERB	_	_	_	_	_	Gloss=?-dormir-?|Trad=dormir
+4	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+5	tika	_	NOUN	_	_	_	_	_	Trad=ropa
+6	joʼöd	_	_	_	_	_	_	_	_
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0604
+# text = Na karouʼu recreo.
+# text[orig] = Na karouʼu recreo.
+# text[spa] = ya salimos al recreo.
+# tagged = false
+# author = mazali
+1	Na	_	ADV	_	_	_	_	_	Trad=ya
+2	karouʼu	_	_	_	_	_	_	_	_
+3	recreo	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0605
+# text = Kub kuaku dí.
+# text[orig] = Kub kuaku dí.
+# text[spa] = te lo diré directo.
+# tagged = true
+# author = mazali
+1	Kub	_	VERB	_	_	_	_	_	Trad=va.a.ser
+2	kuaku	_	ADJ	_	_	_	_	_	Trad=derecho|UPOS=Guessed
+3	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0606
+# text = Jinanuta toʼota.
+# text[orig] = Jinanuta toʼota.
+# text[spa] = lava sus manos (una mujer).
+# tagged = false
+# author = mazali
+1	Jinanuta	_	_	_	_	_	_	_	_
+2	toʼota	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0607
+# text = ¿Daë chí?
+# text[orig] = ¿Daë chí?
+# text[spa] = ¿Qué pasó?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	Daë	_	PRON	_	_	_	_	_	Trad=qué|UPOS=Guessed
+3	chí	_	_	_	_	_	_	_	_
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0608
+# text = Tako jindeta no celular.
+# text[orig] = tako jindeta no celular.
+# text[spa] = ella está hablando por teléfono.
+# tagged = false
+# author = mazali
+1	Tako	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=3.FEM|Normal=takó|Trad=ella
+2	jindeta	_	_	_	_	_	_	_	_
+3	no	no	ADP	_	_	_	_	_	Gloss=LOC|Trad=en
+4	celular	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0609
+# text = Diñá kiana ku.
+# text[orig] = diñá kiana ku.
+# text[spa] = Ensucie esta camisa.
+# tagged = false
+# author = mazali
+1	Diñá	_	_	_	_	_	_	_	_
+2	kiana	_	NOUN	_	_	_	_	_	Trad=camisa
+3	ku	_	DET	_	_	_	_	_	Trad=este
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0610
+# text = Kueche.
+# text[orig] = kueche.
+# text[spa] = Pinto.
+# tagged = false
+# author = mazali
+1	Kueche	_	_	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0611
+# text = Diyàà kutu.
+# text[orig] = diyàà kutu.
+# text[spa] = la olla está vacía.
+# tagged = false
+# author = mazali
+1	Diyàà	_	_	_	_	_	_	_	_
+2	kutu	_	NOUN	_	_	_	_	_	Trad=olla
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0612
+# text = ¿A jeakud?
+# text[orig] = ¿A jeakud?
+# text[spa] = ¿Estás llorando?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	jeakud	_	_	_	_	_	_	_	_
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0613
+# text = Gua kuad.
+# text[orig] = Gua kuad.
+# text[spa] = No llores.
+# tagged = true
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	kuad	kua	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-comprar-2SG|Trad=comprar
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0614
+# text = Lï ka ta ni tumi.
+# text[orig] = Lï ka ta ni tumi.
+# text[spa] = Todavia era pequeña en aquel entonces.
+# tagged = true
+# author = mazali
+1	Lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
+2	ka	_	ADV	_	_	_	_	_	Trad=aún
+3	ta	_	NOUN	_	NounType=Clf	_	_	_	Trad=señora
+4	ni	_	ADV	_	_	_	_	_	Trad=hasta
+5	tumi	tumi	NOUN	_	_	_	_	_	Trad=dinero
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0615
+# text = Gua yaʼay nuku.
+# text[orig] = Gua yaʼay nuku.
+# text[spa] = No lo aprecian.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	yaʼay	_	_	_	_	_	_	_	_
+3	nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0616
+# text = Jineuʼu ñeʼe ñoo.
+# text[orig] = Jineuʼu ñeʼe ñoo.
+# text[spa] = Hablamos de terrenos.
+# tagged = false
+# author = mazali
+1	Jineuʼu	_	_	_	_	_	_	_	_
+2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+3	ñoo	_	NOUN	_	_	_	_	_	Trad=pueblo
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0617
+# text = Bea yaʼá muʼu.
+# text[orig] = Bea yaʼá muʼu.
+# text[spa] = Hay humedad aquí.
+# tagged = true
+# author = mazali
+1	Bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
+2	yaʼá	_	VERB	_	_	_	_	_	Gloss=?-doler-?|Trad=duele
+3	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0618
+# text = Díat chí.
+# text[orig] = Díat chí.
+# text[spa] = Se asustó (el sujeto es un animal).
+# tagged = false
+# author = mazali
+1	Díat	_	_	_	_	_	_	_	_
+2	chí	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0619
+# text = Kuinu toʼö.
+# text[orig] = Kuinu toʼö.
+# text[spa] = La voy a esperar.
+# tagged = false
+# author = mazali
+1	Kuinu	_	_	_	_	_	_	_	_
+2	toʼö	_	PRON	_	_	_	_	_	Trad=él
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0620
+# text = ¿A obe?
+# text[orig] = ¿A obe?
+# text[spa] = ¿Son dos?
+# tagged = true
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	obe	_	NUM	_	_	_	_	_	Trad=dos
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0621
+# text = ¿A obey?
+# text[orig] = ¿A obey?
+# text[spa] = ¿Son dos? (la y indica que son personas)
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	obey	_	_	_	_	_	_	_	_
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0622
+# text = Chi ʼuu kutea.
+# text[orig] = Chi ʼuu kutea.
+# text[spa] = Nosotros ya no.
+# tagged = false
+# author = mazali
+1	Chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+2	ʼuu	ʼuu	PRON	_	PronType=Prs	_	_	_	Gloss=1PL.INC|Trad=nosotros
+3	kutea	_	_	_	_	_	_	_	Trad=no.hay
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0623
+# text = Kanejinuñ soʼö.
+# text[orig] = Kanejinuñ soʼö.
+# text[spa] = Lo están esperando.
+# tagged = false
+# author = mazali
+1	Kanejinuñ	_	_	_	_	_	_	_	_
+2	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0624
+# text = Nabë yuntu.
+# text[orig] = Nabë yuntu.
+# text[spa] = Se enfriaran las tortillas.
+# tagged = false
+# author = mazali
+1	Nabë	_	_	_	_	_	_	_	_
+2	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0625
+# text = Kaneta ntiñu.
+# text[orig] = Kaneta ntiñu.
+# text[spa] = Esta en servicio.
+# tagged = false
+# author = mazali
+1	Kaneta	_	_	_	_	_	_	_	_
+2	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0626
+# text = Nuku iñsë kachikay.
+# text[orig] = Nuku iñsë kachikay.
+# text[spa] = Con ellos pasean.
+# tagged = false
+# author = mazali
+1	Nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
+2	iñsë	iñsë	PRON	_	PronType=Prs	_	_	_	Gloss=3PL|Trad=ellos
+3	kachikay	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0627
+# text = Insú kuen mnó.
+# text[orig] = Insú kuen mnó.
+# text[spa] = Nosotros empezamos.
+# tagged = false
+# author = mazali
+1	Insú	insú	PRON	_	PronType=Prs	_	_	_	Gloss=1PL.EXC|Trad=nosotros
+2	kuen	_	_	_	_	_	_	_	_
+3	mnó	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0628
+# text = Kuchin.
+# text[orig] = Kuchin.
+# text[spa] = Venga.
+# tagged = false
+# author = mazali
+1	Kuchin	_	_	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0629
+# text = Mi kaneta.
+# text[orig] = Mi kaneta.
+# text[spa] = Ahí está (sujeto femenino).
+# tagged = false
+# author = mazali
+1	Mi	_	ADV	_	_	_	_	_	Trad=ahí|UPOS=Guessed
+2	kaneta	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0630
+# text = Kab chi chí tami.
+# text[orig] = Kab chi chí tami.
+# text[spa] = Por eso se murió ella.
+# tagged = false
+# author = mazali
+1	Kab	_	_	_	_	_	_	_	_
+2	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+3	chí	_	_	_	_	_	_	_	_
+4	tami	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0631
+# text = Toko lï.
+# text[orig] = Toko lï.
+# text[spa] = Así pequeño.
+# tagged = false
+# author = mazali
+1	Toko	_	_	_	_	_	_	_	_
+2	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0632
+# text = Kachikay jinikuy.
+# text[orig] = Kachikay jinikuy.
+# text[spa] = Esta vendiendo (no esta en un solo lugar).
+# tagged = false
+# author = mazali
+1	Kachikay	_	_	_	_	_	_	_	_
+2	jinikuy	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-vender-3.HUM|Trad=vende
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0633
+# text = Gua jindaka dí.
+# text[orig] = Gua jindaka dí.
+# text[spa] = No te encuentro.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	jindaka	_	_	_	_	_	_	_	_
+3	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0634
+# text = Kutea baʼa ndoʼom.
+# text[orig] = Kutea baʼa ndoʼom.
+# text[spa] = Ya no están las casas de adobe.
+# tagged = false
+# author = mazali
+1	Kutea	_	_	_	_	_	_	_	Trad=no.hay
+2	baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+3	ndoʼom	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0635
+# text = Gua joʼon jin iña.
+# text[orig] = Gua joʼon jin iña.
+# text[spa] = No les dicen.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	joʼon	_	_	_	_	_	_	_	_
+3	jin	_	_	_	_	_	_	_	_
+4	iña	_	NOUN	_	_	_	_	_	Trad=gente
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0636
+# text = Kanú dayata.
+# text[orig] = kanú dayata.
+# text[spa] = Esta embarazada.
+# tagged = true
+# author = mazali
+1	Kanú	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-cargar-?|Trad=cargar
+2	dayata	daya	NOUN	_	_	_	_	_	Gloss=hijo-POSS.3.FEM|Trad=su.hijo(a)
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0637
+# text = A cheé chi ñeʼes.
+# text[orig] = A cheé chi ñeʼes.
+# text[spa] = Se quebró?(indicando posecion de un objeto de un sujeto masculino).
+# tagged = true
+# author = mazali
+1	A	a	PART	_	_	_	_	_	Gloss=QST
+2	cheé	cheʼe	VERB	_	Typo=Yes|Mood=Pot|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=POT-comer-1SG|Normal=cheʼe|Trad=como
+3	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+4	ñeʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.MSC|Trad=de.él
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0638
+# text = Yanam tu?
+# text[orig] = Yanam tu?
+# text[spa] = ¿Y el perro?
+# tagged = false
+# author = mazali
+1	Yanam	_	NOUN	_	_	_	_	_	Trad=perro
+2	tu	_	_	_	_	_	_	_	_
+3	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0639
+# text = Ndich ko.
+# text[orig] = Ndich ko.
+# text[spa] = Asi es.
+# tagged = false
+# author = mazali
+1	Ndich	_	_	_	_	_	_	_	_
+2	ko	_	DET	_	_	_	_	_	Trad=ese
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0640
+# text = Techkóñ noʼo nuʼuu.
+# text[orig] = Techkóñ noʼo nuʼuu.
+# text[spa] = Va a acarrear nuestra leña.
+# tagged = false
+# author = mazali
+1	Techkóñ	_	_	_	_	_	_	_	_
+2	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
+3	nuʼuu	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0641
+# text = Chi jínu.
+# text[orig] = Chi jínu.
+# text[spa] = Me atrasé.
+# tagged = false
+# author = mazali
+1	Chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+2	jínu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0642
+# text = Chijeané comida ú.
+# text[orig] = Chijeané comida ú.
+# text[spa] = Me manche de comida.
+# tagged = false
+# author = mazali
+1	Chijeané	_	_	_	_	_	_	_	_
+2	comida	_	NOUN	_	_	_	_	_	Trad=comida
+3	ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0643
+# text = Kued koyatad yana.
+# text[orig] = Kued koyatad yana.
+# text[spa] = Ve a amarrar al perro.
+# tagged = false
+# author = mazali
+1	Kued	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ir-2SG|Trad=vé
+2	koyatad	_	_	_	_	_	_	_	_
+3	yana	_	NOUN	_	_	_	_	_	Trad=perro
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0644
+# text = ¿A ngaba?
+# text[orig] = ¿A ngaba?
+# text[spa] = ¿Sobró?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	ngaba	_	_	_	_	_	_	_	_
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0645
+# text = ¿A bea ka?
+# text[orig] = ¿A bea ka?
+# text[spa] = ¿Aún hay?
+# tagged = true
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
+4	ka	_	ADV	_	_	_	_	_	Trad=aún
+5	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0646
+# text = Ñeʼë mö si.
+# text[orig] = Ñeʼë mö si.
+# text[spa] = Es mio eso.
+# tagged = false
+# author = mazali
+1	Ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Trad=de.mí
+2	mö	_	_	_	_	_	_	_	_
+3	si	_	PRON	_	_	_	_	_	Trad=eso
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0647
+# text = Jitibiy noo biʼiy.
+# text[orig] = Jitibiy noo biʼiy.
+# text[spa] = Se besan (prom:ellos).
+# tagged = false
+# author = mazali
+1	Jitibiy	_	_	_	_	_	_	_	_
+2	noo	no	ADP	_	Typo=Yes	_	_	_	Gloss=LOC|Normal=no|Trad=en
+3	biʼiy	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0648
+# text = Ama tìba ñeʼe nanta.
+# text[orig] = Ama tìba ñeʼe nanta.
+# text[spa] = Un capullo de flor.
+# tagged = false
+# author = mazali
+1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+2	tìba	_	_	_	_	_	_	_	_
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+4	nanta	_	NOUN	_	_	_	_	_	Trad=flor
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0649
+# text = Chida chikueñ ú a taka kuma noʼo.
+# text[orig] = Chida chikueñ ú a taka kuma noʼo.
+# text[spa] = Me papá me enseñó a rajar leña.
+# tagged = false
+# author = mazali
+1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
+2	chikueñ	_	VERB	_	_	_	_	_	Gloss=?-enseñar-?|Trad=enseñó
+3	ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+4	a	a	PART	_	_	_	_	_	Gloss=QST
+5	taka	taka	ADV	_	_	_	_	_	Trad=cómo
+6	kuma	_	_	_	_	_	_	_	_
+7	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
+8	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0650
+# text = A ni gua kunejinud ú.
+# text[orig] = A ni gua kunejinud ú.
+# text[spa] = Ni me esperes.
+# tagged = false
+# author = mazali
+1	A	a	PART	_	_	_	_	_	Gloss=QST
+2	ni	_	ADV	_	_	_	_	_	Trad=hasta
+3	gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+4	kunejinud	_	_	_	_	_	_	_	_
+5	ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0651
+# text = Ë* koʼö.
+# text[orig] = Ë* koʼö.
+# text[spa] = No voy a ir.
+# tagged = false
+# author = mazali
+1	Ë*	_	_	_	_	_	_	_	_
+2	koʼö	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-ir-1SG|Trad=iré
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0652
+# text = Yàba biʼi.
+# text[orig] = Yàba biʼi.
+# text[spa] = Maceta de frutas.
+# tagged = false
+# author = mazali
+1	Yàba	_	_	_	_	_	_	_	_
+2	biʼi	_	NOUN	_	_	_	_	_	Trad=fruta
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0653
+# text = Kanu yaduu noo*.
+# text[orig] = Kanu yaduu noo*.
+# text[spa] = Me enchilé.
+# tagged = false
+# author = mazali
+1	Kanu	_	VERB	_	_	_	_	_	Trad=está
+2	yaduu	_	ADJ	_	_	_	_	_	Trad=picante|UPOS=Guessed
+3	noo*	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0654
+# text = Kanu yadi noo.
+# text[orig] = Kanu yadi noo.
+# text[spa] = Me endulcé.
+# tagged = true
+# author = mazali
+1	Kanu	_	VERB	_	_	_	_	_	Trad=está
+2	yadi	_	ADJ	_	_	_	_	_	Trad=dulce|UPOS=Guessed
+3	noo	no	ADP	_	Typo=Yes	_	_	_	Gloss=LOC|Normal=no|Trad=en
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0655
+# text = Kày liti.
+# text[orig] = Kày liti.
+# text[spa] = Muy pequeño.
+# tagged = false
+# author = mazali
+1	Kày	_	_	_	_	_	_	_	_
+2	liti	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0656
+# text = ¿A kami koʼöd ñeʼe yokom?
+# text[orig] = ¿A kami koʼöd ñeʼe yokom?
+# text[spa] = ¿Apenas vas por el tenate?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	kami	_	_	_	_	_	_	_	_
+4	koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-ir-2SG|Trad=irás
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+6	yokom	_	_	_	_	_	_	_	_
+7	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0657
+# text = Ni kuʼu jí tasë.
+# text[orig] = Ni kuʼu jí tasë.
+# text[spa] = Ellas son cuatro.
+# tagged = false
+# author = mazali
+1	Ni	_	ADV	_	_	_	_	_	Trad=hasta
+2	kuʼu	kúʼu	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-tomar-1SG|Trad=tomo
+3	jí	_	_	_	_	_	_	_	_
+4	tasë	tasë	PRON	_	PronType=Prs	_	_	_	Gloss=3PL.FEM|Trad=ellas
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0658
+# text = Gë tö ajo toʼö.
+# text[orig] = Gë tö ajo toʼö.
+# text[spa] = Huele mucho a ajo ahi.
+# tagged = false
+# author = mazali
+1	Gë	_	VERB	_	_	_	_	_	Trad=hace
+2	tö	_	ADJ	_	_	_	_	_	Trad=mucho|UPOS=Guessed
+3	ajo	_	_	_	_	_	_	_	_
+4	toʼö	_	PRON	_	_	_	_	_	Trad=él
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0659
+# text = Naíyaa káku.
+# text[orig] = naíyaa káku.
+# text[spa] = Voy a hacer salsa.
+# tagged = false
+# author = mazali
+1	Naíyaa	_	_	_	_	_	_	_	_
+2	káku	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0660
+# text = Stabí mí.
+# text[orig] = Stabí mí.
+# text[spa] = Están ahi (tl: estan tirados ahi, el sujeto es un objeto).
+# tagged = false
+# author = mazali
+1	Stabí	_	_	_	_	_	_	_	_
+2	mí	_	ADV	_	_	_	_	_	Trad=allá
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0661
+# text = Gua jindatné ñeʼe.
+# text[orig] = Gua jindatné ñeʼe.
+# text[spa] = No me salen las cuentas.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	jindatné	_	_	_	_	_	_	_	_
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0662
+# text = Neʼe dí bitoʼö ñeʼe daya.
+# text[orig] = Neʼe dí bitoʼö ñeʼe daya.
+# text[spa] = Lo quiero divir a la mitad para mis hijas.
+# tagged = false
+# author = mazali
+1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-?|Trad=quiere
+2	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+3	bitoʼö	_	_	_	_	_	_	_	_
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+5	daya	_	NOUN	_	_	_	_	_	Trad=hijo(a)
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0663
+# text = Gua jitenús.
+# text[orig] = Gua jitenús.
+# text[spa] = No hace caso.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	jitenús	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0664
+# text = Ingö kaka ñeʼe ndá.
+# text[orig] = Ingö kaka ñeʼe ndá.
+# text[spa] = Aqui traigo los papeles.
+# tagged = false
+# author = mazali
+1	Ingö	_	_	_	_	_	_	_	_
+2	kaka	_	NOUN	_	_	_	_	_	Trad=papel
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+4	ndá	_	ADJ	_	_	_	_	_	Trad=bueno|UPOS=Guessed
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0665
+# text = Diyatoʼös chí cheʼës.
+# text[orig] = Diyatoʼös chí cheʼës.
+# text[spa] = No traia nada cuando fue.
+# tagged = false
+# author = mazali
+1	Diyatoʼös	_	_	_	_	_	_	_	_
+2	chí	_	_	_	_	_	_	_	_
+3	cheʼës	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0666
+# text = A tikan kuné.
+# text[orig] = A tikan kuné.
+# text[spa] = Asi se van a quedar las cosas.
+# tagged = false
+# author = mazali
+1	A	a	PART	_	_	_	_	_	Gloss=QST
+2	tikan	_	_	_	_	_	_	_	_
+3	kuné	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0667
+# text = Kaka kama a taka.
+# text[orig] = Kaka kama a taka.
+# text[spa] = papelito habla.
+# tagged = false
+# author = mazali
+1	Kaka	_	NOUN	_	_	_	_	_	Trad=papel
+2	kama	_	_	_	_	_	_	_	_
+3	a	a	PART	_	_	_	_	_	Gloss=QST
+4	taka	taka	ADV	_	_	_	_	_	Trad=cómo
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0668
+# text = Chi cheʼë nukus.
+# text[orig] = Chi cheʼë nukus.
+# text[spa] = Que fui con él.
+# tagged = false
+# author = mazali
+1	Chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+2	cheʼë	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Gloss=CPL-ir-1SG|Trad=fui
+3	nukus	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0669
+# text = ¿A taka nded nukuta?
+# text[orig] = ¿A taka nded nukuta?
+# text[spa] = ¿Como hablaste con ella?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	taka	taka	ADV	_	_	_	_	_	Trad=cómo
+4	nded	_	_	_	_	_	_	_	_
+5	nukuta	_	_	_	_	_	_	_	_
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0670
+# text = Ú jinʼaku chi kané ka ta obe.
+# text[orig] = ú jinʼaku chi kané ka ta obe.
+# text[spa] = Yo me acuerdo que se quedaron otros dos.
+# tagged = false
+# author = mazali
+1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+2	jinʼaku	_	_	_	_	_	_	_	_
+3	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+4	kané	_	VERB	_	_	_	_	_	Gloss=?-estar-?|Trad=está
+5	ka	_	ADV	_	_	_	_	_	Trad=aún
+6	ta	_	NOUN	_	NounType=Clf	_	_	_	Trad=señora
+7	obe	_	NUM	_	_	_	_	_	Trad=dos
+8	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0671
+# text = Sakó chi kuaku.
+# text[orig] = Sakó chi kuaku.
+# text[spa] = Deberás con él.
+# tagged = true
+# author = mazali
+1	Sakó	sakó	PRON	_	PronType=Prs	_	_	_	Gloss=3.MSC|Trad=él
+2	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+3	kuaku	_	ADJ	_	_	_	_	_	Trad=derecho|UPOS=Guessed
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0672
+# text = Mö no ventana kané.
+# text[orig] = Mö no ventana kané.
+# text[spa] = Está debajo de la ventana.
+# tagged = false
+# author = mazali
+1	Mö	_	_	_	_	_	_	_	_
+2	no	no	ADP	_	_	_	_	_	Gloss=LOC|Trad=en
+3	ventana	_	_	_	_	_	_	_	_
+4	kané	_	VERB	_	_	_	_	_	Gloss=?-estar-?|Trad=está
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0673
+# text = Tika díʼuu.
+# text[orig] = Tika díʼuu.
+# text[spa] = Asi le hacemos.
+# tagged = false
+# author = mazali
+1	Tika	_	NOUN	_	_	_	_	_	Trad=ropa
+2	díʼuu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0674
+# text = Tumgota ñeʼe túm.
+# text[orig] = Tumgota ñeʼe túm.
+# text[spa] = Que ella pregunte.
+# tagged = false
+# author = mazali
+1	Tumgota	_	_	_	_	_	_	_	_
+2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+3	túm	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0675
+# text = Soʼö yunuu soʼö.
+# text[orig] = Soʼö yunuu soʼö.
+# text[spa] = El es un hombre joven.
+# tagged = false
+# author = mazali
+1	Soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
+2	yunuu	_	_	_	_	_	_	_	_
+3	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0676
+# text = Deanus a taka kané ñeʼe.
+# text[orig] = Deanus a taka kané ñeʼe.
+# text[spa] = Él sabe como quedaron las cosas.
+# tagged = false
+# author = mazali
+1	Deanus	_	_	_	_	_	_	_	_
+2	a	a	PART	_	_	_	_	_	Gloss=QST
+3	taka	taka	ADV	_	_	_	_	_	Trad=cómo
+4	kané	_	VERB	_	_	_	_	_	Gloss=?-estar-?|Trad=está
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0677
+# text = Nínu ninchét ñeʼeta.
+# text[orig] = Nínu ninchét ñeʼeta.
+# text[spa] = Le dieron una golpiza (no se la termino, ).
+# tagged = false
+# author = mazali
+1	Nínu	nínu	NOUN	_	_	_	_	_	Trad=maíz
+2	ninchét	_	_	_	_	_	_	_	_
+3	ñeʼeta	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.ella|UPOS=Guessed
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0678
+# text = A mi kanón chích nichin.
+# text[orig] = A mi kanón chích nichin.
+# text[spa] = Legamos ahí por eso lo vimos.
+# tagged = false
+# author = mazali
+1	A	a	PART	_	_	_	_	_	Gloss=QST
+2	mi	_	ADV	_	_	_	_	_	Trad=ahí|UPOS=Guessed
+3	kanón	_	_	_	_	_	_	_	_
+4	chích	_	_	_	_	_	_	_	_
+5	nichin	_	VERB	_	_	_	_	_	Gloss=?-ver-1PL|Trad=vimos
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0679
+# text = Gua iñmí jindeñ.
+# text[orig] = Gua iñmí jindeñ.
+# text[spa] = No habló él.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	iñmí	_	_	_	_	_	_	_	_
+3	jindeñ	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0680
+# text = A numama chí koʼos toʼö.
+# text[orig] = A numama chí koʼos toʼö.
+# text[spa] = Se lo dió todo a ella.
+# tagged = false
+# author = mazali
+1	A	a	PART	_	_	_	_	_	Gloss=QST
+2	numama	_	_	_	_	_	_	_	_
+3	chí	_	_	_	_	_	_	_	_
+4	koʼos	_	VERB	_	_	_	_	_	Gloss=?-decir-3.MSC|Trad=dijo
+5	toʼö	_	PRON	_	_	_	_	_	Trad=él
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0681
+# text = Man nichi gua tumgoʼo gua joʼös.
+# text[orig] = Man nichi gua tumgoʼo gua joʼös.
+# text[spa] = Si no le pregunté no me digo nada (noun:masculino).
+# tagged = false
+# author = mazali
+1	Man	_	ADV	_	_	_	_	_	Trad=ahora
+2	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ver-1SG|Trad=vi
+3	gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+4	tumgoʼo	_	_	_	_	_	_	_	_
+5	gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+6	joʼös	_	_	_	_	_	_	_	_
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0682
+# text = Yeabean gesoʼös.
+# text[orig] = Yeabean gesoʼös.
+# text[spa] = Protestó mucho.
+# tagged = false
+# author = mazali
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
+2	gesoʼös	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0683
+# text = Kubtota toʼö.
+# text[orig] = Kubtota toʼö.
+# text[spa] = La va a regañar ( de mujr a mujer).
+# tagged = false
+# author = mazali
+1	Kubtota	_	_	_	_	_	_	_	_
+2	toʼö	_	PRON	_	_	_	_	_	Trad=él
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0684
+# text = Kuʼuu nukus.
+# text[orig] = Kuʼuu nukus.
+# text[spa] = Vamos con él.
+# tagged = false
+# author = mazali
+1	Kuʼuu	_	VERB	_	_	_	_	_	Trad=tenemos.que
+2	nukus	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0685
+# text = Kunu chè ñeʼe ñoom.
+# text[orig] = Kunu chè ñeʼe ñoom.
+# text[spa] = Se va a cercar el terreno.
+# tagged = false
+# author = mazali
+1	Kunu	_	VERB	_	_	_	_	_	Gloss=?-poner-1SG|Trad=voy.a.poner
+2	chè	_	_	_	_	_	_	_	_
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+4	ñoom	_	NOUN	_	Typo=Yes	_	_	_	Normal=ñoo|Trad=pueblo
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0686
+# text = Ama akun.
+# text[orig] = Ama akun.
+# text[spa] = Yo pienso.
+# tagged = false
+# author = mazali
+1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+2	akun	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0687
+# text = ¿Y nichi gua kutenus tu?
+# text[orig] = ¿Y nichi gua kutenus tu?
+# text[spa] = ¿Y si ya no va a querer?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	Y	_	_	_	_	_	_	_	_
+3	nichi	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ver-1SG|Trad=vi
+4	gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+5	kutenus	_	_	_	_	_	_	_	_
+6	tu	_	_	_	_	_	_	_	_
+7	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0688
+# text = Nabenri kuaku no.
+# text[orig] = Nabenri kuaku no.
+# text[spa] = Que se solucionen las cosas.
+# tagged = false
+# author = mazali
+1	Nabenri	_	_	_	_	_	_	_	_
+2	kuaku	_	ADJ	_	_	_	_	_	Trad=derecho|UPOS=Guessed
+3	no	no	ADP	_	_	_	_	_	Gloss=LOC|Trad=en
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0689
+# text = Kab chi gua ñeʼeñ bed kaba.
+# text[orig] = Kab chi gua ñeʼeñ bed kaba.
+# text[spa] = Solo porque no quiere problemas.
+# tagged = false
+# author = mazali
+1	Kab	_	_	_	_	_	_	_	_
+2	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+3	gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM|Trad=de.él
+5	bed	_	_	_	_	_	_	_	_
+6	kaba	_	ADJ	_	_	_	_	_	Trad=feo|UPOS=Guessed
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0690
+# text = Ñeʼe jindita ñeʼeñ.
+# text[orig] = Ñeʼe jindita ñeʼeñ.
+# text[spa] = Es de sus padres.
+# tagged = false
+# author = mazali
+1	Ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+2	jindita	_	_	_	_	_	_	_	_
+3	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM|Trad=de.él
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0691
+# text = Yeabean chitoñ iña.
+# text[orig] = Yeabean chitoñ iña.
+# text[spa] = Lo regañaron mucho.
+# tagged = false
+# author = mazali
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
+2	chitoñ	_	_	_	_	_	_	_	_
+3	iña	_	NOUN	_	_	_	_	_	Trad=gente
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0692
+# text = Muʼu ñeʼe.
+# text[orig] = Muʼu ñeʼe.
+# text[spa] = Aqui es mio.
+# tagged = true
+# author = mazali
+1	Muʼu	_	ADV	_	_	_	_	_	Trad=aquí
+2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0693
+# text = ¿A taka kanenoʼo ñeʼe?
+# text[orig] = ¿A taka kanenoʼo ñeʼe?
+# text[spa] = ¿Como quedaron las cosas?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	taka	taka	ADV	_	_	_	_	_	Trad=cómo
+4	kanenoʼo	_	_	_	_	_	_	_	_
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0694
+# text = Di baní joʼöd.
+# text[orig] = Di baní joʼöd.
+# text[spa] = Tu hablaste muy groseramente.
+# tagged = false
+# author = mazali
+1	Di	_	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+2	baní	_	_	_	_	_	_	_	_
+3	joʼöd	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0695
+# text = Ú daeiñné chí.
+# text[orig] = Ú daeiñné chí.
+# text[spa] = A mi que me importa eso.
+# tagged = false
+# author = mazali
+1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+2	daeiñné	_	_	_	_	_	_	_	_
+3	chí	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0696
+# text = Dikó chi joʼöd joʼö.
+# text[orig] = Dikó chi joʼöd joʼö.
+# text[spa] = L que dices es lo mismo que digo yo.
+# tagged = false
+# author = mazali
+1	Dikó	_	_	_	_	_	_	_	_
+2	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+3	joʼöd	_	_	_	_	_	_	_	_
+4	joʼö	_	VERB	_	_	_	_	_	Trad=suena
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0697
+# text = Kubi jinú.
+# text[orig] = Kubi jinú.
+# text[spa] = Se atrasaron las cosas.
+# tagged = false
+# author = mazali
+1	Kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
+2	jinú	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0698
+# text = ¿A inod?
+# text[orig] = ¿A inod?
+# text[spa] = ¿ves?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	inod	_	_	_	_	_	_	_	_
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0699
+# text = Yeabean koó aceite.
+# text[orig] = Yeabean koó aceite.
+# text[spa] = Salpicó el aceite.
+# tagged = false
+# author = mazali
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
+2	koó	_	DET	_	_	_	_	_	Trad=ese
+3	aceite	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0700
+# text = Nandata kuíyaa.
+# text[orig] = Nandata kuíyaa.
+# text[spa] = Se deshizo el ...
+# tagged = false
+# author = mazali
+1	Nandata	_	_	_	_	_	_	_	_
+2	kuíyaa	_	NOUN	_	_	_	_	_	Trad=escobilla
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0701
+# text = Beadiñ.
+# text[orig] = Beadiñ.
+# text[spa] = Pobrecito.
+# tagged = false
+# author = mazali
+1	Beadiñ	_	_	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0702
+# text = Kued ngud lï ñeʼeta.
+# text[orig] = kued ngud lï ñeʼeta.
+# text[spa] = Ve a dejarselo tantito.
+# tagged = false
+# author = mazali
+1	Kued	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ir-2SG|Trad=vé
+2	ngud	_	_	_	_	_	_	_	_
+3	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
+4	ñeʼeta	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.ella|UPOS=Guessed
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0703
+# text = Snu chichit.
+# text[orig] = Snu chichit.
+# text[spa] = Están encerrados los animales.
+# tagged = false
+# author = mazali
+1	Snu	_	VERB	_	_	_	_	_	Trad=tiene
+2	chichit	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0704
+# text = Cheatu, gua jinebed ñeʼe.
+# text[orig] = Cheatu, gua jinebed ñeʼe.
+# text[spa] = Sordo, no me escuchas.
+# tagged = false
+# author = mazali
+1	Cheatu	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-quebrar-1SG|Trad=quebré
+2	,	,	PUNCT	_	_	_	_	_	_
+3	gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+4	jinebed	_	_	_	_	_	_	_	_
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0705
+# text = Beajuku no am dutu.
+# text[orig] = Beajuku no am dutu.
+# text[spa] = Estoy sentado en un tronco.
+# tagged = false
+# author = mazali
+1	Beajuku	_	_	_	_	_	_	_	_
+2	no	no	ADP	_	_	_	_	_	Gloss=LOC|Trad=en
+3	am	_	NUM	_	_	_	_	_	Trad=uno
+4	dutu	_	NOUN	_	_	_	_	_	Trad=nariz
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0706
+# text = ¿A nanteta 100 pesos ñeʼed?
+# text[orig] = ¿A nanteta 100 pesos ñeʼed?
+# text[spa] = ¿Te entrego los 100 pesos?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	nanteta	_	_	_	_	_	_	_	_
+4	100	_	_	_	_	_	_	_	_
+5	pesos	_	_	_	_	_	_	_	_
+6	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.2SG|Trad=de.ti
+7	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0707
+# text = Chun nigua ninguata no tienda.
+# text[orig] = Chun nigua ninguata no tienda.
+# text[spa] = Creo que esto lo fue a traer de la tienda.
+# tagged = false
+# author = mazali
+1	Chun	_	_	_	_	_	_	_	_
+2	nigua	_	_	_	_	_	_	_	Trad=no
+3	ninguata	_	_	_	_	_	_	_	_
+4	no	no	ADP	_	_	_	_	_	Gloss=LOC|Trad=en
+5	tienda	_	_	_	_	_	_	_	_
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0708
+# text = Tabea chiba chu?
+# text[orig] = Tabea chiba chu?
+# text[spa] = ¿Cuánto cuesta esto?
+# tagged = true
+# author = mazali
+1	Tabea	_	PRON	_	_	_	_	_	Trad=cuánto
+2	chiba	_	NOUN	_	_	_	_	_	Trad=precio
+3	chu	_	PRON	_	_	_	_	_	Trad=este
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0709
+# text = Kanuchiba 3000 pesos.
+# text[orig] = Kanuchiba 3000 pesos.
+# text[spa] = Costó 3000 pesos.
+# tagged = false
+# author = mazali
+1	Kanuchiba	_	_	_	_	_	_	_	_
+2	3000	_	_	_	_	_	_	_	_
+3	pesos	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0710
+# text = Tikniñu jiñeʼe.
+# text[orig] = Tikniñu jiñeʼe.
+# text[spa] = Eso mero siento.
+# tagged = false
+# author = mazali
+1	Tikniñu	_	_	_	_	_	_	_	_
+2	jiñeʼe	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0711
+# text = Kané ama itintu y obe yuduu ñeʼeñ.
+# text[orig] = Kané ama itintu y obe yuduu ñeʼeñ.
+# text[spa] = Tiene un toro y dos caballos.
+# tagged = false
+# author = mazali
+1	Kané	_	VERB	_	_	_	_	_	Gloss=?-estar-?|Trad=está
+2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+3	itintu	_	NOUN	_	_	_	_	_	Trad=toro
+4	y	_	_	_	_	_	_	_	_
+5	obe	_	NUM	_	_	_	_	_	Trad=dos
+6	yuduu	_	NOUN	_	_	_	_	_	Trad=caballo
+7	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM|Trad=de.él
+8	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0712
+# text = Kutea deanu dea kama.
+# text[orig] = Kutea deanu dea kama.
+# text[spa] = Ya no sabia que decir.
+# tagged = false
+# author = mazali
+1	Kutea	_	_	_	_	_	_	_	Trad=no.hay
+2	deanu	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-saber-1SG|Trad=sé
+3	dea	_	PRON	_	_	_	_	_	Trad=que|UPOS=Guessed
+4	kama	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0713
+# text = Bea ñoʼo ñeʼen.
+# text[orig] = Bea ñoʼo ñeʼen.
+# text[spa] = Tenemos leña.
+# tagged = true
+# author = mazali
+1	Bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
+2	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
+3	ñeʼen	_	NOUN	_	NounType=Relat	_	_	_	Trad=de.nosotros
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0714
+# text = Amtea jicheay eay noʼo iti.
+# text[orig] = Amtea jicheay eay noʼo iti.
+# text[spa] = Ya no aguanta ponerle la leña al animal.
+# tagged = false
+# author = mazali
+1	Amtea	_	_	_	_	_	_	_	Trad=no.hay
+2	jicheay	_	_	_	_	_	_	_	_
+3	eay	_	_	_	_	_	_	_	_
+4	noʼo	_	NOUN	_	_	_	_	_	Trad=leña
+5	iti	_	NOUN	_	_	_	_	_	Trad=animal
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0715
+# text = Ndikuy ama yuduuu.
+# text[orig] = Ndikuy ama yuduuu.
+# text[spa] = Vendió a un caballo.
+# tagged = false
+# author = mazali
+1	Ndikuy	_	_	_	_	_	_	_	_
+2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+3	yuduuu	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0716
+# text = Dae jobe kuechey?
+# text[orig] = Dae jobe kuechey?
+# text[spa] = ¿Que día va a ser el entierro?(cuando lo van a enterrar)
+# tagged = false
+# author = mazali
+1	Dae	_	PRON	_	_	_	_	_	Trad=que
+2	jobe	_	NOUN	_	_	_	_	_	Trad=día
+3	kuechey	_	_	_	_	_	_	_	_
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0717
+# text = Ichiñ iti, ti cheakut.
+# text[orig] = Ichiñ iti, ti cheakut.
+# text[spa] = Lo estan enterrando porque se ahorcó (se refiere a un animal muerto).
+# tagged = false
+# author = mazali
+1	Ichiñ	_	_	_	_	_	_	_	_
+2	iti	_	NOUN	_	_	_	_	_	Trad=animal
+3	,	,	PUNCT	_	_	_	_	_	_
+4	ti	_	DET	_	_	_	_	_	Trad=ese
+5	cheakut	_	_	_	_	_	_	_	_
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0718
+# text = A cheatea jobe ñeʼeñ.
+# text[orig] = A cheatea jobe ñeʼeñ.
+# text[spa] = Ya está grande.
+# tagged = true
+# author = mazali
+1	A	a	ADV	_	_	_	_	_	Trad=ya
+2	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
+3	jobe	_	NOUN	_	_	_	_	_	Trad=día
+4	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM|Trad=de.él
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0719
+# text = Gua tané ñeʼe.
+# text[orig] = Gua tané ñeʼe.
+# text[spa] = No me va a dar tiempo.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	tané	_	_	_	_	_	_	_	_
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0720
+# text = Chinenó jiʼi.
+# text[orig] = Chinenó jiʼi.
+# text[spa] = Paré de tomarlo.
+# tagged = false
+# author = mazali
+1	Chinenó	_	_	_	_	_	_	_	_
+2	jiʼi	_	VERB	_	_	_	_	_	Gloss=?-tomar-?|Trad=tomar
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0721
+# text = Kaʼa inti chitoʼo iña.
+# text[orig] = Kaʼa inti chitoʼo iña.
+# text[spa] = Le dio dearrea.
+# tagged = false
+# author = mazali
+1	Kaʼa	_	_	_	_	_	_	_	_
+2	inti	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hay,usted
+3	chitoʼo	_	VERB	_	_	_	_	_	Trad=tener.gripa
+4	iña	_	NOUN	_	_	_	_	_	Trad=gente
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0722
+# text = Kuïndeʼuu jikum ñeʼeñ.
+# text[orig] = Kuïndeʼuu jikum ñeʼeñ.
+# text[spa] = Hay que esconderle el medicamento.
+# tagged = false
+# author = mazali
+1	Kuïndeʼuu	_	_	_	_	_	_	_	_
+2	jikum	_	_	_	_	_	_	_	_
+3	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM|Trad=de.él
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0723
+# text = Yopè chechè damit.
+# text[orig] = Yopè chechè damit.
+# text[spa] = Esta muy muy dura su espalda.
+# tagged = false
+# author = mazali
+1	Yopè	_	_	_	_	_	_	_	_
+2	chechè	_	_	_	_	_	_	_	_
+3	damit	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0724
+# text = Chineñoʼon iti.
+# text[orig] = Chineñoʼon iti.
+# text[spa] = Lo quemamos.
+# tagged = false
+# author = mazali
+1	Chineñoʼon	_	_	_	_	_	_	_	_
+2	iti	_	NOUN	_	_	_	_	_	Trad=animal
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0725
+# text = ¿A duʼu kakuë?
+# text[orig] = ¿A duʼu kakuë?
+# text[spa] = ¿Quién va a enseñar?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	duʼu	_	PRON	_	PronType=Int	_	_	_	Trad=quién
+4	kakuë	_	_	_	_	_	_	_	_
+5	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0726
+# text = Tasü gua eanuta.
+# text[orig] = Tasü gua eanuta.
+# text[spa] = A ellas no les gusta.
+# tagged = false
+# author = mazali
+1	Tasü	_	_	_	_	_	_	_	_
+2	gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+3	eanuta	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0727
+# text = Dae bea kubi.
+# text[orig] = Dae bea kubi.
+# text[spa] = Que es lo que puede pasar.
+# tagged = true
+# author = mazali
+1	Dae	_	PRON	_	_	_	_	_	Trad=que
+2	bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
+3	kubi	_	NOUN	_	_	_	_	_	Trad=lluvia
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0728
+# text = Nantechnè.
+# text[orig] = Nantechnè.
+# text[spa] = Se despegó.
+# tagged = false
+# author = mazali
+1	Nantechnè	_	_	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0729
+# text = Sábado ndat mò.
+# text[orig] = Sábado ndat mò.
+# text[spa] = El sabado de la proxima semana.
+# tagged = false
+# author = mazali
+1	Sábado	_	_	_	_	_	_	_	_
+2	ndat	_	_	_	_	_	_	_	_
+3	mò	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0730
+# text = Mniñu chiì.
+# text[orig] = Mniñu chiì.
+# text[spa] = Ahorita vengo.
+# tagged = false
+# author = mazali
+1	Mniñu	_	ADV	_	_	_	_	_	Trad=ahora
+2	chiì	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0731
+# text = Kané barré koʼo.
+# text[orig] = Kané barré koʼo.
+# text[spa] = Tengo una cicatriz en mi pie.
+# tagged = false
+# author = mazali
+1	Kané	_	VERB	_	_	_	_	_	Gloss=?-estar-?|Trad=está
+2	barré	_	_	_	_	_	_	_	_
+3	koʼo	_	NOUN	_	_	_	_	_	Trad=pie
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0732
+# text = Toʼö ñeʼe Etla.
+# text[orig] = Toʼö ñeʼe Etla.
+# text[spa] = Una mujer de Etla.
+# tagged = false
+# author = mazali
+1	Toʼö	_	PRON	_	_	_	_	_	Trad=él
+2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+3	Etla	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0733
+# text = Ku Ndoba koʼöd áku.
+# text[orig] = Ku Ndoba koʼöd áku.
+# text[spa] = Pensé que ibas a Oaxaca.
+# tagged = false
+# author = mazali
+1	Ku	_	DET	_	_	_	_	_	Trad=este
+2	Ndoba	_	_	_	_	_	_	_	_
+3	koʼöd	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-ir-2SG|Trad=irás
+4	áku	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0734
+# text = Yeabean nèè ñeʼed.
+# text[orig] = Yeabean nèè ñeʼed.
+# text[spa] = te ves muy desmejorada.
+# tagged = true
+# author = mazali
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
+2	nèè	_	NOUN	_	_	_	_	_	Trad=vez
+3	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.2SG|Trad=de.ti
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0735
+# text = Ditiakaba jeʼe.
+# text[orig] = Ditiakaba jeʼe.
+# text[spa] = sabía muy muy feo.
+# tagged = false
+# author = mazali
+1	Ditiakaba	_	_	_	_	_	_	_	_
+2	jeʼe	cheʼe	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=PROG-comer-1SG|Trad=como
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0736
+# text = Chigea íba.
+# text[orig] = Chigea íba.
+# text[spa] = Cayó granizo.
+# tagged = false
+# author = mazali
+1	Chigea	_	_	_	_	_	_	_	_
+2	íba	_	NOUN	_	_	_	_	_	Trad=hilo
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0737
+# text = Chí sï dijinu chë Gaytam.
+# text[orig] = Chí sï dijinu chë Gaytam.
+# text[spa] = Se murió el nieto del señor Gaytan.
+# tagged = false
+# author = mazali
+1	Chí	_	_	_	_	_	_	_	_
+2	sï	_	NOUN	_	_	_	_	_	Trad=sombrero
+3	dijinu	_	_	_	_	_	_	_	_
+4	chë	_	NOUN	_	_	_	_	_	Trad=señor
+5	Gaytam	_	_	_	_	_	_	_	_
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0738
+# text = Kané damiñ.
+# text[orig] = Kané damiñ.
+# text[spa] = lo culparon.
+# tagged = false
+# author = mazali
+1	Kané	_	VERB	_	_	_	_	_	Gloss=?-estar-?|Trad=está
+2	damiñ	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0739
+# text = Kutea kuekud.
+# text[orig] = Kutea kuekud.
+# text[spa] = Ya no llores.
+# tagged = false
+# author = mazali
+1	Kutea	_	_	_	_	_	_	_	Trad=no.hay
+2	kuekud	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0740
+# text = ¿A jeakuta?
+# text[orig] = ¿A jeakuta?
+# text[spa] = ¿Está llorando?
+# tagged = true
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	jeakuta	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-llorar-3.FEM|Trad=está.llorando
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0741
+# text = Bö yùdu.
+# text[orig] = Bö yùdu.
+# text[spa] = expresión que indica mucho miedo.
+# tagged = false
+# author = mazali
+1	Bö	_	ADP	_	_	_	_	_	Trad=en|UPOS=Guessed
+2	yùdu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0742
+# text = Yeabean jókaba ú per dae di.
+# text[orig] = Yeabean jókaba ú per dae di.
+# text[spa] = Me enojé mucho pero no podí hacer nada.
+# tagged = false
+# author = mazali
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
+2	jókaba	_	_	_	_	_	_	_	_
+3	ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+4	per	_	CCONJ	_	_	_	_	_	Trad=pero
+5	dae	_	PRON	_	_	_	_	_	Trad=que
+6	di	_	VERB	_	_	_	_	_	Gloss=?-hacer-?|Trad=hacer
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0743
+# text = Yuchid ama dutit cheʼe.
+# text[orig] = Yuchid ama dutit cheʼe.
+# text[spa] = Guisa un huevo para que yo coma.
+# tagged = false
+# author = mazali
+1	Yuchid	_	_	_	_	_	_	_	_
+2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+3	dutit	_	NOUN	_	_	_	_	_	Trad=huevo
+4	cheʼe	cheʼe	VERB	_	Mood=Pot|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=POT-comer-1SG|Trad=como
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0744
+# text = ¿A gua cheʼed ama mï?
+# text[orig] = ¿A gua cheʼed ama mï?
+# text[spa] = ¿No quieres comer un camote?
+# tagged = true
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+4	cheʼed	cheʼe	VERB	_	Mood=Pot|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=POT-comer-2SG|Trad=comes
+5	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+6	mï	_	NOUN	_	_	_	_	_	Trad=camote
+7	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0745
+# text = Yeabean bea ñó ñeʼe nïi.
+# text[orig] = Yeabean bea ñó ñeʼe nïi.
+# text[spa] = El chayote tiene muchas espinas.
+# tagged = true
+# author = mazali
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
+2	bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
+3	ñó	_	NOUN	_	_	_	_	_	Trad=pueblo
+4	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+5	nïi	_	NOUN	_	_	_	_	_	Trad=chayote
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0746
+# text = Gua ñeʼe cheʼe pö.
+# text[orig] = Gua ñeʼe cheʼe pö.
+# text[spa] = No quiero comer pan.
+# tagged = true
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+3	cheʼe	cheʼe	VERB	_	Mood=Pot|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=POT-comer-1SG|Trad=como
+4	pö	_	NOUN	_	_	_	_	_	Trad=pan
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0747
+# text = Kakad nanobe yuntu.
+# text[orig] = Kakad nanobe yuntu.
+# text[spa] = Haz algunas tortillas.
+# tagged = false
+# author = mazali
+1	Kakad	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-cortar-2SG|Trad=corta
+2	nanobe	_	_	_	_	_	_	_	_
+3	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0748
+# text = A kutea ndeyaa.
+# text[orig] = A kutea ndeyaa.
+# text[spa] = Ya no hay duraznos.
+# tagged = false
+# author = mazali
+1	A	a	ADV	_	_	_	_	_	Trad=ya
+2	kutea	_	_	_	_	_	_	_	Trad=no.hay
+3	ndeyaa	_	NOUN	_	_	_	_	_	Trad=durazno
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0749
+# text = Gua tumi ñeʼe.
+# text[orig] = Gua tumi ñeʼe.
+# text[spa] = No tengo dinero.
+# tagged = true
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	tumi	tumi	NOUN	_	_	_	_	_	Trad=dinero
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0750
+# text = ¿A gua tumi ñeʼed?
+# text[orig] = ¿A gua tumi ñeʼed?
+# text[spa] = ¿No tienes dinero?
+# tagged = true
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+4	tumi	tumi	NOUN	_	_	_	_	_	Trad=dinero
+5	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.2SG|Trad=de.ti
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0751
+# text = ¿A bea tumi ñeʼed?
+# text[orig] = ¿A bea tumi ñeʼed?
+# text[spa] = ¿Tienes dinero?
+# tagged = true
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
+4	tumi	tumi	NOUN	_	_	_	_	_	Trad=dinero
+5	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.2SG|Trad=de.ti
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0752
+# text = Gua neʼe kaka yuntu.
+# text[orig] = Gua neʼe kaka yuntu.
+# text[spa] = No quiero hacer tortillas.
+# tagged = true
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-?|Trad=quiere
+3	kaka	_	NOUN	_	_	_	_	_	Trad=papel
+4	yuntu	_	NOUN	_	_	_	_	_	Trad=tortilla
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0753
+# text = Cheche jaʼa najaʼa.
+# text[orig] = Cheche jaʼa najaʼa.
+# text[spa] = La cascara de la nuez es dura.
+# tagged = false
+# author = mazali
+1	Cheche	_	_	_	_	_	_	_	_
+2	jaʼa	_	NOUN	_	_	_	_	_	Trad=cáscara
+3	najaʼa	_	NOUN	_	_	_	_	_	Trad=nuez
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0754
+# text = Ñä jabèèd.
+# text[orig] = Ñä jabèèd.
+# text[spa] = Tu oreja esta sucia.
+# tagged = false
+# author = mazali
+1	Ñä	_	_	_	_	_	_	_	_
+2	jabèèd	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0755
+# text = Tuʼu kon ikut dutit.
+# text[orig] = Tuʼu kon ikut dutit.
+# text[spa] = Ese pollo pone huevos.
+# tagged = false
+# author = mazali
+1	Tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
+2	kon	_	DET	_	_	_	_	_	Trad=ese
+3	ikut	_	_	_	_	_	_	_	_
+4	dutit	_	NOUN	_	_	_	_	_	Trad=huevo
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0756
+# text = Iña sen nèèñ.
+# text[orig] = Iña sen nèèñ.
+# text[spa] = Esas personas estan paradas.
+# tagged = false
+# author = mazali
+1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
+2	sen	_	DET	_	_	_	_	_	Trad=estos
+3	nèèñ	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0757
+# text = Chida chinuy ama tuʼu.
+# text[orig] = Chida chinuy ama tuʼu.
+# text[spa] = Mi papá mató a un pollo.
+# tagged = true
+# author = mazali
+1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
+2	chinuy	kanu	VERB	_	Animacy=Hum|Aspect=Perf|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=CPL-matar-3.HUM|Trad=mató
+3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+4	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0758
+# text = Chaku chinuy ama tuʼu.
+# text[orig] = Chaku chinuy ama tuʼu.
+# text[spa] = Mi mamá mató a un pollo.
+# tagged = true
+# author = mazali
+1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
+2	chinuy	kanu	VERB	_	Animacy=Hum|Aspect=Perf|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=CPL-matar-3.HUM|Trad=mató
+3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+4	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0759
+# text = Tï biʼi chunuta ama tuʼu.
+# text[orig] = Tï biʼi chunuta ama tuʼu.
+# text[spa] = Mi hermana mató a un pollo.
+# tagged = false
+# author = mazali
+1	Tï	_	NOUN	_	_	_	_	_	Trad=cabeza
+2	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
+3	chunuta	_	_	_	_	_	_	_	_
+4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+5	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0760
+# text = Sï biʼi chinus ama tuʼu.
+# text[orig] = Sï biʼi chinus ama tuʼu.
+# text[spa] = Mi hermano mató a un pollo.
+# tagged = false
+# author = mazali
+1	Sï	_	NOUN	_	_	_	_	_	Trad=sombrero
+2	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
+3	chinus	kanu	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=CPL-matar-3.MSC|Trad=mató
+4	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+5	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0761
+# text = Ú chinu ama tuʼu.
+# text[orig] = Ú chinu ama tuʼu.
+# text[spa] = Yo mate a un pollo.
+# tagged = true
+# author = mazali
+1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+2	chinu	kanu	VERB	_	Aspect=Perf|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=CPL-matar-1SG|Trad=maté
+3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+4	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0762
+# text = Un gua neʼe kanu tuʼu.
+# text[orig] = Un gua neʼe kanu tuʼu.
+# text[spa] = Yo no quiere matar pollos.
+# tagged = true
+# author = mazali
+1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
+2	gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+3	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-?|Trad=quiere
+4	kanu	_	VERB	_	_	_	_	_	Trad=está
+5	tuʼu	_	NOUN	_	_	_	_	_	Trad=pollo
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0763
+# text = Un koʼo kuniyaa.
+# text[orig] = Un koʼo kuniyaa.
+# text[spa] = Yo voy por allá abajo.
+# tagged = false
+# author = mazali
+1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
+2	koʼo	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-ir-1SG|Trad=iré
+3	kuniyaa	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0764
+# text = Neʼe jima ñeʼe comida.
+# text[orig] = Neʼe jima ñeʼe comida.
+# text[spa] = La comida necesita de sal.
+# tagged = true
+# author = mazali
+1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-?|Trad=quiere
+2	jima	_	NOUN	_	_	_	_	_	Trad=sal
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+4	comida	_	NOUN	_	_	_	_	_	Trad=comida
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0765
+# text = Diní comida.
+# text[orig] = Diní comida.
+# text[spa] = La comida esta salada.
+# tagged = false
+# author = mazali
+1	Diní	_	_	_	_	_	_	_	_
+2	comida	_	NOUN	_	_	_	_	_	Trad=comida
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0766
+# text = Neʼe cheʼe ama tiba ñeʼe jimbeaku.
+# text[orig] = Neʼe cheʼe ama tiba ñeʼe jimbeaku.
+# text[spa] = Quiero comer una empanada de hierba santa.
+# tagged = false
+# author = mazali
+1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-?|Trad=quiere
+2	cheʼe	cheʼe	VERB	_	Mood=Pot|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=POT-comer-1SG|Trad=como
+3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+4	tiba	_	NOUN	_	_	_	_	_	Trad=empanada
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+6	jimbeaku	_	_	_	_	_	_	_	_
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0767
+# text = Chaku nubtöñ nuku.
+# text[orig] = Chaku nubtöñ nuku.
+# text[spa] = Mi mamá se enojó conmigo.
+# tagged = false
+# author = mazali
+1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
+2	nubtöñ	_	_	_	_	_	_	_	_
+3	nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0768
+# text = Chida nubtöñ nuku.
+# text[orig] = Chida nubtöñ nuku.
+# text[spa] = Mi papá se eojó conmigo.
+# tagged = false
+# author = mazali
+1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
+2	nubtöñ	_	_	_	_	_	_	_	_
+3	nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0769
+# text = Jisoʼö nubtös nuku.
+# text[orig] = Jisoʼö nubtös nuku.
+# text[spa] = Mi marido se enojo conmigo.
+# tagged = false
+# author = mazali
+1	Jisoʼö	_	_	_	_	_	_	_	_
+2	nubtös	_	_	_	_	_	_	_	_
+3	nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0770
+# text = Toʼö nubtöta nuku.
+# text[orig] = Toʼö nubtöta nuku.
+# text[spa] = Mi esposa se enojó conmigo.
+# tagged = false
+# author = mazali
+1	Toʼö	_	PRON	_	_	_	_	_	Trad=él
+2	nubtöta	_	_	_	_	_	_	_	_
+3	nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0771
+# text = Kuned ú.
+# text[orig] = Kuned ú.
+# text[spa] = Ayudame.
+# tagged = true
+# author = mazali
+1	Kuned	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ayudar-2SG|Trad=ayuda
+2	ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0772
+# text = Kuned sakó.
+# text[orig] = Kuned sakó.
+# text[spa] = Ayudalo.
+# tagged = true
+# author = mazali
+1	Kuned	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ayudar-2SG|Trad=ayuda
+2	sakó	sakó	PRON	_	PronType=Prs	_	_	_	Gloss=3.MSC|Trad=él
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0773
+# text = ¿A kuné dí?
+# text[orig] = ¿A kuné dí?
+# text[spa] = ¿te ayudo?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	kuné	_	_	_	_	_	_	_	_
+4	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+5	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0774
+# text = Gua dantid.
+# text[orig] = Gua dantid.
+# text[spa] = No seas flojo.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	dantid	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0775
+# text = Yeabean danti jobe ku.
+# text[orig] = Yeabean danti jobe ku.
+# text[spa] = Tengo mucha flojera hoy.
+# tagged = true
+# author = mazali
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
+2	danti	_	NOUN	_	_	_	_	_	Trad=flojera|UPOS=Guessed
+3	jobe	_	NOUN	_	_	_	_	_	Trad=día
+4	ku	_	DET	_	_	_	_	_	Trad=este
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0776
+# text = Gua neʼe chi kobed.
+# text[orig] = Gua neʼe chi kobed.
+# text[spa] = No quiero que te mueras.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-?|Trad=quiere
+3	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+4	kobed	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0777
+# text = Gua jinaka tama tenis ñeʼe.
+# text[orig] = Gua jinaka tama tenis ñeʼe.
+# text[spa] = No encuentro mi otro tenis.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	jinaka	_	_	_	_	_	_	_	_
+3	tama	_	ADJ	_	_	_	_	_	Trad=otra|UPOS=Guessed
+4	tenis	_	_	_	_	_	_	_	_
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0778
+# text = Gua eanu si.
+# text[orig] = Gua eanu si.
+# text[spa] = No me gusta eso.
+# tagged = true
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	eanu	_	VERB	_	_	_	_	_	Gloss=?-gustar-1SG|Trad=gusto
+3	si	_	PRON	_	_	_	_	_	Trad=eso
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0779
+# text = Gua eanu chu.
+# text[orig] = Gua eanu chu.
+# text[spa] = No me gusta esto.
+# tagged = true
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	eanu	_	VERB	_	_	_	_	_	Gloss=?-gustar-1SG|Trad=gusto
+3	chu	_	PRON	_	_	_	_	_	Trad=este
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0780
+# text = A yeabean noo kanejinu dí.
+# text[orig] = A yeabean noo kanejinu dí.
+# text[spa] = Hace mucho que te estoy esperando.
+# tagged = false
+# author = mazali
+1	A	a	PART	_	_	_	_	_	Gloss=QST
+2	yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
+3	noo	no	ADP	_	Typo=Yes	_	_	_	Gloss=LOC|Normal=no|Trad=en
+4	kanejinu	_	_	_	_	_	_	_	_
+5	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0781
+# text = Gua kunejinu dí.
+# text[orig] = Gua kunejinu dí.
+# text[spa] = No te voy a esperar.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	kunejinu	_	_	_	_	_	_	_	_
+3	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0782
+# text = ¿A kunejinu dí?
+# text[orig] = ¿A kunejinu dí?
+# text[spa] = ¿Te espero?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	kunejinu	_	_	_	_	_	_	_	_
+4	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+5	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0783
+# text = A kutea kunejinu dí.
+# text[orig] = A kutea kunejinu dí.
+# text[spa] = Ya no te voy a esperar.
+# tagged = false
+# author = mazali
+1	A	a	ADV	_	_	_	_	_	Trad=ya
+2	kutea	_	_	_	_	_	_	_	Trad=no.hay
+3	kunejinu	_	_	_	_	_	_	_	_
+4	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0784
+# text = ¿A noo ka kubid?
+# text[orig] = ¿A noo ka kubid?
+# text[spa] = ¿Vas a tardar más?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	noo	no	ADP	_	Typo=Yes	_	_	_	Gloss=LOC|Normal=no|Trad=en
+4	ka	_	ADV	_	_	_	_	_	Trad=aún
+5	kubid	_	_	_	_	_	_	_	_
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0785
+# text = Neʼe tama tika já.
+# text[orig] = Neʼe tama tika já.
+# text[spa] = Quiero mas ropa nueva.
+# tagged = true
+# author = mazali
+1	Neʼe	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-?|Trad=quiere
+2	tama	_	ADJ	_	_	_	_	_	Trad=otra|UPOS=Guessed
+3	tika	_	NOUN	_	_	_	_	_	Trad=ropa
+4	já	_	ADJ	_	_	_	_	_	Trad=nuevo|UPOS=Guessed
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0786
+# text = Yaʼa bed nuku.
+# text[orig] = Yaʼa bed nuku.
+# text[spa] = Eres muy malo.
+# tagged = false
+# author = mazali
+1	Yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
+2	bed	_	_	_	_	_	_	_	_
+3	nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0787
+# text = Yeabean chitubjinu.
+# text[orig] = Yeabean chitubjinu.
+# text[spa] = Me puse muy triste.
+# tagged = false
+# author = mazali
+1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
+2	chitubjinu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0788
+# text = Gua tubjinud.
+# text[orig] = Gua tubjinud.
+# text[spa] = No te pongas triste.
+# tagged = false
+# author = mazali
+1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+2	tubjinud	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0789
+# text = Yaʼa dóʼö dayad.
+# text[orig] = Yaʼa dóʼö dayad.
+# text[spa] = Es muy travieso tu hijo.
+# tagged = false
+# author = mazali
+1	Yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
+2	dóʼö	_	_	_	_	_	_	_	_
+3	dayad	_	NOUN	_	_	_	_	_	Gloss=hijo-POSS.2SG|Trad=tu.hijo(a)
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0790
+# text = Jiduchi nuku sakó.
+# text[orig] = Jiduchi nuku sakó.
+# text[spa] = Yo juego con él.
+# tagged = false
+# author = mazali
+1	Jiduchi	_	_	_	_	_	_	_	_
+2	nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
+3	sakó	sakó	PRON	_	PronType=Prs	_	_	_	Gloss=3.MSC|Trad=él
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0791
+# text = Tumgoʼoy dí.
+# text[orig] = Tumgoʼoy dí.
+# text[spa] = Preguntaron por ti.
+# tagged = false
+# author = mazali
+1	Tumgoʼoy	_	_	_	_	_	_	_	_
+2	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0792
+# text = Tumgoʼos dí.
+# text[orig] = Tumgoʼos dí.
+# text[spa] = Preguntó por ti.
+# tagged = true
+# author = mazali
+1	Tumgoʼos	_	VERB	_	_	_	_	_	Gloss=?-preguntarse-?|Trad=me.preguntó
+2	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0793
+# text = Tumgoʼoy chidad.
+# text[orig] = Tumgoʼoy chidad.
+# text[spa] = Preguntaron por tu papá.
+# tagged = false
+# author = mazali
+1	Tumgoʼoy	_	_	_	_	_	_	_	_
+2	chidad	_	NOUN	_	_	_	_	_	Gloss=papá-POSS.2SG|Trad=tu.papá
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0794
+# text = ¿A cheanud?
+# text[orig] = ¿A cheanud?
+# text[spa] = ¿Te gustó?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	cheanud	_	_	_	_	_	_	_	_
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0795
+# text = ¿A ti chined silïm?
+# text[orig] = ¿A ti chined silïm?
+# text[spa] = ¿Donde dejaste al niño?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	ti	_	DET	_	_	_	_	_	Trad=ese
+4	chined	_	_	_	_	_	_	_	_
+5	silïm	_	NOUN	_	_	_	_	_	Trad=niño
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0796
+# text = ¿A ti kueʼe silïm?
+# text[orig] = ¿A ti kueʼe silïm?
+# text[spa] = ¿A dónde fue el niño?
+# tagged = true
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	ti	_	DET	_	_	_	_	_	Trad=ese
+4	kueʼe	_	VERB	_	_	_	_	_	Gloss=?-ir-?|Trad=va
+5	silïm	_	NOUN	_	_	_	_	_	Trad=niño
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0797
+# text = ¿A ti kueʼeta?
+# text[orig] = ¿A ti kueʼeta?
+# text[spa] = ¿A donde fue?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	ti	_	DET	_	_	_	_	_	Trad=ese
+4	kueʼeta	_	_	_	_	_	_	_	_
+5	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0798
+# text = ¿Dae cheanud?
+# text[orig] = ¿Dae cheanud?
+# text[spa] = ¿Qué te pasó?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	Dae	_	PRON	_	_	_	_	_	Trad=que
+3	cheanud	_	_	_	_	_	_	_	_
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0799
+# text = Baku.
+# text[orig] = Baku.
+# text[spa] = Mi casa.
+# tagged = true
+# author = mazali
+1	Baku	_	NOUN	_	_	_	_	_	Trad=casa
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0800
+# text = Bakus.
+# text[orig] = Bakus.
+# text[spa] = Su casa.
+# tagged = true
+# author = mazali
+1	Bakus	_	NOUN	_	_	_	_	_	Trad=su.casa
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0801
+# text = Bakud.
+# text[orig] = Bakud.
+# text[spa] = Tu casa.
+# tagged = true
+# author = mazali
+1	Bakud	_	NOUN	_	_	_	_	_	Gloss=casa-POSS.2SG|Trad=tu.casa
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0802
+# text = Jeʼes kuete nuku chidas.
+# text[orig] = Jeʼes kuete nuku chidas.
+# text[spa] = Va al csampo con su papá.
+# tagged = false
+# author = mazali
+1	Jeʼes	_	_	_	_	_	_	_	_
+2	kuete	_	NOUN	_	_	_	_	_	Trad=campo
+3	nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
+4	chidas	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0803
+# text = Jinoʼon no skuela job jobe.
+# text[orig] = Jinoʼon no skuela job jobe.
+# text[spa] = Vamos a la escuela diario.
+# tagged = false
+# author = mazali
+1	Jinoʼon	_	_	_	_	_	_	_	_
+2	no	no	ADP	_	_	_	_	_	Gloss=LOC|Trad=en
+3	skuela	skuela	NOUN	_	_	_	_	_	Trad=escuela
+4	job	_	NOUN	_	_	_	_	_	Trad=día
+5	jobe	_	NOUN	_	_	_	_	_	Trad=día
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0804
+# text = Eanuta jeʼeta tiaka.
+# text[orig] = Eanuta jeʼeta tiaka.
+# text[spa] = Le gusta comer platano.
+# tagged = false
+# author = mazali
+1	Eanuta	_	_	_	_	_	_	_	_
+2	jeʼeta	_	_	_	_	_	_	_	_
+3	tiaka	_	NOUN	_	_	_	_	_	Trad=plátano
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0805
+# text = Bea inu dikaya biʼi.
+# text[orig] = Bea inu dikaya biʼi.
+# text[spa] = Tengo tres hermanos.
+# tagged = false
+# author = mazali
+1	Bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
+2	inu	inu	NUM	_	NumType=Card	_	_	_	Trad=tres
+3	dikaya	_	NOUN	_	_	_	_	_	Trad=niños
+4	biʼi	_	_	_	_	_	_	_	Ambiguous=Yes|Trad=hermano(a),mi.hermano
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0806
+# text = Eanuñ jineʼey no bíku.
+# text[orig] = Eanuñ jineʼey no bíku.
+# text[spa] = Les gusta bailar en las fiestas.
+# tagged = false
+# author = mazali
+1	Eanuñ	_	_	_	_	_	_	_	_
+2	jineʼey	_	_	_	_	_	_	_	_
+3	no	no	ADP	_	_	_	_	_	Gloss=LOC|Trad=en
+4	bíku	_	NOUN	_	_	_	_	_	Trad=fiesta
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0807
+# text = Bea ñó ñeʼe.
+# text[orig] = Bea ñó ñeʼe.
+# text[spa] = Tiene espinas.
+# tagged = true
+# author = mazali
+1	Bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
+2	ñó	_	NOUN	_	_	_	_	_	Trad=pueblo
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0808
+# text = Di ntiñu.
+# text[orig] = Di ntiñu.
+# text[spa] = Trabajé.
+# tagged = true
+# author = mazali
+1	Di	_	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+2	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0809
+# text = Jidi ntiñu.
+# text[orig] = Jidi ntiñu.
+# text[spa] = Estoy trabajando.
+# tagged = true
+# author = mazali
+1	Jidi	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-hacer-?|Trad=hace
+2	ntiñu	_	NOUN	_	_	_	_	_	Trad=trabajo
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0810
+# text = Chiné.
+# text[orig] = Chiné.
+# text[spa] = Yo ayudé.
+# tagged = false
+# author = mazali
+1	Chiné	_	_	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0811
+# text = Jine.
+# text[orig] = Jine.
+# text[spa] = Yo ayudo.
+# tagged = false
+# author = mazali
+1	Jine	_	_	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0812
+# text = Kune.
+# text[orig] = Kune.
+# text[spa] = Yo voy a ayudar.
+# tagged = true
+# author = mazali
+1	Kune	_	VERB	_	_	_	_	_	Gloss=?-quedarse-?|Trad=quedarse
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0813
+# text = Takó chineta ú.
+# text[orig] = Takó chineta ú.
+# text[spa] = Ella me ayudó.
+# tagged = true
+# author = mazali
+1	Takó	takó	PRON	_	PronType=Prs	_	_	_	Gloss=3.FEM|Trad=ella
+2	chineta	_	PRON	_	_	_	_	_	Trad=ella
+3	ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0814
+# text = Takó jineta ú.
+# text[orig] = Takó jineta ú.
+# text[spa] = Ella me ayuda.
+# tagged = false
+# author = mazali
+1	Takó	takó	PRON	_	PronType=Prs	_	_	_	Gloss=3.FEM|Trad=ella
+2	jineta	_	_	_	_	_	_	_	_
+3	ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0815
+# text = Takó kuneta ú.
+# text[orig] = Takó kuneta ú.
+# text[spa] = Ella me va a ayudar.
+# tagged = false
+# author = mazali
+1	Takó	takó	PRON	_	PronType=Prs	_	_	_	Gloss=3.FEM|Trad=ella
+2	kuneta	_	_	_	_	_	_	_	_
+3	ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0816
+# text = Insú chinen dí.
+# text[orig] = Insú chinen dí.
+# text[spa] = Nosotros te ayudamos.
+# tagged = false
+# author = mazali
+1	Insú	insú	PRON	_	PronType=Prs	_	_	_	Gloss=1PL.EXC|Trad=nosotros
+2	chinen	_	_	_	_	_	_	_	_
+3	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0817
+# text = Insú jinen dí.
+# text[orig] = Insú jinen dí.
+# text[spa] = Nosotros te estamos ayudando.
+# tagged = false
+# author = mazali
+1	Insú	insú	PRON	_	PronType=Prs	_	_	_	Gloss=1PL.EXC|Trad=nosotros
+2	jinen	_	_	_	_	_	_	_	_
+3	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0818
+# text = Insú kunen dí.
+# text[orig] = Insú kunen dí.
+# text[spa] = Nosotros te vamos a ayudar.
+# tagged = false
+# author = mazali
+1	Insú	insú	PRON	_	PronType=Prs	_	_	_	Gloss=1PL.EXC|Trad=nosotros
+2	kunen	_	_	_	_	_	_	_	_
+3	dí	dí	PRON	_	PronType=Prs	_	_	_	Gloss=2SG|Trad=tú
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0819
+# text = Un bea ama nanta ñeʼe.
+# text[orig] = Un bea ama nanta ñeʼe.
+# text[spa] = Yo tengo una flor.
+# tagged = true
+# author = mazali
+1	Un	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
+2	bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
+3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+4	nanta	_	NOUN	_	_	_	_	_	Trad=flor
+5	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0820
+# text = Chaku bea ama nakuu chi kuä ñeʼeñ.
+# text[orig] = Chaku bea ama nakuu chi kuä ñeʼeñ.
+# text[spa] = Mi mamá tiene unos huaraches negros.
+# tagged = true
+# author = mazali
+1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
+2	bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
+3	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+4	nakuu	_	NOUN	_	_	_	_	_	Trad=guarache
+5	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+6	kuä	_	ADJ	_	_	_	_	_	Trad=negro|UPOS=Guessed
+7	ñeʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM|Trad=de.él
+8	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0821
+# text = Juchí yeaben lïs.
+# text[orig] = Juchí yeaben lïs.
+# text[spa] = Mi sobrino es muy pequeño.
+# tagged = false
+# author = mazali
+1	Juchí	_	_	_	_	_	_	_	_
+2	yeaben	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
+3	lïs	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0822
+# text = No ndoyo ñeʼe 1994.
+# text[orig] = No ndoyo ñeʼe 1994.
+# text[spa] = En el año de 1994.
+# tagged = false
+# author = mazali
+1	No	no	ADP	_	_	_	_	_	Gloss=LOC|Trad=en
+2	ndoyo	_	NOUN	_	_	_	_	_	Trad=año
+3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+4	1994	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0823
+# text = Diyay chi.
+# text[orig] = Diyay chi.
+# text[spa] = Se asustaron mucho.
+# tagged = false
+# author = mazali
+1	Diyay	_	_	_	_	_	_	_	_
+2	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0824
+# text = Iña ñeʼe Noo Nami.
+# text[orig] = Iña ñeʼe Noo Nami.
+# text[spa] = La gente de Santos Reyes.
+# tagged = false
+# author = mazali
+1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
+2	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
+3	Noo	no	ADP	_	Typo=Yes	_	_	_	Gloss=LOC|Normal=no|Trad=en
+4	Nami	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0825
+# text = Jiñede.
+# text[orig] = Jiñede.
+# text[spa] = El mundo.
+# tagged = false
+# author = mazali
+1	Jiñede	_	_	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0826
+# text = Chiʼ ñoʼo.
+# text[orig] = Chiʼ ñoʼo.
+# text[spa] = Eclipse.
+# tagged = false
+# author = mazali
+1	Chiʼ	_	_	_	_	_	_	_	_
+2	ñoʼo	ñoʼo	NOUN	_	_	_	_	_	Trad=árbol
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0827
+# text = Ni tumi.
+# text[orig] = Ni tumi.
+# text[spa] = En aquel entonces.
+# tagged = true
+# author = mazali
+1	Ni	_	ADV	_	_	_	_	_	Trad=hasta
+2	tumi	tumi	NOUN	_	_	_	_	_	Trad=dinero
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0828
+# text = Iña chi jinamnó iti.
+# text[orig] = Iña chi jinamnó iti.
+# text[spa] = Un nahual.
+# tagged = false
+# author = mazali
+1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
+2	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
+3	jinamnó	_	_	_	_	_	_	_	_
+4	iti	_	NOUN	_	_	_	_	_	Trad=animal
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0829
+# text = Ama bichi kuä.
+# text[orig] = Ama bichi kuä.
+# text[spa] = Un gato negro.
+# tagged = true
+# author = mazali
+1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+2	bichi	_	NOUN	_	_	_	_	_	Trad=gato
+3	kuä	_	ADJ	_	_	_	_	_	Trad=negro|UPOS=Guessed
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0830
+# text = Á bichi.
+# text[orig] = Á bichi.
+# text[spa] = Llora una gato.
+# tagged = false
+# author = mazali
+1	Á	_	_	_	_	_	_	_	_
+2	bichi	_	NOUN	_	_	_	_	_	Trad=gato
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0831
+# text = Chiney ama túbi.
+# text[orig] = Chiney ama túbi.
+# text[spa] = Le puso una trampa.
+# tagged = false
+# author = mazali
+1	Chiney	_	_	_	_	_	_	_	_
+2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+3	túbi	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0832
+# text = Kày dimat.
+# text[orig] = Kày dimat.
+# text[spa] = Le pelo la piel.
+# tagged = false
+# author = mazali
+1	Kày	_	_	_	_	_	_	_	_
+2	dimat	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0833
+# text = Bea nudu biö.
+# text[orig] = Bea nudu biö.
+# text[spa] = Hay un chisme en el pueblo.
+# tagged = false
+# author = mazali
+1	Bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
+2	nudu	_	_	_	_	_	_	_	_
+3	biö	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0834
+# text = Jabyáku tíku.
+# text[orig] = Jabyáku tíku.
+# text[spa] = Los chapulines saltan.
+# tagged = false
+# author = mazali
+1	Jabyáku	_	_	_	_	_	_	_	_
+2	tíku	_	NOUN	_	_	_	_	_	Trad=chapulín
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0835
+# text = It laʼa kuoʼo.
+# text[orig] = It laʼa kuoʼo.
+# text[spa] = Catarina.
+# tagged = false
+# author = mazali
+1	It	_	NOUN	_	_	_	_	_	Trad=animal
+2	laʼa	_	_	_	_	_	_	_	_
+3	kuoʼo	_	ADJ	_	_	_	_	_	Trad=rojo|UPOS=Guessed
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0836
+# text = Nichi ama yùna kuete.
+# text[orig] = Nichi ama yùna kuete.
+# text[spa] = Vi a un zorro en el campo.
+# tagged = false
+# author = mazali
+1	Nichi	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ver-1SG|Trad=vi
+2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+3	yùna	_	_	_	_	_	_	_	_
+4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0837
+# text = Koʼa ama chi-íbii ú.
+# text[orig] = Koʼa ama chi-íbii ú.
+# text[spa] = Me picó una tarántula.
+# tagged = false
+# author = mazali
+1	Koʼa	_	_	_	_	_	_	_	_
+2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+3	chi-íbii	_	_	_	_	_	_	_	_
+4	ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0838
+# text = Gëe íma.
+# text[orig] = Gëe íma.
+# text[spa] = Huele a zorrillo.
+# tagged = true
+# author = mazali
+1	Gëe	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-oler-?|Trad=huele
+2	íma	_	NOUN	_	_	_	_	_	Trad=zorrillo
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0839
+# text = Á chúnti.
+# text[orig] = Á chúnti.
+# text[spa] = Cantan los grillos.
+# tagged = false
+# author = mazali
+1	Á	_	_	_	_	_	_	_	_
+2	chúnti	_	NOUN	_	_	_	_	_	Trad=grillo
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0840
+# text = ¿A bea kuchnùni muʼu?
+# text[orig] = ¿A bea kuchnùni muʼu?
+# text[spa] = ¿Hay tepezcuitles aquí?
+# tagged = false
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
+4	kuchnùni	_	_	_	_	_	_	_	_
+5	muʼu	_	ADV	_	_	_	_	_	Trad=aquí
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0841
+# text = It ñóʼö jichi iti.
+# text[orig] = It ñóʼö jichi iti.
+# text[spa] = Las luciernagas tienen luz.
+# tagged = false
+# author = mazali
+1	It	_	NOUN	_	_	_	_	_	Trad=animal
+2	ñóʼö	_	_	_	_	_	_	_	_
+3	jichi	_	_	_	_	_	_	_	_
+4	iti	_	NOUN	_	_	_	_	_	Trad=animal
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0842
+# text = Kab inu chidúbi.
+# text[orig] = Kab inu chidúbi.
+# text[spa] = Me dan asco las cucarachas.
+# tagged = false
+# author = mazali
+1	Kab	_	_	_	_	_	_	_	_
+2	inu	inu	NUM	_	NumType=Card	_	_	_	Trad=tres
+3	chidúbi	_	NOUN	_	_	_	_	_	Trad=cucaracha
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0843
+# text = It nusa.
+# text[orig] = It nusa.
+# text[spa] = Cuerpo espín.
+# tagged = false
+# author = mazali
+1	It	_	NOUN	_	_	_	_	_	Trad=animal
+2	nusa	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0844
+# text = Chidubi kuea.
+# text[orig] = Chidubi kuea.
+# text[spa] = Cochinilla.
+# tagged = false
+# author = mazali
+1	Chidubi	_	_	_	_	_	_	_	_
+2	kuea	_	ADJ	_	_	_	_	_	Trad=blanco|UPOS=Guessed
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0845
+# text = Jinínii.
+# text[orig] = Jinínii.
+# text[spa] = Araña.
+# tagged = false
+# author = mazali
+1	Jinínii	_	_	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0846
+# text = Kudyana.
+# text[orig] = Kudyana.
+# text[spa] = Campamocha.
+# tagged = false
+# author = mazali
+1	Kudyana	_	_	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0847
+# text = It ñöo.
+# text[orig] = It ñöo.
+# text[spa] = Chicharra.
+# tagged = true
+# author = mazali
+1	It	_	NOUN	_	_	_	_	_	Trad=animal
+2	ñöo	_	NOUN	_	_	_	_	_	Trad=calor
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0848
+# text = Íyu.
+# text[orig] = Íyu.
+# text[spa] = Ardilla.
+# tagged = true
+# author = mazali
+1	Íyu	_	NOUN	_	_	_	_	_	Trad=pulga
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0849
+# text = Kä.
+# text[orig] = Kä.
+# text[spa] = Zancudo.
+# tagged = true
+# author = mazali
+1	Kä	_	NOUN	_	_	_	_	_	Trad=zancudo
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0850
+# text = It jíbi.
+# text[orig] = It jíbi.
+# text[spa] = Caracol.
+# tagged = false
+# author = mazali
+1	It	_	NOUN	_	_	_	_	_	Trad=animal
+2	jíbi	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0851
+# text = Ndóʼoo.
+# text[orig] = Ndóʼoo.
+# text[spa] = Chicatana.
+# tagged = false
+# author = mazali
+1	Ndóʼoo	_	_	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0852
+# text = A nde ndoyo.
+# text[orig] = A nde ndoyo.
+# text[spa] = Hce muchos años.
+# tagged = true
+# author = mazali
+1	A	a	PART	_	_	_	_	_	Gloss=QST
+2	nde	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-bailar-?|Trad=bailas
+3	ndoyo	_	NOUN	_	_	_	_	_	Trad=año
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0853
+# text = No Ñoo Nami.
+# text[orig] = No Ñoo Nami.
+# text[spa] = En Santo Reyes Pápalo.
+# tagged = false
+# author = mazali
+1	No	no	ADP	_	_	_	_	_	Gloss=LOC|Trad=en
+2	Ñoo	_	NOUN	_	_	_	_	_	Trad=pueblo
+3	Nami	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0854
+# text = Chinti ama kaʼa.
+# text[orig] = Chinti ama kaʼa.
+# text[spa] = Hubo una enfermedad.
+# tagged = false
+# author = mazali
+1	Chinti	_	NOUN	_	_	_	_	_	Trad=boca
+2	ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+3	kaʼa	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0855
+# text = Ama binu.
+# text[orig] = Ama binu.
+# text[spa] = Una noche.
+# tagged = false
+# author = mazali
+1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
+2	binu	_	_	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0856
+# text = ¿A taka chikadinud?
+# text[orig] = ¿A taka chikadinud?
+# text[spa] = ¿Cómo te enteraste?
+# tagged = true
+# author = mazali
+1	¿	¿	PUNCT	_	_	_	_	_	_
+2	A	a	PART	_	_	_	_	_	Gloss=QST
+3	taka	taka	ADV	_	_	_	_	_	Trad=cómo
+4	chikadinud	_	VERB	_	_	_	_	_	Gloss=?-saber-2SG|Trad=supiste
+5	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0857
+# text = Baʼa kuea ko.
+# text[orig] = Baʼa kuea ko.
+# text[spa] = Esa casa blanca.
+# tagged = true
+# author = mazali
+1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+2	kuea	_	ADJ	_	_	_	_	_	Trad=blanco|UPOS=Guessed
+3	ko	_	DET	_	_	_	_	_	Trad=ese
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0858
+# text = Baʼa kon kuea.
+# text[orig] = Baʼa kon kuea.
+# text[spa] = Esa casa es blanca.
+# tagged = true
+# author = mazali
+1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+2	kon	_	DET	_	_	_	_	_	Trad=ese
+3	kuea	_	ADJ	_	_	_	_	_	Trad=blanco|UPOS=Guessed
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0859
+# text = Baʼa kon cheatea.
+# text[orig] = Baʼa kon cheatea.
+# text[spa] = Esa casa es grande.
+# tagged = true
+# author = mazali
+1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+2	kon	_	DET	_	_	_	_	_	Trad=ese
+3	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0860
+# text = Baʼa chaetea ko.
+# text[orig] = Baʼa chaetea ko.
+# text[spa] = Esa casa es grande.
+# tagged = false
+# author = mazali
+1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+2	chaetea	_	_	_	_	_	_	_	_
+3	ko	_	DET	_	_	_	_	_	Trad=ese
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0861
+# text = Baʼa kon gua cheatea.
+# text[orig] = Baʼa kon gua cheatea.
+# text[spa] = Esa casa no es grande.
+# tagged = true
+# author = mazali
+1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+2	kon	_	DET	_	_	_	_	_	Trad=ese
+3	gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+4	cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0862
+# text = Baʼa kuä ko.
+# text[orig] = Baʼa kuä ko.
+# text[spa] = Esa casa negra.
+# tagged = true
+# author = mazali
+1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+2	kuä	_	ADJ	_	_	_	_	_	Trad=negro|UPOS=Guessed
+3	ko	_	DET	_	_	_	_	_	Trad=ese
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0863
+# text = Baʼa kon kuä.
+# text[orig] = Baʼa kon kuä.
+# text[spa] = Esa casa es negra.
+# tagged = true
+# author = mazali
+1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+2	kon	_	DET	_	_	_	_	_	Trad=ese
+3	kuä	_	ADJ	_	_	_	_	_	Trad=negro|UPOS=Guessed
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0864
+# text = Baʼa kon lï.
+# text[orig] = Baʼa kon lï.
+# text[spa] = Esa casa es pequeña.
+# tagged = true
+# author = mazali
+1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+2	kon	_	DET	_	_	_	_	_	Trad=ese
+3	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0865
+# text = Baʼa lï ko.
+# text[orig] = Baʼa lï ko.
+# text[spa] = Esa casa es pequeña.
+# tagged = true
+# author = mazali
+1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+2	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
+3	ko	_	DET	_	_	_	_	_	Trad=ese
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0866
+# text = Baʼa kon gua lï.
+# text[orig] = Baʼa kon gua lï.
+# text[spa] = Esa casa no es pequeña.
+# tagged = true
+# author = mazali
+1	Baʼa	_	NOUN	_	_	_	_	_	Trad=casa
+2	kon	_	DET	_	_	_	_	_	Trad=ese
+3	gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
+4	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = ejemplos:0867
 # text = Chakun jitúbiy kuíyaa.
 # text[orig] = Chakun jitúbiy kuíyaa.
 # text[spa] = Mi mamá usa la escobilla.
@@ -6710,7 +10249,7 @@
 3	kuíyaa	_	NOUN	_	_	_	_	_	Trad=escobilla
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0553
+# sent_id = ejemplos:0868
 # text = Iña jibaku jinikuy kuíyaa.
 # text[orig] = Iña jibaku jinikuy kuíyaa.
 # text[spa] = La gente de Cuicatlán vende escobillas.
@@ -6722,7 +10261,7 @@
 4	kuíyaa	_	NOUN	_	_	_	_	_	Trad=escobilla
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0554
+# sent_id = ejemplos:0869
 # text = Kákud naiyaá noo kukáa.
 # text[orig] = Kákud naiyaá noo kukáa.
 # text[spa] = Has salsa en el molcajete.
@@ -6734,7 +10273,7 @@
 4	kukáa	_	NOUN	_	_	_	_	_	Trad=molcajete
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0555
+# sent_id = ejemplos:0870
 # text = Tochi a ji maa, aa kukubii.
 # text[orig] = Tochi a ji maa, aa kukubii.
 # text[spa] = Cuando anochece canta el buho.
@@ -6749,7 +10288,7 @@
 7	kukubii	_	NOUN	_	_	_	_	_	Trad=búho
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0556
+# sent_id = ejemplos:0871
 # text = Min yeabean bee kulanto.
 # text[orig] = Min yeabean bee kulanto.
 # text[spa] = Ahí hay mucho cilantro.
@@ -6761,7 +10300,7 @@
 4	kulanto	_	NOUN	_	_	_	_	_	Trad=cilantro
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0557
+# sent_id = ejemplos:0872
 # text = Kuned uu kunuu nata.
 # text[orig] = Kuned uu kunuu nata.
 # text[spa] = Ayudame a sembrar maíz.
@@ -6773,7 +10312,7 @@
 4	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0558
+# sent_id = ejemplos:0873
 # text = Sadii biʼi chinus ama kunette.
 # text[orig] = Sadii biʼi chinus ama kunette.
 # text[spa] = Mi hermano mató un cienpies.
@@ -6786,7 +10325,7 @@
 5	kunette	_	NOUN	_	_	_	_	_	Trad=cienpies
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0559
+# sent_id = ejemplos:0874
 # text = Yeabean kúnu damí ama lunch.
 # text[orig] = Yeabean kúnu damí ama lunch.
 # text[spa] = Esta bien blando la espalda de un borrego.
@@ -6799,7 +10338,7 @@
 5	lunch	_	NOUN	_	_	_	_	_	Trad=borrego
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0560
+# sent_id = ejemplos:0875
 # text = Tochi jee kubii ji kunuu yúni.
 # text[orig] = Tochi jee kubii ji kunuu yúni.
 # text[spa] = Cuando llueve el camino se pone resbaloso.
@@ -6813,7 +10352,7 @@
 6	yúni	_	NOUN	_	_	_	_	_	Trad=camino
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0561
+# sent_id = ejemplos:0876
 # text = Kuoʼo kiana ñëʼed.
 # text[orig] = Kuoʼo kiana ñëʼed.
 # text[spa] = Es roja tu camisa.
@@ -6824,7 +10363,7 @@
 3	ñëʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.2SG|Trad=de.ti
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0562
+# sent_id = ejemplos:0877
 # text = Kuöo kiana ñëʼed.
 # text[orig] = Kuöo kiana ñëʼed.
 # text[spa] = Es amarilla tu camisa.
@@ -6835,7 +10374,7 @@
 3	ñëʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.2SG|Trad=de.ti
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0563
+# sent_id = ejemplos:0878
 # text = Jitubiy kusanto toch bíku ñeé tnoʼo.
 # text[orig] = Jitubiy kusanto toch bíku ñeé tnoʼo.
 # text[spa] = Cuando es fiesta de muertos ocupan copal.
@@ -6849,7 +10388,7 @@
 6	tnoʼo	_	_	_	_	_	_	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0564
+# sent_id = ejemplos:0879
 # text = Uu níchi ama kuu.
 # text[orig] = Uu níchi ama kuu.
 # text[spa] = Yo ví una vibora.
@@ -6861,7 +10400,7 @@
 4	kuu	_	NOUN	_	_	_	_	_	Trad=víbora
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0565
+# sent_id = ejemplos:0880
 # text = Yeabean icha kúu ñee chinbaʼa ñeʼë.
 # text[orig] = Yeabean icha kúu ñee chinbaʼa ñeʼë.
 # text[spa] = Esta muy frío el fierro de mi puerta.
@@ -6875,7 +10414,7 @@
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Trad=de.mí
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0566
+# sent_id = ejemplos:0881
 # text = Ted ama küu ñeʼë.
 # text[orig] = Ted ama küu ñeʼë.
 # text[spa] = Dame mi molde para hacer comal.
@@ -6887,7 +10426,7 @@
 4	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Trad=de.mí
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0567
+# sent_id = ejemplos:0882
 # text = Naka ama kuu chéche.
 # text[orig] = Naka ama kuu chéche.
 # text[spa] = Encontre una casacabel.
@@ -6899,7 +10438,7 @@
 4	chéche	_	ADJ	_	_	_	_	_	Trad=duro|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0568
+# sent_id = ejemplos:0883
 # text = Uu níchi ama kuu kuäa.
 # text[orig] = Uu níchi ama kuu kuäa.
 # text[spa] = Yo ví una especie de anaconda.
@@ -6912,7 +10451,7 @@
 5	kuäa	_	_	_	_	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0569
+# sent_id = ejemplos:0884
 # text = Dinuu nichis ama kuu töo.
 # text[orig] = Dinuu nichis ama kuu töo.
 # text[spa] = Mi hermano vió un coralillo.
@@ -6925,7 +10464,7 @@
 5	töo	_	NOUN	_	_	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0570
+# sent_id = ejemplos:0885
 # text = Uu nichi ama kuu yati.
 # text[orig] = Uu nichi ama kuu yati.
 # text[spa] = Yo vi a una lagartija-vibora.
@@ -6938,7 +10477,7 @@
 5	yati	_	NOUN	_	_	_	_	_	Trad=chindete
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0571
+# sent_id = ejemplos:0886
 # text = Uu nichi ama kuu yéabea.
 # text[orig] = Uu nichi ama kuu yéabea.
 # text[spa] = Yo vi un avión.
@@ -6951,7 +10490,7 @@
 5	yéabea	_	NOUN	_	_	_	_	_	Trad=mariposa
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0572
+# sent_id = ejemplos:0887
 # text = Uu jitubii kúu yúdii.
 # text[orig] = Uu jitubii kúu yúdii.
 # text[spa] = Yo ocupo risadores.
@@ -6963,7 +10502,7 @@
 4	yúdii	_	NOUN	_	_	_	_	_	Trad=elote
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0573
+# sent_id = ejemplos:0888
 # text = Ama kuu yúdu kánat chibatu ñëʼe.
 # text[orig] = Ama kuu yúdu kánat chibatu ñëʼe.
 # text[spa] = Una anaconda se llevó a mi chivo.
@@ -6977,7 +10516,7 @@
 6	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0574
+# sent_id = ejemplos:0889
 # text = Yeabean kuuchi nochi jitatï.
 # text[orig] = Yeabean kuuchi nochi jitatï.
 # text[spa] = Mi almohada es de algodón.
@@ -6989,7 +10528,7 @@
 4	jitatï	_	_	_	_	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0575
+# sent_id = ejemplos:0890
 # text = ¿A neé kuyadud?
 # text[orig] = ¿A neé kuyadud?
 # text[spa] = ¿Te quieres dormir?
@@ -7001,7 +10540,7 @@
 4	kuyadud	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-dormir-2SG|Trad=duerme
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0576
+# sent_id = ejemplos:0891
 # text = Yeabean jii laasi toch jee.
 # text[orig] = Yeabean jii laasi toch jee.
 # text[spa] = Cuando llueve hay mucho lodo.
@@ -7014,7 +10553,7 @@
 5	jee	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-comer-1SG|Trad=como
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0577
+# sent_id = ejemplos:0892
 # text = Chidan jitubiy laatu.
 # text[orig] = Chidan jitubiy laatu.
 # text[spa] = Mi papá ocupa el arado.
@@ -7025,7 +10564,7 @@
 3	laatu	_	ADJ	_	_	_	_	_	Trad=arado|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0578
+# sent_id = ejemplos:0893
 # text = Yeabean bea labente kuete.
 # text[orig] = Yeabean bea labente kuete.
 # text[spa] = Hay muchos duendes en el campo.
@@ -7037,7 +10576,7 @@
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0579
+# sent_id = ejemplos:0894
 # text = Tochi a jimaa jinoo laka.
 # text[orig] = Tochi a jimaa jinoo laka.
 # text[spa] = Cuando anochece sale la chachalaca.
@@ -7050,7 +10589,7 @@
 5	laka	_	NOUN	_	_	_	_	_	Trad=chachalaca|UPOS=Guessed
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0580
+# sent_id = ejemplos:0895
 # text = Ama lanti ñëe túʼu yeabean lï.
 # text[orig] = Ama lanti ñëe túʼu yeabean lï.
 # text[spa] = Un hueso de pollo es muy pequeño.
@@ -7064,7 +10603,7 @@
 6	lï	_	VERB	_	VerbForm=Stat|Number=Sing	_	_	_	Trad=pequeño
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0581
+# sent_id = ejemplos:0896
 # text = Yeabean yaaʼa lantiku.
 # text[orig] = Yeabean yaaʼa lantiku.
 # text[spa] = Me duele la costilla.
@@ -7075,7 +10614,7 @@
 3	lantiku	_	NOUN	_	_	_	_	_	Trad=costilla|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0582
+# sent_id = ejemplos:0897
 # text = Chinjikuu bee lantuu.
 # text[orig] = Chinjikuu bee lantuu.
 # text[spa] = En el rio hay cola de caballo.
@@ -7086,7 +10625,7 @@
 3	lantuu	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0583
+# sent_id = ejemplos:0898
 # text = Yeabean leabe kanoo cantu núni ñëʼed.
 # text[orig] = Yeabean leabe kanoo cantu núni ñëʼed.
 # text[spa] = Muy aguado salió tu frijol.
@@ -7100,7 +10639,7 @@
 6	ñëʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.2SG|Trad=de.ti
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0584
+# sent_id = ejemplos:0899
 # text = Yeabean leantu nod.
 # text[orig] = Yeabean leantu nod.
 # text[spa] = Tienes mucha lagaña.
@@ -7111,7 +10650,7 @@
 3	nod	_	VERB	_	_	_	_	_	Trad=tienes|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0585
+# sent_id = ejemplos:0900
 # text = Leeko jeʼet iti.
 # text[orig] = Leeko jeʼet iti.
 # text[spa] = El coyote come animales.
@@ -7122,7 +10661,7 @@
 3	iti	_	NOUN	_	_	_	_	_	Trad=animal
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0586
+# sent_id = ejemplos:0901
 # text = Yaa lï ama nanta chi kane kuchba.
 # text[orig] = Yaa lï ama nanta chi kane kuchba.
 # text[spa] = Esta muy chiquito la flor que esta en el patio.
@@ -7137,7 +10676,7 @@
 7	kuchba	_	NOUN	_	_	_	_	_	Trad=patio
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0587
+# sent_id = ejemplos:0902
 # text = Yeabean lii tika.
 # text[orig] = Yeabean lii tika.
 # text[spa] = Está muy arrugado mi ropa.
@@ -7148,7 +10687,7 @@
 3	tika	_	NOUN	_	_	_	_	_	Trad=ropa
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0588
+# sent_id = ejemplos:0903
 # text = Chéche ñóo lítu uu.
 # text[orig] = Chéche ñóo lítu uu.
 # text[spa] = Se me enterraron espinas del saquetón.
@@ -7160,7 +10699,7 @@
 4	uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0589
+# sent_id = ejemplos:0904
 # text = Diya chinoy noo ama lö chi yeabean yanuʼu.
 # text[orig] = Diya chinoy noo ama lö chi yeabean yanuʼu.
 # text[spa] = Mi tío se cayó en un hoyo muy profundo.
@@ -7176,7 +10715,7 @@
 8	yanuʼu	_	ADJ	_	_	_	_	_	Trad=profundo|UPOS=Guessed
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0590
+# sent_id = ejemplos:0905
 # text = Uu neé cheʼe yuta ñëe lunchi.
 # text[orig] = Uu neé cheʼe yuta ñëe lunchi.
 # text[spa] = Yo quiero comer carne de borrego.
@@ -7190,7 +10729,7 @@
 6	lunchi	_	NOUN	_	_	_	_	_	Trad=borrego
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0591
+# sent_id = ejemplos:0906
 # text = Yeabean lunti diibi chivatu.
 # text[orig] = Yeabean lunti diibi chivatu.
 # text[spa] = El estiercol del chivo es redondo.
@@ -7202,7 +10741,7 @@
 4	chivatu	_	NOUN	_	_	_	_	_	Trad=chivo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0592
+# sent_id = ejemplos:0907
 # text = Yeabean lútii ama koʼod.
 # text[orig] = Yeabean lútii ama koʼod.
 # text[spa] = Tienes muy corto uno de tus pies.
@@ -7214,7 +10753,7 @@
 4	koʼod	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Gloss=POT-ir-2SG|Normal=koʼöd|Trad=irás
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0593
+# sent_id = ejemplos:0908
 # text = Sakon yeabean luuchi noos.
 # text[orig] = Sakon yeabean luuchi noos.
 # text[spa] = Él tiene la cara muy bonita.
@@ -7226,7 +10765,7 @@
 4	noos	_	NOUN	_	_	_	_	_	Gloss=cara-POSS.3.MSC|Trad=su.cara
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0594
+# sent_id = ejemplos:0909
 # text = Neé kubi maa.
 # text[orig] = neé kubi maa.
 # text[spa] = ya quiere anochecer.
@@ -7237,7 +10776,7 @@
 3	maa	_	NOUN	_	_	_	_	_	Trad=noche
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0595
+# sent_id = ejemplos:0910
 # text = Yeabean bea marceja kuete.
 # text[orig] = Yeabean bea marceja kuete.
 # text[spa] = Hay muchos murciélagos en el campo.
@@ -7249,7 +10788,7 @@
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0596
+# sent_id = ejemplos:0911
 # text = Yeabean mee.
 # text[orig] = Yeabean mee.
 # text[spa] = Está muy nublado.
@@ -7259,7 +10798,7 @@
 2	mee	_	ADJ	_	_	_	_	_	Trad=nublado|UPOS=Guessed
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0597
+# sent_id = ejemplos:0912
 # text = Kuad ama meede ñëʼe.
 # text[orig] = Kuad ama meede ñëʼe.
 # text[spa] = Cómprame una calceta.
@@ -7271,7 +10810,7 @@
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0598
+# sent_id = ejemplos:0913
 # text = Uu neé cheʼe mï.
 # text[orig] = Uu neé cheʼe mï.
 # text[spa] = Yo quiero comer camote.
@@ -7283,7 +10822,7 @@
 4	mï	_	NOUN	_	_	_	_	_	Trad=camote
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0599
+# sent_id = ejemplos:0914
 # text = Kaá mï nïi.
 # text[orig] = Kaá mï nïi.
 # text[spa] = Compre chayocamotes.
@@ -7294,7 +10833,7 @@
 3	nïi	_	NOUN	_	_	_	_	_	Trad=chayote
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0600
+# sent_id = ejemplos:0915
 # text = Uu neé cheʼe mïn góo naá.
 # text[orig] = Uu neé cheʼe mïn góo naá.
 # text[spa] = Yo qruiero comer camote morado.
@@ -7308,7 +10847,7 @@
 6	naá	_	_	_	_	_	_	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0601
+# sent_id = ejemplos:0916
 # text = Mnoo ñoʼo chii jeen snuu bii.
 # text[orig] = Mnoo ñoʼo chii jeen snuu bii.
 # text[spa] = Arriba de la mesa hay frutas.
@@ -7322,7 +10861,7 @@
 6	bii	_	NOUN	_	_	_	_	_	Trad=fruta
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0602
+# sent_id = ejemplos:0917
 # text = Yeabean keadea mogeché.
 # text[orig] = Yeabean keadea mogeché.
 # text[spa] = Tengo comezón en las axilas.
@@ -7333,7 +10872,7 @@
 3	mogeché	_	NOUN	_	_	_	_	_	Trad=axila
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0603
+# sent_id = ejemplos:0918
 # text = Moo bea ama ñana lii ñëʼe.
 # text[orig] = Moo bea ama ñana lii ñëʼe.
 # text[spa] = Yo tengo un perrito.
@@ -7347,7 +10886,7 @@
 6	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0604
+# sent_id = ejemplos:0919
 # text = Moo ñoʼo ñëʼe bea nanta.
 # text[orig] = Moo ñoʼo ñëʼe bea nanta.
 # text[spa] = Debajo de mi árbol tengo flores.
@@ -7360,7 +10899,7 @@
 5	nanta	_	NOUN	_	_	_	_	_	Trad=flor
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0605
+# sent_id = ejemplos:0920
 # text = Moo ibuu kaneñ nojoobee.
 # text[orig] = Moo ibuu kaneñ nojoobee.
 # text[spa] = Jesus esta en el cielo.
@@ -7372,7 +10911,7 @@
 4	nojoobee	_	NOUN	_	_	_	_	_	Trad=cielo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0606
+# sent_id = ejemplos:0921
 # text = Muʼu kaneé.
 # text[orig] = Muʼu kaneé.
 # text[spa] = Aquí estoy.
@@ -7382,7 +10921,7 @@
 2	kaneé	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-cargar-?|Trad=cargar
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0607
+# sent_id = ejemplos:0922
 # text = Yata ñee kaka ñeedin yeabean nabií.
 # text[orig] = Yata ñee kaka ñeedin yeabean nabií.
 # text[spa] = Las hojas de tu libro están muy pegados.
@@ -7396,7 +10935,7 @@
 6	nabií	_	ADJ	_	_	_	_	_	Trad=pegado|UPOS=Guessed
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0608
+# sent_id = ejemplos:0923
 # text = Koʼo kua ama naama.
 # text[orig] = Koʼo kua ama naama.
 # text[spa] = Voy a comprar un jabón.
@@ -7408,7 +10947,7 @@
 4	naama	_	NOUN	_	_	_	_	_	Trad=jabón
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0609
+# sent_id = ejemplos:0924
 # text = Nabeánu dayaa dudi.
 # text[orig] = Nabeánu dayaa dudi.
 # text[spa] = Mi tia tuvo un aborto.
@@ -7419,7 +10958,7 @@
 3	dudi	_	NOUN	_	_	_	_	_	Trad=tía
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0610
+# sent_id = ejemplos:0925
 # text = Kued nabeanud ninu.
 # text[orig] = Kued nabeanud ninu.
 # text[spa] = Vé a recoger el maíz.
@@ -7430,7 +10969,7 @@
 3	ninu	nínu	NOUN	_	Typo=Yes	_	_	_	Normal=nínu|Trad=maíz
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0611
+# sent_id = ejemplos:0926
 # text = Uu neé chee naboʼoo.
 # text[orig] = Uu neé chee naboʼoo.
 # text[spa] = Yo quiero comer cereza.
@@ -7442,7 +10981,7 @@
 4	naboʼoo	_	NOUN	_	_	_	_	_	Trad=cereza,.capulín
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0612
+# sent_id = ejemplos:0927
 # text = Uu bea ama dudi chi jeʼeñ naíba.
 # text[orig] = Uu bea ama dudi chi jeʼeñ naíba.
 # text[spa] = Yo tengo una tia que va al mercado.
@@ -7457,7 +10996,7 @@
 7	naíba	_	NOUN	_	_	_	_	_	Trad=mercado
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0613
+# sent_id = ejemplos:0928
 # text = Chidan yeabean bea naídii ñëʼeñ.
 # text[orig] = Chidan yeabean bea naídii ñëʼeñ.
 # text[spa] = Mi papá tiene muchos aguacates.
@@ -7470,7 +11009,7 @@
 5	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM|Trad=de.él
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0614
+# sent_id = ejemplos:0929
 # text = Dudi jiníkuy naídii.
 # text[orig] = Dudi jiníkuy naídii.
 # text[spa] = Mi tia vende aguacates.
@@ -7481,7 +11020,7 @@
 3	naídii	_	NOUN	_	_	_	_	_	Trad=aguacate
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0615
+# sent_id = ejemplos:0930
 # text = Uu jeé naídii yádi.
 # text[orig] = Uu jeé naídii yádi.
 # text[spa] = Yo como higos.
@@ -7493,7 +11032,7 @@
 4	yádi	_	NOUN	_	_	_	_	_	Trad=higo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0616
+# sent_id = ejemplos:0931
 # text = Sakoon bea naídii yádi ñëʼes.
 # text[orig] = Sakoon bea naídii yádi ñëʼes.
 # text[spa] = Él tiene higos.
@@ -7506,7 +11045,7 @@
 5	ñëʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.MSC|Trad=de.él
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0617
+# sent_id = ejemplos:0932
 # text = Kákud naiyaa cheʼe chikuʼu.
 # text[orig] = Kákud naiyaa cheʼe chikuʼu.
 # text[spa] = Has salsa para que coma mi abuela.
@@ -7518,7 +11057,7 @@
 4	chikuʼu	_	NOUN	_	_	_	_	_	Trad=mi.abuelita
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0618
+# sent_id = ejemplos:0933
 # text = Dinuu jinikus najaʼa.
 # text[orig] = Dinuu jinikus najaʼa.
 # text[spa] = Mi hermano vende nuez.
@@ -7529,7 +11068,7 @@
 3	najaʼa	_	NOUN	_	_	_	_	_	Trad=nuez
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0619
+# sent_id = ejemplos:0934
 # text = Uu bea najaʼa ñëʼe.
 # text[orig] = Uu bea najaʼa ñëʼe.
 # text[spa] = Yo tengo nueces.
@@ -7541,7 +11080,7 @@
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0620
+# sent_id = ejemplos:0935
 # text = Naneachea chi gua noo dijú.
 # text[orig] = Naneachea chi gua noo dijú.
 # text[spa] = Borré lo que escribí mal.
@@ -7554,7 +11093,7 @@
 5	dijú	_	_	_	_	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0621
+# sent_id = ejemplos:0936
 # text = Sakoo chines uu naneache nochi dijú nó o.
 # text[orig] = Sakoo chines uu naneache nochi dijú nó o.
 # text[spa] = Él me ayudó a borrar el pizarrón.
@@ -7570,7 +11109,7 @@
 8	o	_	CCONJ	_	_	_	_	_	Trad=o
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0622
+# sent_id = ejemplos:0937
 # text = Yeabean chete ñoʼo ñeʼe nankuníbii.
 # text[orig] = Yeabean chete ñoʼo ñeʼe nankuníbii.
 # text[spa] = El árbol del colorin es muy grande.
@@ -7583,7 +11122,7 @@
 5	nankuníbii	_	ADJ	_	_	_	_	_	Trad=grande|UPOS=Guessed
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0623
+# sent_id = ejemplos:0938
 # text = Uu bea ama tiku nanta ñeʼë.
 # text[orig] = Uu bea ama tiku nanta ñeʼë.
 # text[spa] = Yo tengo unos ramos de flores.
@@ -7597,7 +11136,7 @@
 6	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Trad=de.mí
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0624
+# sent_id = ejemplos:0939
 # text = Uu yaá eanu nanta koo.
 # text[orig] = Uu yaá eanu nanta koo.
 # text[spa] = A mí me gusta esa flor.
@@ -7610,7 +11149,7 @@
 5	koo	kaʼan	VERB	_	Typo=Yes|VerbForm=Fin	_	_	_	Gloss=POT-ir-1SG|Normal=koʼö|Trad=iré
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0625
+# sent_id = ejemplos:0940
 # text = Uu bea nantioö ñëʼe.
 # text[orig] = Uu bea nantioö ñëʼe.
 # text[spa] = Yo tengo rosas.
@@ -7622,7 +11161,7 @@
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0626
+# sent_id = ejemplos:0941
 # text = Iñsee nenoo nantioö ñëʼeñ bea.
 # text[orig] = Iñsee nenoo nantioö ñëʼeñ bea.
 # text[spa] = Ellos tienen rosas de muchos colores.
@@ -7635,7 +11174,7 @@
 5	bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0627
+# sent_id = ejemplos:0942
 # text = Uu nánu kuʼu.
 # text[orig] = Uu nánu kuʼu.
 # text[spa] = Yo lavo los platos.
@@ -7646,7 +11185,7 @@
 3	kuʼu	_	NOUN	_	_	_	_	_	Trad=plato
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0628
+# sent_id = ejemplos:0943
 # text = Iña koon jinánuy chita ñëʼeñ.
 # text[orig] = Iña koon jinánuy chita ñëʼeñ.
 # text[spa] = Esa señora está lavando su olla.
@@ -7659,7 +11198,7 @@
 5	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM|Trad=de.él
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0629
+# sent_id = ejemplos:0944
 # text = Sadii biʼi jiinus nata.
 # text[orig] = Sadii biʼi jiinus nata.
 # text[spa] = Mi hermano siembra maíz.
@@ -7671,7 +11210,7 @@
 4	nata	_	NOUN	_	_	_	_	_	Trad=maíz
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0630
+# sent_id = ejemplos:0945
 # text = Sakoon nata dibaku soʼö.
 # text[orig] = Sakoon nata dibaku soʼö.
 # text[spa] = La raza de él es cuicateca.
@@ -7683,7 +11222,7 @@
 4	soʼö	_	NOUN	_	_	_	_	_	Trad=hombre
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0631
+# sent_id = ejemplos:0946
 # text = Iña koon bea ninu ndá ñëʼeñ.
 # text[orig] = Iña koon bea ninu ndá ñëʼeñ.
 # text[spa] = Esa persona tiene maíz muy bueno.
@@ -7697,7 +11236,7 @@
 6	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM|Trad=de.él
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0632
+# sent_id = ejemplos:0947
 # text = Diya too ndáy nuku.
 # text[orig] = Diya too ndáy nuku.
 # text[spa] = Mi tío es muy bueno conmigo.
@@ -7709,7 +11248,7 @@
 4	nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0633
+# sent_id = ejemplos:0948
 # text = Uu bea ama ndakuu ñeʼë chi too eanu.
 # text[orig] = Uu bea ama ndakuu ñeʼë chi too eanu.
 # text[spa] = Yo tengo unos guaraches que me gustan mucho.
@@ -7725,7 +11264,7 @@
 8	eanu	_	VERB	_	_	_	_	_	Gloss=?-gustar-1SG|Trad=gusto
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0634
+# sent_id = ejemplos:0949
 # text = ¿A neʼéd nobe nakuu?
 # text[orig] = ¿A neʼéd nobe nakuu?
 # text[spa] = ¿Tú necesitas unos guaraches?.
@@ -7738,7 +11277,7 @@
 5	nakuu	_	NOUN	_	_	_	_	_	Trad=guarache
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0635
+# sent_id = ejemplos:0950
 # text = Yeabean ndee ninu kad.
 # text[orig] = Yeabean ndee ninu kad.
 # text[spa] = Compraste mucho maíz.
@@ -7750,7 +11289,7 @@
 4	kad	kua	VERB	_	VerbForm=Fin	_	_	_	Gloss=CPL-comprar-2SG|Trad=comprar
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0636
+# sent_id = ejemplos:0951
 # text = Yeabean ndee dayad.
 # text[orig] = Yeabean ndee dayad.
 # text[spa] = Tienes muchos hijos.
@@ -7761,7 +11300,7 @@
 3	dayad	_	NOUN	_	_	_	_	_	Gloss=hijo-POSS.2SG|Trad=tu.hijo(a)
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0637
+# sent_id = ejemplos:0952
 # text = Takoo jeéta ndete.
 # text[orig] = Takoo jeéta ndete.
 # text[spa] = Ella come ejotes.
@@ -7772,7 +11311,7 @@
 3	ndete	_	NOUN	_	_	_	_	_	Trad=ejote
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0638
+# sent_id = ejemplos:0953
 # text = Uu yeabean bea ndete ñëʼe.
 # text[orig] = Uu yeabean bea ndete ñëʼe.
 # text[spa] = Yo tengo muchos ejotes.
@@ -7785,7 +11324,7 @@
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0639
+# sent_id = ejemplos:0954
 # text = Uu bea ndeyaa noo baku.
 # text[orig] = Uu bea ndeyaa noo baku.
 # text[spa] = Yo tengo duraznos en mi casa.
@@ -7798,7 +11337,7 @@
 5	baku	_	NOUN	_	_	_	_	_	Trad=casa
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0640
+# sent_id = ejemplos:0955
 # text = Chida jinikuy ndeyee.
 # text[orig] = Chida jinikuy ndeyee.
 # text[spa] = Mi papá vende duraznos.
@@ -7809,7 +11348,7 @@
 3	ndeyee	_	NOUN	_	_	_	_	_	Trad=durazno
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0641
+# sent_id = ejemplos:0956
 # text = Ndiʼi yaá ñaat.
 # text[orig] = Ndiʼi yaá ñaat.
 # text[spa] = Las moscas son muy sucias.
@@ -7820,7 +11359,7 @@
 3	ñaat	_	ADJ	_	_	_	_	_	Trad=sucio|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0642
+# sent_id = ejemplos:0957
 # text = Uu nichi ama ndiʼi.
 # text[orig] = Uu nichi ama ndiʼi.
 # text[spa] = Yo ví una mosca.
@@ -7832,7 +11371,7 @@
 4	ndiʼi	_	NOUN	_	_	_	_	_	Trad=mosca
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0643
+# sent_id = ejemplos:0958
 # text = Takon nee ndúbi num ama toó.
 # text[orig] = Takon nee ndúbi num ama toó.
 # text[spa] = Ella tiene granos en todo el cuerpo.
@@ -7846,7 +11385,7 @@
 6	toó	_	ADV	_	_	_	_	_	Trad=allí|UPOS=Guessed
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0644
+# sent_id = ejemplos:0959
 # text = Kano ndúbi dii chi ñöo.
 # text[orig] = Kano ndúbi dii chi ñöo.
 # text[spa] = A ti te salieron granos por el calor.
@@ -7859,7 +11398,7 @@
 5	ñöo	_	NOUN	_	_	_	_	_	Trad=calor
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0645
+# sent_id = ejemplos:0960
 # text = Nanad në kat neé cheʼe.
 # text[orig] = Nanad në kat neé cheʼe.
 # text[spa] = Has mole que quiero comer.
@@ -7872,7 +11411,7 @@
 5	cheʼe	cheʼe	VERB	_	Mood=Pot|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=POT-comer-1SG|Trad=como
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0646
+# sent_id = ejemplos:0961
 # text = Uu neʼë juchi.
 # text[orig] = Uu neʼë juchi.
 # text[spa] = Yo quiero a mi sobrina.
@@ -7883,7 +11422,7 @@
 3	juchi	_	NOUN	_	_	_	_	_	Trad=sobrina
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0647
+# sent_id = ejemplos:0962
 # text = Moo ñoʼoo yeabean snu néabea.
 # text[orig] = Moo ñoʼoo yeabean snu néabea.
 # text[spa] = Debajo de la tierra hay muchas gallinas ciegas.
@@ -7896,7 +11435,7 @@
 5	néabea	_	NOUN	_	_	_	_	_	Trad=gallina.ciega
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0648
+# sent_id = ejemplos:0963
 # text = Yaʼa yaku chiba neatuu.
 # text[orig] = Yaʼa yaku chiba neatuu.
 # text[spa] = Está muy caro el tomate.
@@ -7908,7 +11447,7 @@
 4	neatuu	_	NOUN	_	_	_	_	_	Trad=tomate
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0649
+# sent_id = ejemplos:0964
 # text = Diya jiinuy neatuu kuete.
 # text[orig] = Diya jiinuy neatuu kuete.
 # text[spa] = Mi tío siembra tomate en el campo.
@@ -7920,7 +11459,7 @@
 4	kuete	_	NOUN	_	_	_	_	_	Trad=campo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0650
+# sent_id = ejemplos:0965
 # text = Uu bea ama ñoʼo ñëe niini ñëʼe.
 # text[orig] = Uu bea ama ñoʼo ñëe niini ñëʼe.
 # text[spa] = Yo tengo un árbol de guaje.
@@ -7935,7 +11474,7 @@
 7	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0651
+# sent_id = ejemplos:0966
 # text = Chakun kay neene.
 # text[orig] = Chakun kay neene.
 # text[spa] = Mi mamá compró guaje.
@@ -7946,7 +11485,7 @@
 3	neene	_	NOUN	_	_	_	_	_	Trad=guaje
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0652
+# sent_id = ejemplos:0967
 # text = Uu jinaá nibii chi cheé.
 # text[orig] = Uu jinaá nibii chi cheé.
 # text[spa] = Yo preparo papa para comer.
@@ -7959,7 +11498,7 @@
 5	cheé	cheʼe	VERB	_	Typo=Yes|Mood=Pot|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=POT-comer-1SG|Normal=cheʼe|Trad=como
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0653
+# sent_id = ejemplos:0968
 # text = Keabea eanus jeés nibii.
 # text[orig] = Keabea eanus jeés nibii.
 # text[spa] = A mi hermano le gusta la papa.
@@ -7971,7 +11510,7 @@
 4	nibii	_	NOUN	_	_	_	_	_	Trad=papa
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0654
+# sent_id = ejemplos:0969
 # text = Uu bea nichama yaá ñeʼë.
 # text[orig] = Uu bea nichama yaá ñeʼë.
 # text[spa] = Yo tengo once jícaras.
@@ -7984,7 +11523,7 @@
 5	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Trad=de.mí
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0655
+# sent_id = ejemplos:0970
 # text = Biʼi nichama nooyos.
 # text[orig] = Biʼi nichama nooyos.
 # text[spa] = Mi hermano tiene once años.
@@ -7995,7 +11534,7 @@
 3	nooyos	_	NOUN	_	_	_	_	_	Trad=su.edad
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0656
+# sent_id = ejemplos:0971
 # text = Chakun bea nichi tuʼu ñeeñ.
 # text[orig] = Chakun bea nichi tuʼu ñeeñ.
 # text[spa] = Mi mamá tiene diez pollos.
@@ -8008,7 +11547,7 @@
 5	ñeeñ	_	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0657
+# sent_id = ejemplos:0972
 # text = Un neé nichi dut iñuu.
 # text[orig] = Un neé nichi dut iñuu.
 # text[spa] = Yo quiero diez huevos de guajolote.
@@ -8021,7 +11560,7 @@
 5	iñuu	_	NOUN	_	_	_	_	_	Trad=guajolote
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0658
+# sent_id = ejemplos:0973
 # text = Uu neé nichi chida.
 # text[orig] = Uu neé nichi chida.
 # text[spa] = Yo quiero ver a mi papá.
@@ -8033,7 +11572,7 @@
 4	chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0659
+# sent_id = ejemplos:0974
 # text = Uu neé nichi chi jeaas itintu.
 # text[orig] = Uu neé nichi chi jeaas itintu.
 # text[spa] = Yo quiero ver el jaripeo.
@@ -8047,7 +11586,7 @@
 6	itintu	_	NOUN	_	_	_	_	_	Trad=toro
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0660
+# sent_id = ejemplos:0975
 # text = Biʼin nichubi nóyota.
 # text[orig] = Biʼin nichubi nóyota.
 # text[spa] = Mi hermana tiene doce años.
@@ -8058,7 +11597,7 @@
 3	nóyota	_	NOUN	_	_	_	_	_	Trad=años
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0661
+# sent_id = ejemplos:0976
 # text = Insen bea nichubi yúduu ñëʼen.
 # text[orig] = Insen bea nichubi yúduu ñëʼen.
 # text[spa] = Ustedes tienen doce caballos.
@@ -8071,7 +11610,7 @@
 5	ñëʼen	_	NOUN	_	NounType=Relat	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0662
+# sent_id = ejemplos:0977
 # text = Yeaben yaku chiiba nïi.
 # text[orig] = Yeaben yaku chiiba nïi.
 # text[spa] = El chayote es muy caro.
@@ -8083,7 +11622,7 @@
 4	nïi	_	NOUN	_	_	_	_	_	Trad=chayote
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0663
+# sent_id = ejemplos:0978
 # text = Chakun bea nïi ñëʼeñ.
 # text[orig] = Chakun bea nïi ñëʼeñ.
 # text[spa] = Mi mamá tiene chayotes.
@@ -8095,7 +11634,7 @@
 4	ñëʼeñ	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.HUM|Trad=de.él
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0664
+# sent_id = ejemplos:0979
 # text = Chida neé cheʼey níitu.
 # text[orig] = Chida neé cheʼey níitu.
 # text[spa] = Mi papá quiere comer nopal.
@@ -8107,7 +11646,7 @@
 4	níitu	_	NOUN	_	_	_	_	_	Trad=nopal
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0665
+# sent_id = ejemplos:0980
 # text = A bea ndeyee chi nínaa.
 # text[orig] = A bea ndeyee chi nínaa.
 # text[spa] = Ya hay duraznos maduros.
@@ -8120,7 +11659,7 @@
 5	nínaa	_	ADJ	_	_	_	_	_	Trad=maduro|UPOS=Guessed
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0666
+# sent_id = ejemplos:0981
 # text = Nut Bií koon a nínaa.
 # text[orig] = Nut Bií koon a nínaa.
 # text[spa] = Esa fruta ya está madura.
@@ -8133,7 +11672,7 @@
 5	nínaa	_	ADJ	_	_	_	_	_	Trad=maduro|UPOS=Guessed
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0667
+# sent_id = ejemplos:0982
 # text = Uu bea niï ninchii ñëʼe.
 # text[orig] = Uu bea niï ninchii ñëʼe.
 # text[spa] = Yo tengo chayotes cocidos.
@@ -8146,7 +11685,7 @@
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0668
+# sent_id = ejemplos:0983
 # text = A ninchii núni.
 # text[orig] = A ninchii núni.
 # text[spa] = Ya está cocido el frijol.
@@ -8157,7 +11696,7 @@
 3	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0669
+# sent_id = ejemplos:0984
 # text = Jinítu nochi joʼo ama kachi.
 # text[orig] = Jinítu nochi joʼo ama kachi.
 # text[spa] = Se incha donde pica una avispa.
@@ -8170,7 +11709,7 @@
 5	kachi	_	NOUN	_	_	_	_	_	Trad=avispa
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0670
+# sent_id = ejemplos:0985
 # text = Takon káta nini kudubi.
 # text[orig] = Takon káta nini kudubi.
 # text[spa] = Ella compró nueve cucharas.
@@ -8182,7 +11721,7 @@
 4	kudubi	_	NOUN	_	_	_	_	_	Trad=cuchara
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0671
+# sent_id = ejemplos:0986
 # text = Sakon nindamas nini tuu.
 # text[orig] = Sakon nindamas nini tuu.
 # text[spa] = Él juntó nueve piedras.
@@ -8194,7 +11733,7 @@
 4	tuu	_	NOUN	_	_	_	_	_	Trad=piedra
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0672
+# sent_id = ejemplos:0987
 # text = Nínii tii, chi chineabea.
 # text[orig] = Nínii tii, chi chineabea.
 # text[spa] = Se rompio mi cabeza por que me caí.
@@ -8207,7 +11746,7 @@
 5	chineabea	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-caerse-1SG|Trad=me.caí
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0673
+# sent_id = ejemplos:0988
 # text = A nínii núni.
 # text[orig] = A nínii núni.
 # text[spa] = Ya se reventó el frijol.
@@ -8218,7 +11757,7 @@
 3	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0674
+# sent_id = ejemplos:0989
 # text = Yuntu ñëʼe takoo a nintubii.
 # text[orig] = Yuntu ñëʼe takoo a nintubii.
 # text[spa] = La tortilla de ella está descompuesta.
@@ -8231,7 +11770,7 @@
 5	nintubii	_	ADJ	_	_	_	_	_	Trad=descompuesto|UPOS=Guessed
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0675
+# sent_id = ejemplos:0990
 # text = A nintubii tiaka kuu.
 # text[orig] = A nintubii tiaka kuu.
 # text[spa] = Ya está descompuesto éste plátano.
@@ -8243,7 +11782,7 @@
 4	kuu	_	NOUN	_	_	_	_	_	Trad=víbora
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0676
+# sent_id = ejemplos:0991
 # text = Un yeaben bea ninu ñëʼe.
 # text[orig] = Un yeaben bea ninu ñëʼe.
 # text[spa] = Yo tengo mucho maìz.
@@ -8256,7 +11795,7 @@
 5	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0677
+# sent_id = ejemplos:0992
 # text = Uu neé ninu chi cheé tuʼu ñëʼe.
 # text[orig] = Uu neé ninu chi cheé tuʼu ñëʼe.
 # text[spa] = Yo necesito maíz para que coman mis pollos.
@@ -8271,7 +11810,7 @@
 7	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0678
+# sent_id = ejemplos:0993
 # text = Sudi jintibiy ñoó nioʼoo.
 # text[orig] = Sudi jintibiy ñoó nioʼoo.
 # text[spa] = Mi tía hace lumbre en el suelo.
@@ -8283,7 +11822,7 @@
 4	nioʼoo	_	NOUN	_	_	_	_	_	Trad=suelo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0679
+# sent_id = ejemplos:0994
 # text = Nioʼoo bea nanta.
 # text[orig] = Nioʼoo bea nanta.
 # text[spa] = En el suelo hay flores.
@@ -8294,7 +11833,7 @@
 3	nanta	_	NOUN	_	_	_	_	_	Trad=flor
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0680
+# sent_id = ejemplos:0995
 # text = Uu bea ama baʼa nóʼo ñëʼe.
 # text[orig] = Uu bea ama baʼa nóʼo ñëʼe.
 # text[spa] = Yo tengo una casa de adobe.
@@ -8308,7 +11847,7 @@
 6	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0681
+# sent_id = ejemplos:0996
 # text = Uu chëe nanáa nóʼo.
 # text[orig] = Uu chëe nanáa nóʼo.
 # text[spa] = Yo aprendí a hacer adobe.
@@ -8320,7 +11859,7 @@
 4	nóʼo	_	NOUN	_	_	_	_	_	Trad=maestro,.adobe
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0682
+# sent_id = ejemplos:0997
 # text = Yeabean mee nojobe.
 # text[orig] = Yeabean mee nojobe.
 # text[spa] = Esta muy nublado el cielo.
@@ -8331,7 +11870,7 @@
 3	nojobe	_	NOUN	_	_	_	_	_	Trad=cielo
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0683
+# sent_id = ejemplos:0998
 # text = Yeabea noo takoo.
 # text[orig] = Yeabea noo takoo.
 # text[spa] = Ella tiene el rostro bonito.
@@ -8342,7 +11881,7 @@
 3	takoo	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=3.FEM|Normal=takó|Trad=ella
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0684
+# sent_id = ejemplos:0999
 # text = Sakon ninjaʼa noos.
 # text[orig] = Sakon ninjaʼa noos.
 # text[spa] = Él tiene la cara lastimada.
@@ -8353,7 +11892,7 @@
 3	noos	_	NOUN	_	_	_	_	_	Gloss=cara-POSS.3.MSC|Trad=su.cara
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0685
+# sent_id = ejemplos:1000
 # text = Uu bea ama nóʼo ñëʼe chi naas.
 # text[orig] = Uu bea ama nóʼo ñëʼe chi naas.
 # text[spa] = Yo tengo un maestro muy bueno.
@@ -8368,7 +11907,7 @@
 7	naas	_	ADJ	_	_	_	_	_	Trad=bueno|UPOS=Guessed
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0686
+# sent_id = ejemplos:1001
 # text = Koo noo dúnu.
 # text[orig] = Koo noo dúnu.
 # text[spa] = Voy al pantano.
@@ -8379,7 +11918,7 @@
 3	dúnu	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0687
+# sent_id = ejemplos:1002
 # text = Noʼoo yeaben kánta.
 # text[orig] = Noʼoo yeaben kánta.
 # text[spa] = Las balas son muy peligrosas.
@@ -8390,7 +11929,7 @@
 3	kánta	_	ADJ	_	_	_	_	_	Trad=peligrosas|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0688
+# sent_id = ejemplos:1003
 # text = Sakoon chiis noʼoo chete jinkatu ñëʼes.
 # text[orig] = Sakoon chiis noʼoo chete jinkatu ñëʼes.
 # text[spa] = Él le puso balas a su escopeta.
@@ -8404,7 +11943,7 @@
 6	ñëʼes	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3.MSC|Trad=de.él
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0689
+# sent_id = ejemplos:1004
 # text = Uu yaá eanu jiʼi ntu.
 # text[orig] = Uu yaá eanu jiʼi ntu.
 # text[spa] = A mí me gusta tomar atole.
@@ -8417,7 +11956,7 @@
 5	ntu	_	NOUN	_	_	_	_	_	Trad=atole
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0690
+# sent_id = ejemplos:1005
 # text = Uu neé kuee nadna ntu.
 # text[orig] = Uu neé kuee nadna ntu.
 # text[spa] = Yo quiero aprender a hacer atole.
@@ -8430,7 +11969,7 @@
 5	ntu	_	NOUN	_	_	_	_	_	Trad=atole
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0691
+# sent_id = ejemplos:1006
 # text = Chichi koʼo nuku nukñoʼö.
 # text[orig] = Chichi koʼo nuku nukñoʼö.
 # text[spa] = Mi pie se quemó con la brasa.
@@ -8442,7 +11981,7 @@
 4	nukñoʼö	_	NOUN	_	_	_	_	_	Trad=brasa
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0692
+# sent_id = ejemplos:1007
 # text = Nukueʼë chi chikata Uu too kane.
 # text[orig] = Nukueʼë chi chikata Uu too kane.
 # text[spa] = Todo lo que ella me pidio está ahí.
@@ -8456,7 +11995,7 @@
 6	kane	_	VERB	_	_	_	_	_	Gloss=?-estar-?|Trad=está
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0693
+# sent_id = ejemplos:1008
 # text = Nukueʼë iñsen iña ñëʼe iña.
 # text[orig] = Nukueʼë iñsen iña ñëʼe iña.
 # text[spa] = Todos ellos son mis parientes.
@@ -8469,7 +12008,7 @@
 5	iña	_	NOUN	_	_	_	_	_	Trad=gente
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0694
+# sent_id = ejemplos:1009
 # text = Chichee jeéy nukyanti.
 # text[orig] = Chichee jeéy nukyanti.
 # text[spa] = Mi abuelito come guanábana.
@@ -8480,7 +12019,7 @@
 3	nukyanti	_	NOUN	_	_	_	_	_	Trad=guanábana
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0695
+# sent_id = ejemplos:1010
 # text = Jibakun jinikuy nukyanti.
 # text[orig] = Jibakun jinikuy nukyanti.
 # text[spa] = En Cuicatlán venden guanábana.
@@ -8491,7 +12030,7 @@
 3	nukyanti	_	NOUN	_	_	_	_	_	Trad=guanábana
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0696
+# sent_id = ejemplos:1011
 # text = Chiduu neé cheʼey ama nukyoo.
 # text[orig] = Chiduu neé cheʼey ama nukyoo.
 # text[spa] = El padre quiere comer un membrillo.
@@ -8504,7 +12043,7 @@
 5	nukyoo	_	NOUN	_	_	_	_	_	Trad=membrillo
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0697
+# sent_id = ejemplos:1012
 # text = Nulassense chikuday.
 # text[orig] = Nulassense chikuday.
 # text[spa] = Salud comadre.
@@ -8514,7 +12053,7 @@
 2	chikuday	_	NOUN	_	_	_	_	_	Trad=comadre
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0698
+# sent_id = ejemplos:1013
 # text = Ñoo inun yeaben bee nuna.
 # text[orig] = Ñoo inun yeaben bee nuna.
 # text[spa] = En tierre caliente hay pitalla.
@@ -8527,7 +12066,7 @@
 5	nuna	_	NOUN	_	_	_	_	_	Trad=pitalla
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0699
+# sent_id = ejemplos:1014
 # text = Sakon cheés nguas nuna.
 # text[orig] = Sakon cheés nguas nuna.
 # text[spa] = Él fue a traer pitalla.
@@ -8539,7 +12078,7 @@
 4	nuna	_	NOUN	_	_	_	_	_	Trad=pitalla
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0700
+# sent_id = ejemplos:1015
 # text = Un nee kuʼu nuni.
 # text[orig] = Un nee kuʼu nuni.
 # text[spa] = Yo quiero tomar agua.
@@ -8551,7 +12090,7 @@
 4	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0701
+# sent_id = ejemplos:1016
 # text = Uu jiì nuni.
 # text[orig] = Uu jiì nuni.
 # text[spa] = Yo tomo agua.
@@ -8562,7 +12101,7 @@
 3	nuni	_	NOUN	_	_	_	_	_	Trad=agua
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0702
+# sent_id = ejemplos:1017
 # text = Uu jee núni.
 # text[orig] = Uu jee núni.
 # text[spa] = Yo como frijol.
@@ -8573,7 +12112,7 @@
 3	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0703
+# sent_id = ejemplos:1018
 # text = Chakun jinuy núni nnioó.
 # text[orig] = Chakun jinuy núni nnioó.
 # text[spa] = Mi mamá pone fijol en la lumbre.
@@ -8585,7 +12124,7 @@
 4	nnioó	_	ADV	_	_	_	_	_	Gloss=en#lumbre|Trad=en.la.lumbre
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0704
+# sent_id = ejemplos:1019
 # text = Uu neé nichi nunñoʼö.
 # text[orig] = Uu neé nichi nunñoʼö.
 # text[spa] = Yo quiero conocer el mar.
@@ -8597,7 +12136,7 @@
 4	nunñoʼö	_	NOUN	_	_	_	_	_	Trad=mar
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0705
+# sent_id = ejemplos:1020
 # text = Sakoo diis ama nunti.
 # text[orig] = Sakoo diis ama nunti.
 # text[spa] = Él cometio un delito.
@@ -8609,7 +12148,7 @@
 4	nunti	_	NOUN	_	_	_	_	_	Trad=delito
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0706
+# sent_id = ejemplos:1021
 # text = Uu chineñ ama nunti dami.
 # text[orig] = Uu chineñ ama nunti dami.
 # text[spa] = Me culparon de un delito.
@@ -8622,7 +12161,7 @@
 5	dami	_	NOUN	_	_	_	_	_	Trad=espalda,.caparazón
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0707
+# sent_id = ejemplos:1022
 # text = Uu kaa noobe nutbee.
 # text[orig] = Uu kaa noobe nutbee.
 # text[spa] = Yo compré un par de aretes.
@@ -8634,7 +12173,7 @@
 4	nutbee	_	NOUN	_	_	_	_	_	Trad=arete
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0708
+# sent_id = ejemplos:1023
 # text = Iña koon jiníkuy nutbee naa.
 # text[orig] = Iña koon jiníkuy nutbee naa.
 # text[spa] = Esa señora vende aretes de oro.
@@ -8647,7 +12186,7 @@
 5	naa	_	NOUN	_	_	_	_	_	Trad=oro
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0709
+# sent_id = ejemplos:1024
 # text = Chakun jínuñ nutdiku.
 # text[orig] = Chakun jínuñ nutdiku.
 # text[spa] = Mi mamá siembra granadas.
@@ -8658,7 +12197,7 @@
 3	nutdiku	_	NOUN	_	_	_	_	_	Trad=granadas
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0710
+# sent_id = ejemplos:1025
 # text = Sakon nikus nutdiku.
 # text[orig] = Sakon nikus nutdiku.
 # text[spa] = Él vendio granadas.
@@ -8669,7 +12208,7 @@
 3	nutdiku	_	NOUN	_	_	_	_	_	Trad=granadas
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0711
+# sent_id = ejemplos:1026
 # text = Iña koon neʼeñ nutdúü.
 # text[orig] = Iña koon neʼeñ nutdúü.
 # text[spa] = Esa persona necesita grilla.
@@ -8681,7 +12220,7 @@
 4	nutdúü	_	NOUN	_	_	_	_	_	Trad=grilla
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0712
+# sent_id = ejemplos:1027
 # text = Takoon jitubita nutdúü chi jeé beta.
 # text[orig] = Takoon jitubita nutdúü chi jeé beta.
 # text[spa] = Ella ocupa la grilla para el dolor de oído.
@@ -8695,7 +12234,7 @@
 6	beta	_	NOUN	_	_	_	_	_	Trad=su.oreja
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0713
+# sent_id = ejemplos:1028
 # text = Uu yeabean eanu nutiukuu.
 # text[orig] = Uu yeabean eanu nutiukuu.
 # text[spa] = A mi me gusta la semilla.
@@ -8707,7 +12246,7 @@
 4	nutiukuu	_	NOUN	_	_	_	_	_	Trad=semilla
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0714
+# sent_id = ejemplos:1029
 # text = Takon jinikuta nutiukuu.
 # text[orig] = Takon jinikuta nutiukuu.
 # text[spa] = Ella vende semillas.
@@ -8718,7 +12257,7 @@
 3	nutiukuu	_	NOUN	_	_	_	_	_	Trad=semilla
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0715
+# sent_id = ejemplos:1030
 # text = Sakoo yaʼá ama nutnoos.
 # text[orig] = Sakoo yaʼá ama nutnoos.
 # text[spa] = A él le duele un ojo.
@@ -8730,7 +12269,7 @@
 4	nutnoos	_	NOUN	_	_	_	_	_	Gloss=ojo-POSS.3.MSC|Trad=su.ojo
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0716
+# sent_id = ejemplos:1031
 # text = Takoo kuee nutnoo taa.
 # text[orig] = Takoo kuee nutnoo taa.
 # text[spa] = Ella tiene ojos verdes.
@@ -8742,7 +12281,7 @@
 4	taa	_	ADJ	_	_	_	_	_	Trad=verde|UPOS=Guessed
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0717
+# sent_id = ejemplos:1032
 # text = Kaá ama tuu nutnoo koʼoy.
 # text[orig] = Kaá ama tuu nutnoo koʼoy.
 # text[spa] = Se pego una piedra en su tobillo.
@@ -8755,7 +12294,7 @@
 5	koʼoy	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-pegar-?|Trad=pegaron
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0718
+# sent_id = ejemplos:1033
 # text = Iyu juu intii nutñoo.
 # text[orig] = Iyu juu intii nutñoo.
 # text[spa] = En el mes de mayo hay zarzamora.
@@ -8767,7 +12306,7 @@
 4	nutñoo	_	NOUN	_	_	_	_	_	Trad=zarzamora
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0719
+# sent_id = ejemplos:1034
 # text = Yeabea nda jeʼe nutñoo juchi.
 # text[orig] = Yeabea nda jeʼe nutñoo juchi.
 # text[spa] = La frambuesa es muy sabrosa.
@@ -8780,7 +12319,7 @@
 5	juchi	_	NOUN	_	_	_	_	_	Trad=sobrina
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0720
+# sent_id = ejemplos:1035
 # text = Uu yeabea nuttoʼo.
 # text[orig] = Uu yeabea nuttoʼo.
 # text[spa] = Yo tengo bonitos dedos.
@@ -8791,7 +12330,7 @@
 3	nuttoʼo	_	NOUN	_	_	_	_	_	Trad=dedo
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0721
+# sent_id = ejemplos:1036
 # text = Nuttoʼo din kuee.
 # text[orig] = Nuttoʼo din kuee.
 # text[spa] = Tus dedos están chuecos.
@@ -8802,7 +12341,7 @@
 3	kuee	_	ADJ	_	_	_	_	_	Trad=chueco|UPOS=Guessed
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0722
+# sent_id = ejemplos:1037
 # text = Uu jinuu nutyákuu noo núni.
 # text[orig] = Uu jinuu nutyákuu noo núni.
 # text[spa] = Yo le pongo cebolla a los frijoles.
@@ -8815,7 +12354,7 @@
 5	núni	_	NOUN	_	_	_	_	_	Trad=frijol
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0723
+# sent_id = ejemplos:1038
 # text = Uu cheʼé kaa nutyáku noo naíba.
 # text[orig] = Uu cheʼé kaa nutyáku noo naíba.
 # text[spa] = Yo fui a comprar cebolla en el mercado.
@@ -8829,7 +12368,7 @@
 6	naíba	_	NOUN	_	_	_	_	_	Trad=mercado
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0724
+# sent_id = ejemplos:1039
 # text = Uu neé kuna nduu.
 # text[orig] = Uu neé kuna nduu.
 # text[spa] = Yo quiero masticar caña.
@@ -8841,7 +12380,7 @@
 4	nduu	_	NOUN	_	_	_	_	_	Trad=caña
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0725
+# sent_id = ejemplos:1040
 # text = Uu bea inu ñoʼo ñee nuuku ñeʼë.
 # text[orig] = Uu bea inu ñoʼo ñee nuuku ñeʼë.
 # text[spa] = Yo tengo tres árboles de chirimoya.
@@ -8856,7 +12395,7 @@
 7	ñeʼë	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Trad=de.mí
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0726
+# sent_id = ejemplos:1041
 # text = Takoo jaata nuuku chi nínaa.
 # text[orig] = Takoo jaata nuuku chi nínaa.
 # text[spa] = Ella compra chirimoyas maduras.
@@ -8869,7 +12408,7 @@
 5	nínaa	_	ADJ	_	_	_	_	_	Trad=maduro|UPOS=Guessed
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0727
+# sent_id = ejemplos:1042
 # text = Koʼoy uu nuku ama núuku.
 # text[orig] = Koʼoy uu nuku ama núuku.
 # text[spa] = Me pegaron con una vara.
@@ -8882,7 +12421,7 @@
 5	núuku	_	NOUN	_	_	_	_	_	Trad=vara
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0728
+# sent_id = ejemplos:1043
 # text = Noo ñoʼo ñëʼed yeabean bea núuku.
 # text[orig] = Noo ñoʼo ñëʼed yeabean bea núuku.
 # text[spa] = En tu terreno hay mucha vara.
@@ -8896,7 +12435,7 @@
 6	núuku	_	NOUN	_	_	_	_	_	Trad=vara
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = ejemplos:0729
+# sent_id = ejemplos:1044
 # text = Uu eanu nuutii chi kataʼa tiid.
 # text[orig] = Uu eanu nuutii chi kataʼa tiid.
 # text[spa] = Me gusta la bolita que traes en la cabeza.

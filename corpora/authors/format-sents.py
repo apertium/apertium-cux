@@ -34,6 +34,10 @@ for i, line in enumerate(sys.stdin.readlines()):
 	if cux[-1] not in '.:?!' and cux[0] not in '¿¡':
 		cux += '.'
 	spa = row[2].strip()
+	if len(spa) == 0:
+		print('INVALID', i,':', line, file=sys.stderr)
+		continue
+		
 	if spa[-1] not in '.:?!' and spa[0] not in '¿¡':
 		spa += '.'
 
