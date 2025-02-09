@@ -17,6 +17,7 @@ sents = {}
 toks = {}
 pp = set()
 for i, line in enumerate(sys.stdin.readlines()):
+	line = line.strip('\n')
 	if line.strip() == '' or line.count('ORACION') > 0 or line.strip().count('\t') == 0:
 		continue
 	row = line.split('\t')

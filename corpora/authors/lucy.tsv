@@ -99,66 +99,902 @@ N/P			ORACION EN CUICATECO	ORACION EN ESPAÑOL
 98	Yába	Rocas planas	Yeabean chéatea yába kó	Esta muy grande esa roca plana																							
 99	Yába	Piedra grande	Kueten kane ama yába	En el campo esta una piedra grande																							
 100	yàku	Apestoso	Gë yàku yââ kó	apesta aquel barranco																							
-1	Yàaku	mosquito	Tochi ñòon inti yàaku	En tiempos de calor hay muchos mosquitos																							
-2	Yàna	Red	Ted yàna kuí yuntu ñë´e	Dame la red para hechar mi tortilla																							
-3	Yata	Hierba	Gua yata  chi chee itñe'ë	No hay hierba para que coman mis animales																							
-4	Yába	Memela	Uu ika yába	Yo hago memelas																							
-5	Yábaa	Arador	Chinuú yábaa dinuu	Mi hermano tiene aradores																							
-6	Yabi	Anoche	Yabi che´e baku chiku´u	Anoche fui a casa de mi abuelita																							
-7	Yábi	Le hablé	Ikun yábi diiya	Ayer le hablé a mi tío																							
-8	Yachi	Masa	Yeabean bea yachi chi kakay	Hay mucha masa para echar tortilla																							
-9	Yada	Pájaro	Noo bakun bea yada	En mi casa hay muchos pájaros																							
-10	Yadi	Dulce	Too yadi ntu ku	Está muy dulce este atole																							
-11	Yadnuni	Pato	Uu neé che´e ama yadnuni	Yo quiero comer un pato																							
-12	Yadyeeko	Codorniz	Noo ínuu bea yadyeeko	Los codornices existen en lujares calurosos																							
-13	Yagii	Duele	Gua dínud ko´o kat yagii	No aprientes mi pie porque me duele																							
-14	Yaka	Pescado	Uu jee yaka	Yo como pescado																							
-15	Yakaa	Ocote	Kueten yeabean bea yakaa	En el campo hay mucho ocote																							
-16	Yaku	Alto	To yaku kane naidii koo	Está muy alto ese aguacate																							
-17	Yáku	Iglesia	Yaá yeabea yáku ñee ñoo ñe'ë	Esta muy bonita la iglesia de mi pueblo																							
-18	Yama	Zacate	Nee yama chi chee iti ñëe	Quiero zacate para que coman mis animales																							
-19	Yami	Humo	Yeabean jinoo yami noo ba´a ñë'ed	Sale mucho humo de tu casa																							
-20	Yana/ñana	Perro	Chii ama yana ñë'e	Se me murió un perro																							
-21	Yat kúiyu	Sause	Yeabean bea yat kúiyu nede	Hay mucho zause en la barranca																							
-22	Yata	Paloma	Yata beat jibakuu	Hay palomas en Cuicatlán																							
-23	Yata	Pichón	Yeabean bea yata jikio'ö	En el bosque hay mucho pichón																							
-24	Yáta	Tlacuache	Kueten bea yáta	En el campo hay tlacuache																							
-25	Yati	Chindete	Mun gua nee yati bet	Aquí no hay muchos chindetes																							
-26	Yáti	Simple	Ya´a yáti chi genee yuntu	Está muy simple esta comida.																							
-27	Yatneachea	Escoba de vara	Kuninun bea yatneachea	Aya arriba hay escoba de vara																							
-28	Yeabea	Bonito(a)	Ya´a yeabea yéabea koo	Está muy bonita esa mariposa.																							
-29	Yéabea	Mariposa	Ya´a yeabea yéabea koo	Está muy bonita esa mariposa.																							
-30	Yojinu/ñojínu	Contento(a)	Yeabean yojinu  kabachi nichi chaku	Estoy muy contento porque ví a mi mamá																							
-31	Yoko, yuku	Tenate para cargar	Ted ama yuku kuí ñuu	Dame un tenate para hechar mazorca																							
-32	Yoo	Amargo	Gua cheéd si, kat yeabean yoo	No comas eso porque esta muy agrio																							
-33	Yoo	Brazada	Ted obe yoo iyu ñë'e	Dame dos brazadas de mecate																							
-34	Yo'o	Culluchi	Snu yo'o tu'u ñë'e	Mis pollos tienen culluchi																							
-35	Yoo kastila	Sávila	Gua yoo kastila muu	No hay sávila aquí																							
-36	Yubi	Tejón	Gua dnee yubi beat kuete	No hay muchos tejones en el campo																							
-37	Yúbi	Mapache	Ikun nichi ama yúbi kuete	Ayer vi un mapache en el campo.																							
-38	Yuchmee	Cerebro	Uu bea yuchmee	Yo tengo cerebro																							
-39	Yudi	Rata	Uu nichi ama yudi	Yo ví a un ratón																							
-40	Yúdi	Elote	Che'e bea yudii ñë'eñ	Mi abuelito tiene elote																							
-41	Yudii	Arrugado	Yeabean yudii kiana ñëd	Esta muy arrugada tu camisa																							
-42	Yudnoo	Barba	Chida yeabean bea yudnooy	Mi papá tiene mucha barba																							
-43	Yudu	Cabello	Yeabean eanu yudu  tïd	Esta muy largo tu cabello																							
-44	Yuduu	Plano(lugar)	Yeabean yuduu kuete ñë´e	Mi campo esta muy plano																							
-45	Yúduu	Caballo	Diiya bea ama yúduu ñee ña	Mi tio tiene un caballo																							
-46	Yukja´a	Chilacayota	Dinuu neé che´es yukja´a	Mi hermano quiere comer chilacayota																							
-47	Yúku	Lagartija	Uu nichi obe yúku ño´oo ínuu	Yo ví una lagartija de tierra caliente																							
-48	Yúkuu	Calabaza	Chidan chinuñ yukuu	Mi papá sembró calabaza																							
-49	Yuna	zorro	Ama yuna yeabean jeét yúdii	Un zorro come mucho elote																							
-50	Yúni	Camino	¿A nichid yúni  nabaku?	¿Viste el camino de mi casa?																							
-51	Yuntu	Tortilla	Chaku ikay yuntu	Mi mamá hace tortillas																							
-52	Yúntu	Tabla	Kuéd kuad obe yúntu ñë´e	Vé a comprarme dos tablas																							
-53	Yúnuu	Tierno	Yeabean yúnuu  dnete ñë'e	Esta muy tierno mi ejote.																							
-54	Yuta	Carne	Tochi bikun iñan jeeya yuta.	En las fiestas la gente come carne																							
-55	Yuti	Costra	Kanee ama  yuti rantiya	Se me quedó una costra en la rodilla																							
-56	Yuudu	Metate	Ted yuudu ñë'e	Dame mi metate																							
-57	Yuuna	Aire	Gua yuuna noch kanee juchi	No hay viento donde esta mi sobrina																							
-58	Yuuni	Pasto	Gua yuuni  che´e iti ñë´e	No hay pasto para que coma mi animal																							
-59	Yuunu	Cigarro	Neé tibi ama yuunu	Quiero fumar un cigarro																							
-60	yuchii	puño	ko'oy ama yuchii tï	me pegó en la cabeza con su puño																							
-61	düntuu	marca de un golpe	kané düntuu jecheé chi ko'os ú	se me marcó el brazo por el golpe																							
-62	na'ö																										
-63	ráti	rasposo																									
+																											
+102	Yàaku	mosquito	Tochi ñòon inti yàaku	En tiempos de calor hay muchos mosquitos																							
+103	Yàna	Red	Ted yàna kuí yuntu ñë´e	Dame la red para hechar mi tortilla																							
+104	Yata	Hierba	Gua yata  chi chee itñe'ë	No hay hierba para que coman mis animales																							
+105	Yába	Memela	Uu ika yába	Yo hago memelas																							
+106	Yábaa	Arador	Chinuú yábaa dinuu	Mi hermano tiene aradores																							
+107	Yabi	Anoche	Yabi che´e baku chiku´u	Anoche fui a casa de mi abuelita																							
+108	Yábi	Le hablé	Ikun yábi diiya	Ayer le hablé a mi tío																							
+109	Yachi	Masa	Yeabean bea yachi chi kakay	Hay mucha masa para echar tortilla																							
+110	Yada	Pájaro	Noo bakun bea yada	En mi casa hay muchos pájaros																							
+111	Yadi	Dulce	Too yadi ntu ku	Está muy dulce este atole																							
+112	Yadnuni	Pato	Ú ne'e che'e ama yadnuni	Yo quiero comer un pato																							
+113	Yadyeeko	Codorniz	No ínuu bea yadyeko	Los codornices existen en lujares calurosos																							
+114	Yagii	Duele	Gua dínud ko´o kat yagii	No aprientes mi pie porque me duele																							
+115	Yaka	Pescado	Uu jee yaka	Yo como pescado																							
+116	Yakaa	Ocote	Kueten yeabean bea yakaa	En el campo hay mucho ocote																							
+117	Yaku	Alto	To yaku kane naidii koo	Está muy alto ese aguacate																							
+118	Yáku	Iglesia	Yaá yeabea yáku ñee ñoo ñe'ë	Esta muy bonita la iglesia de mi pueblo																							
+119	Yama	Zacate	Nee yama chi chee iti ñëe	Quiero zacate para que coman mis animales																							
+120	Yami	Humo	Yeabean jinoo yami noo ba´a ñë'ed	Sale mucho humo de tu casa																							
+121	Yana/ñana	Perro	Chii ama yana ñë'e	Se me murió un perro																							
+122	Yat kúiyu	Sause	Yeabean bea yat kúiyu nede	Hay mucho zause en la barranca																							
+123	Yata	Paloma	Yata beat jibakuu	Hay palomas en Cuicatlán																							
+124	Yata	Pichón	Yeabean bea yata jikio'ö	En el bosque hay mucho pichón																							
+125	Yáta	Tlacuache	Kueten bea yáta	En el campo hay tlacuache																							
+126	Yati	Chindete	Mun gua nee yati bet	Aquí no hay muchos chindetes																							
+127	Yáti	Simple	Ya´a yáti chi genee yuntu	Está muy simple esta comida.																							
+128	Yatneachea	Escoba de vara	Kuninun bea yatneachea	Aya arriba hay escoba de vara																							
+129	Yeabea	Bonito(a)	Ya´a yeabea yéabea koo	Está muy bonita esa mariposa.																							
+130	Yéabea	Mariposa	Ya´a yeabea yéabea koo	Está muy bonita esa mariposa.																							
+131	Yojinu/ñojínu	Contento(a)	Yeabean yojinu  kabachi nichi chaku	Estoy muy contento porque ví a mi mamá																							
+132	Yoko, yuku	Tenate para cargar	Ted ama yuku kuí ñuu	Dame un tenate para hechar mazorca																							
+133	Yoo	Amargo	Gua cheéd si, kat yeabean yoo	No comas eso porque esta muy agrio																							
+134	Yoo	Brazada	Ted obe yoo iyu ñë'e	Dame dos brazadas de mecate																							
+135	Yo'o	Culluchi	Snu yo'o tu'u ñë'e	Mis pollos tienen culluchi																							
+136	Yoo kastila	Sávila	Gua yoo kastila muu	No hay sávila aquí																							
+137	Yubi	Tejón	Gua dnee yubi beat kuete	No hay muchos tejones en el campo																							
+138	Yúbi	Mapache	Ikun nichi ama yúbi kuete	Ayer vi un mapache en el campo.																							
+139	Yuchmee	Cerebro	Ú bea yuchmee	Yo tengo cerebro																							
+140	Yudi	Rata	 Ú nichi ama yudi	Yo ví a un ratón																							
+141	Yúdi	Elote	Che'e bea yudii ñë'eñ	Mi abuelito tiene elote																							
+142	Yudii	Arrugado	Yeabean yudii kiana ñëd	Esta muy arrugada tu camisa																							
+143	Yudnoo	Barba	Chida yeabean bea yudnooy	Mi papá tiene mucha barba																							
+144	Yudu	Cabello	Yeabean eanu yudu  tïd	Esta muy largo tu cabello																							
+145	Yuduu	Plano(lugar)	Yeabean yuduu kuete ñë´e	Mi campo esta muy plano																							
+146	Yúduu	Caballo	Diiya bea ama yúduu ñee ña	Mi tio tiene un caballo																							
+147	Yukja´a	Chilacayota	Dinuu neé che´es yukja´a	Mi hermano quiere comer chilacayota																							
+148	Yúku	Lagartija	Ú nichi obe yúku ño´oo ínuu	Yo ví una lagartija de tierra caliente																							
+149	Yúkuu	Calabaza	Chidan chinuñ yukuu	Mi papá sembró calabaza																							
+150	Yuna	zorro	Ama yuna yeabean jeét yúdii	Un zorro come mucho elote																							
+151	Yúni	Camino	¿A nichid yúni  nabaku?	¿Viste el camino de mi casa?																							
+152	Yuntu	Tortilla	Chaku ikay yuntu	Mi mamá hace tortillas																							
+153	Yúntu	Tabla	Kuéd kuad obe yúntu ñë´e	Vé a comprarme dos tablas																							
+154	Yúnuu	Tierno	Yeabean yúnuu  dnete ñë'e	Esta muy tierno mi ejote.																							
+155	Yuta	Carne	Tochi bikun iñan jeeya yuta.	En las fiestas la gente come carne																							
+156	Yuti	Costra	Kanee ama  yuti rantiya	Se me quedó una costra en la rodilla																							
+157	Yuudu	Metate	Ted yuudu ñë'e	Dame mi metate																							
+158	Yuuna	Aire	Gua yuuna noch kanee juchi	No hay viento donde esta mi sobrina																							
+159	Yuuni	Pasto	Gua yuuni  che´e iti ñë´e	No hay pasto para que coma mi animal																							
+160	Yúnu	Cigarro	Neé tibi ama yúnu	Quiero fumar un cigarro																							
+161	yuchii	puño	ko'oy ama yuchii tï	me pegó en la cabeza con su puño																							
+162	düntuu	marca de un golpe	kané düntuu jecheé chi ko'os ú	se me marcó el brazo por el golpe																							
+163	na'ö	tres noches antes 	Naö ndó chi che'ë noba 	Llegué hace tres noches de oaxaca																							
+164	rátii	rasposo	Rátii jitubi no ba'a 	Está rasposa la apared																							
+165	jitbö	atrapar	insun jitbön tíku	Nosotros atrapamos chapulines 																							
+166	tuubi 	trampa 	iñan jineñ tuubi kuete chi kuto'oo iti	la gente pone trampas en el campo para atrapar a los animales 																							
+167	ya'aa jik'umaa	jicaras de la chinantla 	Chiku'u jitubiy ya'aa jikúmaa	mi abuelita utiliza jicaras de la chinantla. 																							
+168	kútu jiyuchi	cazuela 	Bea ama kútu jiyuchi ñe'ë	tengo una cazuela 																							
+169	naíyaa	salsa	Natan no kukäa íkuy naíyaa.	Las mujeres hacen  salsa en el molcajete																							
+170	tu-íku	molote (del molcajete)	Nuku tu-íku jinguy neatu.	con el molote muelen el jitomate																							
+171	kútu tï yúdu	recipiente de barro que va enfrente del metate	kútu tï yúdu jitubiy chi íy yachi ñe'eñ	ocupan el recipiente de barro para echar la masa 																							
+172	kútu óo	recipiente que se ocupa para enguajrse las manos cuando se esta moliento( regularmete se encuentra a lado del metete)	Kútu óo jitubiy chi jinanuy to'oy tochi jinguy	ocupan el recimpiente para lavarse las manos 																							
+173	ntíni 	tortas de camarón 	iñan je'ey ntíni tochi bíku ñe'e chikuinchákuu	la gente consume tortas de camarón en la fiesta de seman santa 																							
+174	jiyuchiy	tostar (granos)	chaku jiyuchiy nínu no chéa	mi mama tuesta el maíz en el comal 																							
+175	it-lankue	camarón 	Dúdi jiyuchiy it-lankue no chea	mi tía tuesta camarones en el comal 																							
+176	nasto'ö 	revolver/mezclar	Ná nasto'ö nukue'ë jaba 	mezclar bien todos los ingredientes 																							
+177	nio'ö 	cocina 	no'o nio'ö natibi ño'ö	me voy a la cocina a hacer la lumbre 																							
+178	takó 	Ella	takó jita tïta	a ella le duele la cabeza 																							
+179	Cho'o né	torcedura	cho'o né danko'o	se torcio mi tobillo																							
+180	yàba núni	memelas de frijol	kàka yàba núni chi kaná kuete che'ebä	voy hacer memelas de frijo para llevar al campo y comer a la hora de la comida																							
+181	yàba dü	memelas (con manteca)	mo tiö kaka yàba dü chi kadínu	Esta mañana prepararé memelas para almorzar																							
+																											
+Mozilla																											
+1	_	_	Numjobe jita tï	Hoy me duele la cabeza 																							
+2	_	_	kód ñó'ö kakad nutbi'i	Subete al árbol a cortar peras																							
+3	_	_	Mojoben kanó ño'ö	Hoy salio el sol																							
+4	_	_	kunùd nïi chu'uu	Pon chayotes para que comamos																							
+5	_	_	kú'uu kuete kakuu yúdi	Vamos al campo a cortar elotes 																							
+6	_	_	Gua jikadi ika yuntu eatea	No puedo hacer tortillas grandes																							
+7	_	_	Yaka, ted nuni ku'u 	Tengo sed, dame agua para tomar																							
+8	_	_	Chida ne'e ku'uy ntú yachi	Mi papá quire tomar atole de masa 																							
+9	_	_	Ne'e kua ama kutu chi yuchi núni	Quiero comprar una cazuela para freir los frijoles 																							
+10	_	_	jiníku  nutbëe	Vendo aretes 																							
+11	_	_	Gua jikadko'o ndaku ñe'e	No me quedan mis huaraches 																							
+12	_	_	Tiö ne'e ko'ö kuchika 	Mañan quiero ir a pasear 																							
+13	_	_	Bea ama ño'o naja'a dami ba'a 	Hay un nogal atras de la casa 																							
+14	_	_	No ñobákun a ne'e kuinu nútdiku	En mi pueblo se estan acabando las granadas 																							
+15	_	_	Cho'o amañ jinikuy betná 	Pasó alguien vendiendo tamales de carne 																							
+16	_	_	ikio'oñ kusantu no biku ñe'e tno´'ö	Queman copal en la fiesta de muertos 																							
+17	_	_	Yeabean yaku jinikuy pö tno'ö	Está muy caro el pan de muerto 																							
+18	_	_	Dúdi jiyuchiy nutiukuu ñe'e yukja'a	Mi tía está tostando semillas de chilakayota																							
+19	_	_	Dijínu ndás ama yukñò chi kunù nio'ö che'e 	Mi nietro trajo una calabaza para ponerlo a cocer y comer 																							
+20	_	_	A taka bead 	Como estas 																							
+21	_	_	Ndios nadibad chi nod chined ú	Gracias por venir a ayudarme																							
+22	_	_	Dínu kuinós ndes nanó iña	A  mi hermano le da pena hablar en público 																							
+23	_	_	Bea nichi nutó'o	Tengo diez dedos 																							
+24	_	_	Chineabea niku ko'o rontiya no ama túu	Me caí y mi rodilla se pegó en una piedra 																							
+25	_	_	Iso'ö juchi kuichas 	El esposo de mi sobrimna es de piel morena 																							
+26	_	_	Díya inuñ ba'a ñe'eñ	mi tío estrá construyendo su casa 																							
+27	_	_	A yeabean chini je'e yuntu	Ya muy tarde estoy comiendo 																							
+28	_	_	Chinó yanó yabi 	me desvele anoche 																							
+29	_	_	Ikun che'e nichi intó'ö 	Ayer fui a ver a mi suegra																							
+30	_	_	Chìta jíku mo chi chë kúbi	Crecio el río ahora que llovio 																							
+31	_	_	yeabean ká yuni chi chë kúbi 	Se deslavó el camino por las lluvias 																							
+32	_	_	Kaná jíku yuni chi je'ë tama ñó, man gua jidadi jicho'oy 	El río se llevó el camino que conduce a otros pueblos, ahora no se pude pasar. 																							
+33	_	_	Iña jidiba jinikuy jiba 	Las persionas de la mixteca venden petates 																							
+34	_	_	Chiná ama yana ñe'ë 	Se me perdio un perro 																							
+35	_	_	Gua jinko'o tï chi jo'ö no'ö	No comprendo lo que dice/explica el maestro																							
+36	_	_	Gua jinane'e chi jined 	No entiendo lo que hablas 																							
+37	_	_	Dikaya gua jinetïñ chi kuëñ	Los niños no tienen interes en aprender																							
+38	_	_	Kuti jichiba chi jineñ café nio'ö	El jarrito sirve para para poner café en la lumbre.																							
+39	_	_	iña ñobákun jidnay kuti nuku ñongukuu	la gente de mi puebo hace jarritos de barro																							
+40	_	_	Nuku daku jitabiy chita	con la cascara de arbol hornean las ollas																							
+41	_	_	Bea chita jadi, chita yukuu, chita núni, chita ntú	Hay ollas para tepache, ollas para calabaza, olas para el frijol, ollas para el atole																							
+42	_	_	Gua kadi tubiy chita chi jidináy ntú yòò chi dikúbiy núni kat kubyòò	No se puede usar la olla de atole agrio para cocer los frijoles porque se ehan a perder																							
+43	_	_	Tiempo ndataa ñobákun jinanuñ beeye ñé'eñ nuku chit-íbi	Hace tiempo las mujeres de mi comunidad lavaban su nixtamal en una pichancha (olla de barro con perforaciones)																							
+44	_	_	Cháku jinikuy chéa	Mi mamá vende comales																							
+45	_	_	Chiku'u jitubiy ya'aa jikúmaa	Mi abuela utiliza jicaras de madera (hechas del fruto del jícaro)																							
+46	_	_	Chaku jitubiy ya'aa chi jidikadiy nínu	Mi mamá utiliza la jicara para medir el maíz																							
+47	_	_	Bea ama kútu jiyuchi ñe'ë.	Tengo una cazuela para freír																							
+48	_	_	Natan no kukäa íkuy naíyaa.	Las mujeres hacen salsa en el molcajete																							
+49	_	_	Nuku tu-íku jinguy neatu.	Con el molore muelen el jitomate																							
+50	_	_	Kútu tï yúdu jitubiy chi íy yachi ñe'eñ	Utilizan la olla que va en la cabeza del metate para poner la masa																							
+51	_	_	Kútu óo jitubiy chi jinanuy to'oy tochi jinguy.	Utilizan la olla que va a lado del metate para lavarse las manos cuando muelen (hacen tortillas)																							
+52	_	_	Biya kuchid che’e bínuu	Hija ven vamos a cenar																							
+53	_	_	Nandid kubid ú a taka eanud no skuela	Cuentame cómo te va en la escuela																							
+54	_	_	Jiyúchi nínu non chéa	Estoy tostando el maíz en el comal																							
+55	_	_	kangú nínu no yúdu, tumin kub yuni	Voy a moler el máiz en el metate para que se vuelva polvo																							
+56	_	_	Tochi lï ú chindo ju'u diñu	Cuando estaba chiquita se me calleron cinco dientes																							
+57	_	_	Tikunó ji kuo'o	Mis mejillas se ponen rojas																							
+58	_	_	Cheatu lanti kó'o	Se quebró el hueso de mi pie																							
+59	_	_	Yuchmé jinkaku nuke'e	Mi cerebro se acuerda de todo																							
+60	_	_	Stebe ñe'ë jö	Mi corazón está triste																							
+61	_	_	Iña ñe'e noba je'ey tíku	Los oaxaqueños comen chapulines																							
+62	_	_	Ama joben ama ñaña kuo’oo kachikat jikio`o	Un día un león andaba en el bosque 																							
+63	_	_	Bea dítdanti ku ño-ínuu 	Hay correcaminos en tierra caliente 																							
+64	_	_	Tíntu jitubiy iti ñe'e remede 	La chuparrosa lo usan para remedios																							
+65	_	_	Chiku'u bea ama yata ñe'eñ 	Mi abuelita tiene un pichón 																							
+66	_	_	Lotee je'et yuta ñe'e iti nï'	El zopilote come carne de animales muertos 																							
+67	_	_	Ama ñaña kuo'oo chinonút no ama tuubi	Un león cayon en una trampa																							
+68	_	_	Ama tiudi jinüt chi je'et	Un ratón busca su comida																							
+69	_	_	tanod ñó chi kata'a ko'o	Saca la espina que tengo atorado en mi pie																							
+70	_	_	kuete bea yadyéko	En el campo hay codorníz																							
+71	_	_	yeabean dítuu dïnï dítaa	Es muy fuerte el pico del pajaro carpintero																							
+72	_	_	Kálu kuä num ámat 	El cuervo es todo negro 																							
+73	_	_	Kukubii jikadi jinót chi màà	El buho puede ver de noche 																							
+74	_	_	nichi ama íñuu chi kanát ama tu'u lï	Ví un gavilán llevarse a un pollito 																							
+75	_	_	Bea íbaa ño-ínuu ñe'ë Ñoo nami 	Hay gucamayas en tierra caliente de Reyes Pápalo 																							
+76	_	_	Yeabea jita yada tochi a jideabea 	Cantan bonito los pajaros cuando amanece 																							
+77	_	_	Ra'a dami chibla'a	El caparazón del armadillo es duro  																							
+78	_	_	Chibla'a jinublibit 	El armadillo se hace bolita 																							
+79	_	_	Yeabean käa diñu tiudi	Son filosos los dientes del ratón 																							
+80	_	_	Tiudi eanut je'et nínu	El ratón le gusta comer maíz 																							
+81	_	_	Chibatu bea dinínit. 	Los chivos tienen cuernos																							
+82	_	_	Bichi ñe'ë gua eanut jinat 	Mi gato no le gusta bañarse 																							
+83	_	_	Tuso'ö bea kaka tït	El gallo tien cresta 																							
+84	_	_	Yuna je'et tu'u	El zorro come pollos 																							
+85	_	_	Tíku yeabean ji'ii jitböt	Cuesta mucho atrapar a los chapulines 																							
+86	_	_	Íma yeabean kaba gët 	Huele muy feo el zorrillo 																							
+87	_	_	Chúnti jiknót chi màà	El grillo sale de noche 																							
+88	_	_	Ko'o ama chi-íbii chida 	A mi papá le picó una tarántula 																							
+89	_	_	Jibaku yeabean bea chi-íbii	En cuicatlán hay tarántulas 																							
+90	_	_	Naka ama jinínii bö tiká 	Encontre una araña entre mi ropa 																							
+91	_	_	Jinínii jinát chìbat 	La araña hace su telaraña 																							
+92	_	_	Yeabean  jo'o kä ú 	Me pican los zancudos 																							
+93	_	_	jeanu je'ë nuku chida jitbön itjíbi 	Me gusta ir atrapar caracoles  con mi papá 																							
+94	_	_	Nochi bea yá'a bea chidubi kuea 	Donde hay humedad hay cochinilla																							
+95	_	_	It ño'ö jiknot màa niku ya'a yeabea jinukut	Las lucuernagas salen de noche y alumbran muy bonito 																							
+96	_	_	Bea chidúbi ko'o ba'a 	Hay cucarachas en el rincón de la casa 																							
+97	_	_	Sne naobe it la'a kuo'o no to'o nanta 	Hay algunas catarinas en las hojas de las flores 																							
+98	_	_	Nuku të jintibi ño'ö 	Con el olote hago lumbre 																							
+99	_	_	Nuti lange'e yeabean ndá je'e 	Está muy rica la semilla del bonete 																							
+100	_	_	Ama chiku'u jinikuy yuku mï	Una abuelita vende tambala 																							
+101	_	_	jikadi jiná tiba ñe'e jinbeaku 	Se puede hacer empanadas de hierba santa 																							
+102	_	_	Chaku ikay tiba ñe'e nanta yúkuu	Mi mamá hace empanadas de flor de calabaza 																							
+103	_	_	Ntú yòò jiná nuku yachi ñe'e yúdi nícha 	el atole agrio se prepara con la masa del elote macizo 																							
+104	_	_	yeabean ndá je'e ndéa chi jinasto'ö nuku dutit	está muy sabrosa la cacaya revuelto con huevo 																							
+105	_	_	Sakó je'ës kuete nuku chidas 	Él va al campo con su papá 																							
+106	_	_	Insu jino’on no skuela job jobe.	nosotros vamos a la escuela todos los días 																							
+107	_	_	Takó gua eanuta je'eta tiaka	A ella no le gusta el plátano 																							
+108	_	_	Sakó bea inu dikaya bí'is 	El tiene tres hemanos 																							
+109	_	_	Iñsë eanuñ jine'ey no bíku 	A ellos les gusta bailar en las fiestas 																							
+110	_	_	Snuni tey tumi ú 	Mi madrina me dio dinero 																							
+111	_	_	Chaku béde jitöñ ú 	Mi madrastra me regaña 																							
+112	_	_	Je'ë kuete nuku chida béde 	Voy al campo con mi padrastro 																							
+113	_	_	Yami nutnó takó 	Son de color café los ojos de ella 																							
+114	_	_	Iyu ne'e kúbi jinub kuee kuete 	En los meses de lluvia enverdece el campo																							
+115	_	_	Kuejóbe njóbe 	Es azul cielo el cielo 																							
+116	_	_	Bea mèè njóbe 	Hay nubes en el cielo 																							
+117	_	_	Nimné'ë gua né'e  jinguyu	Ni una vez he ido a México																							
+118	_	_	Ne'ë chi nubjá tiká mo bíku ñe'e ñó	Quiero ropa nueva ahora en la fiesta del pueblo																							
+119	_	_	Mojoben gua ne'e kanó 	Hoy no quiero salir 																							
+120	_	_	Moneatea che'ë no ama bíku	La semana pasada fui a una fiesta 																							
+121	_	_	Ko'ö kua naobe bi'i naíba 	Voy a comprar unas frutas en el mercado																							
+122	_	_	Kanód bcheatinu kuned ú 	Porfavor ayúdame 																							
+123	_	_	Gua chaku ba'a 	No está mi mamá en la casa 																							
+124	_	_	Silï bi'i kue'es duchis nuku tatea sangaya 	Mi hermano se fue a jugar con los demas niños 																							
+125	_	_	Tilï bi'i gua ne'eta chi kunú tïta	Mi hermanita no quiere que la peinen 																							
+	_	_																									
+1	_	_	Ú ícha mojobe 	yo tengo frio hoy																							
+2	_	_	Bea ñú ñe'e chida	Mi papá tiene mazorcas 																							
+3	_	_	Ñú tó jo'oy je'e iti 	El maiz podrido le dan a los animales 																							
+4	_	_	Ñú núti je'e tu'u 	El maízpequeño se lo comen los pollos 																							
+5	_	_	Eanu nukue'e nó nanta 	Me gustan todo tipo de las flores 																							
+6	_	_	Chida jineacheay yuni 	Mi papá barre la calle 																							
+7	_	_	Tochi jikan jikunu ú 	cuando camino me canso 																							
+8	_	_	Chaku jiy ñú	Mi mamá está desgranando 																							
+9	_	_	Ndá káa ú 	Tengo gripe																							
+10	_	_	ika yubtó'ó	Me estoy cortando las uñas 																							
+11	_	_	Yeabean jo'o yàaku ú 	Me pican mucho los mosquitos 																							
+12	_	_	Chaku kue'eñ nuñ yata chi che'e kuchi ñe'eñ 	Mi mamá se fue a buscar hierba para que coma su marrano 																							
+13	_	_	Tadï bí'i eanuta je'eta yába	Mi hermana le gusta comer memelas 																							
+14	_	_	Yeabean keadea nichi jinú yábaa	Da mucha comezón donde se meten los aradores 																							
+15	_	_	Yabi màà ya'a yebea  bea í'ñu 	Anoche había estrellas 																							
+16	_	_	Yábi chaku no celular 	Le hable a  i máma al celular																							
+17	_	_	Ko'ö no molino chi kanó yachi ñe'ë 	Voy al molino a que saquen mi masa 																							
+18	_	_	Gua yadi ji'i nuni kú 	No está dulce el agua																							
+19	_	_	A mojobe kanó chi ko'ö ña'ä 	Hoy salgo para irme lejos 																							
+20	_	_	¿A ti ku'uu chú'uu mojobe?	¿A donde vamos a comer hoy?																							
+21	_	_	¿A mu'u ñobákud?	¿Aquí es tu pueblo?																							
+22	_	_	¿A taka chiba chita kú?	¿Cuánto cuesta esta olla?																							
+23	_	_	A déa jobe ko'od jibaku  	¿Qué dia vas a ir a cuicatlán?																							
+24	_	_	¿A deanud chi mojoben gua skuela ñe'ed?	¿Ya sabes que hoy no tienes clases?																							
+25	_	_	Amañ cho'óy jinikuy ndete 	Pasó alguien vendiendo ejotes																							
+26	_	_	Amtea ne'ë ko'ö dï ntiñu	Ya no quero ir a trabajar																							
+27	_	_	ìkun chë dankubi numjobe	Ayer lloviznó todo el día 																							
+28	_	_	Mojoben danti nakuë	Hoy tengo flojera de pararme																							
+29	_	_	Yana ñe'ë kanu dantut ama tö i'yu	Mi perro tiene amarrado un pedazo de mecate																							
+30	_	_	Gua jiná nuku daya dúdi 	No me llevo con la hija de mi tía 																							
+31	_	_	Che'ë nichi daynuni 	Fui a ver a mi ahijado																							
+32	_	_	iku che'ë ká jaba ñe'e kántu 	Ayer fui a comprar los ingredientes para el caldo 																							
+33	_	_	Yeabean jita ko'ó chi icha 	Me duele mucho el pie por el frío																							
+34	_	_	Ko'ö neachea tó'o yata ño'ö	Voy a barrer las hojas del arbol 																							
+35	_	_	Tutó'ö chikut nichi dutit	La gallina puso 10 huevos  																							
+36	_	_	Nuku nama jinó tiká	Con jabón lavo mi ropa 																							
+37	_	_	Nichi ama kú no yunchéatea 	Vi una víbora en la carretera 																							
+38	_	_	¿A ta bea chiba chéa chetea ?	¿Cuanto cuesta el comal grande?																							
+39	_	_	Yeabean i'nuu mojobe 	Hace mucho calor hoy																							
+40	_	_	¿A ti kané snï ñe'ë?	¿A donde está mi sombrero?																							
+41	_	_	kuaku chi gua ne'e dí 	Es cierto que no te quiero																							
+42	_	_	Sakó che'ës kute nuku 	El fue al campo conmigo 																							
+43	_	_	Ko'o chede chi kané búrru 	Le di carga al burro 																							
+44	_	_	Kuned tatlï nuku 	Quédate otro ratito conmigo 																							
+45	_	_	A yeabean chéché pö	Ya está bien duro el pan 																							
+46	_	_	Dúnu che'eñ nguay ama chéde nó'ö 	Mi tió fue a traer una carga de leña 																							
+47	_	_	Iña kón jinuñ ntiñu chi diñ 	Esa persona está buscando trabajo																							
+48	_	_	Gua nùni ñó-í'nuu	No hay agua en tierra caliente 																							
+49	_	_	¿A ne'en dïn ntiñu kuete?	¿Quiere usted trabajar en el campo?																							
+50	_	_	Gua kadi ko'ö bíku chi jidii dúdi 	No voy a poder ir a la fiesta que está haciendo mi tía 																							
+51	_	_	Iñan jíkay tochi je'eñ bíku jinguö	La gente camina cuando va a la fiesta en Coápam 																							
+52	_	_	Bea ama ño'ö cheatea chiba'a yaku 	Hay un árbol grande en el patio de la iglesia																							
+53	_	_	Ditnó skuela chë ama ba'a chetea 	A lado de la escuela hay una casa grande 																							
+54	_	_	Pedro nikus ama chibatu ñe'es	Pedro vendio un chivo 																							
+55	_	_	Chichë kay ama yúduu	Mi abuelito compró un caballo																							
+56	_	_	Yeabean bó'o tochi jinu'ü ñó'öo	Me da mucho miedo cuando tiembla la tierra 																							
+57	_	_	Gua eanu jinebë chi jita 	No me gusta escuchar música 																							
+58	_	_	Takó gua jinakata ama itsó'ö ñe'eta 	Ella no encuentra uno de sus guajolotes																							
+59	_	_	Iña kón tö yebea jidiñ ntiñu 	Esa persona trabaja muy bien 																							
+60	_	_	So'ö kon tö bea  ñe'es 	Ese hombre es muy rico 																							
+61	_	_	ë a taka dijü dibaku 	Estoy aprendiendo a escribir en cuicateco																							
+62	_	_	Ted mo'ö pö che'e	Dame la mitad del pan para comer 																							
+63	_	_	Gua deanu déa diná chi chebä	No sé qué preparar para comer 																							
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											

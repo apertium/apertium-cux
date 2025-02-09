@@ -15,9 +15,11 @@ cat mazali.tsv  | cut -f3-4 > ${mazali}
 paula=$(mktemp /tmp/paula.XXXX)
 cat paula.tsv | cut -f3 | sed 's/#/\n/g' | sed 's/^ *//g'> /tmp/cux
 cat paula.tsv | cut -f4 | sed 's/#/\n/g' > /tmp/spa
-paste /tmp/cux /tmp/spa > ${paula}
 cat paula.tsv  | cut -f5-6 | grep -P -v '^[ \t]' | cut -f1 >> /tmp/cux
 cat paula.tsv  | cut -f5-6 | grep -P -v '^[ \t]' | cut -f2 >> /tmp/spa
+cat paula.tsv  | cut -f7-8 | grep -P -v '^[ \t]' | cut -f1 >> /tmp/cux
+cat paula.tsv  | cut -f7-8 | grep -P -v '^[ \t]' | cut -f2 >> /tmp/spa
+paste /tmp/cux /tmp/spa > ${paula}
 
 #paula.tsv
 
@@ -28,4 +30,4 @@ for p in ${lilia} ${lucy} ${mazali} ${paula}; do
 	cat ${p} | sed "s/^/${pp}\t/g"
 done
 
-rm ${lilia} ${lucy} ${mazali} ${paula}
+#rm ${lilia} ${lucy} ${mazali} ${paula}
