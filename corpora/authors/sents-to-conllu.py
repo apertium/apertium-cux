@@ -126,6 +126,6 @@ for line in sys.stdin.readlines():
 
 	sent_id += 1
 
-
+print('-'*80, file=sys.stderr)
 print('%d\t%d\t%d\t%d (%.2f%%)' % (n_sents, n_toks, n_toks_nopunct, tokens_lex, (tokens_lex/n_toks_nopunct)*100), file=sys.stderr)
 print('%d (%.2f%%)\t\t%d (%.2f%%)' % (n_tagged_sents, (n_tagged_sents/n_sents)*100, n_tagged_tokens, (n_tagged_tokens/n_toks)*100), file=sys.stderr)

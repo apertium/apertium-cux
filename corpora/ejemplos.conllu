@@ -12992,16 +12992,15 @@
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:1064
-# text = • Kabiödma koʼo Ndoba.
-# text[orig] = • Kabiödma koʼo Ndoba.
+# text = Kabiödma koʼo Ndoba.
+# text[orig] = Kabiödma koʼo Ndoba.
 # text[spa] = Pasado mañana viajaré a Oaxaca.
 # tagged = false
 # author = mazali
-1	•	_	_	_	_	_	_	_	_
-2	Kabiödma	_	_	_	_	_	_	_	_
-3	koʼo	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-ir-1SG|Trad=iré
-4	Ndoba	_	_	_	_	_	_	_	_
-5	.	.	PUNCT	_	_	_	_	_	_
+1	Kabiödma	_	_	_	_	_	_	_	_
+2	koʼo	kaʼan	VERB	_	VerbForm=Fin	_	_	_	Gloss=POT-ir-1SG|Trad=iré
+3	Ndoba	_	_	_	_	_	_	_	_
+4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:1065
 # text = Koʼo kubi töʼo chi tumgoʼot iña.
@@ -21089,7 +21088,7 @@
 # text[spa] = es muy buena la cola de caballo para el cabello.
 # tagged = false
 # author = paula
-1	Yebean	_	_	_	_	_	_	_	_
+1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
 2	naa	_	NOUN	_	_	_	_	_	Trad=oro
 3	lantuu	_	_	_	_	_	_	_	_
 4	ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
@@ -21211,7 +21210,7 @@
 # tagged = false
 # author = paula
 1	Muʼün	_	_	_	_	_	_	_	_
-2	yebean	_	_	_	_	_	_	_	_
+2	yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
 3	maa	_	NOUN	_	_	_	_	_	Trad=noche
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -21365,9 +21364,9 @@
 # text = Yebean naa jee naama.
 # text[orig] = yebean naa jee naama.
 # text[spa] = huele rico el jabon.
-# tagged = false
+# tagged = true
 # author = paula
-1	Yebean	_	_	_	_	_	_	_	_
+1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
 2	naa	_	NOUN	_	_	_	_	_	Trad=oro
 3	jee	cheʼe	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-comer-1SG|Trad=como
 4	naama	_	NOUN	_	_	_	_	_	Trad=jabón
@@ -21447,7 +21446,7 @@
 # text[spa] = esta muy picosa la salsa.
 # tagged = false
 # author = paula
-1	Yebean	_	_	_	_	_	_	_	_
+1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
 2	yáduu	_	_	_	_	_	_	_	_
 3	naiyaa	_	NOUN	_	_	_	_	_	Trad=salsa
 4	.	.	PUNCT	_	_	_	_	_	_
@@ -21657,7 +21656,7 @@
 # text[spa] = esta muy caro el tomate.
 # tagged = false
 # author = paula
-1	Yebean	_	_	_	_	_	_	_	_
+1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
 2	yaaku	_	_	_	_	_	_	_	_
 3	chíba	_	_	_	_	_	_	_	_
 4	neatuu	_	NOUN	_	_	_	_	_	Trad=tomate
@@ -21682,7 +21681,7 @@
 # tagged = false
 # author = paula
 1	Nibii	_	NOUN	_	_	_	_	_	Trad=papa
-2	yebean	_	_	_	_	_	_	_	_
+2	yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
 3	naa	_	NOUN	_	_	_	_	_	Trad=oro
 4	jeʼe	cheʼe	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=PROG-comer-1SG|Trad=como
 5	chi	chi	SCONJ	_	_	_	_	_	Gloss=COMPL|Trad=que
@@ -21754,7 +21753,7 @@
 # text[spa] = saben muy consistente el chayote.
 # tagged = false
 # author = paula
-1	Yebean	_	_	_	_	_	_	_	_
+1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
 2	naa	_	NOUN	_	_	_	_	_	Trad=oro
 3	timi	_	_	_	_	_	_	_	_
 4	jeʼe	cheʼe	VERB	_	Aspect=Prog|Number=Sing|Person=1|Subcat=Tran|VerbForm=Fin	_	_	_	Gloss=PROG-comer-1SG|Trad=como
@@ -21767,7 +21766,7 @@
 # text[spa] = esta muy baboso el nopal.
 # tagged = false
 # author = paula
-1	Yebean	_	_	_	_	_	_	_	_
+1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
 2	láa	_	_	_	_	_	_	_	_
 3	níitu	_	NOUN	_	_	_	_	_	Trad=nopal
 4	.	.	PUNCT	_	_	_	_	_	_
