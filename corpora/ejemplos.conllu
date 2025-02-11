@@ -14494,7 +14494,7 @@
 1	¿	¿	PUNCT	_	_	_	_	_	_
 2	A	a	PART	_	_	_	_	_	Gloss=QST
 3	nanteta	_	_	_	_	_	_	_	_
-4	100	_	_	_	_	_	_	_	_
+4	100	100	NUM	_	_	_	_	_	Gloss=100|Trad=100
 5	pesos	_	_	_	_	_	_	_	_
 6	ñeʼed	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.2SG|Trad=de.ti
 7	?	?	PUNCT	_	_	_	_	_	_
@@ -14530,7 +14530,7 @@
 # tagged = false
 # author = mazali
 1	Kanuchiba	_	_	_	_	_	_	_	_
-2	3000	_	_	_	_	_	_	_	_
+2	3000	3000	NUM	_	_	_	_	_	Gloss=3000|Trad=3000
 3	pesos	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -15806,12 +15806,12 @@
 # text = No ndoyo ñeʼe 1994.
 # text[orig] = No ndoyo ñeʼe 1994.
 # text[spa] = En el año de 1994.
-# tagged = false
+# tagged = true
 # author = mazali
 1	No	no	ADP	_	_	_	_	_	Gloss=LOC|Trad=en
 2	ndoyo	_	NOUN	_	_	_	_	_	Trad=año
 3	ñeʼe	ñeʼe	NOUN	_	NounType=Relat	_	_	_	Gloss=base-POSS.3|Trad=de.él
-4	1994	_	_	_	_	_	_	_	_
+4	1994	1994	NUM	_	_	_	_	_	Gloss=1994|Trad=1994
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = ejemplos:1314

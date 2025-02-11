@@ -331,5 +331,9 @@ class Tagger:
 				analyses = self.verbs[k]
 			else:
 				analyses = self.lexicon[k]	
+		elif k[0] in '0123456789':
+			# (lema, tag, ufeats, trad, glosa, '')
+			analyses = [(k, 'NUM', '', k, k, '')]
+
 		return analyses, self.sort_feats(ufeat), self.sort_feats(misc)
 
