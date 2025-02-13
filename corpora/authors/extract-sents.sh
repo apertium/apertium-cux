@@ -19,6 +19,10 @@ cat paula.tsv  | cut -f5-6 | grep -P -v '^[ \t]' | cut -f1 >> /tmp/cux
 cat paula.tsv  | cut -f5-6 | grep -P -v '^[ \t]' | cut -f2 >> /tmp/spa
 cat paula.tsv  | cut -f7-8 | grep -P -v '^[ \t]' | cut -f1 >> /tmp/cux
 cat paula.tsv  | cut -f7-8 | grep -P -v '^[ \t]' | cut -f2 >> /tmp/spa
+cat paula.tsv  | cut -f9-10 | grep -P -v '^[ \t]' | cut -f1 >> /tmp/cux
+cat paula.tsv  | cut -f9-10 | grep -P -v '^[ \t]' | cut -f2 >> /tmp/spa
+cat paula.tsv  | cut -f13-14 | grep -P -v '^[ \t]' | cut -f1 >> /tmp/cux
+cat paula.tsv  | cut -f13-14 | grep -P -v '^[ \t]' | cut -f2 >> /tmp/spa
 paste /tmp/cux /tmp/spa > ${paula}
 
 #paula.tsv
