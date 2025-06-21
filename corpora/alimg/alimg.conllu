@@ -6094,7 +6094,7 @@
 # hash = 4766025534c44b38ebe44c13e38917e8
 # tagged = false
 1	Chiba	_	NOUN	_	_	_	_	_	Trad=precio
-2	10000	_	_	_	_	_	_	_	_
+2	10000	10000	NUM	_	_	_	_	_	Gloss=10000|Trad=10000
 3	pesos	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -6120,7 +6120,7 @@
 # hash = 9a238fc060332dd39fae0ac2ee127f48
 # tagged = false
 1	Iì	_	_	_	_	_	_	_	_
-2	10	_	_	_	_	_	_	_	_
+2	10	10	NUM	_	_	_	_	_	Gloss=10|Trad=10
 3	kilos	_	_	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 

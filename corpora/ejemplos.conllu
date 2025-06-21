@@ -6430,7 +6430,7 @@
 # sent_id = ejemplos:0540
 # text = Bea bíku no ñó kó.
 # text[orig] = Bea bíku no ñó kó.
-# text[spa] = hay fiesta en ese pueblo.
+# text[spa] = Hay fiesta en ese pueblo.
 # tagged = true
 # author = lucy
 1	Bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
@@ -7208,7 +7208,7 @@
 # sent_id = ejemplos:0604
 # text = Gë yàku yââ kó.
 # text[orig] = Gë yàku yââ kó.
-# text[spa] = apesta aquel barranco.
+# text[spa] = Apesta aquel barranco.
 # tagged = true
 # author = lucy
 1	Gë	_	VERB	_	_	_	_	_	Trad=hace
@@ -7938,7 +7938,7 @@
 # sent_id = ejemplos:0663
 # text = Koʼoy ama yuchii tï.
 # text[orig] = koʼoy ama yuchii tï.
-# text[spa] = me pegó en la cabeza con su puño.
+# text[spa] = Me pegó en la cabeza con su puño.
 # tagged = true
 # author = lucy
 1	Koʼoy	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-pegar-?|Trad=pegaron
@@ -7950,7 +7950,7 @@
 # sent_id = ejemplos:0664
 # text = Kané düntuu jecheé chi koʼos ú.
 # text[orig] = kané düntuu jecheé chi koʼos ú.
-# text[spa] = se me marcó el brazo por el golpe.
+# text[spa] = Se me marcó el brazo por el golpe.
 # tagged = false
 # author = lucy
 1	Kané	_	VERB	_	_	_	_	_	Gloss=?-estar-?|Trad=está
@@ -8000,7 +8000,7 @@
 # sent_id = ejemplos:0668
 # text = Iñan jineñ tuubi kuete chi kutoʼoo iti.
 # text[orig] = iñan jineñ tuubi kuete chi kutoʼoo iti.
-# text[spa] = la gente pone trampas en el campo para atrapar a los animales.
+# text[spa] = La gente pone trampas en el campo para atrapar a los animales.
 # tagged = false
 # author = lucy
 1	Iñan	_	NOUN	_	_	_	_	_	Trad=gente
@@ -8015,7 +8015,7 @@
 # sent_id = ejemplos:0669
 # text = Chikuʼu jitubiy yaʼaa jikúmaa.
 # text[orig] = Chikuʼu jitubiy yaʼaa jikúmaa.
-# text[spa] = mi abuelita utiliza jicaras de la chinantla.
+# text[spa] = Mi abuelita utiliza jicaras de la chinantla.
 # tagged = false
 # author = lucy
 1	Chikuʼu	_	NOUN	_	_	_	_	_	Trad=mi.abuelita
@@ -8027,7 +8027,7 @@
 # sent_id = ejemplos:0670
 # text = Bea ama kútu jiyuchi ñeʼë.
 # text[orig] = Bea ama kútu jiyuchi ñeʼë.
-# text[spa] = tengo una cazuela.
+# text[spa] = Tengo una cazuela.
 # tagged = false
 # author = lucy
 1	Bea	_	VERB	_	_	_	_	_	Gloss=?-existir-3|Trad=hay
@@ -8053,7 +8053,7 @@
 # sent_id = ejemplos:0672
 # text = Nuku tu-íku jinguy neatu.
 # text[orig] = Nuku tu-íku jinguy neatu.
-# text[spa] = con el molote muelen el jitomate.
+# text[spa] = Con el molote muelen el jitomate.
 # tagged = false
 # author = lucy
 1	Nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
@@ -8065,7 +8065,7 @@
 # sent_id = ejemplos:0673
 # text = Kútu tï yúdu jitubiy chi íy yachi ñeʼeñ.
 # text[orig] = kútu tï yúdu jitubiy chi íy yachi ñeʼeñ.
-# text[spa] = ocupan el recipiente de barro para echar la masa.
+# text[spa] = Ocupan el recipiente de barro para echar la masa.
 # tagged = false
 # author = lucy
 1	Kútu	_	_	_	_	_	_	_	_
@@ -8081,7 +8081,7 @@
 # sent_id = ejemplos:0674
 # text = Kútu óo jitubiy chi jinanuy toʼoy tochi jinguy.
 # text[orig] = Kútu óo jitubiy chi jinanuy toʼoy tochi jinguy.
-# text[spa] = ocupan el recimpiente para lavarse las manos.
+# text[spa] = Ocupan el recimpiente para lavarse las manos.
 # tagged = false
 # author = lucy
 1	Kútu	_	_	_	_	_	_	_	_
@@ -8097,7 +8097,7 @@
 # sent_id = ejemplos:0675
 # text = Iñan jeʼey ntíni tochi bíku ñeʼe chikuinchákuu.
 # text[orig] = iñan jeʼey ntíni tochi bíku ñeʼe chikuinchákuu.
-# text[spa] = la gente consume tortas de camarón en la fiesta de seman santa.
+# text[spa] = La gente consume tortas de camarón en la fiesta de seman santa.
 # tagged = false
 # author = lucy
 1	Iñan	_	NOUN	_	_	_	_	_	Trad=gente
@@ -8112,7 +8112,7 @@
 # sent_id = ejemplos:0676
 # text = Chaku jiyuchiy nínu no chéa.
 # text[orig] = chaku jiyuchiy nínu no chéa.
-# text[spa] = mi mama tuesta el maíz en el comal.
+# text[spa] = Mi mama tuesta el maíz en el comal.
 # tagged = false
 # author = lucy
 1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
@@ -8125,7 +8125,7 @@
 # sent_id = ejemplos:0677
 # text = Dúdi jiyuchiy it-lankue no chea.
 # text[orig] = Dúdi jiyuchiy it-lankue no chea.
-# text[spa] = mi tía tuesta camarones en el comal.
+# text[spa] = Mi tía tuesta camarones en el comal.
 # tagged = false
 # author = lucy
 1	Dúdi	_	NOUN	_	_	_	_	_	Trad=tía
@@ -8138,7 +8138,7 @@
 # sent_id = ejemplos:0678
 # text = Ná nastoʼö nukueʼë jaba.
 # text[orig] = Ná nastoʼö nukueʼë jaba.
-# text[spa] = mezclar bien todos los ingredientes.
+# text[spa] = Mezclar bien todos los ingredientes.
 # tagged = false
 # author = lucy
 1	Ná	_	VERB	_	_	_	_	_	Gloss=?-tener-?|Trad=tiene
@@ -8150,7 +8150,7 @@
 # sent_id = ejemplos:0679
 # text = Noʼo nioʼö natibi ñoʼö.
 # text[orig] = noʼo nioʼö natibi ñoʼö.
-# text[spa] = me voy a la cocina a hacer la lumbre.
+# text[spa] = Me voy a la cocina a hacer la lumbre.
 # tagged = false
 # author = lucy
 1	Noʼo	_	NOUN	_	_	_	_	_	Trad=leña
@@ -8162,7 +8162,7 @@
 # sent_id = ejemplos:0680
 # text = Takó jita tïta.
 # text[orig] = takó jita tïta.
-# text[spa] = a ella le duele la cabeza.
+# text[spa] = A ella le duele la cabeza.
 # tagged = false
 # author = lucy
 1	Takó	takó	PRON	_	PronType=Prs	_	_	_	Gloss=3.FEM|Trad=ella
@@ -8173,7 +8173,7 @@
 # sent_id = ejemplos:0681
 # text = Choʼo né dankoʼo.
 # text[orig] = choʼo né dankoʼo.
-# text[spa] = se torcio mi tobillo.
+# text[spa] = Se torcio mi tobillo.
 # tagged = false
 # author = lucy
 1	Choʼo	_	VERB	_	_	_	_	_	Gloss=?-pasar-1SG|Trad=pasé
@@ -8184,7 +8184,7 @@
 # sent_id = ejemplos:0682
 # text = Kàka yàba núni chi kaná kuete cheʼebä.
 # text[orig] = kàka yàba núni chi kaná kuete cheʼebä.
-# text[spa] = voy hacer memelas de frijo para llevar al campo y comer a la hora de la comida.
+# text[spa] = Voy hacer memelas de frijo para llevar al campo y comer a la hora de la comida.
 # tagged = false
 # author = lucy
 1	Kàka	_	_	_	_	_	_	_	_
@@ -8530,7 +8530,7 @@
 # sent_id = ejemplos:0709
 # text = Díya inuñ baʼa ñeʼeñ.
 # text[orig] = Díya inuñ baʼa ñeʼeñ.
-# text[spa] = mi tío estrá construyendo su casa.
+# text[spa] = Mi tío estrá construyendo su casa.
 # tagged = false
 # author = lucy
 1	Díya	_	_	_	_	_	_	_	_
@@ -8555,7 +8555,7 @@
 # sent_id = ejemplos:0711
 # text = Chinó yanó yabi.
 # text[orig] = Chinó yanó yabi.
-# text[spa] = me desvele anoche.
+# text[spa] = Me desvele anoche.
 # tagged = false
 # author = lucy
 1	Chinó	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-entrar-?|Trad=entró
@@ -8703,7 +8703,7 @@
 # sent_id = ejemplos:0722
 # text = Iña ñobákun jidnay kuti nuku ñongukuu.
 # text[orig] = iña ñobákun jidnay kuti nuku ñongukuu.
-# text[spa] = la gente de mi puebo hace jarritos de barro.
+# text[spa] = La gente de mi puebo hace jarritos de barro.
 # tagged = false
 # author = lucy
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
@@ -8717,7 +8717,7 @@
 # sent_id = ejemplos:0723
 # text = Nuku daku jitabiy chita.
 # text[orig] = Nuku daku jitabiy chita.
-# text[spa] = con la cascara de arbol hornean las ollas.
+# text[spa] = Con la cascara de arbol hornean las ollas.
 # tagged = false
 # author = lucy
 1	Nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
@@ -9479,7 +9479,7 @@
 # sent_id = ejemplos:0781
 # text = Ntú yòò jiná nuku yachi ñeʼe yúdi nícha.
 # text[orig] = Ntú yòò jiná nuku yachi ñeʼe yúdi nícha.
-# text[spa] = el atole agrio se prepara con la masa del elote macizo.
+# text[spa] = El atole agrio se prepara con la masa del elote macizo.
 # tagged = false
 # author = lucy
 1	Ntú	_	NOUN	_	_	_	_	_	Trad=atole
@@ -9495,7 +9495,7 @@
 # sent_id = ejemplos:0782
 # text = Yeabean ndá jeʼe ndéa chi jinastoʼö nuku dutit.
 # text[orig] = yeabean ndá jeʼe ndéa chi jinastoʼö nuku dutit.
-# text[spa] = está muy sabrosa la cacaya revuelto con huevo.
+# text[spa] = Está muy sabrosa la cacaya revuelto con huevo.
 # tagged = false
 # author = lucy
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
@@ -9524,7 +9524,7 @@
 # sent_id = ejemplos:0784
 # text = Insu jinoʼon no skuela job jobe.
 # text[orig] = Insu jinoʼon no skuela job jobe.
-# text[spa] = nosotros vamos a la escuela todos los días.
+# text[spa] = Nosotros vamos a la escuela todos los días.
 # tagged = false
 # author = lucy
 1	Insu	_	_	_	_	_	_	_	_
@@ -9779,7 +9779,7 @@
 # sent_id = ejemplos:0804
 # text = Ú ícha mojobe.
 # text[orig] = Ú ícha mojobe.
-# text[spa] = yo tengo frio hoy.
+# text[spa] = Yo tengo frio hoy.
 # tagged = true
 # author = lucy
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
@@ -9850,7 +9850,7 @@
 # sent_id = ejemplos:0810
 # text = Tochi jikan jikunu ú.
 # text[orig] = Tochi jikan jikunu ú.
-# text[spa] = cuando camino me canso.
+# text[spa] = Cuando camino me canso.
 # tagged = false
 # author = lucy
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Gloss=cuando|Trad=cuando
@@ -11926,7 +11926,7 @@
 # sent_id = ejemplos:0976
 # text = A jinda chi káchi nùnim.
 # text[orig] = a jinda chi káchi nùnim.
-# text[spa] = falta mucho para que hierva el agua.
+# text[spa] = Falta mucho para que hierva el agua.
 # tagged = false
 # author = mazali
 1	A	a	PART	_	_	_	_	_	Gloss=QST
@@ -13086,7 +13086,7 @@
 # sent_id = ejemplos:1072
 # text = Boʼö màà.
 # text[orig] = Boʼö màà.
-# text[spa] = le tengo miedo a la noche.
+# text[spa] = Le tengo miedo a la noche.
 # tagged = false
 # author = mazali
 1	Boʼö	_	_	_	_	_	_	_	_
@@ -13191,7 +13191,7 @@
 # sent_id = ejemplos:1081
 # text = Tëched ú.
 # text[orig] = Tëched ú.
-# text[spa] = déjame.
+# text[spa] = Déjame.
 # tagged = false
 # author = mazali
 1	Tëched	_	_	_	_	_	_	_	_
@@ -13225,7 +13225,7 @@
 # sent_id = ejemplos:1084
 # text = Cheneabe lïm.
 # text[orig] = Cheneabe lïm.
-# text[spa] = se cayó niño ( lïm se puede usar pra ambos sexos.
+# text[spa] = Se cayó niño ( lïm se puede usar pra ambos sexos.
 # tagged = false
 # author = mazali
 1	Cheneabe	_	_	_	_	_	_	_	_
@@ -13246,7 +13246,7 @@
 # sent_id = ejemplos:1086
 # text = Gua duʼu deanu.
 # text[orig] = Gua duʼu deanu.
-# text[spa] = nadie sabe.
+# text[spa] = Nadie sabe.
 # tagged = true
 # author = mazali
 1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
@@ -13257,7 +13257,7 @@
 # sent_id = ejemplos:1087
 # text = Chíni jingatu.
 # text[orig] = Chíni jingatu.
-# text[spa] = disparó de un rifle.
+# text[spa] = Disparó de un rifle.
 # tagged = false
 # author = mazali
 1	Chíni	_	NOUN	_	_	_	_	_	Trad=frijolar
@@ -13267,7 +13267,7 @@
 # sent_id = ejemplos:1088
 # text = Ko biʼi muʼu.
 # text[orig] = Ko biʼi muʼu.
-# text[spa] = lo voy a pegar aquí.
+# text[spa] = Lo voy a pegar aquí.
 # tagged = false
 # author = mazali
 1	Ko	_	DET	_	_	_	_	_	Trad=ese
@@ -13278,7 +13278,7 @@
 # sent_id = ejemplos:1089
 # text = Gua tirnó nded.
 # text[orig] = Gua tirnó nded.
-# text[spa] = no hables como sea.
+# text[spa] = No hables como sea.
 # tagged = false
 # author = mazali
 1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
@@ -13334,7 +13334,7 @@
 # sent_id = ejemplos:1094
 # text = Kutea naune kuyadu chi tika joʼöd.
 # text[orig] = Kutea naune kuyadu chi tika joʼöd.
-# text[spa] = ya no volveré a dormir con lo que me estás diciendo.
+# text[spa] = Ya no volveré a dormir con lo que me estás diciendo.
 # tagged = false
 # author = mazali
 1	Kutea	_	_	_	_	_	_	_	Trad=no.hay
@@ -13348,7 +13348,7 @@
 # sent_id = ejemplos:1095
 # text = Na karouʼu recreo.
 # text[orig] = Na karouʼu recreo.
-# text[spa] = ya salimos al recreo.
+# text[spa] = Ya salimos al recreo.
 # tagged = false
 # author = mazali
 1	Na	_	ADV	_	_	_	_	_	Trad=ya
@@ -13359,7 +13359,7 @@
 # sent_id = ejemplos:1096
 # text = Kub kuaku dí.
 # text[orig] = Kub kuaku dí.
-# text[spa] = te lo diré directo.
+# text[spa] = Te lo diré directo.
 # tagged = true
 # author = mazali
 1	Kub	_	VERB	_	_	_	_	_	Trad=va.a.ser
@@ -13370,7 +13370,7 @@
 # sent_id = ejemplos:1097
 # text = Jinanuta toʼota.
 # text[orig] = Jinanuta toʼota.
-# text[spa] = lava sus manos (una mujer).
+# text[spa] = Lava sus manos (una mujer).
 # tagged = false
 # author = mazali
 1	Jinanuta	_	_	_	_	_	_	_	_
@@ -13391,7 +13391,7 @@
 # sent_id = ejemplos:1099
 # text = Tako jindeta no celular.
 # text[orig] = tako jindeta no celular.
-# text[spa] = ella está hablando por teléfono.
+# text[spa] = Ella está hablando por teléfono.
 # tagged = false
 # author = mazali
 1	Tako	takó	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=3.FEM|Normal=takó|Trad=ella
@@ -13423,7 +13423,7 @@
 # sent_id = ejemplos:1102
 # text = Diyàà kutu.
 # text[orig] = diyàà kutu.
-# text[spa] = la olla está vacía.
+# text[spa] = La olla está vacía.
 # tagged = false
 # author = mazali
 1	Diyàà	_	_	_	_	_	_	_	_
@@ -14038,7 +14038,7 @@
 # sent_id = ejemplos:1158
 # text = Kaka kama a taka.
 # text[orig] = Kaka kama a taka.
-# text[spa] = papelito habla.
+# text[spa] = Papelito habla.
 # tagged = false
 # author = mazali
 1	Kaka	_	NOUN	_	_	_	_	_	Trad=papel
@@ -14806,7 +14806,7 @@
 # sent_id = ejemplos:1225
 # text = Yeabean nèè ñeʼed.
 # text[orig] = Yeabean nèè ñeʼed.
-# text[spa] = te ves muy desmejorada.
+# text[spa] = Te ves muy desmejorada.
 # tagged = true
 # author = mazali
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
@@ -14817,7 +14817,7 @@
 # sent_id = ejemplos:1226
 # text = Ditiakaba jeʼe.
 # text[orig] = Ditiakaba jeʼe.
-# text[spa] = sabía muy muy feo.
+# text[spa] = Sabía muy muy feo.
 # tagged = false
 # author = mazali
 1	Ditiakaba	_	_	_	_	_	_	_	_
@@ -14850,7 +14850,7 @@
 # sent_id = ejemplos:1229
 # text = Kané damiñ.
 # text[orig] = Kané damiñ.
-# text[spa] = lo culparon.
+# text[spa] = Lo culparon.
 # tagged = false
 # author = mazali
 1	Kané	_	VERB	_	_	_	_	_	Gloss=?-estar-?|Trad=está
@@ -14881,7 +14881,7 @@
 # sent_id = ejemplos:1232
 # text = Bö yùdu.
 # text[orig] = Bö yùdu.
-# text[spa] = expresión que indica mucho miedo.
+# text[spa] = Expresión que indica mucho miedo.
 # tagged = false
 # author = mazali
 1	Bö	_	ADP	_	_	_	_	_	Trad=en|UPOS=Guessed
@@ -18691,7 +18691,7 @@
 # sent_id = ejemplos:1556
 # text = Jitubiy kusanto tochi íʼ tnoʼö.
 # text[orig] = Jitubiy kusanto tochi íʼ tnoʼö.
-# text[spa] = usan copal cuando hay un muerto.
+# text[spa] = Usan copal cuando hay un muerto.
 # tagged = false
 # author = paula
 1	Jitubiy	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ocupar-3.HUM|Trad=ocupan
@@ -19081,7 +19081,7 @@
 # sent_id = ejemplos:1587
 # text = A neʼé kubi màà.
 # text[orig] = a neʼé kubi màà.
-# text[spa] = ya quiere anochecer.
+# text[spa] = Ya quiere anochecer.
 # tagged = true
 # author = paula
 1	A	a	ADV	_	_	_	_	_	Trad=ya
@@ -20752,7 +20752,7 @@
 # sent_id = ejemplos:1723
 # text = Gua tuu ñeʼë kukáa.
 # text[orig] = Gua tuu ñeʼë kukáa.
-# text[spa] = no tiene pidra el molcajete.
+# text[spa] = No tiene pidra el molcajete.
 # tagged = true
 # author = paula
 1	Gua	_	PART	_	_	_	_	_	Gloss=NEG|Trad=no
@@ -20764,7 +20764,7 @@
 # sent_id = ejemplos:1724
 # text = Yeabean eatea nutnoo kukubii.
 # text[orig] = yeabean eatea nutnoo kukubii.
-# text[spa] = tiene muy grandes los ojos el buho.
+# text[spa] = Tiene muy grandes los ojos el buho.
 # tagged = true
 # author = paula
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
@@ -20776,7 +20776,7 @@
 # sent_id = ejemplos:1725
 # text = Naa jëe kulanto.
 # text[orig] = naa jëe kulanto.
-# text[spa] = huele rico el cilantro.
+# text[spa] = Huele rico el cilantro.
 # tagged = false
 # author = paula
 1	Naa	_	NOUN	_	_	_	_	_	Trad=oro
@@ -20787,7 +20787,7 @@
 # sent_id = ejemplos:1726
 # text = Kuned uu y kunee dii.
 # text[orig] = kuned uu y kunee dii.
-# text[spa] = ayudame y te ayudo.
+# text[spa] = Ayudame y te ayudo.
 # tagged = false
 # author = paula
 1	Kuned	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ayudar-2SG|Trad=ayuda
@@ -20800,7 +20800,7 @@
 # sent_id = ejemplos:1727
 # text = Ú gua eanu kunette.
 # text[orig] = ú gua eanu kunette.
-# text[spa] = a mi no me gusta el cien pies.
+# text[spa] = A mi no me gusta el cien pies.
 # tagged = true
 # author = paula
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
@@ -20812,7 +20812,7 @@
 # sent_id = ejemplos:1728
 # text = Kunuu yuntu ñëʼe chaku.
 # text[orig] = kunuu yuntu ñëʼe chaku.
-# text[spa] = estan bandas las tortillas de mi mama.
+# text[spa] = Estan bandas las tortillas de mi mama.
 # tagged = true
 # author = paula
 1	Kunuu	_	ADJ	_	_	_	_	_	Trad=resbaloso|UPOS=Guessed
@@ -20824,7 +20824,7 @@
 # sent_id = ejemplos:1729
 # text = Naaman kunuu.
 # text[orig] = naaman kunuu.
-# text[spa] = el jabon esta resbaloso.
+# text[spa] = El jabon esta resbaloso.
 # tagged = false
 # author = paula
 1	Naaman	_	_	_	_	_	_	_	_
@@ -20834,7 +20834,7 @@
 # sent_id = ejemplos:1730
 # text = Ñuun kuoʼo.
 # text[orig] = ñuun kuoʼo.
-# text[spa] = la mazorca es roja.
+# text[spa] = La mazorca es roja.
 # tagged = false
 # author = paula
 1	Ñuun	_	_	_	_	_	_	_	_
@@ -20844,7 +20844,7 @@
 # sent_id = ejemplos:1731
 # text = Nanta kón kuöo.
 # text[orig] = nanta kón kuöo.
-# text[spa] = esa flor es amarilla.
+# text[spa] = Esa flor es amarilla.
 # tagged = false
 # author = paula
 1	Nanta	_	NOUN	_	_	_	_	_	Trad=flor
@@ -20855,7 +20855,7 @@
 # sent_id = ejemplos:1732
 # text = Eanu chi jëe kusanto.
 # text[orig] = eanu chi jëe kusanto.
-# text[spa] = me gusta el olor del copal.
+# text[spa] = Me gusta el olor del copal.
 # tagged = false
 # author = paula
 1	Eanu	_	VERB	_	_	_	_	_	Gloss=?-gustar-1SG|Trad=gusto
@@ -20867,7 +20867,7 @@
 # sent_id = ejemplos:1733
 # text = Chinjiku bea kuu eatea.
 # text[orig] = chinjiku bea kuu eatea.
-# text[spa] = en el rio hay viboras grandes.
+# text[spa] = En el rio hay viboras grandes.
 # tagged = false
 # author = paula
 1	Chinjiku	_	_	_	_	_	_	_	_
@@ -20879,7 +20879,7 @@
 # sent_id = ejemplos:1734
 # text = Yámi kuea kúu.
 # text[orig] = yámi kuea kúu.
-# text[spa] = de gris es el fierro.
+# text[spa] = De gris es el fierro.
 # tagged = false
 # author = paula
 1	Yámi	_	_	_	_	_	_	_	_
@@ -20890,7 +20890,7 @@
 # sent_id = ejemplos:1735
 # text = Küu ñëʼe chita.
 # text[orig] = küu ñëʼe chita.
-# text[spa] = molde para ollas.
+# text[spa] = Molde para ollas.
 # tagged = true
 # author = paula
 1	Küu	_	NOUN	_	_	_	_	_	Trad=molde.para.hacer.comal
@@ -20901,7 +20901,7 @@
 # sent_id = ejemplos:1736
 # text = Yaʼa boʼo kú chéche.
 # text[orig] = yaʼa boʼo kú chéche.
-# text[spa] = le tengo miedo a la cacabel.
+# text[spa] = Le tengo miedo a la cacabel.
 # tagged = true
 # author = paula
 1	Yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
@@ -20913,7 +20913,7 @@
 # sent_id = ejemplos:1737
 # text = Boo nuni baku kuu kuäa.
 # text[orig] = boo nuni baku kuu kuäa.
-# text[spa] = en el agua vive una especie de anaconda.
+# text[spa] = En el agua vive una especie de anaconda.
 # tagged = false
 # author = paula
 1	Boo	_	_	_	_	_	_	_	_
@@ -20926,7 +20926,7 @@
 # sent_id = ejemplos:1738
 # text = Kueche, kú töo.
 # text[orig] = kueche, kú töo.
-# text[spa] = es pinto el coralillo.
+# text[spa] = Es pinto el coralillo.
 # tagged = false
 # author = paula
 1	Kueche	_	_	_	_	_	_	_	_
@@ -20938,7 +20938,7 @@
 # sent_id = ejemplos:1739
 # text = Kuu yati jót.
 # text[orig] = kuu yati jót.
-# text[spa] = la lagartija vibora salta.
+# text[spa] = La lagartija vibora salta.
 # tagged = false
 # author = paula
 1	Kuu	_	NOUN	_	_	_	_	_	Trad=víbora
@@ -20949,7 +20949,7 @@
 # sent_id = ejemplos:1740
 # text = Ú chea no ama kuu yéabea.
 # text[orig] = ú chea no ama kuu yéabea.
-# text[spa] = yo me subi a un avion.
+# text[spa] = Yo me subi a un avion.
 # tagged = true
 # author = paula
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
@@ -20963,7 +20963,7 @@
 # sent_id = ejemplos:1741
 # text = Ú katatïi ama kúu yúdii.
 # text[orig] = ú katatïi ama kúu yúdii.
-# text[spa] = en mi cabeza traigo un rizador.
+# text[spa] = En mi cabeza traigo un rizador.
 # tagged = false
 # author = paula
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
@@ -20976,7 +20976,7 @@
 # sent_id = ejemplos:1742
 # text = Kú yúduu jeʼet iti.
 # text[orig] = Kú yúduu jeʼet iti.
-# text[spa] = las anacondas se comen a los animales.
+# text[spa] = Las anacondas se comen a los animales.
 # tagged = true
 # author = paula
 1	Kú	_	NOUN	_	_	_	_	_	Trad=campana
@@ -20988,7 +20988,7 @@
 # sent_id = ejemplos:1743
 # text = Jinkuee kúchi ñëʼe joo.
 # text[orig] = jinkuee kúchi ñëʼe joo.
-# text[spa] = se le levanta la pelusa a mi pantalon.
+# text[spa] = Se le levanta la pelusa a mi pantalon.
 # tagged = false
 # author = paula
 1	Jinkuee	_	_	_	_	_	_	_	_
@@ -21000,7 +21000,7 @@
 # sent_id = ejemplos:1744
 # text = Toch jinkioʼö yabean nëʼe kuyadu.
 # text[orig] = toch jinkioʼö yabean nëʼe kuyadu.
-# text[spa] = al medio dia me quiero dormir.
+# text[spa] = Al medio dia me quiero dormir.
 # tagged = false
 # author = paula
 1	Toch	tochi	SCONJ	_	Typo=Yes	_	_	_	Gloss=cuando|Normal=tochi|Trad=cuando
@@ -21013,7 +21013,7 @@
 # sent_id = ejemplos:1745
 # text = Nuku lasi jidnay nóʼo.
 # text[orig] = nuku lasi jidnay nóʼo.
-# text[spa] = con el lodo hacen los adobes.
+# text[spa] = Con el lodo hacen los adobes.
 # tagged = false
 # author = paula
 1	Nuku	nuku	ADP	_	_	_	_	_	Gloss=con|Trad=con
@@ -21025,7 +21025,7 @@
 # sent_id = ejemplos:1746
 # text = Chidan chimjinuñ latu ñëʼeñ.
 # text[orig] = chidan chimjinuñ latu ñëʼeñ.
-# text[spa] = a mi papa se le olvido su arado.
+# text[spa] = A mi papa se le olvido su arado.
 # tagged = false
 # author = paula
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
@@ -21037,7 +21037,7 @@
 # sent_id = ejemplos:1747
 # text = Ama labente chenes ú.
 # text[orig] = ama labente chenes ú.
-# text[spa] = un duende me mordio.
+# text[spa] = Un duende me mordio.
 # tagged = false
 # author = paula
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -21049,7 +21049,7 @@
 # sent_id = ejemplos:1748
 # text = Jinamin jiya laka.
 # text[orig] = jinamin jiya laka.
-# text[spa] = en el pantano llegan las chchalacas.
+# text[spa] = En el pantano llegan las chchalacas.
 # tagged = false
 # author = paula
 1	Jinamin	_	_	_	_	_	_	_	_
@@ -21060,7 +21060,7 @@
 # sent_id = ejemplos:1749
 # text = Yana ñëʼe eanut jeʼet lanti.
 # text[orig] = yana ñëʼe eanut jeʼet lanti.
-# text[spa] = a mi perro le gustan los huesos.
+# text[spa] = A mi perro le gustan los huesos.
 # tagged = true
 # author = paula
 1	Yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -21073,7 +21073,7 @@
 # sent_id = ejemplos:1750
 # text = Eanu jeʼe lantikuu itintu.
 # text[orig] = eanu jeʼe lantikuu itintu.
-# text[spa] = me gusta comer las costillas de res.
+# text[spa] = Me gusta comer las costillas de res.
 # tagged = false
 # author = paula
 1	Eanu	_	VERB	_	_	_	_	_	Gloss=?-gustar-1SG|Trad=gusto
@@ -21085,7 +21085,7 @@
 # sent_id = ejemplos:1751
 # text = Yebean naa lantuu ñëʼe yudtiñ.
 # text[orig] = yebean naa lantuu ñëʼe yudtiñ.
-# text[spa] = es muy buena la cola de caballo para el cabello.
+# text[spa] = Es muy buena la cola de caballo para el cabello.
 # tagged = false
 # author = paula
 1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
@@ -21098,7 +21098,7 @@
 # sent_id = ejemplos:1752
 # text = Kanbid leabea noo ntu.
 # text[orig] = kanbid leabea noo ntu.
-# text[spa] = kitale lo aguado al atole.
+# text[spa] = Kitale lo aguado al atole.
 # tagged = false
 # author = paula
 1	Kanbid	_	_	_	_	_	_	_	_
@@ -21110,7 +21110,7 @@
 # sent_id = ejemplos:1753
 # text = Leantu ñëʼe yanan kanta.
 # text[orig] = leantu ñëʼe yanan kanta.
-# text[spa] = la lagaña del perro es peligrosa.
+# text[spa] = La lagaña del perro es peligrosa.
 # tagged = false
 # author = paula
 1	Leantu	_	NOUN	_	_	_	_	_	Trad=lagaña
@@ -21122,7 +21122,7 @@
 # sent_id = ejemplos:1754
 # text = Ú nëʼe ama lï ñëʼe.
 # text[orig] = ú nëʼe ama lï ñëʼe.
-# text[spa] = yo quiro un bebe mio.
+# text[spa] = Yo quiro un bebe mio.
 # tagged = false
 # author = paula
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
@@ -21135,7 +21135,7 @@
 # sent_id = ejemplos:1755
 # text = Iña niku a lii noñ.
 # text[orig] = iña niku a lii noñ.
-# text[spa] = los viejitos ya tienen arrugas en la cara.
+# text[spa] = Los viejitos ya tienen arrugas en la cara.
 # tagged = false
 # author = paula
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
@@ -21148,7 +21148,7 @@
 # sent_id = ejemplos:1756
 # text = Kanee ama lítu noo taka.
 # text[orig] = kanee ama lítu noo taka.
-# text[spa] = un saqueton se pego en mi ropa.
+# text[spa] = Un saqueton se pego en mi ropa.
 # tagged = true
 # author = paula
 1	Kanee	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-quedarse-?|Trad=se.quedó
@@ -21161,7 +21161,7 @@
 # sent_id = ejemplos:1757
 # text = Iñan linuñ ama lö.
 # text[orig] = iñan linuñ ama lö.
-# text[spa] = la gente esta haciendo un oyo.
+# text[spa] = La gente esta haciendo un oyo.
 # tagged = false
 # author = paula
 1	Iñan	_	NOUN	_	_	_	_	_	Trad=gente
@@ -21173,7 +21173,7 @@
 # sent_id = ejemplos:1758
 # text = Nutnoon yeabean lunti.
 # text[orig] = nutnoon yeabean lunti.
-# text[spa] = mis ojos son muy redondos.
+# text[spa] = Mis ojos son muy redondos.
 # tagged = false
 # author = paula
 1	Nutnoon	_	_	_	_	_	_	_	_
@@ -21184,7 +21184,7 @@
 # sent_id = ejemplos:1759
 # text = Lúti íyu ti.
 # text[orig] = lúti íyu ti.
-# text[spa] = esta muy corto ese mecate.
+# text[spa] = Esta muy corto ese mecate.
 # tagged = false
 # author = paula
 1	Lúti	_	_	_	_	_	_	_	_
@@ -21195,7 +21195,7 @@
 # sent_id = ejemplos:1760
 # text = Yeabean luuchi dikuoo.
 # text[orig] = yeabean luuchi dikuoo.
-# text[spa] = esta muy bonito el bebe.
+# text[spa] = Esta muy bonito el bebe.
 # tagged = false
 # author = paula
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
@@ -21206,7 +21206,7 @@
 # sent_id = ejemplos:1761
 # text = Muʼün yebean maa.
 # text[orig] = muʼün yebean maa.
-# text[spa] = aquí esta muy obscuro.
+# text[spa] = Aquí esta muy obscuro.
 # tagged = false
 # author = paula
 1	Muʼün	_	_	_	_	_	_	_	_
@@ -21217,7 +21217,7 @@
 # sent_id = ejemplos:1762
 # text = Ú boʼo marceja.
 # text[orig] = ú boʼo marceja.
-# text[spa] = me da miedo el murcielago.
+# text[spa] = Me da miedo el murcielago.
 # tagged = true
 # author = paula
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
@@ -21228,7 +21228,7 @@
 # sent_id = ejemplos:1763
 # text = Tochi mee yeabean icha.
 # text[orig] = tochi mee yeabean icha.
-# text[spa] = cuando esta nublado hace mucho frio.
+# text[spa] = Cuando esta nublado hace mucho frio.
 # tagged = true
 # author = paula
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Gloss=cuando|Trad=cuando
@@ -21240,7 +21240,7 @@
 # sent_id = ejemplos:1764
 # text = Yeabean eanu jeʼe mï.
 # text[orig] = yeabean eanu jeʼe mï.
-# text[spa] = me guta mucho comer camote.
+# text[spa] = Me guta mucho comer camote.
 # tagged = true
 # author = paula
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
@@ -21252,7 +21252,7 @@
 # sent_id = ejemplos:1765
 # text = Mï nii boo kantu tuʼu.
 # text[orig] = Mï nii boo kantu tuʼu.
-# text[spa] = camotes con caldo de pollo.
+# text[spa] = Camotes con caldo de pollo.
 # tagged = false
 # author = paula
 1	Mï	_	NOUN	_	_	_	_	_	Trad=camote
@@ -21265,7 +21265,7 @@
 # sent_id = ejemplos:1766
 # text = Mí noʼö yadii jeʼe.
 # text[orig] = Mí noʼö yadii jeʼe.
-# text[spa] = el camote morado es dulce.
+# text[spa] = El camote morado es dulce.
 # tagged = false
 # author = paula
 1	Mí	_	ADV	_	_	_	_	_	Trad=allá
@@ -21277,7 +21277,7 @@
 # sent_id = ejemplos:1767
 # text = Tïi biʼi mnoota chi kubi uu.
 # text[orig] = tïi biʼi mnoota chi kubi uu.
-# text[spa] = mi hermana es antes (mayor) que yo.
+# text[spa] = Mi hermana es antes (mayor) que yo.
 # tagged = false
 # author = paula
 1	Tïi	_	NOUN	_	_	_	_	_	Trad=cabeza
@@ -21291,7 +21291,7 @@
 # sent_id = ejemplos:1768
 # text = Kataʼa ama nuubi mojechey.
 # text[orig] = kataʼa ama nuubi mojechey.
-# text[spa] = tiene un grano en la axila.
+# text[spa] = Tiene un grano en la axila.
 # tagged = false
 # author = paula
 1	Kataʼa	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-traer-?|Trad=traes
@@ -21303,7 +21303,7 @@
 # sent_id = ejemplos:1769
 # text = Ñëʼe moo.
 # text[orig] = ñëʼe moo.
-# text[spa] = es mio.
+# text[spa] = Es mio.
 # tagged = true
 # author = paula
 1	Ñëʼe	ñeʼe	NOUN	_	Typo=Yes|NounType=Relat	_	_	_	Gloss=base-POSS.1SG|Normal=ñeʼë|Trad=de.mí
@@ -21313,7 +21313,7 @@
 # sent_id = ejemplos:1770
 # text = Kanuu moo.
 # text[orig] = kanuu moo.
-# text[spa] = quedo abajo.
+# text[spa] = Quedo abajo.
 # tagged = true
 # author = paula
 1	Kanuu	_	VERB	_	_	_	_	_	Trad=está
@@ -21323,7 +21323,7 @@
 # sent_id = ejemplos:1771
 # text = Cheatea bed inu ñëʼe Moo ibu.
 # text[orig] = cheatea bed inu ñëʼe Moo ibu.
-# text[spa] = es muy milagroso Dios.
+# text[spa] = Es muy milagroso Dios.
 # tagged = false
 # author = paula
 1	Cheatea	_	VERB	_	VerbForm=Stat	_	_	_	Trad=grande
@@ -21337,7 +21337,7 @@
 # sent_id = ejemplos:1772
 # text = Muʼu bea nuni.
 # text[orig] = muʼu bea nuni.
-# text[spa] = aquí hay agua.
+# text[spa] = Aquí hay agua.
 # tagged = true
 # author = paula
 1	Muʼu	_	ADV	_	_	_	_	_	Trad=aquí
@@ -21348,7 +21348,7 @@
 # sent_id = ejemplos:1773
 # text = Tee chu dii tumin nababiʼí noo tumi.
 # text[orig] = tee chu dii tumin nababiʼí noo tumi.
-# text[spa] = te doy esto para acompletar el dinero.
+# text[spa] = Te doy esto para acompletar el dinero.
 # tagged = false
 # author = paula
 1	Tee	_	_	_	_	_	_	_	_
@@ -21363,7 +21363,7 @@
 # sent_id = ejemplos:1774
 # text = Yebean naa jee naama.
 # text[orig] = yebean naa jee naama.
-# text[spa] = huele rico el jabon.
+# text[spa] = Huele rico el jabon.
 # tagged = true
 # author = paula
 1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
@@ -21375,7 +21375,7 @@
 # sent_id = ejemplos:1775
 # text = Nabeanu dayaa itintu.
 # text[orig] = Nabeanu dayaa itintu.
-# text[spa] = la vaca tuvo un aborto.
+# text[spa] = La vaca tuvo un aborto.
 # tagged = false
 # author = paula
 1	Nabeanu	_	_	_	_	_	_	_	_
@@ -21386,7 +21386,7 @@
 # sent_id = ejemplos:1776
 # text = Nabeanud nínu.
 # text[orig] = nabeanud nínu.
-# text[spa] = recoje el maiz.
+# text[spa] = Recoje el maiz.
 # tagged = true
 # author = paula
 1	Nabeanud	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-recoger-2SG|Trad=recoger
@@ -21396,7 +21396,7 @@
 # sent_id = ejemplos:1777
 # text = Chiyaʼa chete ñeʼë naboʼo.
 # text[orig] = chiyaʼa chete ñeʼë naboʼo.
-# text[spa] = me dolio el estomago por la cereza.
+# text[spa] = Me dolio el estomago por la cereza.
 # tagged = false
 # author = paula
 1	Chiyaʼa	_	_	_	_	_	_	_	_
@@ -21408,7 +21408,7 @@
 # sent_id = ejemplos:1778
 # text = Nukueʼe jinikuy naíba.
 # text[orig] = nukueʼe jinikuy naíba.
-# text[spa] = venden de todo en el mercado.
+# text[spa] = Venden de todo en el mercado.
 # tagged = false
 # author = paula
 1	Nukueʼe	_	_	_	_	_	_	_	_
@@ -21419,7 +21419,7 @@
 # sent_id = ejemplos:1779
 # text = Ú eanu jeʼe naídii.
 # text[orig] = ú eanu jeʼe naídii.
-# text[spa] = me gusta comer aguacate.
+# text[spa] = Me gusta comer aguacate.
 # tagged = true
 # author = paula
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
@@ -21443,7 +21443,7 @@
 # sent_id = ejemplos:1781
 # text = Yebean yáduu naiyaa.
 # text[orig] = yebean yáduu naiyaa.
-# text[spa] = esta muy picosa la salsa.
+# text[spa] = Esta muy picosa la salsa.
 # tagged = false
 # author = paula
 1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
@@ -21454,7 +21454,7 @@
 # sent_id = ejemplos:1782
 # text = Yeabean cheche najaʼa kú.
 # text[orig] = yeabean cheche najaʼa kú.
-# text[spa] = esta muy dura esta nuez.
+# text[spa] = Esta muy dura esta nuez.
 # tagged = false
 # author = paula
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
@@ -21466,7 +21466,7 @@
 # sent_id = ejemplos:1783
 # text = Naneachea naama.
 # text[orig] = naneachea naama.
-# text[spa] = se deshizo el jabón.
+# text[spa] = Se deshizo el jabón.
 # tagged = true
 # author = paula
 1	Naneachea	_	VERB	_	_	_	_	_	Trad=borrar
@@ -21476,7 +21476,7 @@
 # sent_id = ejemplos:1784
 # text = Tioʼö tin yeabean naa snee nankuníbii ñëʼe.
 # text[orig] = tioʼö tin yeabean naa snee nankuníbii ñëʼe.
-# text[spa] = ese arbol tiene mucho colorin.
+# text[spa] = Ese arbol tiene mucho colorin.
 # tagged = false
 # author = paula
 1	Tioʼö	_	NOUN	_	_	_	_	_	Trad=árbol
@@ -21491,7 +21491,7 @@
 # sent_id = ejemplos:1785
 # text = Yebea nanta kó.
 # text[orig] = yebea nanta kó.
-# text[spa] = esa flor esta muy bonita.
+# text[spa] = Esa flor esta muy bonita.
 # tagged = false
 # author = paula
 1	Yebea	_	_	_	_	_	_	_	_
@@ -21502,7 +21502,7 @@
 # sent_id = ejemplos:1786
 # text = Ñoo nantioö.
 # text[orig] = ñoo nantioö.
-# text[spa] = las rosas tienen espinas.
+# text[spa] = Las rosas tienen espinas.
 # tagged = true
 # author = paula
 1	Ñoo	_	NOUN	_	_	_	_	_	Trad=pueblo
@@ -21512,7 +21512,7 @@
 # sent_id = ejemplos:1787
 # text = Ú gua eanu jinánu kúʼu.
 # text[orig] = ú gua eanu jinánu kúʼu.
-# text[spa] = a mi no gusta lavar platos.
+# text[spa] = A mi no gusta lavar platos.
 # tagged = false
 # author = paula
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
@@ -21525,7 +21525,7 @@
 # sent_id = ejemplos:1788
 # text = Nata niikuu yana kó.
 # text[orig] = nata niikuu yana kó.
-# text[spa] = es de raza grande ese perro.
+# text[spa] = Es de raza grande ese perro.
 # tagged = false
 # author = paula
 1	Nata	_	NOUN	_	_	_	_	_	Trad=maíz
@@ -21537,7 +21537,7 @@
 # sent_id = ejemplos:1789
 # text = Ndá cheʼed yuntu.
 # text[orig] = ndá cheʼed yuntu.
-# text[spa] = come muy bien (tortillas).
+# text[spa] = Come muy bien (tortillas).
 # tagged = true
 # author = paula
 1	Ndá	_	ADJ	_	_	_	_	_	Trad=bueno|UPOS=Guessed
@@ -21548,7 +21548,7 @@
 # sent_id = ejemplos:1790
 # text = Ú gua eanu jinukoʼo ndakuu.
 # text[orig] = ú gua eanu jinukoʼo ndakuu.
-# text[spa] = a mi no me gusta usar guaraches.
+# text[spa] = A mi no me gusta usar guaraches.
 # tagged = false
 # author = paula
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
@@ -21561,7 +21561,7 @@
 # sent_id = ejemplos:1791
 # text = Yeabeanu ndee tumi nee.
 # text[orig] = yeabeanu ndee tumi nee.
-# text[spa] = traigo mucho dinero.
+# text[spa] = Traigo mucho dinero.
 # tagged = false
 # author = paula
 1	Yeabeanu	_	_	_	_	_	_	_	_
@@ -21573,7 +21573,7 @@
 # sent_id = ejemplos:1792
 # text = Tebean naa yuunu ndete.
 # text[orig] = tebean naa yuunu ndete.
-# text[spa] = estan muy tiernos los ejotes.
+# text[spa] = Estan muy tiernos los ejotes.
 # tagged = false
 # author = paula
 1	Tebean	_	_	_	_	_	_	_	_
@@ -21585,7 +21585,7 @@
 # sent_id = ejemplos:1793
 # text = Yebeanu naa yaadi jeʼe ndeyaa.
 # text[orig] = yebeanu naa yaadi jeʼe ndeyaa.
-# text[spa] = saben muy dulces los duraznos.
+# text[spa] = Saben muy dulces los duraznos.
 # tagged = false
 # author = paula
 1	Yebeanu	_	_	_	_	_	_	_	_
@@ -21598,7 +21598,7 @@
 # sent_id = ejemplos:1794
 # text = Yabeanu jorruu ndiʼi ti jabee.
 # text[orig] = yabeanu jorruu ndiʼi ti jabee.
-# text[spa] = me zumba mucho esa mozca en el oido.
+# text[spa] = Me zumba mucho esa mozca en el oido.
 # tagged = false
 # author = paula
 1	Yabeanu	_	_	_	_	_	_	_	_
@@ -21611,7 +21611,7 @@
 # sent_id = ejemplos:1795
 # text = A tanee noyo chis jinoo ndúbi noo.
 # text[orig] = a tanee noyo chis jinoo ndúbi noo.
-# text[spa] = ya me llegó la edad por eso me salen granos en la cara.
+# text[spa] = Ya me llegó la edad por eso me salen granos en la cara.
 # tagged = false
 # author = paula
 1	A	a	ADV	_	_	_	_	_	Trad=ya
@@ -21626,7 +21626,7 @@
 # sent_id = ejemplos:1796
 # text = Chiichi chi yeabeanu née në cheʼe.
 # text[orig] = chiichi chi yeabeanu née në cheʼe.
-# text[spa] = vomite por que comi mucho mole.
+# text[spa] = Vomite por que comi mucho mole.
 # tagged = false
 # author = paula
 1	Chiichi	_	_	_	_	_	_	_	_
@@ -21640,7 +21640,7 @@
 # sent_id = ejemplos:1797
 # text = Ú neʼë kuaa ama takaa.
 # text[orig] = ú neʼë kuaa ama takaa.
-# text[spa] = yo me quiero comprar ropa.
+# text[spa] = Yo me quiero comprar ropa.
 # tagged = false
 # author = paula
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
@@ -21653,7 +21653,7 @@
 # sent_id = ejemplos:1798
 # text = Yebean yaaku chíba neatuu.
 # text[orig] = yebean yaaku chíba neatuu.
-# text[spa] = esta muy caro el tomate.
+# text[spa] = Esta muy caro el tomate.
 # tagged = false
 # author = paula
 1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
@@ -21665,7 +21665,7 @@
 # sent_id = ejemplos:1799
 # text = Noban yeabean bea niini.
 # text[orig] = Noban yeabean bea niini.
-# text[spa] = en Oaxaca hay mucho guaje.
+# text[spa] = En Oaxaca hay mucho guaje.
 # tagged = false
 # author = paula
 1	Noban	_	_	_	_	_	_	_	_
@@ -21677,7 +21677,7 @@
 # sent_id = ejemplos:1800
 # text = Nibii yebean naa jeʼe chi niyuchi.
 # text[orig] = nibii yebean naa jeʼe chi niyuchi.
-# text[spa] = las papas saben muy ricas fritas.
+# text[spa] = Las papas saben muy ricas fritas.
 # tagged = false
 # author = paula
 1	Nibii	_	NOUN	_	_	_	_	_	Trad=papa
@@ -21691,7 +21691,7 @@
 # sent_id = ejemplos:1801
 # text = Nichama noyo tochi tïi bïi chintioota.
 # text[orig] = nichama noyo tochi tïi bïi chintioota.
-# text[spa] = tenia once años cuando nacio mi hermana.
+# text[spa] = Tenia once años cuando nacio mi hermana.
 # tagged = false
 # author = paula
 1	Nichama	_	NUM	_	_	_	_	_	Trad=once
@@ -21705,7 +21705,7 @@
 # sent_id = ejemplos:1802
 # text = Kad nichi, kad nichi, joduchi chikuʼu tochi jinikuy.
 # text[orig] = kad nichi, kad nichi, joduchi chikuʼu tochi jinikuy.
-# text[spa] = de diez en diez cuenta mi abuela cuando vende.
+# text[spa] = De diez en diez cuenta mi abuela cuando vende.
 # tagged = false
 # author = paula
 1	Kad	kua	VERB	_	VerbForm=Fin	_	_	_	Gloss=CPL-comprar-2SG|Trad=comprar
@@ -21723,7 +21723,7 @@
 # sent_id = ejemplos:1803
 # text = Ú neʼë nichi a taka ikay chea.
 # text[orig] = ú neʼë nichi a taka ikay chea.
-# text[spa] = yo quiero ver como hacen el comal.
+# text[spa] = Yo quiero ver como hacen el comal.
 # tagged = true
 # author = paula
 1	Ú	uu	PRON	_	PronType=Prs	_	_	_	Gloss=1SG|Trad=yo
@@ -21738,7 +21738,7 @@
 # sent_id = ejemplos:1804
 # text = Nichubi íyu naa noyo.
 # text[orig] = nichubi íyu naa noyo.
-# text[spa] = doce meses trae el año.
+# text[spa] = Doce meses trae el año.
 # tagged = false
 # author = paula
 1	Nichubi	_	NUM	_	_	_	_	_	Trad=doce
@@ -21750,7 +21750,7 @@
 # sent_id = ejemplos:1805
 # text = Yebean naa timi jeʼe nïi.
 # text[orig] = yebean naa timi jeʼe nïi.
-# text[spa] = saben muy consistente el chayote.
+# text[spa] = Saben muy consistente el chayote.
 # tagged = false
 # author = paula
 1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
@@ -21763,7 +21763,7 @@
 # sent_id = ejemplos:1806
 # text = Yebean láa níitu.
 # text[orig] = yebean láa níitu.
-# text[spa] = esta muy baboso el nopal.
+# text[spa] = Esta muy baboso el nopal.
 # tagged = false
 # author = paula
 1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
@@ -21774,7 +21774,7 @@
 # sent_id = ejemplos:1807
 # text = Nídin a nínaa.
 # text[orig] = Nídin a nínaa.
-# text[spa] = el aguacate ya esta maduro.
+# text[spa] = El aguacate ya esta maduro.
 # tagged = false
 # author = paula
 1	Nídin	_	_	_	_	_	_	_	_
@@ -21785,7 +21785,7 @@
 # sent_id = ejemplos:1808
 # text = Nichid nichi a ninchii dutit.
 # text[orig] = nichid nichi a ninchii dutit.
-# text[spa] = fijate si ya se coció el huevo.
+# text[spa] = Fijate si ya se coció el huevo.
 # tagged = true
 # author = paula
 1	Nichid	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-ver-2SG|Trad=viste
@@ -21798,7 +21798,7 @@
 # sent_id = ejemplos:1809
 # text = Choʼo nee kóʼo man yeabean ninditu.
 # text[orig] = choʼo nee kóʼo man yeabean ninditu.
-# text[spa] = me fracture el pie por eso esta muy inchado.
+# text[spa] = Me fracture el pie por eso esta muy inchado.
 # tagged = false
 # author = paula
 1	Choʼo	_	VERB	_	_	_	_	_	Gloss=?-pasar-1SG|Trad=pasé
@@ -23335,7 +23335,7 @@
 # sent_id = ejemplos:1936
 # text = Iña kón yeabean bea yúkuu ñeʼeñ.
 # text[orig] = iña kón yeabean bea yúkuu ñeʼeñ.
-# text[spa] = esa persona tiene muchas calabazas.
+# text[spa] = Esa persona tiene muchas calabazas.
 # tagged = false
 # author = paula
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
@@ -23349,7 +23349,7 @@
 # sent_id = ejemplos:1937
 # text = Uu neʼë cheʼe nutiukuu.
 # text[orig] = uu neʼë cheʼe nutiukuu.
-# text[spa] = yo quiero comer semillas.
+# text[spa] = Yo quiero comer semillas.
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23361,7 +23361,7 @@
 # sent_id = ejemplos:1938
 # text = Takón rankutan ni yeabeatea.
 # text[orig] = takón rankutan ni yeabeatea.
-# text[spa] = ella esta alta y bonita.
+# text[spa] = Ella esta alta y bonita.
 # tagged = false
 # author = paula
 1	Takón	_	_	_	_	_	_	_	_
@@ -23384,7 +23384,7 @@
 # sent_id = ejemplos:1940
 # text = Tanoʼon kueʼeta Nooba.
 # text[orig] = tanoʼon kueʼeta Nooba.
-# text[spa] = la maestra se fue a Oaxaca.
+# text[spa] = La maestra se fue a Oaxaca.
 # tagged = false
 # author = paula
 1	Tanoʼon	_	_	_	_	_	_	_	_
@@ -23395,7 +23395,7 @@
 # sent_id = ejemplos:1941
 # text = Jeanu ñoʼö Jiyudu Daama.
 # text[orig] = Jeanu ñoʼö Jiyudu Daama.
-# text[spa] = hay un incendio en EEUU.
+# text[spa] = Hay un incendio en EEUU.
 # tagged = false
 # author = paula
 1	Jeanu	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-correr-?|Trad=correr
@@ -23431,7 +23431,7 @@
 # sent_id = ejemplos:1944
 # text = Kaa ama pö chi kádinu.
 # text[orig] = kaa ama pö chi kádinu.
-# text[spa] = me compre un pan para desayunar.
+# text[spa] = Me compre un pan para desayunar.
 # tagged = false
 # author = paula
 1	Kaa	kua	VERB	_	VerbForm=Fin	_	_	_	Gloss=CPL-comprar-1SG|Trad=comprar
@@ -23444,7 +23444,7 @@
 # sent_id = ejemplos:1945
 # text = Káa dami baku tochi chee kúbi.
 # text[orig] = káa dami baku tochi chee kúbi.
-# text[spa] = se derrumbo atrás de mi casa cuando llovió.
+# text[spa] = Se derrumbo atrás de mi casa cuando llovió.
 # tagged = true
 # author = paula
 1	Káa	_	NOUN	_	_	_	_	_	Trad=filo
@@ -23458,7 +23458,7 @@
 # sent_id = ejemplos:1946
 # text = Chakun jidinay ntu yoo.
 # text[orig] = chakun jidinay ntu yoo.
-# text[spa] = mi mama prepara atole amargo.
+# text[spa] = Mi mama prepara atole amargo.
 # tagged = false
 # author = paula
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
@@ -23470,7 +23470,7 @@
 # sent_id = ejemplos:1947
 # text = Uu eanu jeʼe mii yoo.
 # text[orig] = uu eanu jeʼe mii yoo.
-# text[spa] = a mi me gusta el camote amargo.
+# text[spa] = A mi me gusta el camote amargo.
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23483,7 +23483,7 @@
 # sent_id = ejemplos:1948
 # text = Intieʼén chinuñ ama itintu.
 # text[orig] = intieʼén chinuñ ama itintu.
-# text[spa] = la autoridad mato a una res.
+# text[spa] = La autoridad mato a una res.
 # tagged = false
 # author = paula
 1	Intieʼén	_	_	_	_	_	_	_	_
@@ -23495,7 +23495,7 @@
 # sent_id = ejemplos:1949
 # text = Chidan jitechköñ noʼo.
 # text[orig] = chidan jitechköñ noʼo.
-# text[spa] = mi papá acarrea leña.
+# text[spa] = Mi papá acarrea leña.
 # tagged = false
 # author = paula
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
@@ -23506,7 +23506,7 @@
 # sent_id = ejemplos:1950
 # text = Chakun jeʼëñ jinkuy chebaa.
 # text[orig] = chakun jeʼëñ jinkuy chebaa.
-# text[spa] = mi mama va a dejar comida.
+# text[spa] = Mi mama va a dejar comida.
 # tagged = false
 # author = paula
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
@@ -23518,7 +23518,7 @@
 # sent_id = ejemplos:1951
 # text = Tibiʼin jeʼeta yuta itcheanu.
 # text[orig] = tibiʼin jeʼeta yuta itcheanu.
-# text[spa] = mi hermana come carne de venado.
+# text[spa] = Mi hermana come carne de venado.
 # tagged = false
 # author = paula
 1	Tibiʼin	_	_	_	_	_	_	_	_
@@ -23530,7 +23530,7 @@
 # sent_id = ejemplos:1952
 # text = Uu chikaa nutoʼo nuku ama jíkuu.
 # text[orig] = Uu chikaa nutoʼo nuku ama jíkuu.
-# text[spa] = yome corte un dedo con un cuchillo.
+# text[spa] = Yome corte un dedo con un cuchillo.
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23544,7 +23544,7 @@
 # sent_id = ejemplos:1953
 # text = Chakun ikay yúntu toch jichinu.
 # text[orig] = chakun ikay yúntu toch jichinu.
-# text[spa] = mi mamá echa tortillas por las tardes.
+# text[spa] = Mi mamá echa tortillas por las tardes.
 # tagged = false
 # author = paula
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
@@ -23557,7 +23557,7 @@
 # sent_id = ejemplos:1954
 # text = Uu jitboo tíku kuete.
 # text[orig] = uu jitboo tíku kuete.
-# text[spa] = yo capturo chapulines en el campo.
+# text[spa] = Yo capturo chapulines en el campo.
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23569,7 +23569,7 @@
 # sent_id = ejemplos:1955
 # text = Chichee ikay cheanu.
 # text[orig] = chichee ikay cheanu.
-# text[spa] = mi abuelo corta la hierba.
+# text[spa] = Mi abuelo corta la hierba.
 # tagged = false
 # author = paula
 1	Chichee	_	_	_	_	_	_	_	_
@@ -23580,7 +23580,7 @@
 # sent_id = ejemplos:1956
 # text = Tii biʼi bea tuʼu kaya ñeʼëta.
 # text[orig] = Tii biʼi bea tuʼu kaya ñeʼëta.
-# text[spa] = mi hermana tiene pollitos.
+# text[spa] = Mi hermana tiene pollitos.
 # tagged = false
 # author = paula
 1	Tii	_	NOUN	_	_	_	_	_	Trad=cabeza
@@ -23594,7 +23594,7 @@
 # sent_id = ejemplos:1957
 # text = Dimoo tumi cheye nankoʼoy chaku no tienda.
 # text[orig] = dimoo tumi cheye nankoʼoy chaku no tienda.
-# text[spa] = le dieron puro cambio a mi mama en la tienda.
+# text[spa] = Le dieron puro cambio a mi mama en la tienda.
 # tagged = false
 # author = paula
 1	Dimoo	_	ADJ	_	_	_	_	_	Trad=sólo,.puro|UPOS=Guessed
@@ -23609,7 +23609,7 @@
 # sent_id = ejemplos:1958
 # text = Uu gua eanu jeʼe neatu tochi kuee.
 # text[orig] = uu gua eanu jeʼe neatu tochi kuee.
-# text[spa] = a mi no me gusta comer tomate verde.
+# text[spa] = A mi no me gusta comer tomate verde.
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23624,7 +23624,7 @@
 # sent_id = ejemplos:1959
 # text = Noyo kun niguan yeabeanu nanubi ndeyee.
 # text[orig] = noyo kun niguan yeabeanu nanubi ndeyee.
-# text[spa] = este año creo que se dará mucho el durazno.
+# text[spa] = Este año creo que se dará mucho el durazno.
 # tagged = false
 # author = paula
 1	Noyo	_	_	_	_	_	_	_	_
@@ -23638,7 +23638,7 @@
 # sent_id = ejemplos:1960
 # text = Ñoʼö ñeʼë ndeyen yeabeanu nee nanta.
 # text[orig] = ñoʼö ñeʼë ndeyen yeabeanu nee nanta.
-# text[spa] = el duraznal tiene muchas flores.
+# text[spa] = El duraznal tiene muchas flores.
 # tagged = false
 # author = paula
 1	Ñoʼö	_	NOUN	_	_	_	_	_	Trad=pueblo
@@ -23652,7 +23652,7 @@
 # sent_id = ejemplos:1961
 # text = Uu yeabean eanu jeʼe nuti kuoo.
 # text[orig] = uu yeabean eanu jeʼe nuti kuoo.
-# text[spa] = a mi me gusta mucho comer chabacano.
+# text[spa] = A mi me gusta mucho comer chabacano.
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23666,7 +23666,7 @@
 # sent_id = ejemplos:1962
 # text = Iña niku yaʼa kanii jinubtoñ.
 # text[orig] = iña niku yaʼa kanii jinubtoñ.
-# text[spa] = la gente grande se enoja muy rapido.
+# text[spa] = La gente grande se enoja muy rapido.
 # tagged = false
 # author = paula
 1	Iña	_	NOUN	_	_	_	_	_	Trad=gente
@@ -23679,7 +23679,7 @@
 # sent_id = ejemplos:1963
 # text = Yeabean nenoo nanta ealea bea.
 # text[orig] = yeabean nenoo nanta ealea bea.
-# text[spa] = hay muchos tipos de flores de dalia.
+# text[spa] = Hay muchos tipos de flores de dalia.
 # tagged = false
 # author = paula
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
@@ -23692,7 +23692,7 @@
 # sent_id = ejemplos:1964
 # text = Tochi bea bikun iñan yeabean jay yuta jeʼey.
 # text[orig] = tochi bea bikun iñan yeabean jay yuta jeʼey.
-# text[spa] = cuando hay fiesta la gente compra mucha carne.
+# text[spa] = Cuando hay fiesta la gente compra mucha carne.
 # tagged = false
 # author = paula
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Gloss=cuando|Trad=cuando
@@ -23708,7 +23708,7 @@
 # sent_id = ejemplos:1965
 # text = Uu jita tii tochi icha.
 # text[orig] = uu jita tii tochi icha.
-# text[spa] = me duele la cabeza cuando hace frio.
+# text[spa] = Me duele la cabeza cuando hace frio.
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23721,7 +23721,7 @@
 # sent_id = ejemplos:1966
 # text = Uu jiita runtiya tochi icha.
 # text[orig] = uu jiita runtiya tochi icha.
-# text[spa] = a mi me duele la rodilla cuando hace frio.
+# text[spa] = A mi me duele la rodilla cuando hace frio.
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23734,7 +23734,7 @@
 # sent_id = ejemplos:1967
 # text = Nokuon jijeaa iba muʼü.
 # text[orig] = nokuon jijeaa iba muʼü.
-# text[spa] = aveces neva aquí.
+# text[spa] = Aveces neva aquí.
 # tagged = false
 # author = paula
 1	Nokuon	_	_	_	_	_	_	_	_
@@ -23746,7 +23746,7 @@
 # sent_id = ejemplos:1968
 # text = Jibakun yeabeanu jinunioo uu.
 # text[orig] = jibakun yeabeanu jinunioo uu.
-# text[spa] = en cuicatlan sudo mucho.
+# text[spa] = En cuicatlan sudo mucho.
 # tagged = false
 # author = paula
 1	Jibakun	_	PROPN	_	_	_	_	_	Gloss=LOC|Trad=Cuicatlán
@@ -23758,7 +23758,7 @@
 # sent_id = ejemplos:1969
 # text = Uu eani jeʼe yuku mï.
 # text[orig] = uu eani jeʼe yuku mï.
-# text[spa] = a mi me gusta comer la tamala.
+# text[spa] = A mi me gusta comer la tamala.
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23771,7 +23771,7 @@
 # sent_id = ejemplos:1970
 # text = Uu eanu jichiika bio.
 # text[orig] = uu eanu jichiika bio.
-# text[spa] = a mi me gusta pasear.
+# text[spa] = A mi me gusta pasear.
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23783,7 +23783,7 @@
 # sent_id = ejemplos:1971
 # text = Neʼë kuaa ama nakuu koʼo.
 # text[orig] = neʼë kuaa ama nakuu koʼo.
-# text[spa] = quiero comprarme unos huaraches.
+# text[spa] = Quiero comprarme unos huaraches.
 # tagged = true
 # author = paula
 1	Neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-1SG|Trad=quiero
@@ -23796,7 +23796,7 @@
 # sent_id = ejemplos:1972
 # text = Jinkioʼön yeabean jichi ñoo noo.
 # text[orig] = jinkioʼön yeabean jichi ñoo noo.
-# text[spa] = al medio dia me da mucho sueño.
+# text[spa] = Al medio dia me da mucho sueño.
 # tagged = false
 # author = paula
 1	Jinkioʼön	_	_	_	_	_	_	_	_
@@ -23809,7 +23809,7 @@
 # sent_id = ejemplos:1973
 # text = Neʼë kuyadu.
 # text[orig] = neʼë kuyadu.
-# text[spa] = me quiero dormir.
+# text[spa] = Me quiero dormir.
 # tagged = true
 # author = paula
 1	Neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-1SG|Trad=quiero
@@ -23819,7 +23819,7 @@
 # sent_id = ejemplos:1974
 # text = Chakun jidnay tiba dutit ni iy jimbeaku.
 # text[orig] = chakun jidnay tiba dutit ni iy jimbeaku.
-# text[spa] = mi mama prepara empanadas de huevo con hierba santa.
+# text[spa] = Mi mama prepara empanadas de huevo con hierba santa.
 # tagged = false
 # author = paula
 1	Chakun	_	NOUN	_	_	_	_	_	Trad=mi.mamá
@@ -23834,7 +23834,7 @@
 # sent_id = ejemplos:1975
 # text = Jijea iba kuchbaʼa.
 # text[orig] = jijea iba kuchbaʼa.
-# text[spa] = esta nevando alla afuera.
+# text[spa] = Esta nevando alla afuera.
 # tagged = false
 # author = paula
 1	Jijea	_	_	_	_	_	_	_	_
@@ -23845,7 +23845,7 @@
 # sent_id = ejemplos:1976
 # text = Yebeanu sne yoo ñeʼë nitu.
 # text[orig] = yebeanu sne yoo ñeʼë nitu.
-# text[spa] = tienen mucha espina los nopales.
+# text[spa] = Tienen mucha espina los nopales.
 # tagged = false
 # author = paula
 1	Yebeanu	_	_	_	_	_	_	_	_
@@ -23858,7 +23858,7 @@
 # sent_id = ejemplos:1977
 # text = Yaʼa yebea jijobe ñoʼo ñeʼë ndeye tochi jinee nanta ñeʼë.
 # text[orig] = yaʼa yebea jijobe ñoʼo ñeʼë ndeye tochi jinee nanta ñeʼë.
-# text[spa] = se ve muy bonito el duraznal cuando tiene flores.
+# text[spa] = Se ve muy bonito el duraznal cuando tiene flores.
 # tagged = false
 # author = paula
 1	Yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
@@ -23876,7 +23876,7 @@
 # sent_id = ejemplos:1978
 # text = Uu jokaba u.
 # text[orig] = uu jokaba u.
-# text[spa] = a mi me da coraje.
+# text[spa] = A mi me da coraje.
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23887,7 +23887,7 @@
 # sent_id = ejemplos:1979
 # text = Uu ii noo.
 # text[orig] = uu ii noo.
-# text[spa] = yo me maquillo.
+# text[spa] = Yo me maquillo.
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23898,7 +23898,7 @@
 # sent_id = ejemplos:1980
 # text = Uu neʼë cheʼe naiya dutit.
 # text[orig] = uu neʼë cheʼe naiya dutit.
-# text[spa] = yo quiero comer salsa de huevo.
+# text[spa] = Yo quiero comer salsa de huevo.
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23911,7 +23911,7 @@
 # sent_id = ejemplos:1981
 # text = Yeabean ñaʼä jika.
 # text[orig] = yeabean ñaʼä jika.
-# text[spa] = yo camino lejos.
+# text[spa] = Yo camino lejos.
 # tagged = false
 # author = paula
 1	Yeabean	_	ADV	_	_	_	_	_	Trad=mucho,.muy
@@ -23922,7 +23922,7 @@
 # sent_id = ejemplos:1982
 # text = U jinee jini servilleta ñeʼë.
 # text[orig] = u jinee jini servilleta ñeʼë.
-# text[spa] = yo le pongo la orilla a mi servilleta.
+# text[spa] = Yo le pongo la orilla a mi servilleta.
 # tagged = false
 # author = paula
 1	U	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23935,7 +23935,7 @@
 # sent_id = ejemplos:1983
 # text = Sii biʼin bea ama bichi lï ñeʼës.
 # text[orig] = sii biʼin bea ama bichi lï ñeʼës.
-# text[spa] = mi hermano tiene un gatito.
+# text[spa] = Mi hermano tiene un gatito.
 # tagged = false
 # author = paula
 1	Sii	_	_	_	_	_	_	_	_
@@ -23950,7 +23950,7 @@
 # sent_id = ejemplos:1984
 # text = U bea ama kiana ñeʼë.
 # text[orig] = u bea ama kiana ñeʼë.
-# text[spa] = yo tengo una camisa.
+# text[spa] = Yo tengo una camisa.
 # tagged = true
 # author = paula
 1	U	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23963,7 +23963,7 @@
 # sent_id = ejemplos:1985
 # text = I noʼo daʼa chita bete.
 # text[orig] = i noʼo daʼa chita bete.
-# text[spa] = le cho leña a la olla de tamales.
+# text[spa] = Le cho leña a la olla de tamales.
 # tagged = false
 # author = paula
 1	I	_	_	_	_	_	_	_	_
@@ -23976,7 +23976,7 @@
 # sent_id = ejemplos:1986
 # text = U eanu jea yúdu.
 # text[orig] = u eanu jea yúdu.
-# text[spa] = a mi me gusta montar a caballo.
+# text[spa] = A mi me gusta montar a caballo.
 # tagged = true
 # author = paula
 1	U	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -23988,7 +23988,7 @@
 # sent_id = ejemplos:1987
 # text = Neʼë ama lï ñeʼë.
 # text[orig] = neʼë ama lï ñeʼë.
-# text[spa] = quiero un bebé mio.
+# text[spa] = Quiero un bebé mio.
 # tagged = true
 # author = paula
 1	Neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-1SG|Trad=quiero
@@ -24000,7 +24000,7 @@
 # sent_id = ejemplos:1988
 # text = Uu gua eanu jinanu kuʼu.
 # text[orig] = uu gua eanu jinanu kuʼu.
-# text[spa] = a mi no me gusta lavar los platos.
+# text[spa] = A mi no me gusta lavar los platos.
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -24013,7 +24013,7 @@
 # sent_id = ejemplos:1989
 # text = Tochi jinan naa jiñeʼë.
 # text[orig] = tochi jinan naa jiñeʼë.
-# text[spa] = cuando me baño me siento bien.
+# text[spa] = Cuando me baño me siento bien.
 # tagged = false
 # author = paula
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Gloss=cuando|Trad=cuando
@@ -24025,7 +24025,7 @@
 # sent_id = ejemplos:1990
 # text = Uu neʼë kuʼu jadi.
 # text[orig] = uu neʼë kuʼu jadi.
-# text[spa] = yo quiero tomar tepache.
+# text[spa] = Yo quiero tomar tepache.
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -24037,7 +24037,7 @@
 # sent_id = ejemplos:1991
 # text = U neʼë kunu ama yada.
 # text[orig] = u neʼë kunu ama yada.
-# text[spa] = yo me quiero poner un vestido.
+# text[spa] = Yo me quiero poner un vestido.
 # tagged = true
 # author = paula
 1	U	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -24050,7 +24050,7 @@
 # sent_id = ejemplos:1992
 # text = Yaʼa yebea aa yaada tii baʼa ñeʼë.
 # text[orig] = yaʼa yebea aa yaada tii baʼa ñeʼë.
-# text[spa] = canta muy bonito el pajaro en el techo de mi casa.
+# text[spa] = Canta muy bonito el pajaro en el techo de mi casa.
 # tagged = false
 # author = paula
 1	Yaʼa	_	NOUN	_	_	_	_	_	Trad=dolor
@@ -24065,7 +24065,7 @@
 # sent_id = ejemplos:1993
 # text = Yebean kanó ñoʼoo ñeʼë baku.
 # text[orig] = yebean kanó ñoʼoo ñeʼë baku.
-# text[spa] = salio mucha tierra de mi casa.
+# text[spa] = Salio mucha tierra de mi casa.
 # tagged = true
 # author = paula
 1	Yebean	_	ADV	_	Typo=Yes	_	_	_	Normal=yeabean|Trad=mucho,.muy
@@ -24078,7 +24078,7 @@
 # sent_id = ejemplos:1994
 # text = Ama tadin cheatea tioʼon ni chinota.
 # text[orig] = ama tadin cheatea tioʼon ni chinota.
-# text[spa] = una niña se subió a un árbol y se cayó.
+# text[spa] = Una niña se subió a un árbol y se cayó.
 # tagged = false
 # author = paula
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -24092,7 +24092,7 @@
 # sent_id = ejemplos:1995
 # text = Binu kun yeabean bea iñu.
 # text[orig] = binu kun yeabean bea iñu.
-# text[spa] = esta noche hay muchas estrellas.
+# text[spa] = Esta noche hay muchas estrellas.
 # tagged = false
 # author = paula
 1	Binu	_	_	_	_	_	_	_	_
@@ -24105,7 +24105,7 @@
 # sent_id = ejemplos:1996
 # text = Tumikun gua jichiba.
 # text[orig] = tumikun gua jichiba.
-# text[spa] = este dinero no sirve.
+# text[spa] = Este dinero no sirve.
 # tagged = false
 # author = paula
 1	Tumikun	_	_	_	_	_	_	_	_
@@ -24116,7 +24116,7 @@
 # sent_id = ejemplos:1997
 # text = Uu jidii icha ñeʼë.
 # text[orig] = uu jidii icha ñeʼë.
-# text[spa] = a mi me dio frialdad.
+# text[spa] = A mi me dio frialdad.
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -24128,7 +24128,7 @@
 # sent_id = ejemplos:1998
 # text = Ama iñan koʼoy noʼö ama itcheanu kuete.
 # text[orig] = ama iñan koʼoy noʼö ama itcheanu kuete.
-# text[spa] = una persona le dio un balazo a un venado en el campo.
+# text[spa] = Una persona le dio un balazo a un venado en el campo.
 # tagged = true
 # author = paula
 1	Ama	_	NUM	_	NumType=Card	_	_	_	Trad=uno
@@ -24143,7 +24143,7 @@
 # sent_id = ejemplos:1999
 # text = Uu neʼë cheʼe dutit chi ninee bpkioʼö.
 # text[orig] = uu neʼë cheʼe dutit chi ninee bpkioʼö.
-# text[spa] = yo quiero comer huevo duro.
+# text[spa] = Yo quiero comer huevo duro.
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -24158,7 +24158,7 @@
 # sent_id = ejemplos:2000
 # text = Neʼë ama pañu chi kueaku.
 # text[orig] = neʼë ama pañu chi kueaku.
-# text[spa] = necesito un reboso para taparme.
+# text[spa] = Necesito un reboso para taparme.
 # tagged = false
 # author = paula
 1	Neʼë	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=?-querer-1SG|Trad=quiero
@@ -24171,7 +24171,7 @@
 # sent_id = ejemplos:2001
 # text = U jinutii sin nuku dinuu.
 # text[orig] = u jinutii sin nuku dinuu.
-# text[spa] = yo me pongo sombrero y gorras.
+# text[spa] = Yo me pongo sombrero y gorras.
 # tagged = false
 # author = paula
 1	U	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -24184,7 +24184,7 @@
 # sent_id = ejemplos:2002
 # text = Dudin amtea noʼo ñeʼën.
 # text[orig] = dudin amtea noʼo ñeʼën.
-# text[spa] = mi tia ya no tiene leña.
+# text[spa] = Mi tia ya no tiene leña.
 # tagged = false
 # author = paula
 1	Dudin	_	_	_	_	_	_	_	_
@@ -24196,7 +24196,7 @@
 # sent_id = ejemplos:2003
 # text = Tochi jíina jinú deakea yud tii.
 # text[orig] = tochi jíina jinú deakea yud tii.
-# text[spa] = cuando me baño se me enreda el cabello.
+# text[spa] = Cuando me baño se me enreda el cabello.
 # tagged = false
 # author = paula
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Gloss=cuando|Trad=cuando
@@ -24210,7 +24210,7 @@
 # sent_id = ejemplos:2004
 # text = Uu jijea yudu tii.
 # text[orig] = uu jijea yudu tii.
-# text[spa] = a mi se me cae el cabello.
+# text[spa] = A mi se me cae el cabello.
 # tagged = false
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -24222,7 +24222,7 @@
 # sent_id = ejemplos:2005
 # text = Uu kunuu tii baʼa ñeʼë.
 # text[orig] = uu kunuu tii baʼa ñeʼë.
-# text[spa] = yo voy a colar mi losa.
+# text[spa] = Yo voy a colar mi losa.
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -24235,7 +24235,7 @@
 # sent_id = ejemplos:2006
 # text = Chida nuku chakun jinikuy tinuu.
 # text[orig] = chida nuku chakun jinikuy tinuu.
-# text[spa] = mi papa y mi mama venden ropa.
+# text[spa] = Mi papa y mi mama venden ropa.
 # tagged = false
 # author = paula
 1	Chida	_	NOUN	_	_	_	_	_	Trad=mi.papá
@@ -24248,7 +24248,7 @@
 # sent_id = ejemplos:2007
 # text = Chichee jinikuy tiaka nuku nduu.
 # text[orig] = chichee jinikuy tiaka nuku nduu.
-# text[spa] = mi abuelo vende platano y caña.
+# text[spa] = Mi abuelo vende platano y caña.
 # tagged = false
 # author = paula
 1	Chichee	_	_	_	_	_	_	_	_
@@ -24261,7 +24261,7 @@
 # sent_id = ejemplos:2008
 # text = Iñan jidikanuñ ñoʼo kuete tochi jineñoʼöñ cheanu.
 # text[orig] = iñan jidikanuñ ñoʼo kuete tochi jineñoʼöñ cheanu.
-# text[spa] = la gente provoca incendios cuando rosan los terrenos.
+# text[spa] = La gente provoca incendios cuando rosan los terrenos.
 # tagged = false
 # author = paula
 1	Iñan	_	NOUN	_	_	_	_	_	Trad=gente
@@ -24276,7 +24276,7 @@
 # sent_id = ejemplos:2009
 # text = Chidan kanekumiña ama yúduu danti.
 # text[orig] = chidan kanekumiña ama yúduu danti.
-# text[spa] = mi papa tiene un caballo flojo.
+# text[spa] = Mi papa tiene un caballo flojo.
 # tagged = false
 # author = paula
 1	Chidan	_	NOUN	_	_	_	_	_	Trad=mi.papá
@@ -24289,7 +24289,7 @@
 # sent_id = ejemplos:2010
 # text = Chaku nuku tankaya biʼin cheʼëñ neʼey.
 # text[orig] = chaku nuku tankaya biʼin cheʼëñ neʼey.
-# text[spa] = mi mama y mis hermanas fueron a bailar.
+# text[spa] = Mi mama y mis hermanas fueron a bailar.
 # tagged = false
 # author = paula
 1	Chaku	_	NOUN	_	_	_	_	_	Trad=mi.mamá
@@ -24303,7 +24303,7 @@
 # sent_id = ejemplos:2011
 # text = Uu kaa ama yáda ñeʼë.
 # text[orig] = uu kaa ama yáda ñeʼë.
-# text[spa] = yo me compré un vestido.
+# text[spa] = Yo me compré un vestido.
 # tagged = true
 # author = paula
 1	Uu	uu	PRON	_	Typo=Yes|PronType=Prs	_	_	_	Gloss=1SG|Normal=ú|Trad=yo
@@ -24316,7 +24316,7 @@
 # sent_id = ejemplos:2012
 # text = Yana ñeʼë yeabean jeakut chi jinkakut uu.
 # text[orig] = yana ñeʼë yeabean jeakut chi jinkakut uu.
-# text[spa] = mi perro llora mucho porque me extraña.
+# text[spa] = Mi perro llora mucho porque me extraña.
 # tagged = false
 # author = paula
 1	Yana	_	NOUN	_	_	_	_	_	Trad=perro
@@ -24331,7 +24331,7 @@
 # sent_id = ejemplos:2013
 # text = Tochi jee kubin jinó jeʼee kuente.
 # text[orig] = tochi jee kubin jinó jeʼee kuente.
-# text[spa] = cuando llueve salen hongos en el campo.
+# text[spa] = Cuando llueve salen hongos en el campo.
 # tagged = false
 # author = paula
 1	Tochi	tochi	SCONJ	_	_	_	_	_	Gloss=cuando|Trad=cuando

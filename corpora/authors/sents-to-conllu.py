@@ -43,6 +43,7 @@ for line in sys.stdin.readlines():
 
 	orig_cux = cux
 	cux = clean_sent(cux)
+	spa = clean_sent(spa)
 	tokens = re.sub('([,:?¿!¡;.])', ' \g<1> ', cux).strip().split(' ')
 	tokens_spa = re.sub('([,:?¿!¡;.])', ' \g<1> ', spa).strip().split(' ')
 
